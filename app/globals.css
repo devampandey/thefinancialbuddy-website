@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #1a1a1a;
+  background-color: #ffffff;
+}
+
+.prose-financial p {
+  margin-bottom: 1rem;
+  line-height: 1.7;
+}
+
+.prose-financial h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #1f3864;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
