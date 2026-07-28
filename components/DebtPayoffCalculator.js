@@ -3,11 +3,11 @@
 import { useMemo, useState } from "react";
 
 const currency = (n) =>
-  n.toLocaleString("en-US", { style: "currency", currency: "USD", maximumFractionDigits: 0 });
+  n.toLocaleString("en-IN", { style: "currency", currency: "INR", maximumFractionDigits: 0 });
 
 const defaultDebts = [
-  { id: 1, name: "Credit Card", balance: 4500, apr: 22, minPayment: 120 },
-  { id: 2, name: "Car Loan", balance: 9000, apr: 6, minPayment: 220 },
+  { id: 1, name: "Credit Card", balance: 150000, apr: 36, minPayment: 6000 },
+  { id: 2, name: "Car Loan", balance: 600000, apr: 9, minPayment: 12000 },
 ];
 
 // Simulates payoff month-by-month using either snowball (smallest balance
@@ -60,7 +60,7 @@ function simulate(debts, extra, strategy) {
 
 export default function DebtPayoffCalculator() {
   const [debts, setDebts] = useState(defaultDebts);
-  const [extra, setExtra] = useState(150);
+  const [extra, setExtra] = useState(5000);
 
   const results = useMemo(() => {
     if (debts.length === 0) return null;
@@ -79,7 +79,7 @@ export default function DebtPayoffCalculator() {
   const addDebt = () => {
     setDebts((prev) => [
       ...prev,
-      { id: Date.now(), name: "New Debt", balance: 1000, apr: 15, minPayment: 25 },
+      { id: Date.now(), name: "New Debt", balance: 50000, apr: 15, minPayment: 2000 },
     ]);
   };
 
@@ -105,7 +105,7 @@ export default function DebtPayoffCalculator() {
               />
             </label>
             <label className="block">
-              <span className="text-xs font-medium text-gray-600">Balance ($)</span>
+              <span className="text-xs font-medium text-gray-600">Balance (₹)</span>
               <input
                 type="number"
                 min="0"
@@ -126,7 +126,7 @@ export default function DebtPayoffCalculator() {
               />
             </label>
             <label className="block">
-              <span className="text-xs font-medium text-gray-600">Min payment ($)</span>
+              <span className="text-xs font-medium text-gray-600">Min payment (₹)</span>
               <input
                 type="number"
                 min="0"

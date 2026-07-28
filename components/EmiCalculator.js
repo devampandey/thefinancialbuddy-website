@@ -3,10 +3,10 @@
 import { useMemo, useState } from "react";
 
 const currency = (n) =>
-  n.toLocaleString("en-US", { style: "currency", currency: "USD", maximumFractionDigits: 0 });
+  n.toLocaleString("en-IN", { style: "currency", currency: "INR", maximumFractionDigits: 0 });
 
 export default function EmiCalculator() {
-  const [principal, setPrincipal] = useState(300000);
+  const [principal, setPrincipal] = useState(2500000);
   const [rate, setRate] = useState(8.5);
   const [years, setYears] = useState(20);
 
@@ -51,7 +51,7 @@ export default function EmiCalculator() {
   return (
     <div className="grid gap-8 rounded-2xl border border-gray-200 p-6 sm:grid-cols-2 sm:p-8">
       <div className="space-y-5">
-        <Field label="Loan amount" value={principal} onChange={setPrincipal} step="1000" />
+        <Field label="Loan amount (₹)" value={principal} onChange={setPrincipal} step="10000" />
         <Field label="Annual interest rate (%)" value={rate} onChange={setRate} step="0.1" />
         <Field label="Loan tenure (years)" value={years} onChange={setYears} step="1" />
       </div>
@@ -74,6 +74,13 @@ export default function EmiCalculator() {
         <p className="mt-5 text-xs text-gray-500">
           EMI = fixed monthly payment that fully pays off the loan (principal
           + interest) over the chosen tenure, assuming the rate stays fixed.
+        </p>
+        <p className="mt-3 text-xs text-gray-500">
+          This is an indicative estimate only. Under RBI's digital lending
+          rules, your actual lender must give you a Key Fact Statement
+          showing the real Annual Percentage Rate (APR) and total cost of
+          credit, including all fees, before you accept any loan — always
+          check that against this estimate.
         </p>
       </div>
     </div>

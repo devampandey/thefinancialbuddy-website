@@ -3,13 +3,13 @@
 import { useMemo, useState } from "react";
 
 const currency = (n) =>
-  n.toLocaleString("en-US", { style: "currency", currency: "USD", maximumFractionDigits: 0 });
+  n.toLocaleString("en-IN", { style: "currency", currency: "INR", maximumFractionDigits: 0 });
 
 export default function BudgetCalculator() {
-  const [income, setIncome] = useState(4000);
-  const [needs, setNeeds] = useState(1800);
-  const [wants, setWants] = useState(900);
-  const [savings, setSavings] = useState(400);
+  const [income, setIncome] = useState(80000);
+  const [needs, setNeeds] = useState(36000);
+  const [wants, setWants] = useState(18000);
+  const [savings, setSavings] = useState(16000);
 
   const totals = useMemo(() => {
     const monthlyIncome = Number(income) || 0;
