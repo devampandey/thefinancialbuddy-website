@@ -9,7 +9,7 @@ description: "A practical, no-hype tier list of the AI tools actually worth usin
 
 There's no shortage of "best AI tools" lists, and most of them are really just affiliate link roundups dressed up as advice. This one is simpler: what's actually worth using right now, organized by what you're trying to get done.
 
-## S Tier — general-purpose assistants
+## S Tier - general-purpose assistants
 
 **Claude, ChatGPT, and Gemini** are the tools most people should start with. All three can handle writing, research, brainstorming, and light coding, and the differences between them come down to preference more than capability at this point. Claude tends to handle long documents and large codebases without losing the thread. ChatGPT has the widest plugin/integration ecosystem. Gemini has the tightest integration if you're already living in Google's ecosystem (Docs, Sheets, Gmail).
 
