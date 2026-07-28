@@ -60,3 +60,11 @@ body {
   font-weight: 700;
   color: #1a1a1a;
 }
+
+.prose-financial img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.75rem;
+  border: 1px solid #e5e7eb;
+  margin: 1.5rem 0;
+}

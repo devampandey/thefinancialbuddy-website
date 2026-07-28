@@ -1,0 +1,64 @@
+<svg viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+  <rect width="900" height="560" fill="#ffffff"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="900" height="70" fill="#1F3864"/>
+  <text x="450" y="44" text-anchor="middle" fill="#ffffff" font-size="26" font-weight="bold">Best AI Tools for 2026 — At a Glance</text>
+
+  <!-- Tier row template: label block + chips -->
+  <!-- S Tier -->
+  <rect x="0" y="90" width="110" height="100" fill="#16A34A"/>
+  <text x="55" y="148" text-anchor="middle" fill="#ffffff" font-size="30" font-weight="bold">S</text>
+  <rect x="120" y="90" width="770" height="100" fill="#F0FDF4"/>
+  <g font-size="16" fill="#1a1a1a">
+    <rect x="140" y="118" width="130" height="44" rx="8" fill="#ffffff" stroke="#16A34A" stroke-width="1.5"/>
+    <text x="205" y="145" text-anchor="middle" font-weight="bold">Claude</text>
+    <rect x="285" y="118" width="130" height="44" rx="8" fill="#ffffff" stroke="#16A34A" stroke-width="1.5"/>
+    <text x="350" y="145" text-anchor="middle" font-weight="bold">ChatGPT</text>
+    <rect x="430" y="118" width="130" height="44" rx="8" fill="#ffffff" stroke="#16A34A" stroke-width="1.5"/>
+    <text x="495" y="145" text-anchor="middle" font-weight="bold">Gemini</text>
+  </g>
+  <text x="140" y="182" fill="#4b5563" font-size="13">General-purpose chat &amp; reasoning</text>
+
+  <!-- A Tier -->
+  <rect x="0" y="190" width="110" height="100" fill="#22C55E"/>
+  <text x="55" y="248" text-anchor="middle" fill="#ffffff" font-size="30" font-weight="bold">A</text>
+  <rect x="120" y="190" width="770" height="100" fill="#F9FAFB"/>
+  <g font-size="16" fill="#1a1a1a">
+    <rect x="140" y="218" width="150" height="44" rx="8" fill="#ffffff" stroke="#9CA3AF" stroke-width="1.5"/>
+    <text x="215" y="245" text-anchor="middle" font-weight="bold">GitHub Copilot</text>
+    <rect x="305" y="218" width="130" height="44" rx="8" fill="#ffffff" stroke="#9CA3AF" stroke-width="1.5"/>
+    <text x="370" y="245" text-anchor="middle" font-weight="bold">Cursor</text>
+    <rect x="450" y="218" width="150" height="44" rx="8" fill="#ffffff" stroke="#9CA3AF" stroke-width="1.5"/>
+    <text x="525" y="245" text-anchor="middle" font-weight="bold">Perplexity</text>
+  </g>
+  <text x="140" y="282" fill="#4b5563" font-size="13">Coding assistants &amp; cited research</text>
+
+  <!-- B Tier -->
+  <rect x="0" y="290" width="110" height="100" fill="#FACC15"/>
+  <text x="55" y="348" text-anchor="middle" fill="#1a1a1a" font-size="30" font-weight="bold">B</text>
+  <rect x="120" y="290" width="770" height="100" fill="#FFFBEB"/>
+  <g font-size="16" fill="#1a1a1a">
+    <rect x="140" y="318" width="150" height="44" rx="8" fill="#ffffff" stroke="#D1D5DB" stroke-width="1.5"/>
+    <text x="215" y="345" text-anchor="middle" font-weight="bold">Copilot (Office)</text>
+    <rect x="305" y="318" width="130" height="44" rx="8" fill="#ffffff" stroke="#D1D5DB" stroke-width="1.5"/>
+    <text x="370" y="345" text-anchor="middle" font-weight="bold">Notion AI</text>
+    <rect x="450" y="318" width="150" height="44" rx="8" fill="#ffffff" stroke="#D1D5DB" stroke-width="1.5"/>
+    <text x="525" y="345" text-anchor="middle" font-weight="bold">Zapier AI</text>
+  </g>
+  <text x="140" y="382" fill="#4b5563" font-size="13">Office work, notes, and workflow automation</text>
+
+  <!-- C Tier -->
+  <rect x="0" y="390" width="110" height="100" fill="#FCA5A5"/>
+  <text x="55" y="448" text-anchor="middle" fill="#7f1d1d" font-size="30" font-weight="bold">C</text>
+  <rect x="120" y="390" width="770" height="100" fill="#FEF2F2"/>
+  <g font-size="16" fill="#1a1a1a">
+    <rect x="140" y="418" width="150" height="44" rx="8" fill="#ffffff" stroke="#D1D5DB" stroke-width="1.5"/>
+    <text x="215" y="445" text-anchor="middle" font-weight="bold">Niche one-offs</text>
+    <rect x="305" y="418" width="230" height="44" rx="8" fill="#ffffff" stroke="#D1D5DB" stroke-width="1.5"/>
+    <text x="420" y="445" text-anchor="middle" font-weight="bold">"AI everything" apps</text>
+  </g>
+  <text x="140" y="482" fill="#4b5563" font-size="13">Fine for a specific task, but redundant if you already use S/A tier tools</text>
+
+  <text x="450" y="530" text-anchor="middle" fill="#9CA3AF" font-size="13">Ranked by general usefulness and reliability, not hype. thefinancialbuddy.com</text>
+</svg>
