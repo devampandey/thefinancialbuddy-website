@@ -9,8 +9,8 @@ export const metadata = {
 export default function BudgetCalculatorPage() {
   return (
     <div className="mx-auto max-w-4xl px-6 py-16">
-      <h1 className="text-3xl font-bold text-navy">Budget Calculator</h1>
-      <p className="mt-3 max-w-2xl text-gray-600">
+      <h1 className="text-3xl font-bold text-navy dark:text-white">Budget Calculator</h1>
+      <p className="mt-3 max-w-2xl text-gray-600 dark:text-gray-400">
         This calculator uses the 50/30/20 rule — 50% of income to needs, 30%
         to wants, and 20% to savings and debt payoff — as a benchmark. Enter
         your real numbers below to see how your current budget compares.
@@ -20,7 +20,7 @@ export default function BudgetCalculatorPage() {
         <BudgetCalculator />
       </div>
 
-      <div className="prose-financial mt-12 max-w-2xl text-gray-700">
+      <div className="prose-financial mt-12 max-w-2xl text-gray-700 dark:text-gray-300">
         <h2>How to use this calculator</h2>
         <p>
           Start with your monthly take-home pay (after taxes). Then total up

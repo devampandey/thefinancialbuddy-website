@@ -10,12 +10,12 @@ export default function EmergencyFundGuide() {
   return (
     <article className="mx-auto max-w-3xl px-6 py-16">
       <p className="text-sm font-medium text-brand">Guide</p>
-      <h1 className="mt-2 text-3xl font-bold text-navy">
+      <h1 className="mt-2 text-3xl font-bold text-navy dark:text-white">
         How to Build an Emergency Fund
       </h1>
-      <p className="mt-4 text-sm text-gray-500">Last updated July 2026</p>
+      <p className="mt-4 text-sm text-gray-500 dark:text-gray-400">Last updated July 2026</p>
 
-      <div className="prose-financial mt-8 text-gray-700">
+      <div className="prose-financial mt-8 text-gray-700 dark:text-gray-300">
         <p>
           An emergency fund is money set aside specifically to cover
           unexpected expenses — a job loss, medical bill, or car repair —

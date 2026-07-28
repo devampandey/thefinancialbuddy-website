@@ -11,8 +11,8 @@ export default function NewsPage() {
 
   return (
     <div className="mx-auto max-w-4xl px-6 py-16">
-      <h1 className="text-3xl font-bold text-navy">News</h1>
-      <p className="mt-3 max-w-2xl text-gray-600">
+      <h1 className="text-3xl font-bold text-navy dark:text-white">News</h1>
+      <p className="mt-3 max-w-2xl text-gray-600 dark:text-gray-400">
         Timely coverage and updates, curated and written in-house.
       </p>
       <div className="mt-8">

@@ -6,11 +6,6 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
-  color: #1a1a1a;
-  background-color: #ffffff;
-}
-
 .prose-financial p {
   margin-bottom: 1rem;
   line-height: 1.7;
@@ -30,6 +25,11 @@ body {
   color: #1f3864;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
+}
+
+.dark .prose-financial h2,
+.dark .prose-financial h3 {
+  color: #ffffff;
 }
 
 .prose-financial ul,
@@ -61,10 +61,18 @@ body {
   color: #1a1a1a;
 }
 
+.dark .prose-financial strong {
+  color: #ffffff;
+}
+
 .prose-financial img {
   width: 100%;
   height: auto;
   border-radius: 0.75rem;
   border: 1px solid #e5e7eb;
   margin: 1.5rem 0;
+}
+
+.dark .prose-financial img {
+  border-color: #374151;
 }

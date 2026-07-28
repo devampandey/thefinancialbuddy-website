@@ -8,15 +8,15 @@ const currency = (n) =>
 function Field({ label, value, onChange, hint }) {
   return (
     <label className="block">
-      <span className="text-sm font-medium text-gray-700">{label}</span>
+      <span className="text-sm font-medium text-gray-700 dark:text-gray-300">{label}</span>
       <input
         type="number"
         min="0"
         value={value}
         onChange={(e) => onChange(e.target.value)}
-        className="mt-1 w-full rounded-lg border border-gray-300 px-3 py-2 focus:border-brand focus:outline-none focus:ring-1 focus:ring-brand"
+        className="mt-1 w-full rounded-lg border border-gray-300 bg-white px-3 py-2 text-[#1a1a1a] focus:border-brand focus:outline-none focus:ring-1 focus:ring-brand dark:border-gray-700 dark:bg-gray-800 dark:text-gray-100"
       />
-      {hint && <span className="mt-1 block text-xs text-gray-500">{hint}</span>}
+      {hint && <span className="mt-1 block text-xs text-gray-500 dark:text-gray-400">{hint}</span>}
     </label>
   );
 }
@@ -42,7 +42,7 @@ export default function BudgetCalculator() {
   }, [income, needs, wants, savings]);
 
   return (
-    <div className="grid gap-8 rounded-2xl border border-gray-200 p-6 sm:grid-cols-2 sm:p-8">
+    <div className="grid gap-8 rounded-2xl border border-gray-200 p-6 dark:border-gray-800 sm:grid-cols-2 sm:p-8">
       <div className="space-y-5">
         <Field label="Monthly take-home income" value={income} onChange={setIncome} />
         <Field
@@ -65,19 +65,19 @@ export default function BudgetCalculator() {
         />
       </div>
 
-      <div className="rounded-xl bg-gray-50 p-6">
-        <h3 className="text-lg font-semibold text-navy">Your breakdown</h3>
+      <div className="rounded-xl bg-gray-50 p-6 dark:bg-gray-800">
+        <h3 className="text-lg font-semibold text-navy dark:text-white">Your breakdown</h3>
         <dl className="mt-4 space-y-3 text-sm">
           <div className="flex justify-between">
-            <dt className="text-gray-600">Total income</dt>
-            <dd className="font-medium">{currency(totals.monthlyIncome)}</dd>
+            <dt className="text-gray-600 dark:text-gray-400">Total income</dt>
+            <dd className="font-medium dark:text-gray-100">{currency(totals.monthlyIncome)}</dd>
           </div>
           <div className="flex justify-between">
-            <dt className="text-gray-600">Total allocated</dt>
-            <dd className="font-medium">{currency(totals.spent)}</dd>
+            <dt className="text-gray-600 dark:text-gray-400">Total allocated</dt>
+            <dd className="font-medium dark:text-gray-100">{currency(totals.spent)}</dd>
           </div>
-          <div className="flex justify-between border-t border-gray-200 pt-3">
-            <dt className="font-semibold text-gray-800">
+          <div className="flex justify-between border-t border-gray-200 pt-3 dark:border-gray-700">
+            <dt className="font-semibold text-gray-800 dark:text-gray-200">
               {totals.remaining >= 0 ? "Unallocated" : "Over budget by"}
             </dt>
             <dd
@@ -89,7 +89,7 @@ export default function BudgetCalculator() {
             </dd>
           </div>
         </dl>
-        <p className="mt-5 text-xs text-gray-500">
+        <p className="mt-5 text-xs text-gray-500 dark:text-gray-400">
           The 50/30/20 rule is a starting guideline, not a rule you must hit
           exactly — use it to spot categories that are meaningfully out of
           line with your goals.

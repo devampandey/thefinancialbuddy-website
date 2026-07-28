@@ -14,7 +14,7 @@ function formatNumber(n, decimals = 2) {
 
 function ChangeBadge({ change, changePercent }) {
   if (change == null || changePercent == null) {
-    return <span className="text-xs text-gray-400">—</span>;
+    return <span className="text-xs text-gray-400 dark:text-gray-500">—</span>;
   }
   const up = change >= 0;
   return (
@@ -28,8 +28,8 @@ function ChangeBadge({ change, changePercent }) {
 function Stat({ label, data, prefix, decimals }) {
   return (
     <div className="min-w-[130px] px-4 py-2">
-      <p className="text-xs font-medium text-gray-500">{label}</p>
-      <p className="text-sm font-bold text-navy">
+      <p className="text-xs font-medium text-gray-500 dark:text-gray-400">{label}</p>
+      <p className="text-sm font-bold text-navy dark:text-white">
         {data ? `${prefix || ""}${formatNumber(data.price, decimals ?? 2)}` : "—"}
       </p>
       <ChangeBadge change={data?.change} changePercent={data?.changePercent} />
@@ -71,21 +71,21 @@ export default function MarketTicker() {
   }
 
   return (
-    <div className="border-b border-gray-200 bg-gray-50">
-      <div className="mx-auto flex max-w-6xl flex-wrap items-center divide-x divide-gray-200 px-2">
+    <div className="border-b border-gray-200 bg-gray-50 dark:border-gray-800 dark:bg-gray-900">
+      <div className="mx-auto flex max-w-6xl flex-wrap items-center divide-x divide-gray-200 px-2 dark:divide-gray-800">
         <Stat label="SENSEX" data={data?.sensex} decimals={2} />
         <Stat label="NIFTY 50" data={data?.nifty} decimals={2} />
         <Stat label="S&P 500 (US)" data={data?.sp500} decimals={2} />
         <Stat label="NIKKEI 225 (JP)" data={data?.nikkei} decimals={2} />
         <Stat label="GOLD (Intl., ₹/10g)" data={data?.gold} prefix="₹" decimals={0} />
         <Stat label="USD/INR" data={data?.usdInr} prefix="₹" decimals={2} />
-        <span className="ml-auto px-4 py-2 text-xs text-gray-400">
+        <span className="ml-auto px-4 py-2 text-xs text-gray-400 dark:text-gray-500">
           {data
             ? `Updated ${new Date(data.updatedAt).toLocaleTimeString("en-IN")}`
             : "Loading market data…"}
         </span>
       </div>
-      <p className="mx-auto max-w-6xl px-4 pb-1.5 text-[11px] text-gray-400">
+      <p className="mx-auto max-w-6xl px-4 pb-1.5 text-[11px] text-gray-400 dark:text-gray-500">
         Gold shown is the international spot price converted to INR — it will
         run below actual Indian retail/MCX rates, which include import duty,
         GST, and dealer premiums. Prices may be delayed and are not licensed

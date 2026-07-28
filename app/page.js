@@ -65,8 +65,8 @@ export default function HomePage() {
             const posts = getPostsByCategory(col.key).slice(0, 4);
             return (
               <div key={col.key}>
-                <div className="flex items-center justify-between border-b-2 border-navy pb-2">
-                  <h2 className="text-lg font-bold text-navy">{col.key}</h2>
+                <div className="flex items-center justify-between border-b-2 border-navy pb-2 dark:border-white">
+                  <h2 className="text-lg font-bold text-navy dark:text-white">{col.key}</h2>
                   <Link href={col.href} className="text-xs font-medium text-brand hover:underline">
                     View all
                   </Link>
@@ -85,7 +85,7 @@ export default function HomePage() {
 
       <section className="mx-auto max-w-6xl px-6 py-12">
         <div className="flex items-center justify-between">
-          <h2 className="text-2xl font-bold text-navy">Free tools</h2>
+          <h2 className="text-2xl font-bold text-navy dark:text-white">Free tools</h2>
           <Link href="/tools" className="text-sm font-medium text-brand hover:underline">
             View all
           </Link>
@@ -95,10 +95,10 @@ export default function HomePage() {
             <Link
               key={tool.href}
               href={tool.href}
-              className="rounded-xl border border-gray-200 p-6 transition-shadow hover:shadow-md"
+              className="rounded-xl border border-gray-200 p-6 transition-shadow hover:shadow-md dark:border-gray-800 dark:hover:bg-gray-800/40"
             >
-              <h3 className="text-lg font-semibold text-navy">{tool.title}</h3>
-              <p className="mt-2 text-gray-600">{tool.description}</p>
+              <h3 className="text-lg font-semibold text-navy dark:text-white">{tool.title}</h3>
+              <p className="mt-2 text-gray-600 dark:text-gray-400">{tool.description}</p>
             </Link>
           ))}
         </div>

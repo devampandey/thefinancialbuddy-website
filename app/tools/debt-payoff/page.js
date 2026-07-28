@@ -9,8 +9,8 @@ export const metadata = {
 export default function DebtPayoffPage() {
   return (
     <div className="mx-auto max-w-5xl px-6 py-16">
-      <h1 className="text-3xl font-bold text-navy">Debt Payoff Calculator</h1>
-      <p className="mt-3 max-w-2xl text-gray-600">
+      <h1 className="text-3xl font-bold text-navy dark:text-white">Debt Payoff Calculator</h1>
+      <p className="mt-3 max-w-2xl text-gray-600 dark:text-gray-400">
         List each debt with its balance, interest rate, and minimum payment.
         Add any extra amount you can put toward debt each month to compare
         payoff timelines.
@@ -20,7 +20,7 @@ export default function DebtPayoffPage() {
         <DebtPayoffCalculator />
       </div>
 
-      <div className="prose-financial mt-12 max-w-2xl text-gray-700">
+      <div className="prose-financial mt-12 max-w-2xl text-gray-700 dark:text-gray-300">
         <h2>Snowball vs. avalanche</h2>
         <p>
           The snowball method pays off your smallest balance first regardless

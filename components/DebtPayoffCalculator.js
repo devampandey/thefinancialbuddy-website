@@ -88,51 +88,51 @@ export default function DebtPayoffCalculator() {
   };
 
   return (
-    <div className="rounded-2xl border border-gray-200 p-6 sm:p-8">
+    <div className="rounded-2xl border border-gray-200 p-6 dark:border-gray-800 sm:p-8">
       <div className="space-y-4">
         {debts.map((debt) => (
           <div
             key={debt.id}
-            className="grid grid-cols-2 gap-3 rounded-xl bg-gray-50 p-4 sm:grid-cols-5 sm:items-end"
+            className="grid grid-cols-2 gap-3 rounded-xl bg-gray-50 p-4 dark:bg-gray-800 sm:grid-cols-5 sm:items-end"
           >
             <label className="col-span-2 block sm:col-span-1">
-              <span className="text-xs font-medium text-gray-600">Name</span>
+              <span className="text-xs font-medium text-gray-600 dark:text-gray-400">Name</span>
               <input
                 type="text"
                 value={debt.name}
                 onChange={(e) => updateDebt(debt.id, "name", e.target.value)}
-                className="mt-1 w-full rounded-lg border border-gray-300 px-2 py-1.5 text-sm"
+                className="mt-1 w-full rounded-lg border border-gray-300 bg-white px-2 py-1.5 text-sm text-[#1a1a1a] dark:border-gray-700 dark:bg-gray-900 dark:text-gray-100"
               />
             </label>
             <label className="block">
-              <span className="text-xs font-medium text-gray-600">Balance (₹)</span>
+              <span className="text-xs font-medium text-gray-600 dark:text-gray-400">Balance (₹)</span>
               <input
                 type="number"
                 min="0"
                 value={debt.balance}
                 onChange={(e) => updateDebt(debt.id, "balance", Number(e.target.value))}
-                className="mt-1 w-full rounded-lg border border-gray-300 px-2 py-1.5 text-sm"
+                className="mt-1 w-full rounded-lg border border-gray-300 bg-white px-2 py-1.5 text-sm text-[#1a1a1a] dark:border-gray-700 dark:bg-gray-900 dark:text-gray-100"
               />
             </label>
             <label className="block">
-              <span className="text-xs font-medium text-gray-600">APR (%)</span>
+              <span className="text-xs font-medium text-gray-600 dark:text-gray-400">APR (%)</span>
               <input
                 type="number"
                 min="0"
                 step="0.1"
                 value={debt.apr}
                 onChange={(e) => updateDebt(debt.id, "apr", Number(e.target.value))}
-                className="mt-1 w-full rounded-lg border border-gray-300 px-2 py-1.5 text-sm"
+                className="mt-1 w-full rounded-lg border border-gray-300 bg-white px-2 py-1.5 text-sm text-[#1a1a1a] dark:border-gray-700 dark:bg-gray-900 dark:text-gray-100"
               />
             </label>
             <label className="block">
-              <span className="text-xs font-medium text-gray-600">Min payment (₹)</span>
+              <span className="text-xs font-medium text-gray-600 dark:text-gray-400">Min payment (₹)</span>
               <input
                 type="number"
                 min="0"
                 value={debt.minPayment}
                 onChange={(e) => updateDebt(debt.id, "minPayment", Number(e.target.value))}
-                className="mt-1 w-full rounded-lg border border-gray-300 px-2 py-1.5 text-sm"
+                className="mt-1 w-full rounded-lg border border-gray-300 bg-white px-2 py-1.5 text-sm text-[#1a1a1a] dark:border-gray-700 dark:bg-gray-900 dark:text-gray-100"
               />
             </label>
             <button
@@ -153,7 +153,7 @@ export default function DebtPayoffCalculator() {
 
       <div className="mt-6 max-w-xs">
         <label className="block">
-          <span className="text-sm font-medium text-gray-700">
+          <span className="text-sm font-medium text-gray-700 dark:text-gray-300">
             Extra monthly payment (beyond minimums)
           </span>
           <input
@@ -161,47 +161,47 @@ export default function DebtPayoffCalculator() {
             min="0"
             value={extra}
             onChange={(e) => setExtra(e.target.value)}
-            className="mt-1 w-full rounded-lg border border-gray-300 px-3 py-2 focus:border-brand focus:outline-none focus:ring-1 focus:ring-brand"
+            className="mt-1 w-full rounded-lg border border-gray-300 bg-white px-3 py-2 text-[#1a1a1a] focus:border-brand focus:outline-none focus:ring-1 focus:ring-brand dark:border-gray-700 dark:bg-gray-800 dark:text-gray-100"
           />
         </label>
       </div>
 
       {results && (
         <div className="mt-8 grid gap-4 sm:grid-cols-3">
-          <div className="rounded-xl bg-gray-50 p-5">
-            <p className="text-xs font-medium uppercase text-gray-500">Minimums only</p>
-            <p className="mt-2 text-2xl font-bold text-navy">
+          <div className="rounded-xl bg-gray-50 p-5 dark:bg-gray-800">
+            <p className="text-xs font-medium uppercase text-gray-500 dark:text-gray-400">Minimums only</p>
+            <p className="mt-2 text-2xl font-bold text-navy dark:text-white">
               {results.noExtra.months} mo
             </p>
-            <p className="mt-1 text-xs text-gray-500">
+            <p className="mt-1 text-xs text-gray-500 dark:text-gray-400">
               {currency(results.noExtra.totalInterest)} total interest
             </p>
           </div>
-          <div className="rounded-xl bg-gray-50 p-5">
-            <p className="text-xs font-medium uppercase text-gray-500">
+          <div className="rounded-xl bg-gray-50 p-5 dark:bg-gray-800">
+            <p className="text-xs font-medium uppercase text-gray-500 dark:text-gray-400">
               Snowball (smallest first)
             </p>
             <p className="mt-2 text-2xl font-bold text-brand">
               {results.snowball.months} mo
             </p>
-            <p className="mt-1 text-xs text-gray-500">
+            <p className="mt-1 text-xs text-gray-500 dark:text-gray-400">
               {currency(results.snowball.totalInterest)} total interest
             </p>
           </div>
-          <div className="rounded-xl bg-gray-50 p-5">
-            <p className="text-xs font-medium uppercase text-gray-500">
+          <div className="rounded-xl bg-gray-50 p-5 dark:bg-gray-800">
+            <p className="text-xs font-medium uppercase text-gray-500 dark:text-gray-400">
               Avalanche (highest APR first)
             </p>
             <p className="mt-2 text-2xl font-bold text-brand">
               {results.avalanche.months} mo
             </p>
-            <p className="mt-1 text-xs text-gray-500">
+            <p className="mt-1 text-xs text-gray-500 dark:text-gray-400">
               {currency(results.avalanche.totalInterest)} total interest
             </p>
           </div>
         </div>
       )}
-      <p className="mt-5 text-xs text-gray-500">
+      <p className="mt-5 text-xs text-gray-500 dark:text-gray-400">
         Snowball pays off the smallest balance first for quick psychological
         wins; avalanche targets the highest interest rate first to minimize
         total interest paid. Avalanche is usually cheaper; snowball is often

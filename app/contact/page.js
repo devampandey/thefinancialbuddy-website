@@ -6,8 +6,8 @@ export const metadata = {
 export default function ContactPage() {
   return (
     <div className="mx-auto max-w-3xl px-6 py-16">
-      <h1 className="text-3xl font-bold text-navy">Contact</h1>
-      <p className="mt-6 text-gray-700">
+      <h1 className="text-3xl font-bold text-navy dark:text-white">Contact</h1>
+      <p className="mt-6 text-gray-700 dark:text-gray-300">
         Questions, corrections, or partnership inquiries — reach out any time.
       </p>
       <a

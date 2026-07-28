@@ -6,8 +6,8 @@ export const metadata = {
 export default function AboutPage() {
   return (
     <div className="mx-auto max-w-3xl px-6 py-16">
-      <h1 className="text-3xl font-bold text-navy">About The Financial Buddy</h1>
-      <div className="prose-financial mt-6 text-gray-700">
+      <h1 className="text-3xl font-bold text-navy dark:text-white">About The Financial Buddy</h1>
+      <div className="prose-financial mt-6 text-gray-700 dark:text-gray-300">
         <p>
           The Financial Buddy exists to make everyday money decisions easier —
           budgeting, paying off debt, and building savings — without jargon or

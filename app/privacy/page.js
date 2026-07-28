@@ -6,9 +6,9 @@ export const metadata = {
 export default function PrivacyPage() {
   return (
     <div className="mx-auto max-w-3xl px-6 py-16">
-      <h1 className="text-3xl font-bold text-navy">Privacy &amp; Disclosures</h1>
+      <h1 className="text-3xl font-bold text-navy dark:text-white">Privacy &amp; Disclosures</h1>
 
-      <div className="prose-financial mt-6 text-gray-700">
+      <div className="prose-financial mt-6 text-gray-700 dark:text-gray-300">
         <h2>Affiliate Disclosure</h2>
         <p>
           Some links on The Financial Buddy are affiliate links. If you click
