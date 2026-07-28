@@ -7,7 +7,19 @@ export default function Footer() {
       <div className="mx-auto max-w-6xl px-6 py-10 text-sm text-gray-600">
         <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
           <p>© {year} The Financial Buddy. All rights reserved.</p>
-          <div className="flex gap-6">
+          <div className="flex flex-wrap gap-x-6 gap-y-2">
+            <Link href="/tools" className="hover:text-brand">
+              Tools
+            </Link>
+            <Link href="/guides" className="hover:text-brand">
+              Guides
+            </Link>
+            <Link href="/blog" className="hover:text-brand">
+              All Articles
+            </Link>
+            <Link href="/about" className="hover:text-brand">
+              About
+            </Link>
             <Link href="/privacy" className="hover:text-brand">
               Privacy &amp; Disclosures
             </Link>

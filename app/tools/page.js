@@ -16,6 +16,11 @@ const tools = [
     title: "Debt Payoff Calculator",
     description: "Add your debts and see how long payoff takes with extra payments.",
   },
+  {
+    href: "/tools/emi-calculator",
+    title: "EMI Calculator",
+    description: "Calculate your monthly loan payment, total payment, and total interest.",
+  },
 ];
 
 export default function ToolsPage() {

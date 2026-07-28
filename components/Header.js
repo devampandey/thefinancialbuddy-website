@@ -2,11 +2,10 @@ import Link from "next/link";
 
 const links = [
   { href: "/", label: "Home" },
+  { href: "/news", label: "News" },
+  { href: "/politics", label: "Politics" },
+  { href: "/ai", label: "AI" },
   { href: "/tools", label: "Tools" },
-  { href: "/guides", label: "Guides" },
-  { href: "/blog", label: "Blog" },
-  { href: "/about", label: "About" },
-  { href: "/contact", label: "Contact" },
 ];
 
 export default function Header() {
