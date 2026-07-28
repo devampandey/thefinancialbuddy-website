@@ -22,9 +22,7 @@ export default function Header() {
           className="flex items-center gap-2.5"
           onClick={() => setOpen(false)}
         >
-          <span className="flex h-9 w-9 items-center justify-center rounded-md bg-brand text-sm font-bold text-white">
-            FB
-          </span>
+          <img src="/logo-icon.svg" alt="" width={36} height={36} className="h-9 w-9" />
           <span
             className="text-2xl font-bold tracking-tight text-navy"
             style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}
