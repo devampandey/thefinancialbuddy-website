@@ -5,6 +5,22 @@ import { useMemo, useState } from "react";
 const currency = (n) =>
   n.toLocaleString("en-IN", { style: "currency", currency: "INR", maximumFractionDigits: 0 });
 
+function Field({ label, value, onChange, hint }) {
+  return (
+    <label className="block">
+      <span className="text-sm font-medium text-gray-700">{label}</span>
+      <input
+        type="number"
+        min="0"
+        value={value}
+        onChange={(e) => onChange(e.target.value)}
+        className="mt-1 w-full rounded-lg border border-gray-300 px-3 py-2 focus:border-brand focus:outline-none focus:ring-1 focus:ring-brand"
+      />
+      {hint && <span className="mt-1 block text-xs text-gray-500">{hint}</span>}
+    </label>
+  );
+}
+
 export default function BudgetCalculator() {
   const [income, setIncome] = useState(80000);
   const [needs, setNeeds] = useState(36000);
@@ -24,20 +40,6 @@ export default function BudgetCalculator() {
 
     return { monthlyIncome, spent, remaining, target };
   }, [income, needs, wants, savings]);
-
-  const Field = ({ label, value, onChange, hint }) => (
-    <label className="block">
-      <span className="text-sm font-medium text-gray-700">{label}</span>
-      <input
-        type="number"
-        min="0"
-        value={value}
-        onChange={(e) => onChange(e.target.value)}
-        className="mt-1 w-full rounded-lg border border-gray-300 px-3 py-2 focus:border-brand focus:outline-none focus:ring-1 focus:ring-brand"
-      />
-      {hint && <span className="mt-1 block text-xs text-gray-500">{hint}</span>}
-    </label>
-  );
 
   return (
     <div className="grid gap-8 rounded-2xl border border-gray-200 p-6 sm:grid-cols-2 sm:p-8">

@@ -5,6 +5,22 @@ import { useMemo, useState } from "react";
 const currency = (n) =>
   n.toLocaleString("en-IN", { style: "currency", currency: "INR", maximumFractionDigits: 0 });
 
+function Field({ label, value, onChange, step }) {
+  return (
+    <label className="block">
+      <span className="text-sm font-medium text-gray-700">{label}</span>
+      <input
+        type="number"
+        min="0"
+        step={step || "1"}
+        value={value}
+        onChange={(e) => onChange(e.target.value)}
+        className="mt-1 w-full rounded-lg border border-gray-300 px-3 py-2 focus:border-brand focus:outline-none focus:ring-1 focus:ring-brand"
+      />
+    </label>
+  );
+}
+
 export default function EmiCalculator() {
   const [principal, setPrincipal] = useState(2500000);
   const [rate, setRate] = useState(8.5);
@@ -33,20 +49,6 @@ export default function EmiCalculator() {
 
     return { emi, totalPayment, totalInterest };
   }, [principal, rate, years]);
-
-  const Field = ({ label, value, onChange, step }) => (
-    <label className="block">
-      <span className="text-sm font-medium text-gray-700">{label}</span>
-      <input
-        type="number"
-        min="0"
-        step={step || "1"}
-        value={value}
-        onChange={(e) => onChange(e.target.value)}
-        className="mt-1 w-full rounded-lg border border-gray-300 px-3 py-2 focus:border-brand focus:outline-none focus:ring-1 focus:ring-brand"
-      />
-    </label>
-  );
 
   return (
     <div className="grid gap-8 rounded-2xl border border-gray-200 p-6 sm:grid-cols-2 sm:p-8">
