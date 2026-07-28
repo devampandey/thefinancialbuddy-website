@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getPostsByCategory } from "@/lib/blog";
 import HeadlineList from "@/components/HeadlineList";
+import MarketTicker from "@/components/MarketTicker";
 
 const tools = [
   {
@@ -29,6 +30,7 @@ const columns = [
 export default function HomePage() {
   return (
     <div>
+      <MarketTicker />
       <section className="bg-navy text-white">
         <div className="mx-auto max-w-6xl px-6 py-14">
           <h1 className="max-w-2xl text-3xl font-bold leading-tight sm:text-4xl">
