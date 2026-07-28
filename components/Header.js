@@ -19,10 +19,18 @@ export default function Header() {
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
         <Link
           href="/"
-          className="text-xl font-bold text-navy"
+          className="flex items-center gap-2.5"
           onClick={() => setOpen(false)}
         >
-          The Financial Buddy
+          <span className="flex h-9 w-9 items-center justify-center rounded-md bg-brand text-sm font-bold text-white">
+            FB
+          </span>
+          <span
+            className="text-2xl font-bold tracking-tight text-navy"
+            style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}
+          >
+            The Financial Buddy
+          </span>
         </Link>
 
         {/* Desktop nav */}
