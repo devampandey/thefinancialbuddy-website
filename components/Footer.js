@@ -26,6 +26,9 @@ export default function Footer() {
             <Link href="/contact" className="hover:text-brand">
               Contact
             </Link>
+            <Link href="/feed.xml" className="hover:text-brand">
+              RSS
+            </Link>
           </div>
         </div>
         <p className="mt-4 max-w-3xl text-xs text-gray-400">

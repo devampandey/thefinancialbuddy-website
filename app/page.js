@@ -2,6 +2,7 @@ import Link from "next/link";
 import { getPostsByCategory } from "@/lib/blog";
 import HeadlineList from "@/components/HeadlineList";
 import MarketTicker from "@/components/MarketTicker";
+import Subscribe from "@/components/Subscribe";
 
 const tools = [
   {
@@ -102,6 +103,8 @@ export default function HomePage() {
           ))}
         </div>
       </section>
+
+      <Subscribe />
     </div>
   );
 }

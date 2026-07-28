@@ -75,6 +75,8 @@ export default function MarketTicker() {
       <div className="mx-auto flex max-w-6xl flex-wrap items-center divide-x divide-gray-200 px-2">
         <Stat label="SENSEX" data={data?.sensex} decimals={2} />
         <Stat label="NIFTY 50" data={data?.nifty} decimals={2} />
+        <Stat label="S&P 500 (US)" data={data?.sp500} decimals={2} />
+        <Stat label="NIKKEI 225 (JP)" data={data?.nikkei} decimals={2} />
         <Stat label="GOLD (Intl., ₹/10g)" data={data?.gold} prefix="₹" decimals={0} />
         <Stat label="USD/INR" data={data?.usdInr} prefix="₹" decimals={2} />
         <span className="ml-auto px-4 py-2 text-xs text-gray-400">
