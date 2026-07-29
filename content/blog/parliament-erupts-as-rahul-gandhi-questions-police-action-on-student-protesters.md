@@ -1,7 +1,7 @@
 ---
 title: "Parliament Erupts as Rahul Gandhi Questions Police Action on Student Protesters"
 date: "2026-07-29"
-category: "News"
+category: "Politics"
 author: "Anonymous"
 ---
 
