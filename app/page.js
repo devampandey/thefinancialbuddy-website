@@ -65,12 +65,9 @@ export default function HomePage() {
 
       {featured && (
         <section className="mx-auto max-w-6xl px-6 py-10">
-          <div className="grid gap-8 lg:grid-cols-3">
-            <Link
-              href={`/blog/${featured.slug}`}
-              className="group lg:col-span-2"
-            >
-              {featured.image && (
+          <div className="grid items-start gap-8 lg:grid-cols-3">
+            <Link href={`/blog/${featured.slug}`} className="group lg:col-span-2">
+              {featured.image ? (
                 <div className="overflow-hidden rounded-xl border border-gray-200 dark:border-gray-800">
                   <img
                     src={featured.image}
@@ -78,22 +75,34 @@ export default function HomePage() {
                     className="aspect-[16/9] w-full object-cover transition-transform duration-300 group-hover:scale-[1.02]"
                   />
                 </div>
-              )}
-              <div className="mt-4 flex items-center gap-3 text-xs font-medium text-gray-500 dark:text-gray-400">
-                <span className="rounded-full bg-gray-100 px-2.5 py-1 text-brand dark:bg-gray-800">
+              ) : (
+                <span className="inline-block rounded-full bg-gray-100 px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-brand dark:bg-gray-800">
                   {featured.category}
                 </span>
+              )}
+              <div className="mt-4 flex items-center gap-3 text-xs font-medium text-gray-500 dark:text-gray-400">
+                {featured.image && (
+                  <span className="rounded-full bg-gray-100 px-2.5 py-1 text-brand dark:bg-gray-800">
+                    {featured.category}
+                  </span>
+                )}
                 <span>{formatDate(featured.date)}</span>
                 {featured.author && <span>By {featured.author}</span>}
               </div>
-              <h1 className="mt-2 text-2xl font-bold leading-tight text-navy group-hover:underline dark:text-white sm:text-3xl">
+              <h1 className="mt-2 text-3xl font-bold leading-tight tracking-tight text-navy group-hover:underline dark:text-white sm:text-4xl">
                 {featured.title}
               </h1>
               {featured.description && (
-                <p className="mt-2 max-w-2xl text-gray-600 dark:text-gray-400">
+                <p className="mt-3 max-w-2xl text-lg text-gray-600 dark:text-gray-400">
                   {featured.description}
                 </p>
               )}
+              <span className="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand">
+                Continue reading
+                <span aria-hidden className="transition-transform group-hover:translate-x-0.5">
+                  →
+                </span>
+              </span>
             </Link>
 
             <div>
