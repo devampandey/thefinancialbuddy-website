@@ -13,6 +13,16 @@ export const metadata = {
     "Free budgeting, debt payoff, and savings calculators paired with plain-English guides to help you take control of your money.",
 };
 
+// Locks the mobile viewport to the device width so the site renders at its
+// intended mobile layout instead of the browser's default zoomed-out desktop
+// width, and prevents pinch-zoom from scaling the page out further.
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
+};
+
 const themeInitScript = `
 (function() {
   try {
