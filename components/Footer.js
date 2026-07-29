@@ -4,7 +4,7 @@ export default function Footer() {
   const year = new Date().getFullYear();
   return (
     <footer className="mt-20 border-t border-gray-200 bg-gray-50 dark:border-gray-800 dark:bg-gray-900">
-      <div className="mx-auto max-w-6xl px-6 py-10 text-sm text-gray-600 dark:text-gray-400">
+      <div className="mx-auto max-w-6xl px-4 py-10 text-sm text-gray-600 dark:text-gray-400 sm:px-6">
         <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
           <p>© {year} The Financial Buddy. All rights reserved.</p>
           <div className="flex flex-wrap gap-x-6 gap-y-2">

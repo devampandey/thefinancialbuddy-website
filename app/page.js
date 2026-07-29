@@ -42,39 +42,37 @@ export default function HomePage() {
   return (
     <div>
       {featured && (
-        <section className="mx-auto max-w-6xl px-6 py-10">
+        <section className="mx-auto max-w-6xl px-4 py-6 sm:px-6 sm:py-10">
           <Link href={`/blog/${featured.slug}`} className="group block">
             {featured.image ? (
-              <div className="overflow-hidden rounded-xl border border-gray-200 dark:border-gray-800">
+              <div className="relative overflow-hidden rounded-xl border border-gray-200 dark:border-gray-800">
                 <img
                   src={featured.image}
                   alt=""
-                  className="aspect-[21/9] w-full object-cover transition-transform duration-300 group-hover:scale-[1.02]"
+                  className="aspect-[4/3] w-full object-cover transition-transform duration-300 group-hover:scale-[1.02] sm:aspect-[21/9]"
                 />
+                <span className="absolute bottom-3 left-3 rounded-full bg-brand px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-white">
+                  {featured.category}
+                </span>
               </div>
             ) : (
               <span className="inline-block rounded-full bg-gray-100 px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-brand dark:bg-gray-800">
                 {featured.category}
               </span>
             )}
-            <div className="mt-4 flex items-center gap-3 text-xs font-medium text-gray-500 dark:text-gray-400">
-              {featured.image && (
-                <span className="rounded-full bg-gray-100 px-2.5 py-1 text-brand dark:bg-gray-800">
-                  {featured.category}
-                </span>
-              )}
+            <div className="mt-3 flex items-center gap-3 text-xs font-medium text-gray-500 dark:text-gray-400 sm:mt-4">
               <span>{formatDate(featured.date)}</span>
               {featured.author && <span>By {featured.author}</span>}
             </div>
-            <h1 className="mt-2 max-w-3xl text-3xl font-bold leading-tight tracking-tight text-navy group-hover:underline dark:text-white sm:text-4xl">
+            <h1 className="mt-2 max-w-3xl text-2xl font-bold leading-tight tracking-tight text-navy group-hover:underline dark:text-white sm:text-3xl md:text-4xl">
               {featured.title}
             </h1>
             {featured.description && (
-              <p className="mt-3 max-w-2xl text-lg text-gray-600 dark:text-gray-400">
+              <p className="mt-2 max-w-2xl text-base text-gray-600 dark:text-gray-400 sm:mt-3 sm:text-lg">
                 {featured.description}
               </p>
             )}
-            <span className="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand">
+            <span className="mt-3 inline-flex items-center gap-1 text-sm font-semibold text-brand sm:mt-4">
               Continue reading
               <span aria-hidden className="transition-transform group-hover:translate-x-0.5">
                 →
@@ -83,14 +81,14 @@ export default function HomePage() {
           </Link>
 
           {latest.length > 0 && (
-            <div className="mt-10 border-t border-gray-200 pt-6 dark:border-gray-800">
+            <div className="mt-8 border-t border-gray-200 pt-6 dark:border-gray-800 sm:mt-10">
               <div className="flex items-center justify-between">
                 <h2 className="text-lg font-bold text-navy dark:text-white">Latest</h2>
                 <Link href="/blog" className="text-xs font-medium text-brand hover:underline">
                   View all
                 </Link>
               </div>
-              <div className="mt-4 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+              <div className="mt-4 grid grid-cols-2 gap-4 sm:gap-6 lg:grid-cols-4">
                 {latest.map((post) => (
                   <Link key={post.slug} href={`/blog/${post.slug}`} className="group">
                     {post.image && (
@@ -116,8 +114,8 @@ export default function HomePage() {
         </section>
       )}
 
-      <section className="mx-auto max-w-6xl px-6 py-12">
-        <div className="grid items-start gap-10 sm:grid-cols-3">
+      <section className="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-12">
+        <div className="grid items-start gap-8 sm:grid-cols-3 sm:gap-10">
           {columns.map((col) => {
             const posts = getPostsByCategory(col.key).slice(0, 4);
             return (
@@ -140,7 +138,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="mx-auto max-w-6xl px-6 py-12">
+      <section className="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-12">
         <div className="flex items-center justify-between">
           <h2 className="text-2xl font-bold text-navy dark:text-white">Free tools</h2>
           <Link href="/tools" className="text-sm font-medium text-brand hover:underline">

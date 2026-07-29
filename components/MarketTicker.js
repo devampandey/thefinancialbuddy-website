@@ -16,7 +16,7 @@ function TickerItem({ label, data, prefix, decimals }) {
   const hasChange = data?.change != null && data?.changePercent != null;
   const up = hasChange && data.change >= 0;
   return (
-    <span className="flex items-center gap-2 whitespace-nowrap px-5 py-2 text-xs">
+    <span className="flex items-center gap-1.5 whitespace-nowrap px-3 py-1.5 text-[11px] sm:gap-2 sm:px-5 sm:py-2 sm:text-xs">
       <span className="font-semibold text-gray-300">{label}</span>
       <span className="font-bold text-white">
         {data ? `${prefix || ""}${formatNumber(data.price, decimals ?? 2)}` : "—"}
