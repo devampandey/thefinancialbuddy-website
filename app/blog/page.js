@@ -62,6 +62,7 @@ export default function BlogIndexPage({ searchParams }) {
                 {post.category}
               </span>
               <span>{formatDate(post.date)}</span>
+              {post.author && <span>By {post.author}</span>}
             </div>
             <h2 className="mt-3 text-lg font-semibold text-navy dark:text-white">{post.title}</h2>
             <p className="mt-2 text-gray-600 dark:text-gray-400">{post.description}</p>

@@ -36,6 +36,7 @@ export default function BlogPostPage({ params }) {
           {post.category}
         </span>
         <span>{formatDate(post.date)}</span>
+        {post.author && <span>By {post.author}</span>}
       </div>
       <h1 className="mt-3 text-3xl font-bold text-navy dark:text-white">{post.title}</h1>
 

@@ -45,11 +45,13 @@ async function getUsdInr() {
 }
 
 export async function GET() {
-  const [sensex, nifty, sp500, nikkei, goldUsdOz, usdInr] = await Promise.all([
+  const [sensex, nifty, sp500, nikkei, ftse, hangSeng, goldUsdOz, usdInr] = await Promise.all([
     getYahooQuote("^BSESN"),
     getYahooQuote("^NSEI"),
     getYahooQuote("^GSPC"),
     getYahooQuote("^N225"),
+    getYahooQuote("^FTSE"),
+    getYahooQuote("^HSI"),
     getYahooQuote("GC=F"),
     getUsdInr(),
   ]);
@@ -77,6 +79,8 @@ export async function GET() {
     nifty,
     sp500,
     nikkei,
+    ftse,
+    hangSeng,
     gold: goldInr10g,
     usdInr,
   });

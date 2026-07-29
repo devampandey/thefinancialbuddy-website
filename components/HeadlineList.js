@@ -37,7 +37,10 @@ export default function HeadlineList({ posts, showCategory = false, emptyMessage
           {post.description && (
             <p className="mt-0.5 truncate text-sm text-gray-500 dark:text-gray-400">{post.description}</p>
           )}
-          <span className="mt-1 block text-xs text-gray-400 dark:text-gray-500">{formatDate(post.date)}</span>
+          <span className="mt-1 block text-xs text-gray-400 dark:text-gray-500">
+            {formatDate(post.date)}
+            {post.author ? ` · By ${post.author}` : ""}
+          </span>
         </Link>
       ))}
     </div>

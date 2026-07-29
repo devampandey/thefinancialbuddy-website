@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import ThemeToggle from "@/components/ThemeToggle";
+import CategoryPills from "@/components/CategoryPills";
 
 const links = [
   { href: "/", label: "Home" },
@@ -16,6 +17,7 @@ export default function Header() {
   const [open, setOpen] = useState(false);
 
   return (
+    <>
     <header className="border-b border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
         <Link
@@ -85,5 +87,7 @@ export default function Header() {
         </nav>
       )}
     </header>
+    <CategoryPills />
+    </>
   );
 }
