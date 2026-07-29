@@ -29,12 +29,20 @@ export default async function AdminDashboard() {
           + Write new article
         </Link>
         {session?.role === "admin" && (
-          <Link
-            href="/admin/review"
-            className="rounded-lg border border-gray-300 px-5 py-2.5 text-sm font-semibold text-navy transition-colors hover:bg-gray-100 dark:border-gray-700 dark:text-white dark:hover:bg-gray-800"
-          >
-            Review queue ({allDrafts.length} pending)
-          </Link>
+          <>
+            <Link
+              href="/admin/review"
+              className="rounded-lg border border-gray-300 px-5 py-2.5 text-sm font-semibold text-navy transition-colors hover:bg-gray-100 dark:border-gray-700 dark:text-white dark:hover:bg-gray-800"
+            >
+              Review queue ({allDrafts.length} pending)
+            </Link>
+            <Link
+              href="/admin/posts"
+              className="rounded-lg border border-gray-300 px-5 py-2.5 text-sm font-semibold text-navy transition-colors hover:bg-gray-100 dark:border-gray-700 dark:text-white dark:hover:bg-gray-800"
+            >
+              Manage articles
+            </Link>
+          </>
         )}
       </div>
 

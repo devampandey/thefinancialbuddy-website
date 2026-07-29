@@ -24,7 +24,10 @@ export async function middleware(request) {
   }
 
   const adminOnly =
-    pathname.startsWith("/admin/review") || pathname.startsWith("/api/admin/publish");
+    pathname.startsWith("/admin/review") ||
+    pathname.startsWith("/api/admin/publish") ||
+    pathname.startsWith("/admin/posts") ||
+    pathname.startsWith("/api/admin/posts");
 
   if (adminOnly && session.role !== "admin") {
     if (isApi) {
