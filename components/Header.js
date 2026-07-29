@@ -3,8 +3,7 @@ import ThemeToggle from "@/components/ThemeToggle";
 import CategoryNav from "@/components/CategoryNav";
 import CategoryPills from "@/components/CategoryPills";
 
-// TODO: replace with the real X/Twitter profile URL once confirmed.
-const X_URL = "https://x.com/thefinancialbuddy";
+const X_URL = "https://x.com/financialbudd";
 
 export default function Header() {
   return (
