@@ -65,63 +65,81 @@ export default function HomePage() {
 
       {featured && (
         <section className="mx-auto max-w-6xl px-6 py-10">
-          <div className="grid items-start gap-8 lg:grid-cols-3">
-            <Link href={`/blog/${featured.slug}`} className="group lg:col-span-2">
-              {featured.image ? (
-                <div className="overflow-hidden rounded-xl border border-gray-200 dark:border-gray-800">
-                  <img
-                    src={featured.image}
-                    alt=""
-                    className="aspect-[16/9] w-full object-cover transition-transform duration-300 group-hover:scale-[1.02]"
-                  />
-                </div>
-              ) : (
-                <span className="inline-block rounded-full bg-gray-100 px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-brand dark:bg-gray-800">
+          <Link href={`/blog/${featured.slug}`} className="group block">
+            {featured.image ? (
+              <div className="overflow-hidden rounded-xl border border-gray-200 dark:border-gray-800">
+                <img
+                  src={featured.image}
+                  alt=""
+                  className="aspect-[21/9] w-full object-cover transition-transform duration-300 group-hover:scale-[1.02]"
+                />
+              </div>
+            ) : (
+              <span className="inline-block rounded-full bg-gray-100 px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-brand dark:bg-gray-800">
+                {featured.category}
+              </span>
+            )}
+            <div className="mt-4 flex items-center gap-3 text-xs font-medium text-gray-500 dark:text-gray-400">
+              {featured.image && (
+                <span className="rounded-full bg-gray-100 px-2.5 py-1 text-brand dark:bg-gray-800">
                   {featured.category}
                 </span>
               )}
-              <div className="mt-4 flex items-center gap-3 text-xs font-medium text-gray-500 dark:text-gray-400">
-                {featured.image && (
-                  <span className="rounded-full bg-gray-100 px-2.5 py-1 text-brand dark:bg-gray-800">
-                    {featured.category}
-                  </span>
-                )}
-                <span>{formatDate(featured.date)}</span>
-                {featured.author && <span>By {featured.author}</span>}
-              </div>
-              <h1 className="mt-2 text-3xl font-bold leading-tight tracking-tight text-navy group-hover:underline dark:text-white sm:text-4xl">
-                {featured.title}
-              </h1>
-              {featured.description && (
-                <p className="mt-3 max-w-2xl text-lg text-gray-600 dark:text-gray-400">
-                  {featured.description}
-                </p>
-              )}
-              <span className="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand">
-                Continue reading
-                <span aria-hidden className="transition-transform group-hover:translate-x-0.5">
-                  →
-                </span>
+              <span>{formatDate(featured.date)}</span>
+              {featured.author && <span>By {featured.author}</span>}
+            </div>
+            <h1 className="mt-2 max-w-3xl text-3xl font-bold leading-tight tracking-tight text-navy group-hover:underline dark:text-white sm:text-4xl">
+              {featured.title}
+            </h1>
+            {featured.description && (
+              <p className="mt-3 max-w-2xl text-lg text-gray-600 dark:text-gray-400">
+                {featured.description}
+              </p>
+            )}
+            <span className="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand">
+              Continue reading
+              <span aria-hidden className="transition-transform group-hover:translate-x-0.5">
+                →
               </span>
-            </Link>
+            </span>
+          </Link>
 
-            <div>
-              <div className="flex items-center justify-between border-b-2 border-navy pb-2 dark:border-white">
+          {latest.length > 0 && (
+            <div className="mt-10 border-t border-gray-200 pt-6 dark:border-gray-800">
+              <div className="flex items-center justify-between">
                 <h2 className="text-lg font-bold text-navy dark:text-white">Latest</h2>
                 <Link href="/blog" className="text-xs font-medium text-brand hover:underline">
                   View all
                 </Link>
               </div>
-              <div className="mt-1">
-                <HeadlineList posts={latest} showCategory emptyMessage="More stories coming soon." />
+              <div className="mt-4 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+                {latest.map((post) => (
+                  <Link key={post.slug} href={`/blog/${post.slug}`} className="group">
+                    {post.image && (
+                      <div className="overflow-hidden rounded-lg border border-gray-200 dark:border-gray-800">
+                        <img
+                          src={post.image}
+                          alt=""
+                          className="aspect-[16/9] w-full object-cover transition-transform duration-300 group-hover:scale-[1.02]"
+                        />
+                      </div>
+                    )}
+                    <span className="mt-2 block text-xs font-medium text-brand">
+                      {post.category}
+                    </span>
+                    <h3 className="mt-1 text-sm font-semibold leading-snug text-navy group-hover:underline dark:text-white">
+                      {post.title}
+                    </h3>
+                  </Link>
+                ))}
               </div>
             </div>
-          </div>
+          )}
         </section>
       )}
 
       <section className="mx-auto max-w-6xl px-6 py-12">
-        <div className="grid gap-10 sm:grid-cols-3">
+        <div className="grid items-start gap-10 sm:grid-cols-3">
           {columns.map((col) => {
             const posts = getPostsByCategory(col.key).slice(0, 4);
             return (
