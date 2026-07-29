@@ -29,6 +29,9 @@ export default function Footer() {
             <Link href="/feed.xml" className="hover:text-brand">
               RSS
             </Link>
+            <Link href="/admin/login" className="hover:text-brand">
+              Staff sign in
+            </Link>
           </div>
         </div>
         <p className="mt-4 max-w-3xl text-xs text-gray-400 dark:text-gray-500">

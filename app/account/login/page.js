@@ -7,9 +7,9 @@ import { useRouter, useSearchParams } from "next/navigation";
 function LoginForm() {
   const router = useRouter();
   const searchParams = useSearchParams();
-  const next = searchParams.get("next") || "/admin";
+  const next = searchParams.get("next") || "/account";
 
-  const [username, setUsername] = useState("");
+  const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const [submitting, setSubmitting] = useState(false);
@@ -19,10 +19,10 @@ function LoginForm() {
     setSubmitting(true);
     setError("");
     try {
-      const res = await fetch("/api/admin/login", {
+      const res = await fetch("/api/reader/login", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ username, password }),
+        body: JSON.stringify({ email, password }),
       });
       const data = await res.json();
       if (!res.ok) throw new Error(data.error || "Login failed.");
@@ -36,20 +36,20 @@ function LoginForm() {
 
   return (
     <div className="mx-auto flex min-h-[70vh] max-w-sm flex-col justify-center px-6 py-16">
-      <h1 className="text-2xl font-bold text-navy dark:text-white">Staff sign in</h1>
+      <h1 className="text-2xl font-bold text-navy dark:text-white">Sign in</h1>
       <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">
-        For The Financial Buddy writers and editors.
+        Access your saved articles and comments.
       </p>
 
       <form onSubmit={handleSubmit} className="mt-8 space-y-4">
         <label className="block">
-          <span className="text-sm font-medium text-gray-700 dark:text-gray-300">Username</span>
+          <span className="text-sm font-medium text-gray-700 dark:text-gray-300">Email</span>
           <input
-            type="text"
+            type="email"
             required
             autoFocus
-            value={username}
-            onChange={(e) => setUsername(e.target.value)}
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
             className="mt-1 w-full rounded-lg border border-gray-300 bg-white px-3 py-2 text-[#1a1a1a] focus:border-brand focus:outline-none focus:ring-1 focus:ring-brand dark:border-gray-700 dark:bg-gray-800 dark:text-gray-100"
           />
         </label>
@@ -76,8 +76,8 @@ function LoginForm() {
       </form>
 
       <p className="mt-6 text-sm text-gray-600 dark:text-gray-400">
-        New writer?{" "}
-        <Link href="/admin/signup" className="font-medium text-brand hover:underline">
+        New here?{" "}
+        <Link href="/account/signup" className="font-medium text-brand hover:underline">
           Create an account
         </Link>
       </p>
@@ -85,7 +85,7 @@ function LoginForm() {
   );
 }
 
-export default function LoginPage() {
+export default function ReaderLoginPage() {
   return (
     <Suspense fallback={null}>
       <LoginForm />

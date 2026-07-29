@@ -1,5 +1,7 @@
 import { notFound } from "next/navigation";
 import { getAllPosts, getPostBySlug } from "@/lib/blog";
+import BookmarkButton from "@/components/reader/BookmarkButton";
+import CommentsSection from "@/components/reader/CommentsSection";
 
 export function generateStaticParams() {
   return getAllPosts().map((post) => ({ slug: post.slug }));
@@ -40,10 +42,16 @@ export default function BlogPostPage({ params }) {
       </div>
       <h1 className="mt-3 text-3xl font-bold text-navy dark:text-white">{post.title}</h1>
 
+      <div className="mt-4">
+        <BookmarkButton slug={post.slug} title={post.title} />
+      </div>
+
       <div
         className="prose-financial mt-8 text-gray-700 dark:text-gray-300"
         dangerouslySetInnerHTML={{ __html: post.html }}
       />
+
+      <CommentsSection slug={post.slug} />
     </article>
   );
 }

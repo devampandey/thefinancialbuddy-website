@@ -5,6 +5,7 @@ import {
   SESSION_COOKIE,
   SESSION_MAX_AGE_SECONDS,
 } from "@/lib/auth";
+import { verifyFileUser } from "@/lib/users";
 
 export async function POST(request) {
   let body;
@@ -15,25 +16,29 @@ export async function POST(request) {
   }
 
   const { username, password } = body || {};
-  const account = checkCredentials(username, password);
-  if (!account) {
-    return NextResponse.json({ error: "Incorrect username or password." }, { status: 401 });
-  }
 
-  let token;
   try {
-    token = await createSessionToken(account);
+    // Env-configured accounts (admin + up to 4 fixed writer slots) first,
+    // then fall back to self-service accounts created via /admin/signup.
+    let account = checkCredentials(username, password);
+    if (!account) {
+      account = await verifyFileUser(username, password);
+    }
+    if (!account) {
+      return NextResponse.json({ error: "Incorrect username or password." }, { status: 401 });
+    }
+
+    const token = await createSessionToken(account);
+    const res = NextResponse.json({ role: account.role, name: account.name });
+    res.cookies.set(SESSION_COOKIE, token, {
+      httpOnly: true,
+      secure: process.env.NODE_ENV === "production",
+      sameSite: "lax",
+      path: "/",
+      maxAge: SESSION_MAX_AGE_SECONDS,
+    });
+    return res;
   } catch (err) {
     return NextResponse.json({ error: err.message }, { status: 500 });
   }
-
-  const res = NextResponse.json({ role: account.role, name: account.name });
-  res.cookies.set(SESSION_COOKIE, token, {
-    httpOnly: true,
-    secure: process.env.NODE_ENV === "production",
-    sameSite: "lax",
-    path: "/",
-    maxAge: SESSION_MAX_AGE_SECONDS,
-  });
-  return res;
 }
