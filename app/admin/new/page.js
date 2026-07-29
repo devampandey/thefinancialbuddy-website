@@ -29,6 +29,12 @@ export default function NewArticlePage() {
   const [done, setDone] = useState(false);
   const [uploading, setUploading] = useState(false);
   const [uploadError, setUploadError] = useState("");
+  // A local object-URL preview of the chosen file. The uploaded image is
+  // committed to the repo immediately, but it isn't actually servable from
+  // the live site until the next deploy finishes — so the real /uploads/...
+  // URL would show as broken for a minute or two. Previewing the file the
+  // browser already has avoids that confusing flash of a "broken" image.
+  const [previewSrc, setPreviewSrc] = useState("");
   const contentRef = useRef(null);
 
   async function handleFileChange(e) {
@@ -41,6 +47,9 @@ export default function NewArticlePage() {
       setUploadError("That image is too large — please use a file under 4MB.");
       return;
     }
+
+    if (previewSrc) URL.revokeObjectURL(previewSrc);
+    setPreviewSrc(URL.createObjectURL(file));
 
     setUploading(true);
     try {
@@ -61,9 +70,16 @@ export default function NewArticlePage() {
       setImageUrl(data.url);
     } catch (err) {
       setUploadError(err.message);
+      setPreviewSrc("");
     } finally {
       setUploading(false);
     }
+  }
+
+  function removeImage() {
+    if (previewSrc) URL.revokeObjectURL(previewSrc);
+    setPreviewSrc("");
+    setImageUrl("");
   }
 
   function applyFormat(type) {
@@ -210,16 +226,16 @@ export default function NewArticlePage() {
               />
             </label>
 
-            {imageUrl && (
+            {(previewSrc || imageUrl) && (
               <>
                 <img
-                  src={imageUrl}
+                  src={previewSrc || imageUrl}
                   alt=""
                   className="h-14 w-24 rounded-md border border-gray-200 object-cover dark:border-gray-700"
                 />
                 <button
                   type="button"
-                  onClick={() => setImageUrl("")}
+                  onClick={removeImage}
                   className="text-xs font-medium text-red-600 hover:underline dark:text-red-400"
                 >
                   Remove
@@ -231,6 +247,12 @@ export default function NewArticlePage() {
           {uploadError && (
             <p className="mt-1 text-xs text-red-600 dark:text-red-400">{uploadError}</p>
           )}
+          {previewSrc && !uploading && (
+            <p className="mt-1 text-xs text-gray-400">
+              Uploaded — this preview is from your computer and will show correctly on the live
+              site once it deploys.
+            </p>
+          )}
 
           <details className="mt-2">
             <summary className="cursor-pointer text-xs text-gray-400 hover:text-gray-600 dark:hover:text-gray-300">
@@ -239,7 +261,11 @@ export default function NewArticlePage() {
             <input
               type="url"
               value={imageUrl}
-              onChange={(e) => setImageUrl(e.target.value)}
+              onChange={(e) => {
+                if (previewSrc) URL.revokeObjectURL(previewSrc);
+                setPreviewSrc("");
+                setImageUrl(e.target.value);
+              }}
               placeholder="https://... (must be a direct link to the image itself)"
               className="mt-2 w-full rounded-lg border border-gray-300 bg-white px-3 py-2 text-[#1a1a1a] focus:border-brand focus:outline-none focus:ring-1 focus:ring-brand dark:border-gray-700 dark:bg-gray-800 dark:text-gray-100"
             />
