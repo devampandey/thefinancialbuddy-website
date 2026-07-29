@@ -33,11 +33,28 @@ const themeInitScript = `
 })();
 `;
 
+// iOS Safari ignores maximum-scale/user-scalable in the viewport meta tag,
+// so pinch and double-tap zoom are blocked here directly at the gesture
+// level as a second line of defense.
+const noZoomScript = `
+(function() {
+  document.addEventListener('gesturestart', function (e) { e.preventDefault(); });
+  document.addEventListener('gesturechange', function (e) { e.preventDefault(); });
+  var lastTouchEnd = 0;
+  document.addEventListener('touchend', function (e) {
+    var now = Date.now();
+    if (now - lastTouchEnd <= 300) e.preventDefault();
+    lastTouchEnd = now;
+  }, { passive: false });
+})();
+`;
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
+        <script dangerouslySetInnerHTML={{ __html: noZoomScript }} />
       </head>
       <body className="flex min-h-screen flex-col bg-white text-[#1a1a1a] dark:bg-gray-900 dark:text-gray-100">
         <MarketTicker />
