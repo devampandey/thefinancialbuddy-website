@@ -26,41 +26,42 @@ export async function POST(request) {
   }
 
   const draftPath = `${DRAFTS_DIR}/${slug}.md`;
-  const draft = await getFile(draftPath);
-  if (!draft) {
-    return NextResponse.json({ error: "Draft not found." }, { status: 404 });
-  }
-
-  const existingPublished = await getFile(`${POSTS_DIR}/${slug}.md`);
-  if (existingPublished) {
-    return NextResponse.json(
-      { error: "A published post already exists at this URL. Rename the draft first." },
-      { status: 409 }
-    );
-  }
-
-  const { data, content } = parseFrontmatter(draft.content);
-  const published = stringifyFrontmatter(
-    {
-      title: data.title,
-      date: new Date().toISOString().slice(0, 10),
-      category: data.category,
-      description: data.description,
-      author: data.author,
-    },
-    content
-  );
 
   try {
+    const draft = await getFile(draftPath);
+    if (!draft) {
+      return NextResponse.json({ error: "Draft not found." }, { status: 404 });
+    }
+
+    const existingPublished = await getFile(`${POSTS_DIR}/${slug}.md`);
+    if (existingPublished) {
+      return NextResponse.json(
+        { error: "A published post already exists at this URL. Rename the draft first." },
+        { status: 409 }
+      );
+    }
+
+    const { data, content } = parseFrontmatter(draft.content);
+    const published = stringifyFrontmatter(
+      {
+        title: data.title,
+        date: new Date().toISOString().slice(0, 10),
+        category: data.category,
+        description: data.description,
+        author: data.author,
+      },
+      content
+    );
+
     await putFile(
       `${POSTS_DIR}/${slug}.md`,
       published,
       `Publish: ${data.title} (by ${data.author})`
     );
     await deleteFile(draftPath, `Remove published draft: ${data.title}`, draft.sha);
+
+    return NextResponse.json({ ok: true, slug });
   } catch (err) {
     return NextResponse.json({ error: err.message }, { status: 500 });
   }
-
-  return NextResponse.json({ ok: true, slug });
 }

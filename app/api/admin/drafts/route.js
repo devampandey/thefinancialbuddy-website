@@ -51,35 +51,34 @@ export async function POST(request) {
     );
   }
 
-  let slug = baseSlug;
-  let n = 2;
-  // eslint-disable-next-line no-await-in-loop
-  while ((await getFile(`${DRAFTS_DIR}/${slug}.md`)) || (await getFile(`${POSTS_DIR}/${slug}.md`))) {
-    slug = `${baseSlug}-${n}`;
-    n += 1;
-  }
-
-  let body_ = content.trim();
-  if (imageUrl && imageUrl.trim()) {
-    body_ = `![${title.trim()}](${imageUrl.trim()})\n\n${body_}`;
-  }
-
-  const markdown = stringifyFrontmatter(
-    {
-      title: title.trim(),
-      category: (category || "General").trim(),
-      description: (description || "").trim(),
-      author: session.name,
-      submittedAt: new Date().toISOString().slice(0, 10),
-    },
-    body_
-  );
-
   try {
+    let slug = baseSlug;
+    let n = 2;
+    // eslint-disable-next-line no-await-in-loop
+    while ((await getFile(`${DRAFTS_DIR}/${slug}.md`)) || (await getFile(`${POSTS_DIR}/${slug}.md`))) {
+      slug = `${baseSlug}-${n}`;
+      n += 1;
+    }
+
+    let body_ = content.trim();
+    if (imageUrl && imageUrl.trim()) {
+      body_ = `![${title.trim()}](${imageUrl.trim()})\n\n${body_}`;
+    }
+
+    const markdown = stringifyFrontmatter(
+      {
+        title: title.trim(),
+        category: (category || "General").trim(),
+        description: (description || "").trim(),
+        author: session.name,
+        submittedAt: new Date().toISOString().slice(0, 10),
+      },
+      body_
+    );
+
     await putFile(`${DRAFTS_DIR}/${slug}.md`, markdown, `Draft: ${title.trim()} (by ${session.name})`);
+    return NextResponse.json({ slug });
   } catch (err) {
     return NextResponse.json({ error: err.message }, { status: 500 });
   }
-
-  return NextResponse.json({ slug });
 }
