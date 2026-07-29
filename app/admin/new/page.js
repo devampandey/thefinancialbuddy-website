@@ -27,7 +27,44 @@ export default function NewArticlePage() {
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState("");
   const [done, setDone] = useState(false);
+  const [uploading, setUploading] = useState(false);
+  const [uploadError, setUploadError] = useState("");
   const contentRef = useRef(null);
+
+  async function handleFileChange(e) {
+    const file = e.target.files?.[0];
+    e.target.value = ""; // allow re-selecting the same file later
+    if (!file) return;
+
+    setUploadError("");
+    if (file.size > 4 * 1024 * 1024) {
+      setUploadError("That image is too large — please use a file under 4MB.");
+      return;
+    }
+
+    setUploading(true);
+    try {
+      const dataUrl = await new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onload = () => resolve(reader.result);
+        reader.onerror = () => reject(new Error("Couldn't read that file."));
+        reader.readAsDataURL(file);
+      });
+
+      const res = await fetch("/api/admin/upload", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ filename: file.name, dataUrl }),
+      });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error || "Upload failed.");
+      setImageUrl(data.url);
+    } catch (err) {
+      setUploadError(err.message);
+    } finally {
+      setUploading(false);
+    }
+  }
 
   function applyFormat(type) {
     const el = contentRef.current;
@@ -156,18 +193,58 @@ export default function NewArticlePage() {
           />
         </label>
 
-        <label className="block">
+        <div className="block">
           <span className="text-sm font-medium text-gray-700 dark:text-gray-300">
-            Cover image URL <span className="font-normal text-gray-400">(optional)</span>
+            Cover image <span className="font-normal text-gray-400">(optional)</span>
           </span>
-          <input
-            type="url"
-            value={imageUrl}
-            onChange={(e) => setImageUrl(e.target.value)}
-            placeholder="https://..."
-            className="mt-1 w-full rounded-lg border border-gray-300 bg-white px-3 py-2 text-[#1a1a1a] focus:border-brand focus:outline-none focus:ring-1 focus:ring-brand dark:border-gray-700 dark:bg-gray-800 dark:text-gray-100"
-          />
-        </label>
+
+          <div className="mt-1 flex flex-wrap items-center gap-3">
+            <label className="cursor-pointer rounded-lg border border-gray-300 px-4 py-2 text-sm font-medium text-gray-700 transition-colors hover:bg-gray-100 dark:border-gray-700 dark:text-gray-200 dark:hover:bg-gray-800">
+              {uploading ? "Uploading…" : "Choose photo…"}
+              <input
+                type="file"
+                accept="image/jpeg,image/png,image/webp,image/gif"
+                onChange={handleFileChange}
+                disabled={uploading}
+                className="hidden"
+              />
+            </label>
+
+            {imageUrl && (
+              <>
+                <img
+                  src={imageUrl}
+                  alt=""
+                  className="h-14 w-24 rounded-md border border-gray-200 object-cover dark:border-gray-700"
+                />
+                <button
+                  type="button"
+                  onClick={() => setImageUrl("")}
+                  className="text-xs font-medium text-red-600 hover:underline dark:text-red-400"
+                >
+                  Remove
+                </button>
+              </>
+            )}
+          </div>
+
+          {uploadError && (
+            <p className="mt-1 text-xs text-red-600 dark:text-red-400">{uploadError}</p>
+          )}
+
+          <details className="mt-2">
+            <summary className="cursor-pointer text-xs text-gray-400 hover:text-gray-600 dark:hover:text-gray-300">
+              Or paste an image URL instead
+            </summary>
+            <input
+              type="url"
+              value={imageUrl}
+              onChange={(e) => setImageUrl(e.target.value)}
+              placeholder="https://... (must be a direct link to the image itself)"
+              className="mt-2 w-full rounded-lg border border-gray-300 bg-white px-3 py-2 text-[#1a1a1a] focus:border-brand focus:outline-none focus:ring-1 focus:ring-brand dark:border-gray-700 dark:bg-gray-800 dark:text-gray-100"
+            />
+          </details>
+        </div>
 
         <label className="block">
           <span className="text-sm font-medium text-gray-700 dark:text-gray-300">
