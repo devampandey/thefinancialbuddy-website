@@ -1,9 +1,21 @@
 "use client";
 
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 
 const CATEGORIES = ["News", "Politics", "AI", "Finance"];
+
+// Each button wraps the current selection in Markdown syntax (or inserts a
+// placeholder if nothing is selected) rather than requiring writers to type
+// the symbols themselves.
+const TOOLBAR_BUTTONS = [
+  { key: "bold", label: "B", title: "Bold", className: "font-bold" },
+  { key: "italic", label: "I", title: "Italic", className: "italic" },
+  { key: "h2", label: "H2", title: "Large heading", className: "font-semibold" },
+  { key: "h3", label: "H3", title: "Smaller heading", className: "font-semibold" },
+  { key: "bullet", label: "• List", title: "Bullet list", className: "" },
+  { key: "link", label: "Link", title: "Link", className: "" },
+];
 
 export default function NewArticlePage() {
   const router = useRouter();
@@ -15,6 +27,64 @@ export default function NewArticlePage() {
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState("");
   const [done, setDone] = useState(false);
+  const contentRef = useRef(null);
+
+  function applyFormat(type) {
+    const el = contentRef.current;
+    if (!el) return;
+    const start = el.selectionStart;
+    const end = el.selectionEnd;
+    const selected = content.slice(start, end);
+
+    let before = "";
+    let after = "";
+    let placeholder = "";
+
+    switch (type) {
+      case "bold":
+        before = "**";
+        after = "**";
+        placeholder = "bold text";
+        break;
+      case "italic":
+        before = "_";
+        after = "_";
+        placeholder = "italic text";
+        break;
+      case "h2":
+        before = "\n## ";
+        placeholder = "Section heading";
+        break;
+      case "h3":
+        before = "\n### ";
+        placeholder = "Subheading";
+        break;
+      case "bullet":
+        before = "\n- ";
+        placeholder = "List item";
+        break;
+      case "link":
+        before = "[";
+        after = "](https://)";
+        placeholder = "link text";
+        break;
+      default:
+        return;
+    }
+
+    const text = selected || placeholder;
+    const newValue = content.slice(0, start) + before + text + after + content.slice(end);
+    setContent(newValue);
+
+    // Re-select the inserted text so writers can immediately type over the
+    // placeholder, same as most rich-text toolbars behave.
+    requestAnimationFrame(() => {
+      el.focus();
+      const selStart = start + before.length;
+      const selEnd = selStart + text.length;
+      el.setSelectionRange(selStart, selEnd);
+    });
+  }
 
   async function handleSubmit(e) {
     e.preventDefault();
@@ -103,13 +173,33 @@ export default function NewArticlePage() {
           <span className="text-sm font-medium text-gray-700 dark:text-gray-300">
             Article content
           </span>
+          <p className="mt-1 text-xs text-gray-400">
+            Select some text and click a button below to format it (or start typing and select
+            after). There&apos;s no free font-size picker — use the H2/H3 heading buttons for
+            section titles, which keeps sizing consistent across the site.
+          </p>
+
+          <div className="mt-2 flex flex-wrap gap-1 rounded-t-lg border border-b-0 border-gray-300 bg-gray-50 p-1.5 dark:border-gray-700 dark:bg-gray-800">
+            {TOOLBAR_BUTTONS.map((btn) => (
+              <button
+                key={btn.key}
+                type="button"
+                onClick={() => applyFormat(btn.key)}
+                title={btn.title}
+                className={`rounded px-2.5 py-1 text-sm text-gray-700 hover:bg-gray-200 dark:text-gray-200 dark:hover:bg-gray-700 ${btn.className}`}
+              >
+                {btn.label}
+              </button>
+            ))}
+          </div>
           <textarea
+            ref={contentRef}
             required
             rows={16}
             value={content}
             onChange={(e) => setContent(e.target.value)}
-            placeholder="Write in Markdown. Use ## for section headings, blank lines between paragraphs, **bold**, and - for bullet lists."
-            className="mt-1 w-full rounded-lg border border-gray-300 bg-white px-3 py-2 font-mono text-sm text-[#1a1a1a] focus:border-brand focus:outline-none focus:ring-1 focus:ring-brand dark:border-gray-700 dark:bg-gray-800 dark:text-gray-100"
+            placeholder="Write your article here. Use the toolbar above to format text, or type paragraphs with a blank line between them."
+            className="w-full rounded-b-lg border border-gray-300 bg-white px-3 py-2 font-mono text-sm text-[#1a1a1a] focus:border-brand focus:outline-none focus:ring-1 focus:ring-brand dark:border-gray-700 dark:bg-gray-800 dark:text-gray-100"
           />
         </label>
 
