@@ -5,7 +5,7 @@ category: "News"
 author: "Anonymous"
 ---
 
-![India Could Be Missing Out on $174 Billion Due to Investment Barriers](https://www.econlib.org/library/Enc/Investment.html)
+![Uploading image.png…]()
 
 India could unlock an additional $174 billion in economic gains by easing foreign investment restrictions and reducing market distortions, according to a new report released by the Global Trade Research Initiative (GTRI). The report argues that while India remains one of the world's fastest-growing major economies, restrictive investment policies continue to discourage global capital and limit long-term growth.
 
