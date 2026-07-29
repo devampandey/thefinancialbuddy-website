@@ -248,7 +248,7 @@ export default function ArticleEditorForm({
             Or paste an image URL instead
           </summary>
           <input
-            type="url"
+            type="text"
             value={imageUrl}
             onChange={(e) => {
               if (previewSrc) URL.revokeObjectURL(previewSrc);
