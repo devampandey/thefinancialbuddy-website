@@ -41,28 +41,6 @@ export default function HomePage() {
 
   return (
     <div>
-      <section className="bg-navy text-white">
-        <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-4 px-6 py-5">
-          <p className="text-sm font-medium text-gray-200 sm:text-base">
-            Money guidance you can actually use — no jargon, no sales pitch.
-          </p>
-          <div className="flex shrink-0 gap-3">
-            <Link
-              href="/tools"
-              className="rounded-lg bg-brand px-4 py-2 text-sm font-semibold text-white transition-colors hover:bg-brand-light"
-            >
-              Explore Tools
-            </Link>
-            <Link
-              href="/news"
-              className="rounded-lg border border-white/40 px-4 py-2 text-sm font-semibold text-white transition-colors hover:bg-white/10"
-            >
-              Latest News
-            </Link>
-          </div>
-        </div>
-      </section>
-
       {featured && (
         <section className="mx-auto max-w-6xl px-6 py-10">
           <Link href={`/blog/${featured.slug}`} className="group block">

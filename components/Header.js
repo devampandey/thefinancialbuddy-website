@@ -1,93 +1,57 @@
-"use client";
-
-import { useState } from "react";
 import Link from "next/link";
 import ThemeToggle from "@/components/ThemeToggle";
+import CategoryNav from "@/components/CategoryNav";
 import CategoryPills from "@/components/CategoryPills";
 
-const links = [
-  { href: "/", label: "Home" },
-  { href: "/news", label: "News" },
-  { href: "/politics", label: "Politics" },
-  { href: "/ai", label: "AI" },
-  { href: "/tools", label: "Tools" },
-];
+// TODO: replace with the real X/Twitter profile URL once confirmed.
+const X_URL = "https://x.com/thefinancialbuddy";
 
 export default function Header() {
-  const [open, setOpen] = useState(false);
-
   return (
     <>
-    <header className="border-b border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
-      <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
-        <Link
-          href="/"
-          className="flex items-center gap-2.5"
-          onClick={() => setOpen(false)}
-        >
-          <img src="/logo-icon.svg" alt="" width={36} height={36} className="h-9 w-9" />
-          <span
-            className="text-2xl font-bold tracking-tight text-navy dark:text-white"
-            style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}
-          >
-            The Financial Buddy
-          </span>
-        </Link>
-
-        <div className="flex items-center gap-4">
-          {/* Desktop nav */}
-          <nav className="hidden gap-6 text-sm font-medium text-gray-700 dark:text-gray-300 sm:flex">
-            {links.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                className="transition-colors hover:text-brand"
-              >
-                {link.label}
-              </Link>
-            ))}
-          </nav>
-
-          <ThemeToggle />
-
-          {/* Mobile menu toggle */}
-          <button
-            type="button"
-            onClick={() => setOpen((v) => !v)}
-            aria-label={open ? "Close menu" : "Open menu"}
-            aria-expanded={open}
-            className="flex h-9 w-9 items-center justify-center rounded-lg border border-gray-300 text-navy dark:border-gray-700 dark:text-gray-200 sm:hidden"
-          >
-            {open ? (
-              <svg viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="2">
-                <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
-              </svg>
-            ) : (
-              <svg viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="2">
-                <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5M3.75 17.25h16.5" />
-              </svg>
-            )}
-          </button>
-        </div>
-      </div>
-
-      {/* Mobile nav panel */}
-      {open && (
-        <nav className="flex flex-col border-t border-gray-200 bg-white px-6 py-3 text-sm font-medium text-gray-700 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-300 sm:hidden">
-          {links.map((link) => (
-            <Link
-              key={link.href}
-              href={link.href}
-              onClick={() => setOpen(false)}
-              className="border-b border-gray-100 py-3 last:border-b-0 hover:text-brand dark:border-gray-800"
+      <header className="border-b border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
+        <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
+          <Link href="/" className="flex items-center gap-2.5">
+            <img src="/logo-icon.svg" alt="" width={36} height={36} className="h-9 w-9" />
+            <span
+              className="text-2xl font-bold tracking-tight text-navy dark:text-white"
+              style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}
             >
-              {link.label}
+              The Financial Buddy
+            </span>
+          </Link>
+
+          <div className="flex items-center gap-3">
+            <a
+              href={X_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Follow us on X"
+              className="flex h-9 w-9 items-center justify-center rounded-lg border border-gray-300 text-navy transition-colors hover:bg-gray-100 dark:border-gray-700 dark:text-gray-200 dark:hover:bg-gray-800"
+            >
+              <svg viewBox="0 0 24 24" className="h-4 w-4" fill="currentColor">
+                <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
+              </svg>
+            </a>
+
+            <ThemeToggle />
+
+            <Link
+              href="/admin/login"
+              aria-label="Staff sign in"
+              className="flex h-9 w-9 items-center justify-center rounded-lg border border-gray-300 text-navy transition-colors hover:bg-gray-100 dark:border-gray-700 dark:text-gray-200 dark:hover:bg-gray-800"
+            >
+              <svg viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="2">
+                <circle cx="12" cy="8" r="4" />
+                <path strokeLinecap="round" d="M4 20c0-4 4-6 8-6s8 2 8 6" />
+              </svg>
             </Link>
-          ))}
-        </nav>
-      )}
-    </header>
-    <CategoryPills />
+          </div>
+        </div>
+      </header>
+
+      <CategoryNav />
+      <CategoryPills />
     </>
   );
 }
