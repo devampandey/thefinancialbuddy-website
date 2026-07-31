@@ -1,4 +1,7 @@
 import RateCard from "@/components/RateCard";
+import SilverBreakdown from "@/components/SilverBreakdown";
+import CityRatesTable from "@/components/CityRatesTable";
+import RateHistoryTable from "@/components/RateHistoryTable";
 
 export const metadata = {
   title: "Silver Rate Today",
@@ -15,6 +18,21 @@ export default function SilverRatePage() {
 
       <div className="mt-8">
         <RateCard dataKey="silver" unit="per kg" />
+      </div>
+
+      <h2 className="mt-10 text-lg font-bold text-navy dark:text-white">By weight</h2>
+      <div className="mt-3">
+        <SilverBreakdown />
+      </div>
+
+      <h2 className="mt-10 text-lg font-bold text-navy dark:text-white">By city (per kg)</h2>
+      <div className="mt-3">
+        <CityRatesTable dataKey="silver" unit="kg" />
+      </div>
+
+      <h2 className="mt-10 text-lg font-bold text-navy dark:text-white">Last 7 days</h2>
+      <div className="mt-3">
+        <RateHistoryTable metal="silver" unit="kg" />
       </div>
 
       <p className="mt-6 text-xs text-gray-400">
