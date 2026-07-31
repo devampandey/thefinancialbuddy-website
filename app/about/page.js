@@ -6,8 +6,11 @@ export const metadata = {
 export default function AboutPage() {
   return (
     <div className="mx-auto max-w-3xl px-6 py-16">
-      <h1 className="text-3xl font-bold text-navy dark:text-white">About The Financial Buddy</h1>
-      <div className="prose-financial mt-6 text-gray-700 dark:text-gray-300">
+      <h1 className="text-3xl font-bold leading-tight tracking-tight text-navy dark:text-white sm:text-4xl">
+        About The Financial Buddy — Practical Money News, Explained Simply
+      </h1>
+
+      <div className="prose-financial mt-8 rounded-xl border border-gray-200 p-6 text-gray-700 dark:border-gray-800 dark:text-gray-300 sm:p-8">
         <p>
           The Financial Buddy is an independent news and information website
           that helps people understand the stories and numbers shaping
@@ -35,11 +38,23 @@ export default function AboutPage() {
           extra cost to you. This helps support our work, but it never
           influences what we write or how we review a topic.
         </p>
-        <p>
-          If you have a question, found an error, or want to share a story
-          idea, we&apos;d love to hear from you. Just head to our{" "}
-          <a href="/contact">Contact page</a> and send us a message.
+      </div>
+
+      <div className="mt-6 rounded-xl border border-gray-200 p-6 dark:border-gray-800 sm:p-8">
+        <p className="text-gray-700 dark:text-gray-300">
+          If you have a question, found an error, or want to share a story idea, we&apos;d love
+          to hear from you. You can reach the newsroom by emailing
         </p>
+        <a
+          href="mailto:info@thefinancialbuddy.com"
+          className="mt-3 inline-flex items-center gap-2 text-lg font-semibold text-brand hover:underline"
+        >
+          <svg viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="2">
+            <rect x="3" y="5" width="18" height="14" rx="2" />
+            <path strokeLinecap="round" strokeLinejoin="round" d="m3 7 9 6 9-6" />
+          </svg>
+          info@thefinancialbuddy.com
+        </a>
       </div>
     </div>
   );
