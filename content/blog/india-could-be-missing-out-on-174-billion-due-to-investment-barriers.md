@@ -2,7 +2,7 @@
 title: "India Could Be Missing Out on $174 Billion Due to Investment Barriers"
 date: "2026-07-29"
 category: "News"
-author: "Anonymous"
+author: "The Financial Buddy Team"
 ---
 
 <img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/27fce791-d47f-4650-a38f-e7876d53b472" />

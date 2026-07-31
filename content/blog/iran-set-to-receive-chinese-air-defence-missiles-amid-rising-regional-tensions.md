@@ -2,7 +2,7 @@
 title: "Iran Set to Receive Chinese Air Defence Missiles Amid Rising Regional Tensions"
 date: "2026-07-29"
 category: "News"
-author: "Your Name"
+author: "The Financial Buddy Team"
 ---
 
 Iran is expected to receive a fresh consignment of Chinese-made air defence missile systems within the next few weeks, according to multiple international media reports citing intelligence and government sources. The reported shipment is seen as part of Tehran's efforts to strengthen its short-range air defence network following months of heightened military tensions in the Middle East.
