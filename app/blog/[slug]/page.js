@@ -13,6 +13,16 @@ function absoluteImageUrl(image) {
   return `${SITE_URL}${image.startsWith("/") ? "" : "/"}${image}`;
 }
 
+// Frontmatter dates are plain "YYYY-MM-DD" strings. Google's structured-data
+// validator wants a full ISO 8601 datetime with a timezone offset for
+// datePublished/dateModified, so this pins publish time to midnight IST
+// (the site's audience) rather than leaving it ambiguous.
+function toIsoWithTimezone(dateStr) {
+  if (!dateStr) return undefined;
+  if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) return `${dateStr}T00:00:00+05:30`;
+  return dateStr;
+}
+
 export function generateStaticParams() {
   return getAllPosts().map((post) => ({ slug: post.slug }));
 }
@@ -53,11 +63,11 @@ export default function BlogPostPage({ params }) {
     headline: post.title,
     description: post.description,
     ...(imageUrl ? { image: [imageUrl] } : {}),
-    datePublished: post.date || undefined,
-    dateModified: post.date || undefined,
+    datePublished: toIsoWithTimezone(post.date),
+    dateModified: toIsoWithTimezone(post.date),
     author: post.author
-      ? { "@type": "Person", name: post.author }
-      : { "@type": "Organization", name: "The Financial Buddy" },
+      ? { "@type": "Person", name: post.author, url: `${SITE_URL}/about` }
+      : { "@type": "Organization", name: "The Financial Buddy", url: SITE_URL },
     publisher: {
       "@type": "Organization",
       name: "The Financial Buddy",
