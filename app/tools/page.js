@@ -21,6 +21,16 @@ const tools = [
     title: "EMI Calculator",
     description: "Calculate your monthly loan payment, total payment, and total interest.",
   },
+  {
+    href: "/tools/gold-rate",
+    title: "Gold Rate Today",
+    description: "Live gold price in India, per 10 grams.",
+  },
+  {
+    href: "/tools/silver-rate",
+    title: "Silver Rate Today",
+    description: "Live silver price in India, per kilogram.",
+  },
 ];
 
 export default function ToolsPage() {

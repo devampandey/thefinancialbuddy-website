@@ -45,21 +45,23 @@ async function getUsdInr() {
 }
 
 export async function GET() {
-  const [sensex, nifty, sp500, nikkei, ftse, hangSeng, goldUsdOz, usdInr] = await Promise.all([
-    getYahooQuote("^BSESN"),
-    getYahooQuote("^NSEI"),
-    getYahooQuote("^GSPC"),
-    getYahooQuote("^N225"),
-    getYahooQuote("^FTSE"),
-    getYahooQuote("^HSI"),
-    getYahooQuote("GC=F"),
-    getUsdInr(),
-  ]);
+  const [sensex, nifty, sp500, nikkei, ftse, hangSeng, goldUsdOz, silverUsdOz, usdInr] =
+    await Promise.all([
+      getYahooQuote("^BSESN"),
+      getYahooQuote("^NSEI"),
+      getYahooQuote("^GSPC"),
+      getYahooQuote("^N225"),
+      getYahooQuote("^FTSE"),
+      getYahooQuote("^HSI"),
+      getYahooQuote("GC=F"),
+      getYahooQuote("SI=F"),
+      getUsdInr(),
+    ]);
 
-  // Approximate international gold price converted to INR per 10 grams.
-  // Note: this will not exactly match Indian retail/MCX gold rates, which
-  // include import duty, GST, and dealer premiums on top of the raw
-  // international price.
+  // Approximate international gold/silver prices converted to INR. Note:
+  // these will not exactly match Indian retail/MCX rates, which include
+  // import duty, GST, and dealer premiums on top of the raw international
+  // price.
   let goldInr10g = null;
   if (goldUsdOz?.price && usdInr?.price) {
     const pricePerGramUsd = goldUsdOz.price / 31.1035;
@@ -73,6 +75,19 @@ export async function GET() {
     };
   }
 
+  let silverInrKg = null;
+  if (silverUsdOz?.price && usdInr?.price) {
+    const pricePerGramUsd = silverUsdOz.price / 31.1035;
+    silverInrKg = {
+      price: pricePerGramUsd * usdInr.price * 1000,
+      change:
+        silverUsdOz.change != null
+          ? (silverUsdOz.change / 31.1035) * usdInr.price * 1000
+          : null,
+      changePercent: silverUsdOz.changePercent,
+    };
+  }
+
   return NextResponse.json({
     updatedAt: new Date().toISOString(),
     sensex,
@@ -82,6 +97,7 @@ export async function GET() {
     ftse,
     hangSeng,
     gold: goldInr10g,
+    silver: silverInrKg,
     usdInr,
   });
 }

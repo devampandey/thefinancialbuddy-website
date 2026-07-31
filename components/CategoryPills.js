@@ -1,14 +1,11 @@
 import Link from "next/link";
 
 const PILLS = [
-  { href: "/tools/budget-calculator", label: "Budget Calculator" },
-  { href: "/tools/debt-payoff", label: "Debt Payoff Calculator" },
-  { href: "/tools/emi-calculator", label: "EMI Calculator" },
-  { href: "/news", label: "News" },
-  { href: "/politics", label: "Politics" },
   { href: "/ai", label: "AI" },
-  { href: "/blog?category=Finance", label: "Finance" },
-  { href: "/guides", label: "Guides" },
+  { href: "/tools/gold-rate", label: "Gold Rate" },
+  { href: "/tools/silver-rate", label: "Silver Rate" },
+  { href: "/tools/emi-calculator", label: "EMI Calculator" },
+  { href: "/tools/debt-payoff", label: "Debt Payoff Calculator" },
 ];
 
 export default function CategoryPills() {

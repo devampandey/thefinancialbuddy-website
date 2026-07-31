@@ -2,7 +2,7 @@
 
 import { useRef, useState } from "react";
 
-const CATEGORIES = ["News", "Politics", "AI", "Finance"];
+const CATEGORIES = ["News", "Politics", "AI", "Business", "Markets", "Sports"];
 
 // Each button wraps the current selection in Markdown syntax (or inserts a
 // placeholder if nothing is selected) rather than requiring writers to type
