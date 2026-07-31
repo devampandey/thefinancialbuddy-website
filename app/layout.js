@@ -1,7 +1,15 @@
 import "./globals.css";
+import Script from "next/script";
+import { Analytics } from "@vercel/analytics/react";
 import MarketTicker from "@/components/MarketTicker";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+
+// Both optional — the site works fine without either set. Add
+// GSC_VERIFICATION once you create a Search Console property (HTML tag
+// method), and NEXT_PUBLIC_GA_MEASUREMENT_ID once you create a GA4
+// property, and each turns on automatically without further code changes.
+const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
 
 export const metadata = {
   metadataBase: new URL("https://thefinancialbuddy.com"),
@@ -11,6 +19,9 @@ export const metadata = {
   },
   description:
     "Free budgeting, debt payoff, and savings calculators paired with plain-English guides to help you take control of your money.",
+  ...(process.env.GSC_VERIFICATION
+    ? { verification: { google: process.env.GSC_VERIFICATION } }
+    : {}),
 };
 
 // Locks the mobile viewport to the device width so the site renders at its
@@ -61,6 +72,23 @@ export default function RootLayout({ children }) {
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
+        <Analytics />
+        {GA_MEASUREMENT_ID && (
+          <>
+            <Script
+              src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
+              strategy="afterInteractive"
+            />
+            <Script id="ga4-init" strategy="afterInteractive">
+              {`
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', '${GA_MEASUREMENT_ID}');
+              `}
+            </Script>
+          </>
+        )}
       </body>
     </html>
   );
