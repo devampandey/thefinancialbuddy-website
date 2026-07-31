@@ -63,11 +63,17 @@ const noZoomScript = `
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <head>
+      {/* No manual <head> here on purpose — Next.js's Metadata API (the
+          `metadata` export above) generates and de-dupes the real <head>
+          automatically. Writing our own <head> alongside it can produce a
+          malformed/duplicate <head> in the final HTML, which is what broke
+          Google Search Console's verification meta tag check. These two
+          scripts still need to run before the page paints, so they're
+          placed first inside <body> instead — a render-blocking inline
+          script there still executes before anything after it renders. */}
+      <body className="flex min-h-screen flex-col bg-white text-[#1a1a1a] dark:bg-gray-900 dark:text-gray-100">
         <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
         <script dangerouslySetInnerHTML={{ __html: noZoomScript }} />
-      </head>
-      <body className="flex min-h-screen flex-col bg-white text-[#1a1a1a] dark:bg-gray-900 dark:text-gray-100">
         <MarketTicker />
         <Header />
         <main className="flex-1">{children}</main>
