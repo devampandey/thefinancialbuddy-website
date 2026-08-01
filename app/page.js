@@ -3,6 +3,13 @@ import { getAllPosts, getPostsByCategory } from "@/lib/blog";
 import HeadlineList from "@/components/HeadlineList";
 import Subscribe from "@/components/Subscribe";
 
+// "absolute" bypasses the root layout's "%s | The Financial Buddy" title
+// template so the homepage tab shows exactly this text, not a longer
+// templated version.
+export const metadata = {
+  title: { absolute: "Home - Financial Buddy" },
+};
+
 const tools = [
   {
     href: "/tools/budget-calculator",
