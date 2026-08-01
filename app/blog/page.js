@@ -2,8 +2,8 @@ import Link from "next/link";
 import { getAllPosts, getAllCategories } from "@/lib/blog";
 
 export const metadata = {
-  title: "Blog",
-  description: "Articles on finance, AI, and more from The Financial Buddy.",
+  title: "Latest News",
+  description: "The latest articles from The Financial Buddy — finance, markets, AI, and more.",
 };
 
 function formatDate(dateStr) {
@@ -17,7 +17,7 @@ function formatDate(dateStr) {
   });
 }
 
-export default function BlogIndexPage({ searchParams }) {
+export default function LatestNewsPage({ searchParams }) {
   const posts = getAllPosts();
   const categories = getAllCategories();
   const activeCategory = searchParams?.category || "All";
@@ -28,13 +28,10 @@ export default function BlogIndexPage({ searchParams }) {
       : posts.filter((p) => p.category === activeCategory);
 
   return (
-    <div className="mx-auto max-w-6xl px-6 py-16">
-      <h1 className="text-3xl font-bold text-navy dark:text-white">Blog</h1>
-      <p className="mt-3 max-w-2xl text-gray-600 dark:text-gray-400">
-        Articles on finance, AI, and other topics — published regularly.
-      </p>
+    <div className="mx-auto max-w-4xl px-6 py-16">
+      <h1 className="text-3xl font-bold text-navy dark:text-white">Latest News</h1>
 
-      <div className="mt-8 flex flex-wrap gap-2">
+      <div className="mt-6 flex flex-wrap gap-2">
         {categories.map((cat) => (
           <Link
             key={cat}
@@ -50,26 +47,37 @@ export default function BlogIndexPage({ searchParams }) {
         ))}
       </div>
 
-      <div className="mt-10 grid gap-6 sm:grid-cols-2">
+      <div className="mt-8 divide-y divide-gray-200 dark:divide-gray-800">
         {filtered.map((post) => (
           <Link
             key={post.slug}
             href={`/blog/${post.slug}`}
-            className="rounded-xl border border-gray-200 p-6 transition-shadow hover:shadow-md dark:border-gray-800 dark:hover:bg-gray-800/40"
+            className="flex items-start justify-between gap-5 py-6 transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/40"
           >
-            <div className="flex items-center gap-3 text-xs font-medium text-gray-500 dark:text-gray-400">
-              <span className="rounded-full bg-gray-100 px-2.5 py-1 text-brand dark:bg-gray-800">
-                {post.category}
-              </span>
-              <span>{formatDate(post.date)}</span>
-              {post.author && <span>By {post.author}</span>}
+            <div className="min-w-0 flex-1">
+              <div className="flex items-center gap-3 text-xs font-medium text-gray-500 dark:text-gray-400">
+                <span className="rounded-full bg-gray-100 px-2.5 py-1 text-brand dark:bg-gray-800">
+                  {post.category}
+                </span>
+                <span>{formatDate(post.date)}</span>
+                {post.author && <span>By {post.author}</span>}
+              </div>
+              <h2 className="mt-2 text-lg font-semibold text-navy dark:text-white">{post.title}</h2>
+              <p className="mt-1 line-clamp-2 text-sm text-gray-600 dark:text-gray-400">
+                {post.description}
+              </p>
             </div>
-            <h2 className="mt-3 text-lg font-semibold text-navy dark:text-white">{post.title}</h2>
-            <p className="mt-2 text-gray-600 dark:text-gray-400">{post.description}</p>
+            {post.image && (
+              <img
+                src={post.image}
+                alt=""
+                className="h-20 w-28 shrink-0 rounded-lg border border-gray-200 object-cover dark:border-gray-700"
+              />
+            )}
           </Link>
         ))}
         {filtered.length === 0 && (
-          <p className="text-gray-500 dark:text-gray-400">No posts in this category yet.</p>
+          <p className="py-6 text-gray-500 dark:text-gray-400">No articles in this category yet.</p>
         )}
       </div>
     </div>
