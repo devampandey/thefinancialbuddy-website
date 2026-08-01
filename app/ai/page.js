@@ -7,13 +7,13 @@ export const metadata = {
 };
 
 export default function AiPage() {
-  const posts = getPostsByCategory("AI");
+  const posts = getPostsByCategory("Technology");
 
   return (
     <div className="mx-auto max-w-4xl px-6 py-16">
       <h1 className="text-3xl font-bold text-navy dark:text-white">Technology</h1>
       <div className="mt-8">
-        <HeadlineList posts={posts} emptyMessage="No AI posts yet — first one is coming soon." />
+        <HeadlineList posts={posts} emptyMessage="No technology posts yet — first one is coming soon." />
       </div>
     </div>
   );

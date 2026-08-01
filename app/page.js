@@ -31,7 +31,7 @@ const tools = [
 const columns = [
   { key: "News", href: "/news" },
   { key: "Politics", href: "/politics" },
-  { key: "AI", href: "/ai" },
+  { key: "Technology", href: "/ai" },
 ];
 
 function formatDate(dateStr) {
