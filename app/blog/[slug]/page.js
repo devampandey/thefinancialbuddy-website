@@ -1,5 +1,7 @@
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAllPosts, getPostBySlug } from "@/lib/blog";
+import { CATEGORY_LINKS } from "@/lib/categories";
 import BookmarkButton from "@/components/reader/BookmarkButton";
 import CommentsSection from "@/components/reader/CommentsSection";
 
@@ -82,12 +84,58 @@ export default function BlogPostPage({ params }) {
     },
   };
 
+  const categoryMeta = CATEGORY_LINKS[post.category] || { href: "/blog", label: post.category };
+
+  // A second, standard structured-data signal alongside NewsArticle — this
+  // one tells Google the page's place in the site hierarchy, which is what
+  // powers the breadcrumb trail Google sometimes shows in search results
+  // instead of the raw URL.
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: categoryMeta.label,
+        item: `${SITE_URL}${categoryMeta.href}`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: post.title,
+        item: `${SITE_URL}/blog/${post.slug}`,
+      },
+    ],
+  };
+
   return (
     <article className="mx-auto max-w-3xl px-6 py-16">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
+
+      <nav
+        aria-label="Breadcrumb"
+        className="mb-5 flex items-center gap-1.5 overflow-x-auto whitespace-nowrap rounded-lg border border-gray-200 bg-white px-4 py-2.5 text-sm dark:border-gray-800 dark:bg-gray-900"
+      >
+        <Link href="/" className="text-brand hover:underline">
+          Home
+        </Link>
+        <span className="text-gray-400 dark:text-gray-600">/</span>
+        <Link href={categoryMeta.href} className="text-brand hover:underline">
+          {categoryMeta.label}
+        </Link>
+        <span className="text-gray-400 dark:text-gray-600">/</span>
+        <span className="min-w-0 truncate text-gray-500 dark:text-gray-400">{post.title}</span>
+      </nav>
+
       <div className="flex items-center gap-3 text-xs font-medium text-gray-500 dark:text-gray-400">
         <span className="rounded-full bg-gray-100 px-2.5 py-1 text-brand dark:bg-gray-800">
           {post.category}
