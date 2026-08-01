@@ -2,12 +2,13 @@ import Link from "next/link";
 
 const links = [
   { href: "/", label: "Home" },
-  { href: "/blog", label: "Latest" },
-  { href: "/business", label: "Business" },
-  { href: "/politics", label: "Politics" },
   { href: "/markets", label: "Markets" },
-  { href: "/ai", label: "Tech" },
+  { href: "/news", label: "News" },
+  { href: "/blog", label: "Latest News" },
+  { href: "/ipo", label: "IPO" },
+  { href: "/ai", label: "Technology" },
   { href: "/sports", label: "Sports" },
+  { href: "/tools", label: "Tools" },
 ];
 
 // The main site navigation, styled as a bold full-width bar (rather than
