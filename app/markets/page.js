@@ -12,9 +12,6 @@ export default function MarketsPage() {
   return (
     <div className="mx-auto max-w-4xl px-6 py-16">
       <h1 className="text-3xl font-bold text-navy dark:text-white">Markets</h1>
-      <p className="mt-3 max-w-2xl text-gray-600 dark:text-gray-400">
-        Stock market moves and investing news, explained simply.
-      </p>
       <div className="mt-8">
         <HeadlineList posts={posts} emptyMessage="No markets posts yet — first one is coming soon." />
       </div>
