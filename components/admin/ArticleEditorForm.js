@@ -1,8 +1,7 @@
 "use client";
 
 import { useRef, useState } from "react";
-
-const CATEGORIES = ["News", "Politics", "AI", "Business", "Markets", "Sports", "IPO"];
+import { CATEGORIES } from "@/lib/categories";
 
 // Each button wraps the current selection in Markdown syntax (or inserts a
 // placeholder if nothing is selected) rather than requiring writers to type
