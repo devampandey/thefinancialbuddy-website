@@ -4,6 +4,7 @@ import { Analytics } from "@vercel/analytics/react";
 import MarketTicker from "@/components/MarketTicker";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import NotificationPrompt from "@/components/NotificationPrompt";
 
 // Both optional — the site works fine without either set. Add
 // GSC_VERIFICATION once you create a Search Console property (HTML tag
@@ -78,6 +79,7 @@ export default function RootLayout({ children }) {
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
+        <NotificationPrompt />
         <Analytics />
         {GA_MEASUREMENT_ID && (
           <>
