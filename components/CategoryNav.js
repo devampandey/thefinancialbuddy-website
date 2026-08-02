@@ -13,6 +13,12 @@ const NEWS_SUBSECTIONS = [
   { href: "/sports", label: "Sports" },
 ];
 
+// Same subsections as the News dropdown, also linked directly in the bar
+// so someone who already knows which section they want doesn't have to
+// open the dropdown first. "General News" is left out of this flat list —
+// the News dropdown button itself covers that entry point.
+const FLAT_SUBSECTIONS = NEWS_SUBSECTIONS.filter((item) => item.href !== "/news");
+
 const plainLinks = {
   before: [{ href: "/", label: "Home" }],
   after: [
@@ -119,6 +125,12 @@ export default function CategoryNav() {
             />
           </svg>
         </button>
+
+        {FLAT_SUBSECTIONS.map((item) => (
+          <Link key={item.href} href={item.href} className={linkClass}>
+            {item.label}
+          </Link>
+        ))}
 
         {plainLinks.after.map((link) => (
           <Link key={link.href} href={link.href} className={linkClass}>
