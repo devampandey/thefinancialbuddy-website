@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 
 export default function DraftRow({ draft, canApprove }) {
   const router = useRouter();
@@ -57,7 +58,13 @@ export default function DraftRow({ draft, canApprove }) {
             <p className="mt-1 text-sm text-gray-600 dark:text-gray-400">{draft.description}</p>
           )}
         </div>
-        <div className="flex shrink-0 gap-2">
+        <div className="flex shrink-0 flex-wrap gap-2">
+          <Link
+            href={`/admin/drafts/${draft.slug}/edit`}
+            className="rounded-lg border border-gray-300 px-4 py-1.5 text-sm font-semibold text-gray-700 transition-colors hover:bg-gray-100 dark:border-gray-700 dark:text-gray-200 dark:hover:bg-gray-800"
+          >
+            Edit
+          </Link>
           {canApprove && (
             <button
               type="button"
