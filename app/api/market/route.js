@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { withImportDuty } from "@/lib/metals";
+import { withImportDuty, getMcxRates } from "@/lib/metals";
 
 // Refresh the upstream data at most once every 60 seconds, regardless of how
 // many visitors hit this route in that window.
@@ -46,7 +46,7 @@ async function getUsdInr() {
 }
 
 export async function GET() {
-  const [sensex, nifty, sp500, nikkei, ftse, hangSeng, goldUsdOz, silverUsdOz, usdInr] =
+  const [sensex, nifty, sp500, nikkei, ftse, hangSeng, goldUsdOz, silverUsdOz, usdInr, mcx] =
     await Promise.all([
       getYahooQuote("^BSESN"),
       getYahooQuote("^NSEI"),
@@ -57,14 +57,29 @@ export async function GET() {
       getYahooQuote("GC=F"),
       getYahooQuote("SI=F"),
       getUsdInr(),
+      getMcxRates(),
     ]);
 
-  // International gold/silver prices converted to INR, with India's 15%
-  // import duty baked in (see lib/metals.js) so this lands close to what's
-  // actually quoted in India. Still won't exactly match retail/MCX rates,
-  // which also include GST and dealer premiums on top of this.
+  // Prefer live MCX (India) rates when available — that's the real
+  // benchmark, not an estimate. changePercent still comes from the
+  // international futures quote since the MCX authority endpoint doesn't
+  // return a day-over-day change, but the day's relative move tracks closely
+  // enough across markets for the ▲/▼ indicator to be meaningful.
+  // Falls back to international spot + India's 15% import duty (see
+  // lib/metals.js) when MCX data isn't configured or unavailable — still
+  // won't exactly match retail rates, which also add GST and dealer
+  // premiums on top.
   let goldInr10g = null;
-  if (goldUsdOz?.price && usdInr?.price) {
+  if (mcx?.goldPerGram) {
+    const price = mcx.goldPerGram * 10;
+    const changePercent = goldUsdOz?.changePercent ?? null;
+    goldInr10g = {
+      price,
+      change: changePercent != null ? (price * changePercent) / 100 : null,
+      changePercent,
+      source: "mcx",
+    };
+  } else if (goldUsdOz?.price && usdInr?.price) {
     const pricePerGramUsd = goldUsdOz.price / 31.1035;
     goldInr10g = {
       price: withImportDuty(pricePerGramUsd * usdInr.price * 10),
@@ -73,11 +88,21 @@ export async function GET() {
           ? withImportDuty((goldUsdOz.change / 31.1035) * usdInr.price * 10)
           : null,
       changePercent: goldUsdOz.changePercent,
+      source: "estimated",
     };
   }
 
   let silverInrKg = null;
-  if (silverUsdOz?.price && usdInr?.price) {
+  if (mcx?.silverPerGram) {
+    const price = mcx.silverPerGram * 1000;
+    const changePercent = silverUsdOz?.changePercent ?? null;
+    silverInrKg = {
+      price,
+      change: changePercent != null ? (price * changePercent) / 100 : null,
+      changePercent,
+      source: "mcx",
+    };
+  } else if (silverUsdOz?.price && usdInr?.price) {
     const pricePerGramUsd = silverUsdOz.price / 31.1035;
     silverInrKg = {
       price: withImportDuty(pricePerGramUsd * usdInr.price * 1000),
@@ -86,6 +111,7 @@ export async function GET() {
           ? withImportDuty((silverUsdOz.change / 31.1035) * usdInr.price * 1000)
           : null,
       changePercent: silverUsdOz.changePercent,
+      source: "estimated",
     };
   }
 

@@ -70,6 +70,16 @@ export default function RateCard({ dataKey, unit }) {
           {data?.updatedAt && (
             <p className="mt-4 text-xs text-gray-400">
               Updated {new Date(data.updatedAt).toLocaleTimeString("en-IN")}
+              {rate?.source === "mcx" && (
+                <span className="ml-2 rounded-full bg-brand/10 px-2 py-0.5 font-medium text-brand">
+                  Source: MCX (India)
+                </span>
+              )}
+              {rate?.source === "estimated" && (
+                <span className="ml-2 rounded-full bg-gray-100 px-2 py-0.5 font-medium text-gray-500 dark:bg-gray-800 dark:text-gray-400">
+                  Estimated (intl. spot + duty)
+                </span>
+              )}
             </p>
           )}
         </>
