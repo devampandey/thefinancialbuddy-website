@@ -42,15 +42,37 @@ async function getUsdInr() {
   }
 }
 
-// Returns the last ~7 trading days for gold or silver, converted to INR at
-// today's exchange rate (historical INR moves aren't factored in — this is
-// a rough trend view, not a precise historical conversion).
+// Maps the chart/table range buttons to a day count Yahoo's chart endpoint
+// accepts as "<N>d". Capped at 10y for "ALL" — GC=F/SI=F continuous-contract
+// history on Yahoo doesn't reliably go back further than that anyway, and an
+// unbounded range would make the daily-interval response very large.
+const RANGE_DAYS = {
+  "10d": 10,
+  "1w": 7,
+  "1m": 30,
+  "3m": 90,
+  "6m": 180,
+  "9m": 270,
+  "1y": 365,
+  "2y": 730,
+  "3y": 1095,
+  "5y": 1825,
+  all: 3650,
+};
+
+// Returns daily closes for gold or silver, converted to INR at today's
+// exchange rate (historical INR moves aren't factored in — this is a rough
+// trend view, not a precise historical conversion). `range` selects how far
+// back to go (see RANGE_DAYS); defaults to the original ~8-day window used
+// by the compact "recent days" table.
 export async function GET(request) {
   const metal = request.nextUrl.searchParams.get("metal") === "silver" ? "silver" : "gold";
+  const rangeParam = (request.nextUrl.searchParams.get("range") || "10d").toLowerCase();
+  const days = RANGE_DAYS[rangeParam] || 8;
   const symbol = metal === "silver" ? "SI=F" : "GC=F";
   const unitGrams = metal === "silver" ? 1000 : 10;
 
-  const [history, usdInr] = await Promise.all([getYahooHistory(symbol, 8), getUsdInr()]);
+  const [history, usdInr] = await Promise.all([getYahooHistory(symbol, days), getUsdInr()]);
 
   const rows = history
     .map((r) => ({
