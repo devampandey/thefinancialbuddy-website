@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-02"
 ---
 
+![Mayawati Expels Senior BSP Leader Ashok Siddharth Again Ahead of 2027 UP Polls](/uploads/images-msc1vgk8.jpg)
+
 Bahujan Samaj Party chief Mayawati has once again expelled senior leader Ashok Siddharth from the party, along with state coordinator Randhir Singh Beniwal, citing repeated indiscipline as the BSP moves to tighten its organisation ahead of the 2027 Uttar Pradesh Assembly elections.
 
 ## A Second Expulsion for Siddharth
