@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 
 const NEWS_SUBSECTIONS = [
-  { href: "/news", label: "General News" },
+  { href: "/news", label: "Top Stories" },
   { href: "/markets", label: "Markets" },
   { href: "/ipo", label: "IPO" },
   { href: "/ai", label: "Technology" },
