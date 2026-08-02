@@ -69,7 +69,7 @@ export default function GoldRatePage() {
       </div>
 
       <p className="mt-6 text-xs text-gray-400">
-        This tracks the international spot price converted to INR, with India&apos;s ~6.5% import
+        This tracks the international spot price converted to INR, with India&apos;s 15% import
         duty included — it still won&apos;t exactly match Indian retail or MCX gold rates, which
         also factor in GST and dealer premiums on top of this. Use the calculator above to add GST
         and your own making-charge estimate. The 22K/24K split uses the standard 22/24 purity

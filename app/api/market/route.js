@@ -59,7 +59,7 @@ export async function GET() {
       getUsdInr(),
     ]);
 
-  // International gold/silver prices converted to INR, with India's ~6.5%
+  // International gold/silver prices converted to INR, with India's 15%
   // import duty baked in (see lib/metals.js) so this lands close to what's
   // actually quoted in India. Still won't exactly match retail/MCX rates,
   // which also include GST and dealer premiums on top of this.
