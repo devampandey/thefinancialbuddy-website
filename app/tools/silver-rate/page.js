@@ -68,9 +68,10 @@ export default function SilverRatePage() {
       </div>
 
       <p className="mt-6 text-xs text-gray-400">
-        This tracks the international spot price converted to INR — it won&apos;t exactly match
-        Indian retail or MCX silver rates, which include import duty, GST, and dealer premiums on
-        top of the raw international price.
+        This tracks the international spot price converted to INR, with India&apos;s ~6.5% import
+        duty included — it still won&apos;t exactly match Indian retail or MCX silver rates, which
+        also factor in GST and dealer premiums on top of this. Use the calculator above to add GST
+        and your own making-charge estimate.
       </p>
     </div>
   );

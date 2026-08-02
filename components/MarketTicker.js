@@ -39,7 +39,7 @@ const ITEMS = [
   { key: "nikkei", label: "NIKKEI 225 (JP)", decimals: 2 },
   { key: "ftse", label: "FTSE 100 (UK)", decimals: 2 },
   { key: "hangSeng", label: "HANG SENG (HK)", decimals: 2 },
-  { key: "gold", label: "GOLD (Intl., ₹/10g)", decimals: 0, prefix: "₹" },
+  { key: "gold", label: "GOLD (₹/10g, incl. duty)", decimals: 0, prefix: "₹" },
   { key: "usdInr", label: "USD/INR", decimals: 2, prefix: "₹" },
 ];
 

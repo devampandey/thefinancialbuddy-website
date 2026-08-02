@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server";
+import { withImportDuty } from "@/lib/metals";
 
 // Daily closes don't change intraday except for today's partial candle, so
 // this is cheap to cache for an hour.
@@ -77,7 +78,7 @@ export async function GET(request) {
   const rows = history
     .map((r) => ({
       date: r.date,
-      price: usdInr ? (r.priceUsdOz / 31.1035) * usdInr * unitGrams : null,
+      price: usdInr ? withImportDuty((r.priceUsdOz / 31.1035) * usdInr * unitGrams) : null,
     }))
     .filter((r) => r.price != null);
 

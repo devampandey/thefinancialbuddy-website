@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server";
+import { withImportDuty } from "@/lib/metals";
 
 // Refresh the upstream data at most once every 60 seconds, regardless of how
 // many visitors hit this route in that window.
@@ -58,18 +59,18 @@ export async function GET() {
       getUsdInr(),
     ]);
 
-  // Approximate international gold/silver prices converted to INR. Note:
-  // these will not exactly match Indian retail/MCX rates, which include
-  // import duty, GST, and dealer premiums on top of the raw international
-  // price.
+  // International gold/silver prices converted to INR, with India's ~6.5%
+  // import duty baked in (see lib/metals.js) so this lands close to what's
+  // actually quoted in India. Still won't exactly match retail/MCX rates,
+  // which also include GST and dealer premiums on top of this.
   let goldInr10g = null;
   if (goldUsdOz?.price && usdInr?.price) {
     const pricePerGramUsd = goldUsdOz.price / 31.1035;
     goldInr10g = {
-      price: pricePerGramUsd * usdInr.price * 10,
+      price: withImportDuty(pricePerGramUsd * usdInr.price * 10),
       change:
         goldUsdOz.change != null
-          ? (goldUsdOz.change / 31.1035) * usdInr.price * 10
+          ? withImportDuty((goldUsdOz.change / 31.1035) * usdInr.price * 10)
           : null,
       changePercent: goldUsdOz.changePercent,
     };
@@ -79,10 +80,10 @@ export async function GET() {
   if (silverUsdOz?.price && usdInr?.price) {
     const pricePerGramUsd = silverUsdOz.price / 31.1035;
     silverInrKg = {
-      price: pricePerGramUsd * usdInr.price * 1000,
+      price: withImportDuty(pricePerGramUsd * usdInr.price * 1000),
       change:
         silverUsdOz.change != null
-          ? (silverUsdOz.change / 31.1035) * usdInr.price * 1000
+          ? withImportDuty((silverUsdOz.change / 31.1035) * usdInr.price * 1000)
           : null,
       changePercent: silverUsdOz.changePercent,
     };

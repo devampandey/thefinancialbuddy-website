@@ -243,7 +243,7 @@ export default function RateChart({ metal, unit }) {
       </div>
 
       <p className="mt-3 text-xs text-gray-400">
-        {unit} · international spot price converted to INR at today&apos;s exchange rate.
+        {unit} · international spot price converted to INR, including India&apos;s ~6.5% import duty.
       </p>
     </div>
   );
