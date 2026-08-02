@@ -3,6 +3,7 @@ import Link from "next/link";
 const PILLS = [
   { href: "/business", label: "Business" },
   { href: "/politics", label: "Politics" },
+  { href: "/lifestyle", label: "Lifestyle" },
   { href: "/tools/gold-rate", label: "Gold Rate" },
   { href: "/tools/silver-rate", label: "Silver Rate" },
   { href: "/tools/emi-calculator", label: "EMI Calculator" },

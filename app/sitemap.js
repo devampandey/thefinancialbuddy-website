@@ -14,6 +14,7 @@ const staticRoutes = [
   { path: "/markets", priority: 0.8, changeFrequency: "daily" },
   { path: "/ipo", priority: 0.8, changeFrequency: "daily" },
   { path: "/sports", priority: 0.8, changeFrequency: "daily" },
+  { path: "/lifestyle", priority: 0.8, changeFrequency: "daily" },
   { path: "/tools", priority: 0.7, changeFrequency: "weekly" },
   { path: "/tools/budget-calculator", priority: 0.6, changeFrequency: "monthly" },
   { path: "/tools/debt-payoff", priority: 0.6, changeFrequency: "monthly" },
