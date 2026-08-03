@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-03"
 ---
 
+![Nifty IT Extends Recovery Rally on Strong Q1 Earnings and AI Deals](/uploads/nifty-msczenn2.jpg)
+
 Technology stocks have quietly become one of the standout stories of India's equity market over the past month. After a rough start to 2026 that left the Nifty IT index down as much as 29 percent for the calendar year, the sector has staged a sharp turnaround, gaining nearly 16 percent in July alone and extending those gains into early August, with the index adding a further 2 percent or so in Monday's session even as broader indices traded more cautiously.
 
 ## From 52-Week Lows to Sustained Recovery
