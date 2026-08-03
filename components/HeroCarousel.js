@@ -7,7 +7,7 @@ import Link from "next/link";
 // crossfade between slides takes. Kept short enough that the homepage feels
 // alive but long enough that a visitor can actually read the headline.
 const ROTATE_MS = 6000;
-const FADE_MS = 300;
+const FADE_MS = 500;
 
 function formatDate(dateStr) {
   if (!dateStr) return "";
@@ -29,14 +29,34 @@ export default function HeroCarousel({ posts }) {
 
   const count = posts.length;
 
+  // Preload every slide's image up front so switching slides never shows a
+  // blank/loading flash while a fresh image fetches — that flash was the
+  // main thing making the rotation look like a "blink" instead of a fade.
+  useEffect(() => {
+    posts.forEach((p) => {
+      if (!p.image) return;
+      const img = new Image();
+      img.src = p.image;
+    });
+  }, [posts]);
+
+  // Swaps content while faded out, then waits two animation frames before
+  // fading back in. That gap matters: if the content swap and the fade-in
+  // happen in the same React commit, the browser never actually paints the
+  // opacity:0 frame, so there's nothing to transition FROM — it just pops.
+  // Two rAFs guarantee a real paint happens in between.
+  const swapTo = (nextIndex) => {
+    setIndex(nextIndex);
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => setVisible(true));
+    });
+  };
+
   const goTo = (nextIndex) => {
     if (count <= 1 || nextIndex === index) return;
     setVisible(false);
     clearTimeout(fadeTimeoutRef.current);
-    fadeTimeoutRef.current = setTimeout(() => {
-      setIndex(nextIndex);
-      setVisible(true);
-    }, FADE_MS);
+    fadeTimeoutRef.current = setTimeout(() => swapTo(nextIndex), FADE_MS);
   };
 
   useEffect(() => {
@@ -46,8 +66,7 @@ export default function HeroCarousel({ posts }) {
       setVisible(false);
       clearTimeout(fadeTimeoutRef.current);
       fadeTimeoutRef.current = setTimeout(() => {
-        setIndex((i) => (i + 1) % count);
-        setVisible(true);
+        swapTo((i) => (i + 1) % count);
       }, FADE_MS);
     }, ROTATE_MS);
     return () => {
