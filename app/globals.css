@@ -6,6 +6,19 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Safety net: if any element anywhere on the site (a long unbroken string,
+   a slightly mis-sized absolutely-positioned element, etc.) ends up wider
+   than the viewport, this stops it from making the WHOLE page scroll
+   sideways — which is what was letting headline text get cut off at the
+   right edge on mobile, requiring a horizontal drag to read it. Elements
+   that are meant to scroll horizontally (like the market ticker) already
+   have their own explicit overflow-hidden wrapper, so this doesn't affect
+   them. */
+html,
+body {
+  overflow-x: hidden;
+}
+
 .prose-financial p {
   margin-bottom: 1rem;
   line-height: 1.7;
