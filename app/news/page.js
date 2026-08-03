@@ -1,4 +1,4 @@
-import { getPostsByCategory } from "@/lib/blog";
+import { getAllPosts } from "@/lib/blog";
 import HeadlineList from "@/components/HeadlineList";
 
 export const metadata = {
@@ -6,8 +6,11 @@ export const metadata = {
   description: "The latest news coverage from The Financial Buddy.",
 };
 
+// "News" is an aggregate, newest-first feed of every article regardless of
+// category — not a literal category tag (no article is ever tagged "News"
+// itself), since getAllPosts() already sorts newest-first.
 export default function NewsPage() {
-  const posts = getPostsByCategory("News");
+  const posts = getAllPosts();
 
   return (
     <div className="mx-auto max-w-4xl px-6 py-16">

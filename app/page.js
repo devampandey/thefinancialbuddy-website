@@ -124,7 +124,14 @@ export default function HomePage() {
       <section className="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-12">
         <div className="grid items-start gap-8 sm:grid-cols-3 sm:gap-10">
           {columns.map((col) => {
-            const posts = getPostsByCategory(col.key).slice(0, 4);
+            // "News" is an aggregate feed of everything (newest first), not
+            // a literal category tag — no article is ever tagged "News"
+            // itself, so filtering by category here left this column
+            // permanently empty.
+            const posts =
+              col.key === "News"
+                ? allPosts.slice(0, 4)
+                : getPostsByCategory(col.key).slice(0, 4);
             return (
               <div key={col.key}>
                 <div className="flex items-center justify-between border-b-2 border-navy pb-2 dark:border-white">
