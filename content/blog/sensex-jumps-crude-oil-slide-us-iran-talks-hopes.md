@@ -1,10 +1,12 @@
 ---
 title: "Sensex Jumps Over 700 Points as Crude Oil Slide Lifts Sentiment on US-Iran Talks Hopes"
+date: "2026-08-03"
 category: "Markets"
 description: "Indian equities rallied as Brent crude fell over 5% on hopes of US-Iran diplomacy, with IndiGo, ITC and Bajaj Finance leading gainers."
 author: "The Financial Buddy Team"
-submittedAt: "2026-08-03"
 ---
+
+![Sensex Jumps Over 700 Points as Crude Oil Slide Lifts Sentiment on US-Iran Talks Hopes](/uploads/images-stock-mscry9yk.jpg)
 
 Indian equity benchmarks opened sharply higher on Monday, with the BSE Sensex jumping nearly 789 points and the Nifty 50 crossing the 24,550 mark, as a steep overnight slide in crude oil prices lifted sentiment across the market. The rally was driven largely by news that the United States would hold talks with Iran rather than pursue fresh military action, easing fears of a wider conflict in West Asia that had been weighing on global risk appetite in recent sessions.
 

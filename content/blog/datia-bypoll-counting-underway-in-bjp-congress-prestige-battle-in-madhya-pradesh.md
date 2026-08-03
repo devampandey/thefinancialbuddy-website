@@ -1,10 +1,12 @@
 ---
-title: "Datia Bypoll: Counting Underway in BJP-Congress Prestige Battle in Madhya Pradesh"
+title: "Datia Bypoll- Counting Underway in BJP-Congress Prestige Battle in Madhya Pradesh"
+date: "2026-08-03"
 category: "Politics"
 description: "Vote counting is underway in Madhya Pradesh's Datia seat, a bypoll triggered by a Congress MLA's disqualification."
 author: "The Financial Buddy Team"
-submittedAt: "2026-08-03"
 ---
+
+![Datia Bypoll- Counting Underway in BJP-Congress Prestige Battle in Madhya Pradesh](/uploads/datia-bypoll-mscs2rah.jpg)
 
 Vote counting began this morning for the Datia assembly bypoll in Madhya Pradesh, a contest that has drawn outsized attention from both the Bharatiya Janata Party (BJP) and the Congress despite being a single-seat election. Polling was held on July 30, with the Election Commission recording turnout of roughly 71 percent, several points lower than in the previous general election for the seat. The result, once declared, will be read as a symbolic marker of momentum for both parties ahead of the next full round of state elections.
 
