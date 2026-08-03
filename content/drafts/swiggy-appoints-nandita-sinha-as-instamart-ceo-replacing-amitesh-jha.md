@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-03"
 ---
 
+![Swiggy Appoints Nandita Sinha as Instamart CEO, Replacing Amitesh Jha](/uploads/n2-msdcq3dy.webp)
+
 Swiggy has appointed Nandita Sinha, the former chief executive of Myntra, as the new CEO of its quick-commerce arm Instamart, effective Monday. She takes over from Amitesh Jha, who tendered his resignation on July 28 and stepped down from Swiggy's senior management with immediate effect.
 
 ## A Veteran Consumer-Business Operator
