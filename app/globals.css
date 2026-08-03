@@ -19,6 +19,19 @@ body {
   overflow-x: hidden;
 }
 
+/* body is a flex column (see app/layout.js). Flex items default to
+   min-width: auto, which sizes each one to its content's natural minimum
+   width — even when that content has its own overflow-hidden, like the
+   market ticker's continuously-scrolling strip. That let the ticker quietly
+   force the whole page wider than the screen on mobile, which is what was
+   pushing headline text past the right edge with nothing for it to wrap
+   into. Forcing min-width:0 on every direct child of body lets each one
+   actually shrink to the available width, so overflow-hidden works as
+   intended and text wraps normally instead of overflowing. */
+body > * {
+  min-width: 0;
+}
+
 .prose-financial p {
   margin-bottom: 1rem;
   line-height: 1.7;
