@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-03"
 ---
 
+![Delhi Court Acquits Brij Bhushan Singh in Wrestlers' Sexual Harassment Case](/uploads/sharan-1-msdcsp27.webp)
+
 A Delhi court on Monday acquitted former Wrestling Federation of India (WFI) chief and ex-BJP MP Brij Bhushan Sharan Singh, along with former WFI assistant secretary Vinod Tomar, in the sexual harassment case filed by six women wrestlers in 2023. Additional Chief Judicial Magistrate Ashwini Panwar delivered the verdict at the Rouse Avenue Courts complex in New Delhi, bringing to a close one of the most closely watched legal battles to emerge from Indian sport in recent years.
 
 ## How the Case Unfolded
