@@ -25,5 +25,3 @@ The leadership change lands at a pivotal moment for India's quick-commerce secto
 ## What to Watch Next
 
 Sinha's immediate priorities are likely to include category expansion, private-label strategy and deepening supply-chain efficiency, areas where her FMCG and e-commerce background could prove directly applicable. How quickly she moves to make her mark, and whether Swiggy's Instamart segment shows any shift in growth or margin trends in its next quarterly results, will offer early evidence of the strategic direction under the new leadership.
-
-This article is for informational purposes only and does not constitute financial advice. Please consult a qualified financial advisor before making investment decisions.
