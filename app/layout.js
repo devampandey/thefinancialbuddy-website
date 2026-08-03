@@ -20,6 +20,21 @@ export const metadata = {
   },
   description:
     "Free budgeting, debt payoff, and savings calculators paired with plain-English guides to help you take control of your money.",
+  // max-image-preview:large is one of Google Discover's eligibility
+  // requirements — without it, Google may only show a small or no image
+  // preview, which hurts Discover placement even for otherwise-eligible
+  // content.
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+      "max-video-preview": -1,
+    },
+  },
   ...(process.env.GSC_VERIFICATION
     ? { verification: { google: process.env.GSC_VERIFICATION } }
     : {}),

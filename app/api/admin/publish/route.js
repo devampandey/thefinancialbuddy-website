@@ -3,6 +3,7 @@ import { getSession } from "@/lib/session";
 import { getFile, putFile, deleteFile } from "@/lib/github";
 import { parseFrontmatter, stringifyFrontmatter } from "@/lib/frontmatter";
 import { DRAFTS_DIR, POSTS_DIR } from "@/lib/drafts";
+import { postArticleToBluesky } from "@/lib/bluesky";
 
 // Approves a draft: copies it into content/blog (so it appears on the live
 // site after the next deploy) and removes it from content/drafts. Also
@@ -59,6 +60,14 @@ export async function POST(request) {
       `Publish: ${data.title} (by ${data.author})`
     );
     await deleteFile(draftPath, `Remove published draft: ${data.title}`, draft.sha);
+
+    // Best-effort — never let a Bluesky hiccup fail the publish itself,
+    // which just already succeeded above.
+    try {
+      await postArticleToBluesky({ title: data.title, slug });
+    } catch {
+      // Ignored on purpose.
+    }
 
     return NextResponse.json({ ok: true, slug });
   } catch (err) {

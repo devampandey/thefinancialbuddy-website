@@ -7,6 +7,9 @@ export default function robots() {
         disallow: ["/admin", "/api", "/account"],
       },
     ],
-    sitemap: "https://www.thefinancialbuddy.com/sitemap.xml",
+    sitemap: [
+      "https://www.thefinancialbuddy.com/sitemap.xml",
+      "https://www.thefinancialbuddy.com/news-sitemap.xml",
+    ],
   };
 }
