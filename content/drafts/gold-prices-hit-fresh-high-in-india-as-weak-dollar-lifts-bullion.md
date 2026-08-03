@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-03"
 ---
 
+![Gold Prices Hit Fresh High in India as Weak Dollar, Falling US Yields Lift Bullion](/uploads/gold-msdcr2y1.webp)
+
 Gold prices in India pushed to fresh highs on Monday, with 24-karat gold rising roughly 0.32 percent to around Rs 1,43,890 per 10 grams, as a weaker US dollar and softening US Treasury yields drove renewed buying interest in bullion globally.
 
 ## What Moved Gold Today
