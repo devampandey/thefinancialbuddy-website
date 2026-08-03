@@ -6,13 +6,15 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-03"
 ---
 
+![Two New Mainboard IPOs Open This Week: Ardee Industries and Technocraft Ventures](/uploads/ipo-mscrv38h.webp)
+
 The mainboard IPO calendar is picking up pace this week, with two new issues set to open for subscription in quick succession. Ardee Industries will kick things off on August 5, followed by Technocraft Ventures on August 7, giving investors back-to-back opportunities to evaluate fresh listings alongside a handful of allotments and debuts already lined up for the week. Here is a closer look at what each offering brings to the table.
 
-## Ardee Industries: Price Band and Issue Size
+## Ardee Industries:Price Band and Issue Size
 
 Ardee Industries has fixed a price band of Rs 50-53 per share for its Rs 426 crore initial public offering, which opens for subscription on August 5. The issue size and price band have been confirmed across multiple market reports, giving investors clarity on valuation ahead of the opening date. As with most mainboard issues in this size range, prospective investors will want to look closely at the lot size, the company's use-of-proceeds plan, and how the issue is priced relative to peers in its sector before deciding whether to apply. Grey market activity typically picks up in the days immediately before an IPO opens, and that will be worth tracking as the subscription window approaches.
 
-## Technocraft Ventures: An Infrastructure Play
+## Technocraft Ventures:An Infrastructure Play
 
 Technocraft Ventures, incorporated in 1998, operates as a public infrastructure development company undertaking turnkey engineering, procurement, and construction (EPC) projects. Its work spans multiple infrastructure segments, with a concentration of projects executed for state governments and government agencies across northern India, including Uttar Pradesh, Uttarakhand, Rajasthan, and the National Capital Territory of Delhi. The company's offering comprises a book-built issue of up to roughly 1.19 crore equity shares, made up of about 95 lakh fresh shares and close to 23.76 lakh shares being offered for sale by existing shareholder Kartikey Constructions. Khambatta Securities is acting as the book-running lead manager, with Bigshare Services as registrar. As of now, the price band for Technocraft Ventures has not been finalised, and that detail should become clearer as the August 7 opening date nears.
 
