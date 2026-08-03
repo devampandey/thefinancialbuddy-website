@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-03"
 ---
 
+![India's Semiconductor Demand Forecast Jumps to $150 Billion by 2030](/uploads/semiconductor-msczg4h5.webp)
+
 India's semiconductor ambitions received a significant boost this week after the Ministry of Electronics and Information Technology revised its domestic chip demand projection to roughly $150 billion by 2030, a jump of about 50 percent from the estimate made just eighteen months earlier. The upgraded forecast reflects how quickly electronics manufacturing, automotive systems, and data infrastructure are absorbing chips made both at home and abroad.
 
 ## Imports Still Dominate, But the Picture Is Shifting
