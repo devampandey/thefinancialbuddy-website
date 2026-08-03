@@ -1,6 +1,6 @@
 ---
 title: "Two New Mainboard IPOs Open This Week: Ardee Industries and Technocraft Ventures"
-date: "2026-08-03"
+date: "2026-08-03T10:42:25+05:30"
 category: "IPO"
 description: "Ardee Industries' Rs 426 crore IPO opens August 5 at a Rs 50-53 price band, with Technocraft Ventures following on August 7."
 author: "The Financial Buddy Team"

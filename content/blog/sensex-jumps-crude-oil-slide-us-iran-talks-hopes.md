@@ -1,6 +1,6 @@
 ---
 title: "Sensex Jumps Over 700 Points as Crude Oil Slide Lifts Sentiment on US-Iran Talks Hopes"
-date: "2026-08-03"
+date: "2026-08-03T10:44:27+05:30"
 category: "Markets"
 description: "Indian equities rallied as Brent crude fell over 5% on hopes of US-Iran diplomacy, with IndiGo, ITC and Bajaj Finance leading gainers."
 author: "The Financial Buddy Team"

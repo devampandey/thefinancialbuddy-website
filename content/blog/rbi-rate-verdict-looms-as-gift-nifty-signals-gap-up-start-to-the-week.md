@@ -1,6 +1,6 @@
 ---
 title: "RBI Rate Verdict Looms as GIFT Nifty Signals Gap-Up Start to the Week"
-date: "2026-08-03"
+date: "2026-08-03T10:46:56+05:30"
 category: "Markets"
 description: "RBI's rate-setting panel meets from August 3-5, with GIFT Nifty pointing to a firm opening for Indian equities."
 author: "The Financial Buddy Team"

@@ -1,6 +1,6 @@
 ---
 title: "Datia Bypoll- Counting Underway in BJP-Congress Prestige Battle in Madhya Pradesh"
-date: "2026-08-03"
+date: "2026-08-03T10:48:12+05:30"
 category: "Politics"
 description: "Vote counting is underway in Madhya Pradesh's Datia seat, a bypoll triggered by a Congress MLA's disqualification."
 author: "The Financial Buddy Team"
