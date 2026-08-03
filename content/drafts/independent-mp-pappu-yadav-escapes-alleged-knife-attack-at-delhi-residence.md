@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-03"
 ---
 
+![Independent MP Pappu Yadav Escapes Alleged Knife Attack at Delhi Residence](/uploads/pappu-yadav-attacked-2026-08-02-19-24-51-msct1lb8.webp)
+
 A tense scene unfolded at the Delhi residence of independent Lok Sabha MP Pappu Yadav on Sunday, after an unidentified man allegedly attempted to attack him with a knife in the middle of a press conference. The Purnia MP emerged unharmed from the incident, but it has reignited questions about the security arrangements around sitting parliamentarians and has already become a talking point across Bihar's political circles.
 
 ## How the Incident Unfolded
