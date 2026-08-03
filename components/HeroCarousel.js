@@ -41,7 +41,7 @@ export default function HeroCarousel({ posts }) {
 
   return (
     <div
-      className="group relative"
+      className="group relative w-full"
       onMouseEnter={() => {
         pausedRef.current = true;
       }}
@@ -84,7 +84,7 @@ export default function HeroCarousel({ posts }) {
           block placed in the same grid cell, so the container's height
           tracks the tallest one instead of collapsing between slides of
           different lengths. */}
-      <div className="mt-3 grid sm:mt-4">
+      <div className="mt-3 grid w-full sm:mt-4">
         {posts.map((post, i) => (
           <Link
             key={post.slug}
