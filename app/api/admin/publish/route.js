@@ -46,7 +46,11 @@ export async function POST(request) {
     const published = stringifyFrontmatter(
       {
         title: data.title,
-        date: new Date().toISOString().slice(0, 10),
+        // Full ISO timestamp, not just the date, so that same-day articles
+        // still sort correctly by true publish order (getAllPosts/getPosts
+        // sort lexicographically on this string) — the homepage featured
+        // slot and every "newest first" list depend on this being precise.
+        date: new Date().toISOString(),
         category: data.category,
         description: data.description,
         author: data.author,
