@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-04"
 ---
 
+![Juniper Green Energy IPO Fully Subscribed, Allotment Finalized Ahead of August 6 Listing](/uploads/juniper-green-energy-ipo-mse6aqlk.webp)
+
 The initial public offering of renewable energy developer Juniper Green Energy has crossed its final hurdle before listing, with the basis of allotment finalized today after the issue drew strong interest from institutional investors.
 
 ## Deal Details
