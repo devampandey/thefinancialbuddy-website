@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-04"
 ---
 
+![Government Launches LIC OFS to Sell Up to 6.5% Stake Worth Rs 31,000 Crore](/uploads/lic-1-msev6aif.jpg)
+
 The Government of India opened a much-anticipated Offer for Sale (OFS) in Life Insurance Corporation of India on August 4, giving non-retail investors their first window to bid for shares in what could become one of the largest disinvestment exercises in recent years. Retail investors and eligible employees get their turn on August 5, with a discount built into their allotment price.
 
 ## Deal Structure
