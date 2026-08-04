@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-04"
 ---
 
+![Bharti Airtel Q1 FY27 Profit Jumps 43% as Homes and Airtel Business Segments Surge](/uploads/airtel098-mseytrrz.webp)
+
 Bharti Airtel closed out its first quarter of FY27 with numbers that should reassure investors watching India's telecom sector for signs of sustained pricing power. The company reported a consolidated net profit of roughly Rs 5,948 crore for the quarter, a jump of about 43% from the same period a year earlier, while consolidated revenue climbed close to 29% year-on-year. The results, released on August 4, extend a run of steady earnings growth for the Sunil Mittal-led telecom major even as the broader industry contends with capital-intensive 5G rollouts and periodic tariff resets.
 
 ## What Drove the Growth
