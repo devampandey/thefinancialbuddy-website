@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-04"
 ---
 
+![Sensex, Nifty Snap Four-Day Rally as New Closing Auction Mechanism Debuts](/uploads/bse-msev3maz.jpg)
+
 India's benchmark equity indices ended lower on August 4, breaking a four-session winning streak as traders adjusted to a newly implemented market mechanism and digested a large government stake sale in the country's biggest insurer. The BSE Sensex closed at 78,428.95, down 210.08 points or 0.27%, while the NSE Nifty 50 settled at 24,614.90, lower by 159.40 points or 0.64%.
 
 ## A Volatile Session Around a New Mechanism
