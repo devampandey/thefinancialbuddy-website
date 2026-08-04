@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-04"
 ---
 
+![Government Hikes Windfall Tax on Fuel Exports Again as Crude Prices Stay Volatile](/uploads/pppp-mseg7b0c.jpg)
+
 The central government has once again raised the special additional excise duty, commonly called the windfall tax, on exports of petrol, diesel and aviation turbine fuel (ATF). The revised rates took effect from August 3, marking the second increase in less than three weeks as authorities try to keep domestic fuel supplies comfortable amid choppy global crude prices.
 
 ## What Changed
