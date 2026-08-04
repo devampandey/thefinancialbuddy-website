@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-04"
 ---
 
+![Manufacturing PMI Slips to Near Five-Year Low as Domestic Demand Cools](/uploads/eg1-mse681fh.webp)
+
 India's factory sector expanded at its slowest pace in nearly five years last month, a fresh set of survey data shows, adding a note of caution to markets that have otherwise been in a buoyant mood over the past week.
 
 ## Weakest Growth Since 2021
@@ -25,5 +27,3 @@ The slowdown in demand also showed up in hiring and purchasing activity. Employm
 The PMI print lands at a sensitive moment. It comes just as the Reserve Bank of India's rate-setting Monetary Policy Committee wraps up a three-day meeting, with the decision due Wednesday morning. Most economists still expect the central bank to hold the repo rate steady at 5.25% for a fourth consecutive meeting, but a weaker manufacturing pulse adds to the case for policymakers to keep supporting growth rather than turning restrictive. Equity markets, which have rallied for several straight sessions on easing crude prices and hopes of a US-Iran diplomatic thaw, traded in a mixed, narrow range on Tuesday morning as investors weighed the PMI data alongside a heavy slate of first-quarter corporate earnings due through the week.
 
 For retail investors, a softening PMI is a reminder to watch demand-sensitive sectors such as autos, consumer durables and cement more closely in the current earnings season, since order books and margin commentary from these companies could offer an early read on whether the slowdown deepens or proves temporary. Export-oriented manufacturers, on the other hand, may continue to see relatively better momentum if global demand holds up.
-
-This article is for informational purposes only and does not constitute financial advice. Please consult a qualified financial advisor before making investment decisions.
