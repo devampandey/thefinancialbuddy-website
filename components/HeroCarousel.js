@@ -91,7 +91,7 @@ export default function HeroCarousel({ posts }) {
             href={`/blog/${post.slug}`}
             aria-hidden={i !== index}
             tabIndex={i === index ? 0 : -1}
-            className="group/text block [grid-area:1/1]"
+            className="group/text block min-w-0 [grid-area:1/1]"
             style={{
               opacity: i === index ? 1 : 0,
               transition: `opacity ${FADE_MS}ms ease-in-out`,

@@ -59,7 +59,7 @@ export default function HomePage() {
               </div>
               <div className="mt-4 grid grid-cols-2 gap-4 sm:gap-6 lg:grid-cols-4">
                 {latest.map((post) => (
-                  <Link key={post.slug} href={`/blog/${post.slug}`} className="group">
+                  <Link key={post.slug} href={`/blog/${post.slug}`} className="group min-w-0">
                     {post.image && (
                       <div className="overflow-hidden rounded-lg border border-gray-200 dark:border-gray-800">
                         <img
@@ -72,7 +72,7 @@ export default function HomePage() {
                     <span className="mt-2 block text-xs font-medium text-brand">
                       {post.category}
                     </span>
-                    <h3 className="mt-1 text-sm font-semibold leading-snug text-navy group-hover:underline dark:text-white">
+                    <h3 className="mt-1 break-words text-sm font-semibold leading-snug text-navy group-hover:underline dark:text-white">
                       {post.title}
                     </h3>
                   </Link>
@@ -95,7 +95,12 @@ export default function HomePage() {
                 ? allPosts.slice(0, 4)
                 : getPostsByCategory(col.key).slice(0, 4);
             return (
-              <div key={col.key}>
+              // min-w-0 overrides the browser default of min-width:auto on
+              // grid items, which otherwise sizes a column to fit its
+              // widest unbreakable content instead of the actual grid
+              // track — that was letting headlines get cut off at the
+              // viewport edge on mobile instead of wrapping.
+              <div key={col.key} className="min-w-0">
                 <div className="flex items-center justify-between border-b-2 border-navy pb-2 dark:border-white">
                   <h2 className="text-lg font-bold text-navy dark:text-white">{col.key}</h2>
                   <Link href={col.href} className="text-xs font-medium text-brand hover:underline">
