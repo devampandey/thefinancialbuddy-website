@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-04"
 ---
 
+![Paytm Early Investors SAIF and Elevation Plan Rs 2,000-Crore Block Deal to Sell 2.3% Stake](/uploads/paytm-mseg35e3.jpg)
+
 Shares of One97 Communications, which runs Paytm, were in focus on Tuesday after reports emerged that early investor backers SAIF Partners and Elevation Capital are looking to sell a combined 2.3% stake in the company through a block deal worth roughly Rs 2,000 crore.
 
 ## Deal Details
