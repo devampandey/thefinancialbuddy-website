@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-05"
 ---
 
+![Sitharaman Introduces Taxation and Other Laws Amendment Bill in Lok Sabha](/uploads/sitharaman-finance-msflzm3p.jpg)
+
 Finance Minister Nirmala Sitharaman introduced the Taxation and Other Laws (Amendment) Bill, 2026, in the Lok Sabha this week, as Parliament's monsoon session took up a cluster of financial legislation. The bill seeks to further amend three pieces of existing law: the Payment and Settlement Systems Act, 2007, the Income-tax Act, 2025, and the Finance Act, 2026, folding changes across payments regulation and direct taxation into a single legislative package.
 
 ## What the Bill Covers
