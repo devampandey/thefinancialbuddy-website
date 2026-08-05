@@ -30,7 +30,7 @@ const plainLinks = {
 };
 
 const linkClass =
-  "shrink-0 px-3 py-2.5 text-xs font-bold uppercase tracking-wide text-gray-200 transition-colors hover:bg-white/10 hover:text-white sm:px-4 sm:py-3 sm:text-sm";
+  "shrink-0 px-2.5 py-2.5 text-xs font-bold uppercase tracking-wide text-gray-200 transition-colors hover:bg-white/10 hover:text-white sm:px-3 sm:py-3 sm:text-sm";
 
 // The main site navigation, styled as a bold full-width bar. "News" opens a
 // dropdown of its subsections (Markets, IPO, Technology, Business, Politics,
@@ -93,7 +93,7 @@ export default function CategoryNav() {
 
   return (
     <nav className="bg-navy">
-      <div className="mx-auto flex max-w-6xl items-stretch gap-1 overflow-x-auto px-4 sm:px-6 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+      <div className="flex w-full items-stretch gap-0.5 overflow-x-auto px-4 sm:gap-1 sm:px-6 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
         {plainLinks.before.map((link) => (
           <Link key={link.href} href={link.href} className={linkClass}>
             {link.label}
