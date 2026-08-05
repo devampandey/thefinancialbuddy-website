@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-05"
 ---
 
+![Cabinet Approves Rs 36,441 Crore Overhaul of Khelo India Scheme Ahead of 2030 CWG Bid](/uploads/khelo-1-msfuj6a8.jpg)
+
 The Union Cabinet has approved a revamped Khelo India Scheme along with enhanced Assistance to National Sports Federations, together carrying a combined outlay of Rs 36,441 crore for the period from 2026-27 to 2030-31. The government has described the package as the country's most ambitious sports development programme since Independence, underlining the scale of ambition attached to India's push to build a deeper athletic talent base over the next five years.
 
 ## How the Money Is Split
