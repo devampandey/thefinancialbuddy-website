@@ -140,6 +140,16 @@ export default function CategoryNav() {
         ))}
       </div>
 
+      {/* Edge-fade hint that there's more to scroll to. The visible
+          scrollbar above only shows up on desktop browsers — iOS Safari
+          ignores custom ::-webkit-scrollbar styling entirely and always
+          uses its own auto-hiding overlay indicator, so on a phone the nav
+          was scrolling fine but looked like text was just cut off with no
+          way to know "Technology" and beyond were reachable by swiping.
+          This gradient works on every platform regardless of scrollbar
+          support. */}
+      <div className="pointer-events-none absolute inset-y-0 right-0 w-8 bg-gradient-to-l from-navy to-transparent sm:w-10" />
+
       {open && (
         <div
           ref={panelRef}
