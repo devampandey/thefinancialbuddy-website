@@ -93,7 +93,7 @@ export default function CategoryNav() {
 
   return (
     <nav className="relative bg-navy">
-      <div className="flex w-full items-stretch gap-1 overflow-x-auto px-4 [-webkit-overflow-scrolling:touch] [scroll-behavior:smooth] [scrollbar-color:rgba(255,255,255,0.35)_transparent] [scrollbar-width:thin] sm:px-6 [&::-webkit-scrollbar]:h-1.5 [&::-webkit-scrollbar-thumb]:rounded-full [&::-webkit-scrollbar-thumb]:bg-white/30 [&::-webkit-scrollbar-track]:bg-transparent">
+      <div className="mx-auto flex w-fit max-w-full items-stretch gap-1 overflow-x-auto px-4 [-webkit-overflow-scrolling:touch] [scroll-behavior:smooth] [scrollbar-color:rgba(255,255,255,0.35)_transparent] [scrollbar-width:thin] sm:px-6 [&::-webkit-scrollbar]:h-1.5 [&::-webkit-scrollbar-thumb]:rounded-full [&::-webkit-scrollbar-thumb]:bg-white/30 [&::-webkit-scrollbar-track]:bg-transparent">
         {plainLinks.before.map((link) => (
           <Link key={link.href} href={link.href} className={linkClass}>
             {link.label}
