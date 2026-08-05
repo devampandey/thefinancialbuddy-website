@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-05"
 ---
 
+![Sensex, Nifty Edge Higher on RBI Verdict Day as IndiGo Leads Gainers](/uploads/sensex-nifty-msfm116s.webp)
+
 Indian equity benchmarks opened on a firmer note on Wednesday, August 5, as traders squared positions ahead of the Reserve Bank of India's monetary policy verdict due later in the day. The BSE Sensex climbed roughly 300 points in early trade, while the Nifty 50 pushed past the 24,600 mark, extending a cautiously optimistic mood that has coloured the market through the week.
 
 ## RBI Decision Awaited
