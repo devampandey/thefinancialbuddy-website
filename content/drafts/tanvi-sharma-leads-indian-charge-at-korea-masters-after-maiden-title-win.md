@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-05"
 ---
 
+![Tanvi Sharma Leads India's Charge at Korea Masters After Maiden Title Win](/uploads/tanvi-sharma-badinton-1785657798395-d-msg7bole.webp)
+
 India's badminton contingent has landed in Asan, South Korea, for the Korea Masters 2026, a BWF Super 300 event running from August 4 to 9, with 17-year-old Tanvi Sharma arriving as the standout name after claiming her first World Tour title just days earlier.
 
 ## A Breakthrough in Taipei
