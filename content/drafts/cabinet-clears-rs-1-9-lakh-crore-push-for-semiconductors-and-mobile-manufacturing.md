@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-05"
 ---
 
+![Cabinet Clears Rs 1.9 Lakh Crore Push for Semiconductors and Mobile Manufacturing](/uploads/semiconductor-msfuhje1.webp)
+
 The Union Cabinet has approved two large manufacturing schemes aimed at strengthening India's electronics and semiconductor base, together carrying an outlay of close to Rs 1.9 lakh crore. The Cabinet Committee on Economic Affairs cleared Semicon India Programme 2.0 with roughly Rs 1.275 lakh crore in support, alongside a separate Mobile Phone Manufacturing Scheme worth Rs 62,500 crore, marking one of the government's most significant industrial policy moves of the year.
 
 ## Building on the First Semiconductor Push
