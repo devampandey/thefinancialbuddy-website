@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-05"
 ---
 
+![DLF Q1 FY27: Profit Rises 4% to Rs 794 Crore Despite Sharp Revenue Decline](/uploads/dlf-fb-msfm4c7h.webp)
+
 DLF, India's largest listed real estate developer, reported a 4 percent rise in net profit to Rs 794 crore for the first quarter of FY27, even as revenue from operations fell sharply on a year-on-year basis. The results, announced for the quarter ended June 30, 2026, illustrate a pattern increasingly common among real estate developers: profit growth holding up even when reported revenue swings widely, largely because of how and when projects are recognised in the accounts.
 
 ## Revenue Down, Profit Up
