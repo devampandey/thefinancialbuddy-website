@@ -4,6 +4,7 @@ date: "2026-08-05T16:33:45.795Z"
 category: "Newsletter"
 description: "RBI holds rates, Sensex and Nifty post a strong weekly gain, chips get a Rs 1.9 lakh crore push, and Manipal Health surprises on debut."
 author: "The Financial Buddy Team"
+pdf: "/chai-charts/issue-1.pdf"
 ---
 
 Welcome to the very first cup of Chai & Charts — this week, the RBI played it safe, the market didn't, and a hospital chain out-debuted everyone's expectations.
