@@ -23,6 +23,7 @@ const plainLinks = {
   before: [{ href: "/", label: "Home" }],
   after: [
     { href: "/blog", label: "Latest News" },
+    { href: "/chai-charts", label: "Chai & Charts" },
     { href: "/lifestyle", label: "Lifestyle" },
     { href: "/tools", label: "Tools" },
   ],

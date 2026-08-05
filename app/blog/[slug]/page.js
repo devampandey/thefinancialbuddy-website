@@ -145,8 +145,17 @@ export default function BlogPostPage({ params }) {
       </div>
       <h1 className="mt-3 text-3xl font-bold text-navy dark:text-white">{post.title}</h1>
 
-      <div className="mt-4">
+      <div className="mt-4 flex flex-wrap items-center gap-3">
         <BookmarkButton slug={post.slug} title={post.title} />
+        {post.pdf && (
+          <a
+            href={post.pdf}
+            download
+            className="inline-flex items-center gap-1.5 rounded-lg border border-navy px-3 py-1.5 text-sm font-semibold text-navy transition-colors hover:bg-navy hover:text-white dark:border-white dark:text-white dark:hover:bg-white dark:hover:text-navy"
+          >
+            Download PDF
+          </a>
+        )}
       </div>
 
       <div
