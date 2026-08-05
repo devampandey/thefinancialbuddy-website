@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-05"
 ---
 
+![MV Electrosystems IPO Sees Massive 200x Oversubscription Ahead of August 6 Listing](/uploads/mv-electrosystems-ipo-gmp-today-details-1785383342607-1785383342779-88a04149-fdd-msge5avh.webp)
+
 MV Electrosystems Limited is set to make its stock market debut on August 6, following one of the more emphatic subscription numbers seen in this year's IPO calendar. The mainboard issue, which closed for public bidding on August 3, was subscribed roughly 200.66 times overall, reflecting exceptionally strong demand across investor categories.
 
 ## Breaking Down the Subscription Numbers
