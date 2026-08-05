@@ -102,3 +102,65 @@ body > * {
 .dark .prose-financial img {
   border-color: #374151;
 }
+
+/* Markdown tables (e.g. Chai & Charts' weekly numbers table) had no styling
+   at all before this, so they rendered as bare, unbordered text with no
+   column separation. Wrapped in a scroll container so a wide table never
+   breaks mobile layout the way the market ticker once did. */
+.prose-financial .table-wrap {
+  margin: 1.5rem 0;
+  overflow-x: auto;
+  border-radius: 0.5rem;
+  border: 1px solid #e5e7eb;
+}
+
+.dark .prose-financial .table-wrap {
+  border-color: #374151;
+}
+
+.prose-financial table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.prose-financial th,
+.prose-financial td {
+  padding: 0.65rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb;
+  white-space: nowrap;
+}
+
+.dark .prose-financial th,
+.dark .prose-financial td {
+  border-color: #374151;
+}
+
+.prose-financial thead th {
+  background: #1f3864;
+  color: #ffffff;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.03em;
+}
+
+.prose-financial tbody tr:nth-child(even) {
+  background: #f8fafc;
+}
+
+.dark .prose-financial tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.prose-financial tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Gives whatever immediately follows a table (usually the closing
+   disclaimer) breathing room instead of sitting flush against it. */
+.prose-financial table + p,
+.prose-financial .table-wrap + p {
+  margin-top: 1.5rem;
+}
