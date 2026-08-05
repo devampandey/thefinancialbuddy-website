@@ -36,7 +36,10 @@ const columns = [
 ];
 
 export default function HomePage() {
-  const allPosts = getAllPosts();
+  // Chai & Charts issues have their own dedicated page (/chai-charts) and
+  // shouldn't compete with regular articles for the homepage hero, Latest
+  // grid, or News column.
+  const allPosts = getAllPosts().filter((post) => post.category !== "Newsletter");
   // The hero rotates through the most recent posts automatically instead of
   // pinning a single one until the next publish — see HeroCarousel. "Latest"
   // below picks up right after those so the same story doesn't appear twice.
