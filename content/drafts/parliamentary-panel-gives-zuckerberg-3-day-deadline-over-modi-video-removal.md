@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-05"
 ---
 
+![Parliamentary Panel Gives Zuckerberg Three-Day Deadline Over Modi Video Removal](/uploads/modi-vs-meta-msg7diz6.webp)
+
 India's parliamentary standing committee on information technology has given Meta chief executive Mark Zuckerberg three days to personally apologize over the temporary removal of a Facebook video featuring Prime Minister Narendra Modi, warning that failure to comply could trigger a review of the platform's legal protections in India.
 
 ## What Happened to the Video
