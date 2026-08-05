@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-05"
 ---
 
+![Manipal Health Enterprises Set for Muted Stock Market Debut Today](/uploads/manipal-health-msfm2ccl.webp)
+
 Shares of Manipal Health Enterprises begin trading on the NSE and BSE today, August 5, capping one of the largest hospital-chain listings the Indian primary market has seen in recent years. The Bengaluru-based operator, part of the Manipal Group founded by T.M.A. Pai, priced its Rs 9,275 crore initial public offering at Rs 590 per share, the top end of its Rs 560-590 band, after closing its three-day bidding window on July 31.
 
 ## A Big Issue, a Soft Grey-Market Signal
