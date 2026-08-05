@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-05"
 ---
 
+![Manipal Health Shares Jump 11% on Debut, Defying Muted Grey-Market Expectations](/uploads/manipal-msfugf8l.webp)
+
 Manipal Health Enterprises delivered a stronger stock market debut than most analysts had expected on August 5, with shares listing at an 11 percent premium to their issue price despite a grey market signal that had pointed toward a largely flat opening. The stock listed at Rs 655 on the BSE against its Rs 590 issue price, a gain of just over 11 percent, while on the NSE it opened at Rs 652, up around 10.5 percent.
 
 ## A Debut That Beat the Signals
