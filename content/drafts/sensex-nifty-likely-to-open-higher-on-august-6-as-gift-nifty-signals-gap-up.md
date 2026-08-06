@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-06"
 ---
 
+![Sensex, Nifty Likely to Open Higher on August 6 as GIFT Nifty Signals Gap-Up](/uploads/sensex-nifty-msh0tqs9.webp)
+
 Indian equity benchmarks are set for a positive start on Thursday, August 6, with early indicators pointing to a gap-up open even as global cues remain mixed. GIFT Nifty futures were trading with a premium of roughly 40 points over the previous Nifty close in early trade, suggesting buying interest is likely to carry into the domestic session.
 
 ## What Overnight Cues Suggest
