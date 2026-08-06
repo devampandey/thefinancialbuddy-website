@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-06"
 ---
 
+![Sensex, Nifty Open Higher on August 6 as IT Stocks Lead the Charge](/uploads/sensex-nifty-mshb95zb.webp)
+
 Indian equity benchmarks opened Thursday's session, August 6, on a firmer note, with the BSE Sensex gaining around 201 points, or 0.25 percent, to start at 78,782.43, while the Nifty 50 added about 16 points to open near 24,641. The move followed a session in which the Sensex had closed at 78,581 and the Nifty at 24,624.65, and came against a backdrop of easing crude oil prices and cautious optimism around global cues.
 
 ## Technology Stocks Set the Pace
