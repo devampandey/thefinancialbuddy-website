@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-06"
 ---
 
+![Trent Q1 FY27: Consolidated Net Profit Jumps 22% to Rs 518 Crore on Strong Retail Growth](/uploads/trentq1fy27-20260806082402-mshnqjfz.webp)
+
 Trent Ltd, the Tata Group-owned retail chain behind Westside and Zudio, reported a strong start to fiscal year 2027, with consolidated net profit rising 21.98% year-on-year to Rs 518.07 crore for the quarter ended June 30, 2026, up from Rs 424.70 crore in the same period last year.
 
 ## Revenue and Profitability
