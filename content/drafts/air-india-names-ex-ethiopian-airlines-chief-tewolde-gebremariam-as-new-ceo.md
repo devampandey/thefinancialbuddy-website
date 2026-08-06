@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-06"
 ---
 
+![Air India Names Ex-Ethiopian Airlines Chief Tewolde Gebremariam as New CEO](/uploads/air-india-ceo-msh0wxfb.webp)
+
 Air India has named Tewolde Gebremariam, the long-serving former chief executive of Ethiopian Airlines, as its new Chief Executive Officer and Managing Director. He takes over from Campbell Wilson, who is exiting the carrier, marking one of the most closely watched leadership transitions in Indian aviation since the Tata Group took over the airline.
 
 ## Who Is the New Chief
