@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-06"
 ---
 
+![Tanvi Sharma Storms Into Korea Masters Quarterfinals as Anmol Kharb Bows Out](/uploads/tanvi-sharma-badinton-1785657798395-d-mshnsaoo.webp)
+
 India's campaign at the Korea Masters 2026 badminton tournament produced a mixed day on Thursday, with rising star Tanvi Sharma booking her place in the women's singles quarterfinals while compatriot Anmol Kharb was knocked out in the second round.
 
 ## Tanvi Sharma Wins All-Indian Battle
