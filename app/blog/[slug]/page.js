@@ -32,9 +32,34 @@ export function generateStaticParams() {
 export function generateMetadata({ params }) {
   const post = getPostBySlug(params.slug);
   if (!post) return {};
+  const imageUrl = absoluteImageUrl(post.image);
+  const pageUrl = `${SITE_URL}/blog/${post.slug}`;
+
+  // Without these, a shared link has nothing for Twitter/X, LinkedIn,
+  // WhatsApp, etc. to build a preview card from — the page had a title and
+  // description for search engines, but nothing telling social platforms
+  // which image to use, so shared links rendered as plain text instead of
+  // the headline + image card real news sites get.
   return {
     title: post.title,
     description: post.description,
+    alternates: { canonical: pageUrl },
+    openGraph: {
+      title: post.title,
+      description: post.description,
+      url: pageUrl,
+      siteName: "The Financial Buddy",
+      type: "article",
+      publishedTime: post.date || undefined,
+      authors: post.author ? [post.author] : undefined,
+      ...(imageUrl ? { images: [{ url: imageUrl, width: 1200, height: 630, alt: post.title }] } : {}),
+    },
+    twitter: {
+      card: imageUrl ? "summary_large_image" : "summary",
+      title: post.title,
+      description: post.description,
+      ...(imageUrl ? { images: [imageUrl] } : {}),
+    },
   };
 }
 
