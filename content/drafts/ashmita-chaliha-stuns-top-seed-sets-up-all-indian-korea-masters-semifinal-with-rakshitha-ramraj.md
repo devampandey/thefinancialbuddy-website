@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-07"
 ---
 
+![Ashmita Chaliha Stuns Top Seed, Sets Up All-Indian Korea Masters Semifinal With Rakshitha Ramraj](/uploads/korea-masters-2026-results-ashmita-chaliha-stuns-top-seed-hina-akechi-sets-up-al-msiy92d5.jpg)
+
 India's women's singles badminton contingent produced its best day of the Korea Masters 2026 on Friday, as Ashmita Chaliha and Rakshitha Ramraj both won their quarter-final matches to set up an all-Indian semifinal at the Yi Sun-sin Gymnasium in Asan, South Korea. The result guarantees India at least one finalist in the women's singles draw of the BWF Super 300 event and keeps alive the country's hopes of another title on the international circuit.
 
 ## Chaliha Pulls Off the Tournament's Biggest Upset
