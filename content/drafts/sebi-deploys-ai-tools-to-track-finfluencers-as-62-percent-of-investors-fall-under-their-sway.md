@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-07"
 ---
 
+![SEBI Deploys AI Tools to Track Finfluencers as 62% of Investors Fall Under Their Sway](/uploads/sebi-msiy4ucg.webp)
+
 The Securities and Exchange Board of India has begun leaning on artificial intelligence to police one of the trickiest corners of the retail investing boom: the army of social media "finfluencers" whose stock tips reach millions of Indians every day. In its FY26 annual report released this week, SEBI Chairman Tuhin Kanta Pandey laid out how the regulator has built a new generation of AI-driven supervisory technology to track unsolicited financial advice online and flag accounts that may be misleading investors.
 
 ## Why SEBI Is Turning to AI
