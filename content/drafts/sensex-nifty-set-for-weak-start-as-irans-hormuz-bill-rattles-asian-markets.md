@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-07"
 ---
 
+![Sensex, Nifty Set for Weak Start as Iran's Hormuz Bill Rattles Asian Markets](/uploads/sensex-nifty-msigs8nq.webp)
+
 Indian equity benchmarks looked headed for a soft start on Friday, August 7, with early indicators pointing to a gap-down open even as investors braced for one of the busiest days of the ongoing earnings season.
 
 ## GIFT Nifty Signals Caution
