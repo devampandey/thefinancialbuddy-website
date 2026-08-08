@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-08"
 ---
 
+![Zelensky Makes Historic First Visit to Serbia, Meets Vucic in Belgrade](/uploads/serebia-visit-mskkf165.jpg)
+
 Ukrainian President Volodymyr Zelensky travelled to Belgrade on Saturday for his first-ever official visit to Serbia, holding talks with President Aleksandar Vucic at the Palace of Serbia in a meeting notable as much for its symbolism as for its substance.
 
 ## Why the Visit Stands Out
