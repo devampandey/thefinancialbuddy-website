@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-08"
 ---
 
+![Keir Starmer Resigns as UK Prime Minister, Andy Burnham Set to Take Over](/uploads/keir-starmer-msjzzabe.jpg)
+
 Keir Starmer has resigned as prime minister of the United Kingdom, ending a tenure that began with a landslide election win just two years ago and closed amid an internal revolt within his own Labour Party. His departure sets up Britain's seventh change of prime minister in a decade, underscoring how volatile the country's politics have remained even after Labour's return to power.
 
 ## What Led to the Resignation
