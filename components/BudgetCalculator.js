@@ -82,7 +82,7 @@ export default function BudgetCalculator() {
             </dt>
             <dd
               className={`font-bold ${
-                totals.remaining >= 0 ? "text-brand" : "text-red-600"
+                totals.remaining >= 0 ? "text-green-600 dark:text-green-400" : "text-red-600"
               }`}
             >
               {currency(Math.abs(totals.remaining))}

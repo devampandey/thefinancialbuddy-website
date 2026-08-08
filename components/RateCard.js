@@ -61,7 +61,7 @@ export default function RateCard({ dataKey, unit }) {
           {hasChange && (
             <p
               className={`mt-2 text-sm font-medium ${
-                up ? "text-brand" : "text-red-600 dark:text-red-400"
+                up ? "text-green-600 dark:text-green-400" : "text-red-600 dark:text-red-400"
               }`}
             >
               {up ? "▲" : "▼"} {formatNumber(Math.abs(rate.changePercent))}% today

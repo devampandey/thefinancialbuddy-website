@@ -184,7 +184,7 @@ export default function BlogPostPage({ params }) {
       </div>
 
       <div
-        className="prose-financial mt-8 text-gray-700 dark:text-gray-300"
+        className="prose-financial mt-8 text-black dark:text-white"
         dangerouslySetInnerHTML={{ __html: post.html }}
       />
 

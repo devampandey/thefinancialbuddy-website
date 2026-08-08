@@ -92,7 +92,7 @@ export default function MonthlyRateHistory({ metal, unit }) {
               <span>{m.label}</span>
               <span
                 className={`text-xs font-medium ${
-                  rising ? "text-brand" : "text-red-600 dark:text-red-400"
+                  rising ? "text-green-600 dark:text-green-400" : "text-red-600 dark:text-red-400"
                 }`}
               >
                 {rising ? "▲" : "▼"} {Math.abs(m.trendPct).toFixed(2)}%
@@ -138,7 +138,7 @@ export default function MonthlyRateHistory({ metal, unit }) {
                   <td className="px-4 py-2 text-gray-600 dark:text-gray-400">Price trend</td>
                   <td
                     className={`px-4 py-2 text-right font-medium ${
-                      rising ? "text-brand" : "text-red-600 dark:text-red-400"
+                      rising ? "text-green-600 dark:text-green-400" : "text-red-600 dark:text-red-400"
                     }`}
                   >
                     {rising ? "Rising" : "Falling"} ({rising ? "+" : "-"}

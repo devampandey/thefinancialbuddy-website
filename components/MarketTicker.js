@@ -22,7 +22,7 @@ function TickerItem({ label, data, prefix, decimals }) {
         {data ? `${prefix || ""}${formatNumber(data.price, decimals ?? 2)}` : "—"}
       </span>
       {hasChange ? (
-        <span className={up ? "text-brand-light" : "text-red-400"}>
+        <span className={up ? "text-green-400" : "text-red-400"}>
           {up ? "▲" : "▼"} {formatNumber(Math.abs(data.changePercent))}%
         </span>
       ) : (
