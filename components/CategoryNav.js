@@ -5,11 +5,12 @@ import Link from "next/link";
 
 const NEWS_SUBSECTIONS = [
   { href: "/news", label: "Top Stories" },
+  { href: "/world", label: "World" },
   { href: "/markets", label: "Markets" },
   { href: "/ipo", label: "IPO" },
   { href: "/ai", label: "Technology" },
   { href: "/business", label: "Business" },
-  { href: "/politics", label: "Politics" },
+  { href: "/politics", label: "Politics & Policy" },
   { href: "/sports", label: "Sports" },
 ];
 
