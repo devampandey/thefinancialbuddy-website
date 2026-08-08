@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-08"
 ---
 
+![Jaiswal Falls for a Duck as Rahul and Padikkal Steady India on Day 2 vs Sri Lanka XI](/uploads/jaiswal-msk431g2.jpg)
+
 India's build-up to next week's Test series in Sri Lanka took an early hit on Saturday when Yashasvi Jaiswal was dismissed for a duck on the second day of the three-day warm-up fixture against a Sri Lanka Cricket XI in Colombo, before KL Rahul and Devdutt Padikkal steadied the innings through the first session.
 
 ## Early Setback, Then Recovery
