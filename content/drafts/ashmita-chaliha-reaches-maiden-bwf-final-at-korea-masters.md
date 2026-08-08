@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-08"
 ---
 
+![Ashmita Chaliha Reaches Maiden BWF Final at Korea Masters](/uploads/asmita-mskkre1o.jpg)
+
 India's Ashmita Chaliha booked her place in the final of the Korea Masters 2026 on Saturday, beating fellow Indian Rakshitha Ramraj in an all-Indian women's singles semifinal to reach her first-ever BWF World Tour final.
 
 ## A Hard-Fought Semifinal
