@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-08"
 ---
 
+![Delhivery's Q1 Profit Falls 65% Even as Revenue Jumps 28%](/uploads/delhivery-mega-gateway-facility-at-tauru-haryana-source-rishabh-bhatnagarbloombe-mskkknr6.webp)
+
 Logistics services provider Delhivery reported a sharp decline in quarterly profit even as its top line kept growing, in results announced on Saturday for the first quarter of FY27.
 
 ## The Numbers
