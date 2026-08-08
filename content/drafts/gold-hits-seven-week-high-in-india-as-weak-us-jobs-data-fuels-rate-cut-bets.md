@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-08"
 ---
 
+![Gold Hits Seven-Week High in India as Weak US Jobs Data Fuels Rate-Cut Bets](/uploads/gold-hits-seven-week-high-as-weak-u-s-jobs-data-dents-rate-hike-betsbr-mskkj98u.webp)
+
 Gold extended its rally into the weekend, with international prices touching their highest level in seven weeks as weaker-than-expected US employment data strengthened bets on near-term interest rate cuts from the Federal Reserve. The move has pushed Indian retail gold rates back toward record territory, with silver holding firm just below its own recent highs.
 
 ## A Sharp Weekly Rally
