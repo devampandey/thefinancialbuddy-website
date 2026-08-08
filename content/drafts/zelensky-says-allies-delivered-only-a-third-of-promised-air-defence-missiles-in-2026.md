@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-08"
 ---
 
+![Zelensky Says Allies Delivered Only a Third of Promised Air Defence Missiles in 2026](/uploads/zelen-msjzy53w.jpg)
+
 Ukrainian President Volodymyr Zelensky has said that Western allies have delivered only about a third of the air defence missiles they committed to supplying in 2026, a shortfall that comes as Russia steps up strikes on Kyiv and Ukraine's southern port infrastructure. The gap between pledged and delivered military aid is emerging as one of the more pressing concerns for Kyiv as the war grinds into its fifth year.
 
 ## The Scale of the Shortfall
