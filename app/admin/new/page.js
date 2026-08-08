@@ -20,7 +20,7 @@ export default function NewArticlePage() {
   return (
     <div className="mx-auto max-w-3xl px-6 py-16">
       <p className="text-sm font-medium text-brand">New article</p>
-      <h1 className="mt-1 text-3xl font-bold text-navy dark:text-white">Write an article</h1>
+      <h1 className="mt-1 text-3xl font-bold text-black dark:text-white">Write an article</h1>
       <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">
         Submitted articles go to the review queue — they won&apos;t appear on the live site
         until an editor approves them.

@@ -14,7 +14,7 @@ export default async function AdminDashboard() {
       <div className="flex items-center justify-between">
         <div>
           <p className="text-sm font-medium text-brand">Staff dashboard</p>
-          <h1 className="mt-1 text-3xl font-bold text-navy dark:text-white">
+          <h1 className="mt-1 text-3xl font-bold text-black dark:text-white">
             Hi {session?.name || "there"}
           </h1>
         </div>
@@ -46,7 +46,7 @@ export default async function AdminDashboard() {
         )}
       </div>
 
-      <h2 className="mt-12 text-lg font-semibold text-navy dark:text-white">Your submissions</h2>
+      <h2 className="mt-12 text-lg font-semibold text-black dark:text-white">Your submissions</h2>
       <div className="mt-4 space-y-4">
         {mine.length === 0 && (
           <p className="text-sm text-gray-500 dark:text-gray-400">

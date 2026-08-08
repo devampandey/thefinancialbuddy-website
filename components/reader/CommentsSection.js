@@ -50,7 +50,7 @@ export default function CommentsSection({ slug }) {
 
   return (
     <section className="mt-12 border-t border-gray-200 pt-8 dark:border-gray-800">
-      <h2 className="text-lg font-bold text-navy dark:text-white">
+      <h2 className="text-lg font-bold text-black dark:text-white">
         Comments {comments ? `(${comments.length})` : ""}
       </h2>
 

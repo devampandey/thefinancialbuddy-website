@@ -39,7 +39,7 @@ export default function PostRow({ post }) {
             {post.author && <span>By {post.author}</span>}
             {post.date && <span>{post.date}</span>}
           </div>
-          <h3 className="mt-2 text-lg font-semibold text-navy dark:text-white">{post.title}</h3>
+          <h3 className="mt-2 text-lg font-semibold text-black dark:text-white">{post.title}</h3>
           {post.description && (
             <p className="mt-1 text-sm text-gray-600 dark:text-gray-400">{post.description}</p>
           )}

@@ -29,7 +29,7 @@ export default function LatestNewsPage({ searchParams }) {
 
   return (
     <div className="mx-auto max-w-4xl px-6 py-16">
-      <h1 className="text-3xl font-bold text-navy dark:text-white">Latest News</h1>
+      <h1 className="text-3xl font-bold text-black dark:text-white">Latest News</h1>
 
       <div className="mt-6 flex flex-wrap gap-2">
         {categories.map((cat) => (

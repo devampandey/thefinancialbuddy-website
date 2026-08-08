@@ -22,7 +22,7 @@ export default function MetalInfoSection({ metal }) {
   return (
     <div className="space-y-6">
       <div>
-        <h3 className="text-base font-bold text-navy dark:text-white">
+        <h3 className="text-base font-bold text-black dark:text-white">
           Factors determining {metal} price in India today
         </h3>
         <p className="mt-2 text-sm leading-relaxed text-gray-600 dark:text-gray-400">{c.factors}</p>
@@ -30,25 +30,25 @@ export default function MetalInfoSection({ metal }) {
 
       {metal === "gold" && (
         <div>
-          <h3 className="text-base font-bold text-navy dark:text-white">22K vs 24K — what&apos;s the difference?</h3>
+          <h3 className="text-base font-bold text-black dark:text-white">22K vs 24K — what&apos;s the difference?</h3>
           <p className="mt-2 text-sm leading-relaxed text-gray-600 dark:text-gray-400">{c.pricing}</p>
         </div>
       )}
 
       {metal === "silver" && (
         <div>
-          <h3 className="text-base font-bold text-navy dark:text-white">Why is silver cheaper than gold?</h3>
+          <h3 className="text-base font-bold text-black dark:text-white">Why is silver cheaper than gold?</h3>
           <p className="mt-2 text-sm leading-relaxed text-gray-600 dark:text-gray-400">{c.whyCheaper}</p>
         </div>
       )}
 
       <div>
-        <h3 className="text-base font-bold text-navy dark:text-white">Where to buy {metal} in India</h3>
+        <h3 className="text-base font-bold text-black dark:text-white">Where to buy {metal} in India</h3>
         <p className="mt-2 text-sm leading-relaxed text-gray-600 dark:text-gray-400">{c.whereToBuy}</p>
       </div>
 
       <div>
-        <h3 className="text-base font-bold text-navy dark:text-white">How to invest in {label} without buying physical metal</h3>
+        <h3 className="text-base font-bold text-black dark:text-white">How to invest in {label} without buying physical metal</h3>
         <p className="mt-2 text-sm leading-relaxed text-gray-600 dark:text-gray-400">{c.trading}</p>
       </div>
     </div>

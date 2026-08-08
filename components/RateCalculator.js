@@ -57,7 +57,7 @@ export default function RateCalculator({ dataKey, referenceGrams, defaultMakingP
 
   return (
     <div className="rounded-xl border border-gray-200 p-5 dark:border-gray-800">
-      <h3 className="text-sm font-semibold text-navy dark:text-white">Calculator</h3>
+      <h3 className="text-sm font-semibold text-black dark:text-white">Calculator</h3>
 
       <div className="mt-3 grid grid-cols-1 gap-4 sm:grid-cols-3">
         <label className="block">

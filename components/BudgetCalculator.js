@@ -66,7 +66,7 @@ export default function BudgetCalculator() {
       </div>
 
       <div className="rounded-xl bg-gray-50 p-6 dark:bg-gray-800">
-        <h3 className="text-lg font-semibold text-navy dark:text-white">Your breakdown</h3>
+        <h3 className="text-lg font-semibold text-black dark:text-white">Your breakdown</h3>
         <dl className="mt-4 space-y-3 text-sm">
           <div className="flex justify-between">
             <dt className="text-gray-600 dark:text-gray-400">Total income</dt>

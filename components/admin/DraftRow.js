@@ -53,7 +53,7 @@ export default function DraftRow({ draft, canApprove }) {
             {draft.author && <span>By {draft.author}</span>}
             {draft.submittedAt && <span>Submitted {draft.submittedAt}</span>}
           </div>
-          <h3 className="mt-2 text-lg font-semibold text-navy dark:text-white">{draft.title}</h3>
+          <h3 className="mt-2 text-lg font-semibold text-black dark:text-white">{draft.title}</h3>
           {draft.description && (
             <p className="mt-1 text-sm text-gray-600 dark:text-gray-400">{draft.description}</p>
           )}

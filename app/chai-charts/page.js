@@ -23,7 +23,7 @@ export default function ChaiChartsPage() {
 
   return (
     <div className="mx-auto max-w-3xl px-6 py-16">
-      <h1 className="text-3xl font-bold text-navy dark:text-white">Chai &amp; Charts</h1>
+      <h1 className="text-3xl font-bold text-black dark:text-white">Chai &amp; Charts</h1>
       <p className="mt-2 text-gray-600 dark:text-gray-400">
         The Financial Buddy&rsquo;s weekly markets and news digest — every Saturday.
       </p>

@@ -11,7 +11,7 @@ export default function MarketsPage() {
 
   return (
     <div className="mx-auto max-w-4xl px-6 py-16">
-      <h1 className="text-3xl font-bold text-navy dark:text-white">Markets</h1>
+      <h1 className="text-3xl font-bold text-black dark:text-white">Markets</h1>
       <div className="mt-8">
         <HeadlineList posts={posts} emptyMessage="No markets posts yet — first one is coming soon." />
       </div>

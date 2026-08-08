@@ -74,7 +74,7 @@ export default function EditPostPage({ params }) {
       <div className="flex flex-wrap items-start justify-between gap-3">
         <div>
           <p className="text-sm font-medium text-brand">Edit article</p>
-          <h1 className="mt-1 text-3xl font-bold text-navy dark:text-white">{post.title}</h1>
+          <h1 className="mt-1 text-3xl font-bold text-black dark:text-white">{post.title}</h1>
         </div>
         <button
           type="button"

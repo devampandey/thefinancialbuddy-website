@@ -16,7 +16,7 @@ export default async function ManagePostsPage() {
   return (
     <div className="mx-auto max-w-4xl px-6 py-16">
       <p className="text-sm font-medium text-brand">Admin</p>
-      <h1 className="mt-1 text-3xl font-bold text-navy dark:text-white">Manage articles</h1>
+      <h1 className="mt-1 text-3xl font-bold text-black dark:text-white">Manage articles</h1>
 
       {loadError ? (
         <p className="mt-2 rounded-lg bg-red-50 px-4 py-3 text-sm text-red-700 dark:bg-red-900/30 dark:text-red-300">

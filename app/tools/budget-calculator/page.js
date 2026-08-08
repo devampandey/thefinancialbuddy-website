@@ -9,7 +9,7 @@ export const metadata = {
 export default function BudgetCalculatorPage() {
   return (
     <div className="mx-auto max-w-4xl px-6 py-16">
-      <h1 className="text-3xl font-bold text-navy dark:text-white">Budget Calculator</h1>
+      <h1 className="text-3xl font-bold text-black dark:text-white">Budget Calculator</h1>
       <p className="mt-3 max-w-2xl text-gray-600 dark:text-gray-400">
         This calculator uses the 50/30/20 rule — 50% of income to needs, 30%
         to wants, and 20% to savings and debt payoff — as a benchmark. Enter

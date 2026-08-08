@@ -36,7 +36,7 @@ function LoginForm() {
 
   return (
     <div className="mx-auto flex min-h-[70vh] max-w-sm flex-col justify-center px-6 py-16">
-      <h1 className="text-2xl font-bold text-navy dark:text-white">Staff sign in</h1>
+      <h1 className="text-2xl font-bold text-black dark:text-white">Staff sign in</h1>
       <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">
         For The Financial Buddy writers and editors.
       </p>

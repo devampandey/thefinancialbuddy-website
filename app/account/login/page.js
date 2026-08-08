@@ -74,7 +74,7 @@ function LoginForm() {
   return (
     <div className="mx-auto flex min-h-[70vh] max-w-sm flex-col justify-center px-6 py-16">
       <div className="rounded-2xl border border-gray-200 bg-white p-8 shadow-sm dark:border-gray-800 dark:bg-gray-900">
-        <h1 className="text-center text-2xl font-bold text-navy dark:text-white">
+        <h1 className="text-center text-2xl font-bold text-black dark:text-white">
           Happy to see you.
         </h1>
         <p className="mt-2 text-center text-sm text-gray-600 dark:text-gray-400">

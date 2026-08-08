@@ -63,7 +63,7 @@ export default function EditDraftPage({ params }) {
   return (
     <div className="mx-auto max-w-3xl px-6 py-16">
       <p className="text-sm font-medium text-brand">Edit draft</p>
-      <h1 className="mt-1 text-3xl font-bold text-navy dark:text-white">{draft.title}</h1>
+      <h1 className="mt-1 text-3xl font-bold text-black dark:text-white">{draft.title}</h1>
       <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">
         Still a draft — saving here updates the pending submission, it doesn&apos;t publish it.
       </p>

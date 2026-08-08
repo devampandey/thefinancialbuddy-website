@@ -59,7 +59,7 @@ export default function EmiCalculator() {
       </div>
 
       <div className="rounded-xl bg-gray-50 p-6 dark:bg-gray-800">
-        <h3 className="text-lg font-semibold text-navy dark:text-white">Your EMI</h3>
+        <h3 className="text-lg font-semibold text-black dark:text-white">Your EMI</h3>
         <p className="mt-2 text-3xl font-bold text-brand">{currency(result.emi)}</p>
         <p className="text-xs text-gray-500 dark:text-gray-400">per month</p>
 

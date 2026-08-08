@@ -55,7 +55,7 @@ export default function HomePage() {
           {latest.length > 0 && (
             <div className="mt-8 border-t border-gray-200 pt-6 dark:border-gray-800 sm:mt-10">
               <div className="flex items-center justify-between">
-                <h2 className="text-lg font-bold text-navy dark:text-white">Latest</h2>
+                <h2 className="text-lg font-bold text-black dark:text-white">Latest</h2>
                 <Link href="/blog" className="text-xs font-medium text-brand hover:underline">
                   View all
                 </Link>
@@ -105,7 +105,7 @@ export default function HomePage() {
               // viewport edge on mobile instead of wrapping.
               <div key={col.key} className="min-w-0">
                 <div className="flex items-center justify-between border-b-2 border-navy pb-2 dark:border-white">
-                  <h2 className="text-lg font-bold text-navy dark:text-white">{col.key}</h2>
+                  <h2 className="text-lg font-bold text-black dark:text-white">{col.key}</h2>
                   <Link href={col.href} className="text-xs font-medium text-brand hover:underline">
                     View all
                   </Link>
@@ -124,7 +124,7 @@ export default function HomePage() {
 
       <section className="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-12">
         <div className="flex items-center justify-between">
-          <h2 className="text-2xl font-bold text-navy dark:text-white">Free tools</h2>
+          <h2 className="text-2xl font-bold text-black dark:text-white">Free tools</h2>
           <Link href="/tools" className="text-sm font-medium text-brand hover:underline">
             View all
           </Link>
@@ -136,7 +136,7 @@ export default function HomePage() {
               href={tool.href}
               className="rounded-xl border border-gray-200 p-6 transition-shadow hover:shadow-md dark:border-gray-800 dark:hover:bg-gray-800/40"
             >
-              <h3 className="text-lg font-semibold text-navy dark:text-white">{tool.title}</h3>
+              <h3 className="text-lg font-semibold text-black dark:text-white">{tool.title}</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-400">{tool.description}</p>
             </Link>
           ))}

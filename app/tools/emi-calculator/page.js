@@ -9,7 +9,7 @@ export const metadata = {
 export default function EmiCalculatorPage() {
   return (
     <div className="mx-auto max-w-4xl px-6 py-16">
-      <h1 className="text-3xl font-bold text-navy dark:text-white">EMI Calculator</h1>
+      <h1 className="text-3xl font-bold text-black dark:text-white">EMI Calculator</h1>
       <p className="mt-3 max-w-2xl text-gray-600 dark:text-gray-400">
         Enter your loan amount, interest rate, and tenure to see your fixed
         monthly payment (EMI), total amount paid, and total interest over the

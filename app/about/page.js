@@ -6,7 +6,7 @@ export const metadata = {
 export default function AboutPage() {
   return (
     <div className="mx-auto max-w-3xl px-6 py-16">
-      <h1 className="text-3xl font-bold leading-tight tracking-tight text-navy dark:text-white sm:text-4xl">
+      <h1 className="text-3xl font-bold leading-tight tracking-tight text-black dark:text-white sm:text-4xl">
         About The Financial Buddy — Practical Money News, Explained Simply
       </h1>
 

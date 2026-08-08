@@ -35,7 +35,7 @@ export default function SignupPage() {
 
   return (
     <div className="mx-auto flex min-h-[70vh] max-w-sm flex-col justify-center px-6 py-16">
-      <h1 className="text-2xl font-bold text-navy dark:text-white">Create a writer account</h1>
+      <h1 className="text-2xl font-bold text-black dark:text-white">Create a writer account</h1>
       <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">
         For new writers joining The Financial Buddy. You&apos;ll be able to write and submit
         articles for review right away.

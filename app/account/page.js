@@ -38,7 +38,7 @@ export default function AccountPage() {
       <div className="flex items-center justify-between">
         <div>
           <p className="text-sm font-medium text-brand">Your account</p>
-          <h1 className="mt-1 text-3xl font-bold text-navy dark:text-white">
+          <h1 className="mt-1 text-3xl font-bold text-black dark:text-white">
             Hi {session.name}
           </h1>
           <p className="mt-1 text-sm text-gray-500 dark:text-gray-400">{session.email}</p>
