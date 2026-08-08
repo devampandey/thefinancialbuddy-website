@@ -1,10 +1,9 @@
 ---
-title: "Chai & Charts — Issue No. 2: Steady as She Repos"
+title: "Chai & Charts - Issue No. 2: Steady as She Repos"
 category: "Newsletter"
 description: "RBI holds rates and markets rally, but PMI and FII outflows tell a shakier story. The Financial Buddy's wrap for August 2-8."
 author: "The Financial Buddy Team"
 submittedAt: "2026-08-08"
-pdf: ""
 ---
 
 The RBI kept its hand steady on rates this week, but everything around it — earnings, PMI, foreign flows, and a fair bit of politics — moved plenty.
