@@ -9,8 +9,13 @@ module.exports = {
     extend: {
       colors: {
         navy: {
-          DEFAULT: "#0B1220",
-          light: "#16233F",
+          // Matched to Financial Express's masthead blue by eye (they don't
+          // publish an official hex). Replaces the near-black navy used
+          // through the earlier WSJ-style pass — same class name so every
+          // existing text-navy/bg-navy usage across the site picks it up
+          // automatically.
+          DEFAULT: "#1457A4",
+          light: "#3D7EC9",
         },
         brand: {
           // DEFAULT is deliberately a darker antique gold, not a bright
