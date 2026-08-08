@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-08"
 ---
 
+![US Lawmaker's FCRA Criticism Draws Sharp Pushback From India](/uploads/fcra-mskkg91c.jpg)
+
 A fresh diplomatic spat has broken out between Washington and New Delhi over India's proposed changes to its foreign funding law, after a Republican member of the US House of Representatives, Riley Moore, publicly criticised the amendments and warned they could hurt India-US relations.
 
 ## What Triggered the Row
