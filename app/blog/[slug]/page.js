@@ -168,7 +168,7 @@ export default function BlogPostPage({ params }) {
         <span>{formatDate(post.date)}</span>
         {post.author && <span>By {post.author}</span>}
       </div>
-      <h1 className="mt-3 text-3xl font-bold text-navy dark:text-white">{post.title}</h1>
+      <h1 className="mt-3 text-3xl font-bold text-black dark:text-white">{post.title}</h1>
 
       <div className="mt-4 flex flex-wrap items-center gap-3">
         <BookmarkButton slug={post.slug} title={post.title} />

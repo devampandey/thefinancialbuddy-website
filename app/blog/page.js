@@ -52,7 +52,7 @@ export default function LatestNewsPage({ searchParams }) {
           <Link
             key={post.slug}
             href={`/blog/${post.slug}`}
-            className="flex items-start justify-between gap-5 py-6 transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/40"
+            className="group flex items-start justify-between gap-5 py-6 transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/40"
           >
             <div className="min-w-0 flex-1">
               <div className="flex items-center gap-3 text-xs font-medium text-gray-500 dark:text-gray-400">
@@ -62,7 +62,9 @@ export default function LatestNewsPage({ searchParams }) {
                 <span>{formatDate(post.date)}</span>
                 {post.author && <span>By {post.author}</span>}
               </div>
-              <h2 className="mt-2 text-lg font-semibold text-navy dark:text-white">{post.title}</h2>
+              <h2 className="mt-2 text-lg font-semibold text-black group-hover:text-navy dark:text-white dark:group-hover:text-navy-light">
+                {post.title}
+              </h2>
               <p className="mt-1 line-clamp-2 text-sm text-gray-600 dark:text-gray-400">
                 {post.description}
               </p>

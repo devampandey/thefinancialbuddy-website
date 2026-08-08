@@ -75,7 +75,7 @@ export default function HomePage() {
                     <span className="mt-2 block text-xs font-medium text-brand">
                       {post.category}
                     </span>
-                    <h3 className="mt-1 break-words text-sm font-semibold leading-snug text-navy group-hover:underline dark:text-white">
+                    <h3 className="mt-1 break-words text-sm font-semibold leading-snug text-black group-hover:text-navy group-hover:underline dark:text-white dark:group-hover:text-navy-light">
                       {post.title}
                     </h3>
                   </Link>

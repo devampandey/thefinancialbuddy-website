@@ -26,14 +26,16 @@ export default function HeadlineList({ posts, showCategory = false, emptyMessage
         <Link
           key={post.slug}
           href={`/blog/${post.slug}`}
-          className="block w-full min-w-0 py-4 transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/60"
+          className="group block w-full min-w-0 py-4 transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/60"
         >
           {showCategory && (
             <span className="mr-2 inline-block rounded-full bg-gray-100 px-2 py-0.5 text-xs font-medium text-brand dark:bg-gray-800">
               {post.category}
             </span>
           )}
-          <span className="break-words font-semibold text-navy dark:text-white">{post.title}</span>
+          <span className="break-words font-semibold text-black group-hover:text-navy dark:text-white dark:group-hover:text-navy-light">
+            {post.title}
+          </span>
           {post.description && (
             <p className="mt-0.5 truncate text-sm text-gray-500 dark:text-gray-400">{post.description}</p>
           )}

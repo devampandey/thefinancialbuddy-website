@@ -102,7 +102,7 @@ export default function HeroCarousel({ posts }) {
               <span>{formatDate(post.date)}</span>
               {post.author && <span>By {post.author}</span>}
             </div>
-            <h1 className="mt-2 max-w-3xl text-2xl font-bold leading-tight tracking-tight text-navy group-hover/text:underline dark:text-white sm:text-3xl md:text-4xl">
+            <h1 className="mt-2 max-w-3xl text-2xl font-bold leading-tight tracking-tight text-black group-hover/text:text-navy group-hover/text:underline dark:text-white dark:group-hover/text:text-navy-light sm:text-3xl md:text-4xl">
               {post.title}
             </h1>
             {post.description && (
