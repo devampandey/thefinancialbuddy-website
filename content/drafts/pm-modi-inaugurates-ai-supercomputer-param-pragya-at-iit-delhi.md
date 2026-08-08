@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-08"
 ---
 
+![PM Modi Inaugurates AI Supercomputer 'Param Pragya' at IIT Delhi](/uploads/pm-modi-2-mskkibu7.webp)
+
 Prime Minister Narendra Modi on Saturday inaugurated Param Pragya, a new AI-powered high-performance supercomputing facility at the Indian Institute of Technology Delhi's Sonepat campus, timing the launch to coincide with the institute's 57th convocation ceremony.
 
 ## A New Computing Backbone for Research
