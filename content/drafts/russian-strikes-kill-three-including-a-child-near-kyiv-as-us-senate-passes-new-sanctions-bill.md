@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-08"
 ---
 
+![Russian Strikes Kill Three, Including a Child, Near Kyiv as US Senate Passes New Sanctions Bill](/uploads/russi-and-kyiv-msk41zu9.jpg)
+
 Russian strikes killed three people, including a child, and wounded three others in the Kyiv region overnight into Saturday, as explosions and fires broke out across the Ukrainian capital in one of the latest bombardments in an escalating campaign against the country's cities.
 
 ## Attack Hits Kyiv's Outskirts
