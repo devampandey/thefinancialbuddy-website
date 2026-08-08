@@ -6,35 +6,28 @@ import HeaderAccountLink from "@/components/reader/HeaderAccountLink";
 
 const X_URL = "https://x.com/financialbudd";
 
-// Masthead styled after classic broadsheet mastheads (WSJ, etc.): a large
-// centered serif wordmark with utility icons pinned to the top-right corner,
-// rather than the old left-aligned logo + right-aligned icon row. The grid
-// (empty spacer / logo / icons) is what keeps the wordmark visually centered
-// regardless of how wide the icon cluster ends up being.
 export default function Header() {
   return (
     <>
       <header className="border-b border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
-        <div className="mx-auto grid max-w-6xl grid-cols-[1fr_auto_1fr] items-center gap-2 px-4 py-4 sm:px-6 sm:py-6">
-          <div aria-hidden="true" />
-
-          <Link href="/" className="flex min-w-0 items-center justify-center gap-2 sm:gap-3">
+        <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3 sm:px-6 sm:py-4">
+          <Link href="/" className="flex min-w-0 items-center gap-1.5 sm:gap-2.5">
             <img
               src="/logo-icon.svg"
               alt=""
-              width={40}
-              height={40}
-              className="h-8 w-8 shrink-0 sm:h-10 sm:w-10"
+              width={36}
+              height={36}
+              className="h-7 w-7 shrink-0 sm:h-9 sm:w-9"
             />
             <span
-              className="truncate text-lg font-bold tracking-tight text-navy dark:text-white sm:text-2xl md:text-3xl"
+              className="truncate text-base font-bold tracking-tight text-navy dark:text-white sm:text-2xl"
               style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}
             >
               The Financial Buddy
             </span>
           </Link>
 
-          <div className="flex shrink-0 items-center justify-end gap-1.5 sm:gap-3">
+          <div className="flex shrink-0 items-center gap-1.5 sm:gap-3">
             <a
               href={X_URL}
               target="_blank"
@@ -54,8 +47,8 @@ export default function Header() {
         </div>
       </header>
 
-      <CategoryPills />
       <CategoryNav />
+      <CategoryPills />
     </>
   );
 }

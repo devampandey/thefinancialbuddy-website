@@ -30,7 +30,7 @@ const plainLinks = {
 };
 
 const linkClass =
-  "shrink-0 px-3 py-2.5 text-sm font-medium text-gray-800 transition-colors hover:text-brand dark:text-gray-200 dark:hover:text-brand-light sm:px-4 sm:py-3";
+  "shrink-0 px-3 py-2.5 text-xs font-bold uppercase tracking-wide text-gray-200 transition-colors hover:bg-white/10 hover:text-white sm:px-4 sm:py-3 sm:text-sm";
 
 // The main site navigation, styled as a bold full-width bar. "News" opens a
 // dropdown of its subsections (Markets, IPO, Technology, Business, Politics,
@@ -92,8 +92,8 @@ export default function CategoryNav() {
   }, [open]);
 
   return (
-    <nav className="relative border-b border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
-      <div className="mx-auto flex w-fit max-w-full items-stretch gap-1 overflow-x-auto px-4 [-webkit-overflow-scrolling:touch] [scroll-behavior:smooth] [scrollbar-color:rgba(0,0,0,0.2)_transparent] [scrollbar-width:thin] sm:px-6 [&::-webkit-scrollbar]:h-1.5 [&::-webkit-scrollbar-thumb]:rounded-full [&::-webkit-scrollbar-thumb]:bg-gray-300 [&::-webkit-scrollbar-track]:bg-transparent">
+    <nav className="relative bg-navy">
+      <div className="mx-auto flex w-fit max-w-full items-stretch gap-1 overflow-x-auto px-4 [-webkit-overflow-scrolling:touch] [scroll-behavior:smooth] [scrollbar-color:rgba(255,255,255,0.35)_transparent] [scrollbar-width:thin] sm:px-6 [&::-webkit-scrollbar]:h-1.5 [&::-webkit-scrollbar-thumb]:rounded-full [&::-webkit-scrollbar-thumb]:bg-white/30 [&::-webkit-scrollbar-track]:bg-transparent">
         {plainLinks.before.map((link) => (
           <Link key={link.href} href={link.href} className={linkClass}>
             {link.label}
@@ -148,7 +148,7 @@ export default function CategoryNav() {
           way to know "Technology" and beyond were reachable by swiping.
           This gradient works on every platform regardless of scrollbar
           support. */}
-      <div className="pointer-events-none absolute inset-y-0 right-0 w-8 bg-gradient-to-l from-white to-transparent dark:from-gray-900 sm:w-10" />
+      <div className="pointer-events-none absolute inset-y-0 right-0 w-8 bg-gradient-to-l from-navy to-transparent sm:w-10" />
 
       {open && (
         <div
