@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-09"
 ---
 
+![Netanyahu Rejects Trump's Gaza Peace Plan, Vows No Withdrawal Until Hamas Disarms](/uploads/bdd13937-netanyahu-vows-israel-wont-withdraw-from-gaza-until-hamas-disarmed-mslxeeuh.webp)
+
 Israeli Prime Minister Benjamin Netanyahu told his cabinet on Sunday that Israel is rejecting a 15-point Gaza peace framework backed by US President Donald Trump, saying Israeli forces will not withdraw from the territory until Hamas has been "genuinely disarmed."
 
 ## What Netanyahu Said
