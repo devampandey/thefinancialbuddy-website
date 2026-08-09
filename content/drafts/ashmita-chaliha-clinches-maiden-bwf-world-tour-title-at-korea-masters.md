@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-09"
 ---
 
+![Ashmita Chaliha Clinches Maiden BWF World Tour Title at Korea Masters](/uploads/asmita-mslxg6y5.webp)
+
 Indian shuttler Ashmita Chaliha won her first BWF World Tour title on Sunday, coming from behind to beat China's Han Qianxi 14-21, 21-14, 21-14 in the women's singles final of the Korea Masters Super 300 tournament in Asan, South Korea.
 
 ## A Fightback in Asan
