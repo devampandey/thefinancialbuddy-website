@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-09"
 ---
 
+![Jaiswal's Blazing Fifty Powers India's Chase in Final Sri Lanka Warm-Up](/uploads/jaiswal-mslnssv6.jpg)
+
 India's red-ball squad wrapped up its final hit-out before the Test series against Sri Lanka with an aggressive batting display on the third and final day of the three-day practice match at the Nondescripts Cricket Club Ground in Colombo on Sunday. Opener Yashasvi Jaiswal set the tone with a blistering 61 off just 46 balls before retiring hurt, propelling India to a rapid start in their chase of a 201-run target set by Sri Lanka Cricket XI.
 
 ## A Tune-Up Built Around Padikkal and Jadeja
