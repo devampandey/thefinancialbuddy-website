@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-09"
 ---
 
+![Explosion, Fire Reported at Saudi Arabia's Jubail Gas Facility as Houthis Claim Attack](/uploads/saudi-attack-mslnuetb.webp)
+
 A loud explosion was reported early Sunday in Saudi Arabia's Jubail region, followed by claims that gas facilities in the kingdom's eastern Jubail Industrial City had been targeted and caught fire. The incident, still being pieced together by regional media hours after it occurred, adds a new flashpoint to an already volatile stretch for Gulf energy infrastructure.
 
 ## What Is Known So Far
