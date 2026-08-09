@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-09"
 ---
 
+![Iran and Oman Edge Closer to Hormuz Deal Even as a Gulf Tanker Comes Under Missile Attack](/uploads/h-ataa-mslbn8f7.jpg)
+
 Iran's government signalled on Saturday that it is nearing a deal with Oman to restore limited shipping traffic through the Strait of Hormuz, even as a fresh missile attack on a tanker in the same waterway underlined how fragile the surrounding truce still is.
 
 ## Araghchi Says Deal Is "Very Close"
