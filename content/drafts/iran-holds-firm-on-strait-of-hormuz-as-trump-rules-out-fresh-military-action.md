@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-10"
 ---
 
+![Iran Holds Firm on Strait of Hormuz as Trump Rules Out Fresh Military Action](/uploads/iran-trump-2-msmqg14e.jpg)
+
 The standoff over the Strait of Hormuz showed no signs of easing over the weekend, with Iran reiterating tough conditions for reopening the vital oil shipping route even as US President Donald Trump ruled out any fresh military offensive against Tehran, describing Washington's current posture as "low-key."
 
 ## Iran's Demands Echo the June Memorandum
