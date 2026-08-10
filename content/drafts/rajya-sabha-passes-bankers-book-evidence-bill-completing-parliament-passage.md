@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-10"
 ---
 
+![Rajya Sabha Passes Bankers' Book Evidence Bill, Completing Its Journey Through Parliament](/uploads/rajya-1239000-msngjwkf.jpg)
+
 Parliament completed the passage of the Bankers' Book Evidence Bill on Monday evening after the Rajya Sabha cleared the legislation by voice vote, days after the Lok Sabha had already approved it. The bill now awaits presidential assent before it formally replaces the 135-year-old Bankers' Book Evidence Act of 1891, a colonial-era law that had governed how financial records could be produced as evidence in Indian courts.
 
 ## Why A 19th-Century Law Needed Replacing
