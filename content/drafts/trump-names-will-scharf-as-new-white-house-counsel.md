@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-10"
 ---
 
+![Trump Names Will Scharf as New White House Counsel, Replacing David Warrington](/uploads/trump-msmqbkzu.webp)
+
 US President Donald Trump announced on Sunday that Will Scharf, currently serving as White House staff secretary, will become his new White House counsel from September 1, succeeding David Warrington, who is leaving the administration for the private sector.
 
 ## Who Is Will Scharf
