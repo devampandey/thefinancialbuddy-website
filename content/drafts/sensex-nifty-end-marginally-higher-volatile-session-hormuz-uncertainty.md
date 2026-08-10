@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-10"
 ---
 
+![Sensex, Nifty End Marginally Higher After Choppy Session as Hormuz Uncertainty Persists](/uploads/sensex-nifty-msnggxrk.webp)
+
 Indian benchmark indices closed Monday's session little changed after spending most of the day trapped in a narrow range, as investors weighed a supportive earnings season against renewed unease over crude oil prices and the unresolved standoff around the Strait of Hormuz. The Sensex added 43.27 points, or 0.06 percent, to settle at 78,542.44, while the Nifty 50 edged up 13.15 points, or 0.05 percent, to close at 24,583.80.
 
 ## A Session Of Fits And Starts
