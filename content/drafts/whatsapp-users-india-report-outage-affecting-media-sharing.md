@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-10"
 ---
 
+![WhatsApp Users In India Report Outage Affecting Photos, Videos And Other Media Sharing](/uploads/whatsapp-msngbzfs.jpg)
+
 WhatsApp users across India ran into trouble sending and receiving multimedia content on Monday, with outage-tracking platforms recording a sharp spike in complaints that pointed to a disruption in the app's media-handling infrastructure rather than a complete shutdown of the service.
 
 ## What Users Experienced
