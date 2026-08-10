@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-10"
 ---
 
+![Vodafone Idea's Q1 Loss Narrows to Rs 3,754 Crore, Company Posts First Subscriber Gain Since Merger](/uploads/vodadone-msngdtos.jpg)
+
 Vodafone Idea reported a consolidated net loss of Rs 3,754 crore for the April-June quarter of FY27, a 43 percent improvement from the Rs 6,608 crore loss it posted in the same quarter last year, as India's third-largest telecom operator continues its slow climb back from years of financial distress.
 
 ## Revenue And Margins Move In The Right Direction
