@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-10"
 ---
 
+![7.4-Magnitude Earthquake Strikes Western Colombia, Killing Dozens And Triggering Evacuations](/uploads/earthquake-msngkmqc.jpg)
+
 A powerful earthquake measuring 7.4 in magnitude struck western Colombia early Monday morning, killing dozens of people, damaging buildings across several cities and sending residents in both Colombia and neighbouring Ecuador rushing out of homes and offices as the ground shook.
 
 ## Where And How Strong
