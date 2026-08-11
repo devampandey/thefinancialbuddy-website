@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-11"
 ---
 
+![Siemens India Q1 FY27: Profit Falls 18% to Rs 343 Crore Despite Strong Order Growth](/uploads/siemens-msosar2z.webp)
+
 Siemens Ltd, the Indian arm of the German industrial and infrastructure conglomerate, reported a decline in quarterly profit even as its top line and order book expanded, underscoring the margin pressure many capital goods manufacturers are grappling with this earnings season.
 
 ## The Numbers
