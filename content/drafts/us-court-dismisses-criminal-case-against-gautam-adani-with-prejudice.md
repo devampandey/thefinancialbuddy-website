@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-11"
 ---
 
+![US Court Dismisses Criminal Case Against Gautam Adani, Stocks Rally](/uploads/gautam-adani-enterprises-mso69gqw.webp)
+
 A US federal judge has dismissed criminal charges against Indian billionaire Gautam Adani, his nephew Sagar Adani and fellow group executive Vneet Jaain, closing out one of the most consequential legal challenges the conglomerate has faced in recent years and sending Adani Group stocks higher in early trade on Tuesday.
 
 The dismissal, issued by the US District Court for the Eastern District of New York, was granted "with prejudice," meaning the case cannot be reopened or refiled based on the same allegations. Adani Green Energy informed Indian stock exchanges that the order was passed following a motion by the US Department of Justice, which had itself sought the dismissal after what it described as a fresh review of the case.
