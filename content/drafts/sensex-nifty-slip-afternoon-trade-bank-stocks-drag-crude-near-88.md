@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-11"
 ---
 
+![Sensex, Nifty Slip in Afternoon Trade as Bank Stocks Drag, Crude Nears $88](/uploads/sensex-and-nifty-msoofflw.webp)
+
 Indian equity benchmarks stayed under pressure through Tuesday afternoon, with the Sensex and Nifty extending their morning losses as banking stocks led the retreat and rising crude oil prices added to investor caution.
 
 ## Banks Weigh on the Index
