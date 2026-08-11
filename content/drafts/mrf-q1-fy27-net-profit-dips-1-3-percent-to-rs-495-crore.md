@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-11"
 ---
 
+![MRF Q1 FY27: Net Profit Dips 1.3% to Rs 495 Crore Despite Strong Revenue Growth](/uploads/mrf-msoogpcg.webp)
+
 Tyre manufacturer MRF Limited reported its first-quarter results for fiscal year 2027 on Tuesday, posting a slight decline in profitability even as revenue climbed at a healthy clip, with rising input costs squeezing margins during the June quarter.
 
 ## Profit Slips as Costs Rise
