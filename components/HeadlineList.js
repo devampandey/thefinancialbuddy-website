@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { getPostUrl } from "@/lib/categories";
 
 function formatDate(dateStr) {
   if (!dateStr) return "";
@@ -25,7 +26,7 @@ export default function HeadlineList({ posts, showCategory = false, emptyMessage
       {posts.map((post) => (
         <Link
           key={post.slug}
-          href={`/blog/${post.slug}`}
+          href={getPostUrl(post)}
           className="group block w-full min-w-0 py-4 transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/60"
         >
           {showCategory && (

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getAllPosts, getAllCategories } from "@/lib/blog";
+import { getPostUrl } from "@/lib/categories";
 
 export const metadata = {
   title: "Latest News",
@@ -55,7 +56,7 @@ export default function LatestNewsPage({ searchParams }) {
         {filtered.map((post) => (
           <Link
             key={post.slug}
-            href={`/blog/${post.slug}`}
+            href={getPostUrl(post)}
             className="group flex items-start justify-between gap-5 py-6 transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/40"
           >
             <div className="min-w-0 flex-1">

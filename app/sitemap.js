@@ -1,4 +1,5 @@
 import { getAllPosts } from "@/lib/blog";
+import { getPostUrl } from "@/lib/categories";
 
 // Matches the site's actual canonical host (thefinancialbuddy.com redirects
 // to www) — same host registered and verified in Search Console.
@@ -31,7 +32,7 @@ export default function sitemap() {
   const posts = getAllPosts();
 
   const postEntries = posts.map((post) => ({
-    url: `${BASE_URL}/blog/${post.slug}`,
+    url: `${BASE_URL}${getPostUrl(post)}`,
     lastModified: post.date ? new Date(post.date) : new Date(),
     changeFrequency: "weekly",
     priority: 0.7,

@@ -68,7 +68,7 @@ export async function POST(request) {
     // Best-effort — never let a Bluesky hiccup fail the publish itself,
     // which just already succeeded above.
     try {
-      await postArticleToBluesky({ title: data.title, slug });
+      await postArticleToBluesky({ title: data.title, slug, category: data.category });
     } catch {
       // Ignored on purpose.
     }

@@ -1,4 +1,5 @@
 import { getAllPosts } from "@/lib/blog";
+import { getPostUrl } from "@/lib/categories";
 
 // Matches the canonical host used in app/sitemap.js — thefinancialbuddy.com
 // redirects to www, and www is what's verified in Search Console.
@@ -31,7 +32,7 @@ export async function GET() {
 
   const urls = recentPosts
     .map((post) => {
-      const loc = `${SITE_URL}/blog/${post.slug}`;
+      const loc = `${SITE_URL}${getPostUrl(post)}`;
       return `
   <url>
     <loc>${loc}</loc>

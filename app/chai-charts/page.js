@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getPostsByCategory } from "@/lib/blog";
+import { getPostUrl } from "@/lib/categories";
 
 // Paused for now, relaunching later — flip this back to true (and re-add
 // the nav link in components/CategoryNav.js) to bring the section back.
@@ -46,7 +47,7 @@ export default function ChaiChartsPage() {
           <div className="divide-y divide-gray-200 border-t border-gray-200 dark:divide-gray-800 dark:border-gray-800">
             {issues.map((issue) => (
               <div key={issue.slug} className="w-full min-w-0 py-5">
-                <Link href={`/blog/${issue.slug}`} className="group block min-w-0">
+                <Link href={getPostUrl(issue)} className="group block min-w-0">
                   <span className="break-words text-lg font-semibold text-navy group-hover:underline dark:text-white">
                     {issue.title}
                   </span>
@@ -61,7 +62,7 @@ export default function ChaiChartsPage() {
                 </Link>
                 <div className="mt-3 flex flex-wrap items-center gap-3">
                   <Link
-                    href={`/blog/${issue.slug}`}
+                    href={getPostUrl(issue)}
                     className="text-sm font-semibold text-brand hover:underline"
                   >
                     Read issue

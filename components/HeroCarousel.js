@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
+import { getPostUrl } from "@/lib/categories";
 
 // How long each slide stays up before auto-advancing, and how long the
 // crossfade between slides takes.
@@ -56,7 +57,7 @@ export default function HeroCarousel({ posts }) {
         {posts.map((post, i) => (
           <Link
             key={post.slug}
-            href={`/blog/${post.slug}`}
+            href={getPostUrl(post)}
             aria-hidden={i !== index}
             tabIndex={i === index ? 0 : -1}
             className="group/img absolute inset-0 block overflow-hidden"
@@ -88,7 +89,7 @@ export default function HeroCarousel({ posts }) {
         {posts.map((post, i) => (
           <Link
             key={post.slug}
-            href={`/blog/${post.slug}`}
+            href={getPostUrl(post)}
             aria-hidden={i !== index}
             tabIndex={i === index ? 0 : -1}
             className="group/text block min-w-0 [grid-area:1/1]"

@@ -1,4 +1,5 @@
 import { getAllPosts } from "@/lib/blog";
+import { getPostUrl } from "@/lib/categories";
 
 const SITE_URL = "https://thefinancialbuddy.com";
 
@@ -24,7 +25,7 @@ export async function GET() {
 
   const items = posts
     .map((post) => {
-      const url = `${SITE_URL}/blog/${post.slug}`;
+      const url = `${SITE_URL}${getPostUrl(post)}`;
       return `
     <item>
       <title>${escapeXml(post.title)}</title>

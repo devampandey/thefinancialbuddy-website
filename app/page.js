@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getAllPosts, getPostsByCategory } from "@/lib/blog";
+import { getPostUrl } from "@/lib/categories";
 import HeadlineList from "@/components/HeadlineList";
 import HeroCarousel from "@/components/HeroCarousel";
 import Subscribe from "@/components/Subscribe";
@@ -62,7 +63,7 @@ export default function HomePage() {
               </div>
               <div className="mt-4 grid grid-cols-2 gap-4 sm:gap-6 lg:grid-cols-4">
                 {latest.map((post) => (
-                  <Link key={post.slug} href={`/blog/${post.slug}`} className="group min-w-0">
+                  <Link key={post.slug} href={getPostUrl(post)} className="group min-w-0">
                     {post.image && (
                       <div className="overflow-hidden rounded-lg border border-gray-200 dark:border-gray-800">
                         <img
