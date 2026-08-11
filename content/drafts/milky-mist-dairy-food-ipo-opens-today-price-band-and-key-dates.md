@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-11"
 ---
 
+![Milky Mist Dairy Food IPO Opens Today: Price Band, Key Dates and What to Know](/uploads/milkymist-20260810134625-mso6atr7.webp)
+
 Milky Mist Dairy Food, one of India's better-known packaged dairy brands, opened its initial public offering for subscription on Tuesday, giving investors a three-day window to bid for shares in the Rs 1,553 crore issue.
 
 The book-built offer has been priced in a band of Rs 133 to Rs 140 per share, with a lot size of 107 shares. That means retail investors will need to commit roughly Rs 14,980 at the upper end of the price band for a single lot, a fairly accessible entry point compared with several other mainboard issues that have hit the market this year. The subscription window will remain open until August 13, giving investors three full trading days to place their bids before the book closes.
