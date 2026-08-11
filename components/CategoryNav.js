@@ -24,7 +24,10 @@ const plainLinks = {
   before: [{ href: "/", label: "Home" }],
   after: [
     { href: "/blog", label: "Latest News" },
-    { href: "/chai-charts", label: "Chai & Charts" },
+    // Chai & Charts is paused for now — relaunching later. Re-add this
+    // entry (and flip CHAI_CHARTS_ENABLED in app/chai-charts/page.js back
+    // to true) to bring it back.
+    // { href: "/chai-charts", label: "Chai & Charts" },
     { href: "/lifestyle", label: "Lifestyle" },
     { href: "/tools", label: "Tools" },
   ],

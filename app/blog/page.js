@@ -18,8 +18,12 @@ function formatDate(dateStr) {
 }
 
 export default function LatestNewsPage({ searchParams }) {
-  const posts = getAllPosts();
-  const categories = getAllCategories();
+  // Chai & Charts (category "Newsletter") is paused for now — see
+  // app/chai-charts/page.js — so its issues are excluded here the same way
+  // the homepage already excludes them, instead of leaking into the general
+  // news listing while the section is offline.
+  const posts = getAllPosts().filter((post) => post.category !== "Newsletter");
+  const categories = getAllCategories().filter((cat) => cat !== "Newsletter");
   const activeCategory = searchParams?.category || "All";
 
   const filtered =

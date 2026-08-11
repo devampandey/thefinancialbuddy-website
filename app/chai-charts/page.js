@@ -1,5 +1,12 @@
 import Link from "next/link";
+import { notFound } from "next/navigation";
 import { getPostsByCategory } from "@/lib/blog";
+
+// Paused for now, relaunching later — flip this back to true (and re-add
+// the nav link in components/CategoryNav.js) to bring the section back.
+// Existing issues and the weekly generation task are untouched, just not
+// linked to or reachable from the site while this is off.
+const CHAI_CHARTS_ENABLED = false;
 
 export const metadata = {
   title: "Chai & Charts",
@@ -19,6 +26,8 @@ function formatDate(dateStr) {
 // feed, with an extra "Download PDF" action alongside the usual "Read"
 // link when an issue has one attached.
 export default function ChaiChartsPage() {
+  if (!CHAI_CHARTS_ENABLED) notFound();
+
   const issues = getPostsByCategory("Newsletter");
 
   return (
