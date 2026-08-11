@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-11"
 ---
 
+![Dhoot Transmission IPO Fully Subscribed on Day 2 as NII, Retail Demand Surges](/uploads/dhoottt-msoolvhl.webp)
+
 The initial public offering of auto components maker Dhoot Transmission crossed the full subscription mark on the second day of bidding on Tuesday, with strong demand from non-institutional and retail investors driving the overall book past the 1x mark well ahead of the issue's closing date.
 
 ## Subscription Picks Up Pace
