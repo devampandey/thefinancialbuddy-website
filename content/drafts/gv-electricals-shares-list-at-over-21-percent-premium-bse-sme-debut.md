@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-12"
 ---
 
+![G V Electricals Shares List at Over 21% Premium in Bright BSE SME Debut](/uploads/ipo-123-mspxivzo.jpg)
+
 Shares of G V Electricals Limited made a strong debut on the BSE SME platform on Wednesday, listing well above their issue price and extending gains through early trade in a sign of continued investor appetite for smaller public offerings on India's exchanges.
 
 ## Listing Performance
