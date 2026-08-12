@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-12"
 ---
 
+![Sensex, Nifty Close Lower for Second Straight Session as Crude Oil, IT Stocks Weigh](/uploads/sensex-nifty-msqaa8dr.webp)
+
 Indian equity benchmarks closed lower for a second consecutive session on Wednesday, as firm crude oil prices and continued uncertainty over the reopening of the Strait of Hormuz kept investors cautious through the day.
 
 ## The numbers
