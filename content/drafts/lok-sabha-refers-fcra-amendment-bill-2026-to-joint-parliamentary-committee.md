@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-12"
 ---
 
+![Lok Sabha Sends FCRA Amendment Bill to Joint Parliamentary Committee Amid Opposition Uproar](/uploads/lok-sabha2017-msqaaqnh.jpg)
+
 The Lok Sabha on Wednesday approved a motion to send the Foreign Contribution (Regulation) Amendment Bill, 2026, to a 31-member Joint Parliamentary Committee for detailed examination, amid loud Opposition protests and demands that the legislation be withdrawn entirely rather than merely reviewed.
 
 ## What the motion does
