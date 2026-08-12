@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-11"
 ---
 
+![Parliamentary Panel Suggests Capping Private Hospital Room Rates at 3-Star Hotel Tariffs](/uploads/hospital-room-mspm8sga.jpg)
+
 A parliamentary panel has recommended that private hospitals in India's large metropolitan cities be barred from charging room rates higher than the average tariff of nearby three-star hotels, as part of a broader push to make healthcare more affordable and transparent.
 
 ## The recommendation
