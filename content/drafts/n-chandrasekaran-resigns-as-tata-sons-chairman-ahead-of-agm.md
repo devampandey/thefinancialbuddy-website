@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-12"
 ---
 
+![N. Chandrasekaran Resigns as Tata Sons Chairman Ahead of Contentious AGM](/uploads/chandrashekaran1-1-mspxfznm.jpg)
+
 N. Chandrasekaran has resigned as chairman of Tata Sons, India's largest conglomerate holding company, in a move that lands just days before the group's annual general meeting scheduled for August 18. The decision, confirmed on Wednesday, comes roughly six months ahead of the formal end of his term in February 2027 and throws open the question of who will lead the salt-to-software empire through its next phase.
 
 ## What Happened
