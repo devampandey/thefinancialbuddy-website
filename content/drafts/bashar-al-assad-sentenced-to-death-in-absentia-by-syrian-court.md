@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-11"
 ---
 
+![Bashar al-Assad Sentenced to Death in Absentia by Syrian Court](/uploads/basar-al-asad-mspmbllr.jpg)
+
 A criminal court in Damascus on Tuesday sentenced former Syrian president Bashar al-Assad to death in absentia, delivering the first courtroom verdict against him since he was toppled from power and fled to Russia in December 2024. The ruling marks a significant milestone for Syria's transitional authorities, who have spent the past several months prosecuting figures from the former government for crimes committed during the country's roughly 14-year civil war.
 
 ## What the court found
