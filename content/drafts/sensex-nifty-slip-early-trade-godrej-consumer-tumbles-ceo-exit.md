@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-12"
 ---
 
+![Sensex, Nifty Slip in Early Trade as Godrej Consumer Tumbles on Leadership Change](/uploads/sensex-and-nifty-msplzrkq.webp)
+
 Indian equity benchmarks opened Wednesday on a cautious note and slipped into the red within the first hour of trade, as persistent uncertainty around US-Iran negotiations and a sharp fall in Godrej Consumer Products shares weighed on sentiment. The BSE Sensex, which had opened 109 points higher at 78,263, reversed course to trade around 272 points lower at 77,882 by mid-morning, while the NSE Nifty50 slipped roughly 87 points to 24,384 after a nearly flat start.
 
 ## Godrej Consumer leads the losers
