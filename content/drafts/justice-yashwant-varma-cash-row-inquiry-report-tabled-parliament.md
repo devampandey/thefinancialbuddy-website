@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-12"
 ---
 
+![Justice Yashwant Varma Cash Row: Inquiry Report Tabled in Parliament, Recommends Removal](/uploads/justice-yashwant-varma-inquiry-withdrawal-letter-101449212-16x9-mspm1t8s.webp)
+
 The inquiry committee report into the allegations against former Delhi High Court judge Justice Yashwant Varma was tabled in both the Lok Sabha and the Rajya Sabha on Wednesday, bringing a formal end to a process that began after unaccounted cash was allegedly discovered at his official residence in March 2025. According to the day's list of business, the Secretary-General laid before Parliament both volumes of the report, in English and Hindi, along with the oral and documentary evidence recorded during the inquiry.
 
 ## How the controversy began
