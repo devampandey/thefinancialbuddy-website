@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-13"
 ---
 
+![Jubilant FoodWorks Q1 FY27 Profit Rises 6% to Rs 100 Crore as Domino's Sales Grow](/uploads/jubliant-msrekitb.webp)
+
 Jubilant FoodWorks, the master franchisee that operates Domino's Pizza in India, reported a 6% year-on-year rise in consolidated net profit to Rs 100 crore for the quarter ended June 30, 2026, as revenue climbed 14% on the back of steady store expansion and continued demand for its core pizza business.
 
 ## Steady Growth Despite Cost Pressures
