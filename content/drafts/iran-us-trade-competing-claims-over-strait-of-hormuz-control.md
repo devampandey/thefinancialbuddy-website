@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-13"
 ---
 
+![Iran and US Trade Competing Claims Over Who Controls the Strait of Hormuz](/uploads/israeil-attack-cargo-msrnclfu.webp)
+
 Iran and the United States escalated their war of words over the Strait of Hormuz on Thursday, with each side publicly insisting it holds the upper hand over the strategic waterway nearly six months into their conflict.
 
 Hossein Taeb, the newly appointed head of Iran's Basij paramilitary force, told the semi-official Fars news agency that the strait was "under Iran's control and management." He said Washington had tried to disrupt the Islamic Republic's regional standing by launching renewed military pressure around the waterway but had again failed to dislodge Iranian authority there. Taeb added that Iran would continue operating in what he described as complete security, despite what he called false claims that the country lacked an air force or navy capable of defending the passage.
