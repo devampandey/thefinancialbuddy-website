@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-13"
 ---
 
+![Parliament's Monsoon Session Ends Sine Die After Mines and Minerals Bill Clears Rajya Sabha](/uploads/rajya-1239000-msrefr2f.jpg)
+
 Parliament's Monsoon Session came to a close on Thursday as both the Lok Sabha and Rajya Sabha were adjourned sine die, bringing down the curtain on a session marked by repeated Opposition protests and frequent adjournments. The session, which convened on July 20, ultimately passed 11 of the 12 bills introduced, even as disruptions ate into scheduled business hours on multiple days.
 
 ## A Session Defined by Disruption
