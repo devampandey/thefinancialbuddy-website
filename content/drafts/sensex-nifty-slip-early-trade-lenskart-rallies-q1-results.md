@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-13"
 ---
 
+![Sensex, Nifty Slip in Early Trade Thursday as IT, Realty Stocks Weigh; Lenskart Jumps on Q1 Results](/uploads/sensex-and-nifty-msr349xe.webp)
+
 Indian equity benchmarks turned lower in early trade on Thursday, giving back an initially firmer start, as weakness in IT and realty counters offset support from a softer US inflation print and easing crude oil prices overnight.
 
 ## How the Indices Moved
