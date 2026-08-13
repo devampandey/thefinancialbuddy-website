@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-13"
 ---
 
+![Iran's IRGC Adviser Says Tehran May Drag Out War to Outlast Trump's Presidency](/uploads/trump-vs-iran-msr3bk53.webp)
+
 A senior adviser to the commander of Iran's Islamic Revolutionary Guard Corps (IRGC) has signalled that Tehran is seriously considering a strategy of deliberately extending its ongoing conflict with the United States until President Donald Trump's term in office ends, in some of the most explicit comments yet on Iran's long-term war calculus.
 
 ## What Was Said
