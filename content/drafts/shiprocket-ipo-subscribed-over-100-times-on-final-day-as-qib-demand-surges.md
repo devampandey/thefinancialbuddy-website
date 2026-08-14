@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-14"
 ---
 
+![Shiprocket IPO Subscribed Over 100 Times on Final Day as QIB Demand Surges](/uploads/ipo-123-mst9lp01.jpg)
+
 The initial public offering of e-commerce logistics platform Shiprocket concluded its three-day subscription window on Friday with overwhelming investor demand, as the issue was subscribed close to or just above 100 times, according to exchange data compiled through the close of bidding. Different data trackers put the final figure at either 99.38 times or 102.27 times, with the variance attributed to timing differences in when bid data was captured in the closing hours of trading.
 
 The Rs 1,617.49-crore book-built issue, priced in a band of Rs 92 to 97 per share, drew the bulk of its final-day surge from qualified institutional buyers (QIBs), whose portion saw a sharp jump in bidding as the window neared its close — a pattern typical of large institutional investors who often place the majority of their bids in the closing hours of an issue. Bids for the offer are reported to have totalled roughly Rs 9,104 crore by the time subscription closed.
