@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-14"
 ---
 
+![US Retail Sales Fall 0.6% in July as Consumer Sentiment Sinks to 51](/uploads/us-retail-mst9jddr.jpg)
+
 US consumers pulled back on spending sharply in July, with fresh government data released Friday showing retail sales fell 0.6% from June, the steepest monthly decline since May 2025. The drop caught economists off guard, as forecasts had pointed to a modest gain of roughly 0.1% to 0.2%.
 
 Retail and food services sales totalled $763.6 billion for the month. The pullback was broad-based but uneven: online sales recorded the sharpest fall among categories, down 2.2%, while spending at car dealerships slipped about 2%. Gasoline receipts also declined. In contrast, clothing stores, restaurants, and health and personal care retailers posted gains even as the overall headline number softened.
