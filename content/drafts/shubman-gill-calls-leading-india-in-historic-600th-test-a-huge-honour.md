@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-14"
 ---
 
+![Shubman Gill Calls Leading India in Historic 600th Test a 'Huge Honour' Ahead of Sri Lanka Series](/uploads/shubhman-gill-mst9kvna.webp)
+
 India's Test captain Shubman Gill on Friday described leading the national side in its 600th Test match as a "huge honour," made all the more special by the fact that the historic fixture against Sri Lanka begins on India's Independence Day. The first of the two-match series gets underway at the Galle International Cricket Stadium on August 15, a date that will see India become just the third team in the format's history — after England and Australia — to reach the 600-Test milestone, and the first from Asia to do so.
 
 "Captaining India in our 600th Test is a huge honour, and doing it on India's Independence Day makes it even more special," Gill said, ahead of the opening Test of the series.
