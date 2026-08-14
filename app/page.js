@@ -4,6 +4,7 @@ import { getPostUrl } from "@/lib/categories";
 import HeadlineList from "@/components/HeadlineList";
 import HeroCarousel from "@/components/HeroCarousel";
 import Subscribe from "@/components/Subscribe";
+import CricketScoreWidget from "@/components/CricketScoreWidget";
 
 // "absolute" bypasses the root layout's "%s | The Financial Buddy" title
 // template so the homepage tab shows exactly this text, not a longer
@@ -86,6 +87,13 @@ export default function HomePage() {
           )}
         </section>
       )}
+
+      {/* Self-hiding: renders nothing when there's no live/upcoming match to
+          show, so this section doesn't leave an empty gap outside cricket
+          season. */}
+      <section className="mx-auto max-w-6xl px-4 sm:px-6">
+        <CricketScoreWidget />
+      </section>
 
       <section className="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-12">
         <div className="grid items-start gap-8 sm:grid-cols-3 sm:gap-10">
