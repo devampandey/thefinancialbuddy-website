@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-13"
 ---
 
+![Godrej Industries Q1 FY27 Net Profit Falls 19% to Rs 284 Crore Despite Strong Revenue Growth](/uploads/godrej-1-mssfv9mh.webp)
+
 Godrej Industries reported a mixed set of first-quarter results on Thursday, with consolidated net profit falling 18.7 percent year-on-year to Rs 284 crore even as the company posted strong top-line growth and margin expansion for the quarter ended June 2026.
 
 ## The Numbers
