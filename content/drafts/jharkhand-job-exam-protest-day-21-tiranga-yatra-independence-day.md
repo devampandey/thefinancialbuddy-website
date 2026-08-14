@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-14"
 ---
 
+![Jharkhand Job Exam Protest Enters 21st Day; Students to Take Out Tiranga Yatra on Independence Day](/uploads/j-khand-job-exam-stir-protest-enters-21st-day-students-to-take-out-tiranga-yatra-mssunvrq.jpg)
+
 The students' protest against alleged irregularities in Jharkhand's recruitment examinations entered its 21st day on Friday, with demonstrators announcing plans to take out a "Tiranga Yatra" on August 15 to mark the country's 80th Independence Day, signalling no early end to one of the state's longest-running youth agitations in recent years.
 
 ## A Movement That Has Outlasted Government Assurances
