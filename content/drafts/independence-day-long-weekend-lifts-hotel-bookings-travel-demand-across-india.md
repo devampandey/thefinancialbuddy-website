@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-14"
 ---
 
+![Independence Day Long Weekend Lifts Hotel Bookings, Travel Demand Across India](/uploads/hotel-shambhala-manali-aleo-manali-hotels-xiymysnk2t-mst9pvp0.jpg)
+
 India's Independence Day weekend is delivering a meaningful lift to hotel occupancy and travel bookings this year, with major hospitality chains and online travel platforms reporting demand running well ahead of last year's levels, even though August 15 falls on a Saturday this time around.
 
 According to industry data reported Friday, IHG Hotels & Resorts said bookings for the long weekend are higher by 16% to 20% year-on-year across its portfolio, with the uptick extending beyond the weekend itself into the first half of the following week as travellers stretch short breaks into slightly longer getaways. Other major chains, including Wyndham Hotels & Resorts, Roseate Hotels & Resorts and Sarovar Hotels, are also reporting booking levels ahead of the comparable period last year.
