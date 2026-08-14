@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-14"
 ---
 
+![US Names India Among 40+ Nations in 'Shadow Transshipment' Network Helping China Dodge Tariffs](/uploads/donald-trump-12-mst94lug.webp)
+
 The Trump administration has accused more than 40 countries, including India, of participating in what it calls a "shadow transshipment network" that helps Chinese goods enter the United States while dodging tariffs meant to target Beijing directly. The accusation was laid out in a report published Thursday by the White House Office of Trade and Manufacturing Policy, headed by presidential trade counsellor Peter Navarro, and picked up by multiple international outlets early Friday.
 
 ## What the report claims
