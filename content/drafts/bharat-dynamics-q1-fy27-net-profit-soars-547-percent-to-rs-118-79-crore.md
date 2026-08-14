@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-14"
 ---
 
+![Bharat Dynamics Q1 FY27 Net Profit Soars 547% to Rs 118.79 Crore on Strong Order Execution](/uploads/bharat-dynamic-mst9say2.webp)
+
 Defence public sector undertaking Bharat Dynamics Limited (BDL) reported a sharp jump in its first-quarter results for FY27, with net profit surging 547.53% year-on-year to Rs 118.79 crore, the company disclosed on Friday. The results, released during trading hours, sent BDL shares modestly higher in afternoon trade as investors digested the scale of the improvement.
 
 Revenue from operations for the quarter ended June 30 rose 130.82% year-on-year to Rs 572.24 crore. On a sequential basis, revenue was up 19.17% from Rs 480.20 crore in the March quarter, indicating that the momentum was not simply a favourable year-on-year comparison but also reflected genuine quarter-on-quarter acceleration in execution.
