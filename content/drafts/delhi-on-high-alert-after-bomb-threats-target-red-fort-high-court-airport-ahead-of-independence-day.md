@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-14"
 ---
 
+![Delhi on High Alert After Bomb Threats Target Red Fort, High Court, Airport Ahead of Independence Day](/uploads/high-alert-mst9r79i.jpg)
+
 Delhi's security apparatus was thrown into high alert on Friday after a series of email bomb threats targeted some of the capital's most sensitive locations just a day before India marks its 80th Independence Day. The threats named the Red Fort, the Delhi High Court, Indira Gandhi International Airport's Terminal 3, Delhi Metro lines and trains arriving from Ambala, along with several government offices.
 
 The Delhi High Court reported receiving a threatening email warning of a bomb blast timed for 2:11 PM on August 15 — the day Prime Minister Narendra Modi is scheduled to address the nation from the Red Fort ramparts. The message invoked "Khalistan" and referenced the 1984 anti-Sikh riots, alleging that the court had failed to deliver justice in cases connected to that violence.
