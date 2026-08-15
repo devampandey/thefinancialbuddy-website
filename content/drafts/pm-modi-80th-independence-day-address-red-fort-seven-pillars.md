@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-15"
 ---
 
+![PM Modi's 80th Independence Day Address: Seven-Pillar Vision, Semiconductor Push and 2036 Olympics Bid](/uploads/pm-modi-15-aug-mstwo6mm.png)
+
 Prime Minister Narendra Modi addressed the nation from the ramparts of the Red Fort in Delhi on Saturday morning, marking India's 80th Independence Day and delivering his 13th consecutive speech from the historic site since taking office. The ceremony began with Modi's arrival at around 7:13 AM, a Guard of Honour inspection by a tri-service contingent, and the unfurling of the Tricolour at approximately 7:30 AM, accompanied by a 21-gun salute. In a first for the occasion, the national song "Vande Mataram" was sung from the ramparts to mark 150 years since its composition by Bankim Chandra Chattopadhyay.
 
 ## Seven Pillars of Development
