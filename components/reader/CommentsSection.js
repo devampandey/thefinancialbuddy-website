@@ -89,7 +89,7 @@ export default function CommentsSection({ slug }) {
       <div className="mt-6 space-y-5">
         {comments && comments.length === 0 && (
           <p className="text-sm text-gray-500 dark:text-gray-400">
-            No comments yet — be the first to share your thoughts.
+            Nobody's weighed in yet. Start the conversation.
           </p>
         )}
         {comments?.map((c) => (
