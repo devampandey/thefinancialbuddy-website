@@ -17,6 +17,31 @@ function InningsLine({ innings }) {
   );
 }
 
+function CurrentPlay({ currentPlay }) {
+  if (!currentPlay || (!currentPlay.batters?.length && !currentPlay.bowler)) return null;
+
+  return (
+    <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 border-t border-gray-100 pt-3 text-sm dark:border-gray-800">
+      {currentPlay.batters.map((b) => (
+        <span key={b.name} className="text-gray-700 dark:text-gray-300">
+          <span className={b.onStrike ? "font-semibold text-black dark:text-white" : ""}>
+            {b.name}
+            {b.onStrike && "*"}
+          </span>{" "}
+          {b.runs} ({b.balls})
+        </span>
+      ))}
+      {currentPlay.bowler && (
+        <span className="text-gray-700 dark:text-gray-300">
+          {currentPlay.bowler.name}{" "}
+          {currentPlay.bowler.overs}-{currentPlay.bowler.maidens}-{currentPlay.bowler.conceded}-
+          {currentPlay.bowler.wickets}
+        </span>
+      )}
+    </div>
+  );
+}
+
 function TeamRow({ team }) {
   return (
     <div className="flex items-center justify-between gap-3 py-2">
@@ -92,6 +117,8 @@ export default function CricketScoreWidget() {
           <TeamRow key={team.id} team={team} />
         ))}
       </div>
+
+      <CurrentPlay currentPlay={match.currentPlay} />
 
       {match.statusSummary && (
         <p className="mt-3 border-t border-gray-100 pt-3 text-sm text-gray-600 dark:border-gray-800 dark:text-gray-400">
