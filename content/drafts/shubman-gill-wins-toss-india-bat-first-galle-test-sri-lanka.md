@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-15"
 ---
 
+![Shubman Gill Wins Toss, India Opt to Bat First in Galle Test Against Sri Lanka](/uploads/shubhman-gill-mstwmy9a.webp)
+
 India's tour of Sri Lanka got underway on Saturday morning as the two sides walked out for the first Test of a two-match series at the Galle International Stadium. Shubman Gill, leading India in his new capacity as full-time red-ball captain, won the toss and elected to bat first on a surface that traditionally offers something for both fast bowlers early on and spinners as the match wears on.
 
 ## A Fresh Start for Gill's Captaincy
