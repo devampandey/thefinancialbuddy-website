@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-16"
 ---
 
+![Ukraine Launches One of War's Largest Drone Attacks on Russia, Killing at Least Six](/uploads/ukraine-drone-attack-msvzebwp.jpg)
+
 Ukraine unleashed one of its biggest aerial assaults of the nearly four-and-a-half-year war on Russia in the early hours of Sunday, sending hundreds of drones across the country and killing at least six people, according to regional Russian officials and international wire reports.
 
 ## Hundreds of Drones, Dozens of Targets
