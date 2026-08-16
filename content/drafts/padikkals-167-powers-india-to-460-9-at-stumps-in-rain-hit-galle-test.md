@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-16"
 ---
 
+![Padikkal's Career-Best 167 Powers India to 460/9 at Stumps on Rain-Hit Day 2 in Galle](/uploads/devdutt-padikkal-bcci-msw56i5w.webp)
+
 Devdutt Padikkal struck a career-best 167 to steer India to 460 for 9 at stumps on the second day of the opening Test against Sri Lanka in Galle, an innings that dominated a session drastically shortened by persistent rain.
 
 ## A day defined by the weather
