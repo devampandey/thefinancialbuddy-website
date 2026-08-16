@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-16"
 ---
 
+![Brazil's 2026 Presidential Campaign Officially Begins as Lula and Flavio Bolsonaro Face Off](/uploads/lula-msvzgac5.jpg)
+
 Brazil's official presidential campaign season began on Sunday, setting up a closely watched contest between leftist incumbent Luiz Inacio Lula da Silva and right-wing challenger Flavio Bolsonaro ahead of the country's October 4 election.
 
 ## Campaigning Begins in Earnest
