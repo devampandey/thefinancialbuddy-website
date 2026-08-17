@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-17"
 ---
 
+![Tata Sons' Chandrasekaran and Noel Tata Briefed Government Separately Amid Leadership Rift](/uploads/tat-sons-msxk3vck.webp)
+
 Tensions at the top of the Tata Group reportedly reached the highest levels of the Indian government well before outgoing Tata Sons chairman N Chandrasekaran publicly announced his decision to step down. According to a report attributed to the Times of India, Chandrasekaran and Tata Trusts chairman Noel Tata separately briefed senior government officials about their differences over the conglomerate's strategy, governance and leadership direction.
 
 The government reportedly did not initiate these conversations. Instead, both leaders approached officials on their own to raise concerns, and the government listened without formally intervening or taking sides in the internal dispute, according to the report.
