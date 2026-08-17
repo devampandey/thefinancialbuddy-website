@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-17"
 ---
 
+![Russian Court Jails Opposition Politician Lev Shlosberg for 11 Years Over Anti-War Posts](/uploads/11111-msxk6dat.jpg)
+
 A regional court in Russia's Pskov region has sentenced veteran opposition politician Lev Shlosberg to 11 years and one month in prison, marking one of the harshest penalties yet handed down under the country's wartime censorship laws. The sentence, delivered Monday, combines penalties for "discrediting" and spreading what prosecutors described as "fake news" about the Russian military.
 
 Shlosberg, a senior figure in Russia's liberal Yabloko party, pleaded not guilty throughout the proceedings, arguing instead that prosecutors were themselves violating Russian law by pursuing the case. In his final statement to the court, he described himself as a man unlawfully deprived of his liberty both before and after the verdict. State prosecutors had originally sought an even longer term of 12 years and one month.
