@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-17"
 ---
 
+![Lalithaa Jewellery Mart IPO Gets Muted Start With Under One-Time Subscription on Day 1](/uploads/ipo-msxk8olw.jpg)
+
 The initial public offering of Chennai-based jewellery retailer Lalithaa Jewellery Mart got off to a subdued start on Monday, its opening day of bidding, with the issue subscribed only about 0.72 times overall by the close of trading. The muted response stands in sharp contrast to the overwhelming demand seen for other mainboard IPOs that hit Dalal Street on the very same day.
 
 The Rs 1,700-crore offering comprises a fresh issue of Rs 1,200 crore and an offer for sale worth Rs 500 crore from existing shareholders. Shares are being offered in a price band of Rs 190 to Rs 201 apiece, with a minimum lot size of 74 shares, translating to a minimum investment of roughly Rs 14,874 for retail applicants. The issue will remain open for bidding through August 19, with listing tentatively expected around August 24.
