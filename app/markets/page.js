@@ -1,9 +1,11 @@
 import { getPostsByCategory } from "@/lib/blog";
 import HeadlineList from "@/components/HeadlineList";
+import { SITE_URL } from "@/lib/articleMeta";
 
 export const metadata = {
   title: "Markets",
   description: "Stock market and investing news from The Financial Buddy.",
+  alternates: { canonical: `${SITE_URL}/markets` },
 };
 
 export default function MarketsPage() {

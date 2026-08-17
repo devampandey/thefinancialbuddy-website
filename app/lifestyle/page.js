@@ -1,9 +1,11 @@
 import { getPostsByCategory } from "@/lib/blog";
 import HeadlineList from "@/components/HeadlineList";
+import { SITE_URL } from "@/lib/articleMeta";
 
 export const metadata = {
   title: "Lifestyle",
   description: "Sales, deals, travel, and lifestyle coverage from The Financial Buddy.",
+  alternates: { canonical: `${SITE_URL}/lifestyle` },
 };
 
 export default function LifestylePage() {

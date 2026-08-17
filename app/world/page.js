@@ -1,9 +1,11 @@
 import { getPostsByCategory } from "@/lib/blog";
 import HeadlineList from "@/components/HeadlineList";
+import { SITE_URL } from "@/lib/articleMeta";
 
 export const metadata = {
   title: "World",
   description: "World news coverage from The Financial Buddy — global markets, business, and events beyond India.",
+  alternates: { canonical: `${SITE_URL}/world` },
 };
 
 export default function WorldPage() {

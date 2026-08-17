@@ -1,11 +1,24 @@
 import Link from "next/link";
 import { getAllPosts, getAllCategories } from "@/lib/blog";
-import { getPostUrl } from "@/lib/categories";
+import { getPostUrl, CATEGORY_LINKS } from "@/lib/categories";
+import { SITE_URL } from "@/lib/articleMeta";
 
-export const metadata = {
-  title: "Latest News",
-  description: "The latest articles from The Financial Buddy — finance, markets, AI, and more.",
-};
+// /blog?category=Business shows essentially the same list as the dedicated
+// /business page — without this, Search Console flags it as a duplicate
+// with no canonical hint. Pointing the filtered view's canonical at the
+// matching category page (instead of at itself) tells Google which one is
+// authoritative, same as any other filter-view/canonical-page pair.
+export function generateMetadata({ searchParams }) {
+  const activeCategory = searchParams?.category;
+  const dedicated = activeCategory && CATEGORY_LINKS[activeCategory];
+  return {
+    title: "Latest News",
+    description: "The latest articles from The Financial Buddy — finance, markets, AI, and more.",
+    alternates: {
+      canonical: `${SITE_URL}${dedicated ? dedicated.href : "/blog"}`,
+    },
+  };
+}
 
 function formatDate(dateStr) {
   if (!dateStr) return "";

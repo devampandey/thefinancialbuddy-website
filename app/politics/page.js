@@ -1,10 +1,12 @@
 import { getPostsByCategory } from "@/lib/blog";
 import HeadlineList from "@/components/HeadlineList";
+import { SITE_URL } from "@/lib/articleMeta";
 
 export const metadata = {
   title: "Politics & Policy",
   description:
     "Politics and policy coverage from The Financial Buddy — factual, non-partisan summaries from India and around the world.",
+  alternates: { canonical: `${SITE_URL}/politics` },
 };
 
 export default function PoliticsPage() {

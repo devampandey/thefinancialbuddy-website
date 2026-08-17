@@ -1,10 +1,12 @@
 import { getPostsByCategory } from "@/lib/blog";
 import HeadlineList from "@/components/HeadlineList";
 import CricketScoreWidget from "@/components/CricketScoreWidget";
+import { SITE_URL } from "@/lib/articleMeta";
 
 export const metadata = {
   title: "Sports",
   description: "Sports news and updates from The Financial Buddy.",
+  alternates: { canonical: `${SITE_URL}/sports` },
 };
 
 export default function SportsPage() {

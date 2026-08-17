@@ -1,9 +1,11 @@
 import { getPostsByCategory } from "@/lib/blog";
 import HeadlineList from "@/components/HeadlineList";
+import { SITE_URL } from "@/lib/articleMeta";
 
 export const metadata = {
   title: "Business",
   description: "Business and personal finance coverage from The Financial Buddy.",
+  alternates: { canonical: `${SITE_URL}/business` },
 };
 
 export default function BusinessPage() {

@@ -1,9 +1,11 @@
 import { getAllPosts } from "@/lib/blog";
 import HeadlineList from "@/components/HeadlineList";
+import { SITE_URL } from "@/lib/articleMeta";
 
 export const metadata = {
   title: "News",
   description: "The latest news coverage from The Financial Buddy.",
+  alternates: { canonical: `${SITE_URL}/news` },
 };
 
 // "News" is an aggregate, newest-first feed of every article regardless of
