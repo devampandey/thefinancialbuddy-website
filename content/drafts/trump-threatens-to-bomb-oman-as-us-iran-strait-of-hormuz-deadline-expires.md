@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-17"
 ---
 
+![Trump Threatens to Bomb Oman as US-Iran Strait of Hormuz Deadline Expires](/uploads/trump-msxk1v9m.webp)
+
 US President Donald Trump issued a blunt warning to Oman on Monday, saying Washington would strike the Gulf nation if it obstructed ongoing efforts to resolve navigation disputes in the Strait of Hormuz, one of the world's most critical oil shipping corridors. The remarks came in an interview with Fox News correspondent Trey Yingst, during which Trump was asked about the status of talks between Iran and Oman over future maritime arrangements through the strait.
 
 The comments landed on the same day that a 60-day memorandum of understanding between the United States and Iran, aimed at resolving the broader standoff between the two countries, formally expired without a follow-on agreement in place. Trump told Yingst he was "not in a hurry" to finalize a permanent deal with Tehran, even as the deadline lapsed.
