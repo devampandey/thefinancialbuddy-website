@@ -1,7 +1,7 @@
 import { getAllPosts } from "@/lib/blog";
 import { getPostUrl } from "@/lib/categories";
 
-const SITE_URL = "https://thefinancialbuddy.com";
+const SITE_URL = "https://www.thefinancialbuddy.com";
 
 function escapeXml(str = "") {
   return str
