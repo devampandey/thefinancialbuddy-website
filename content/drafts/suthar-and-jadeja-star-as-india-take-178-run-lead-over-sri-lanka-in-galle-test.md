@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-17"
 ---
 
+![Suthar and Jadeja Star as India Take 178-Run Lead Over Sri Lanka in Galle Test](/uploads/suthar-and-jadeja-msxk4uwv.webp)
+
 India put themselves firmly in control of the first Test against Sri Lanka on Monday, with spinners Manav Suthar and Ravindra Jadeja combining for seven wickets to bowl the hosts out for 284 on day three at the Galle International Stadium. The result handed India a substantial 178-run first-innings lead in a match already shaping up as a statement performance for the touring side.
 
 Left-arm spinner Suthar was the standout bowler, finishing with figures of 4 for 76, striking with the very first ball he bowled in the innings and consistently extracting turn and bounce on a wearing surface. Jadeja was nearly as effective, picking up 3 for 57 to complement Suthar's effort. Persistent rain interrupted play through the day and eventually forced an early end to the session, but not before India had wrapped up the Sri Lankan innings.
