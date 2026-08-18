@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-18"
 ---
 
+![Razorpay Launches Vulcan, India's First AI Foundation Model Built For Payments](/uploads/razorpay-123-msytea4y.png)
+
 Fintech company Razorpay on Tuesday launched Razorpay Vulcan, which it describes as India's first transformer-based artificial intelligence foundation model built specifically for payments. Developed in collaboration with NVIDIA and Amazon Web Services, the model is designed to make digital transactions more reliable, secure and predictable as India's digital payments ecosystem continues to expand rapidly.
 
 ## What Makes Vulcan Different
