@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-18"
 ---
 
+![Sensex, Nifty Slide as Crude Oil Tops $91 With US-Iran Ceasefire Lapsing](/uploads/sensex-and-nifty-msyj7lmi.webp)
+
 Indian equity benchmarks ended lower on Tuesday, dragged down by a fresh spike in crude oil prices after the ceasefire between the United States and Iran lapsed without an extension. The BSE Sensex settled around 77,377, down roughly 351 points or 0.45 percent from Monday's close of 77,728, while the NSE Nifty 50 slipped below the 24,250 mark after opening near 24,224, itself about 64 points lower than the previous session.
 
 The sell-off traced back to developments in West Asia. The 60-day ceasefire window between Washington and Tehran expired with no fresh agreement in place, and reports suggested Iran could adopt a more offensive posture going forward. Prospects of a full reopening of the Strait of Hormuz, a critical corridor for global energy shipments, weakened further as a result. Brent crude climbed past $91 a barrel, touching levels last seen in late July, while US benchmark WTI crude moved above $85. For India, which imports the bulk of its crude requirements, sustained strength in oil prices raises concerns about the import bill, inflation trajectory and corporate margins, particularly for energy-intensive and transport-linked sectors.
