@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-18"
 ---
 
+![NSE Seeks Valuation Of Up To $55 Billion In What Could Be India's Biggest-Ever IPO](/uploads/nse-msytfqkk.jpg)
+
 The National Stock Exchange of India, operator of the world's largest derivatives exchange by trading volume, is seeking a valuation of as much as Rs 5.26 lakh crore, or roughly $55 billion, for its long-awaited initial public offering, according to a Bloomberg report citing people familiar with the matter. The exchange has been marketing its shares to potential investors at a price range of Rs 2,000 to Rs 2,100 apiece during a global roadshow that has now covered most major financial centres.
 
 ## Roadshow And Investor Interest
