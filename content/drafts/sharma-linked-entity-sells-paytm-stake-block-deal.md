@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-18"
 ---
 
+![Sharma-Linked Entity Sells Up to 4.98% Paytm Stake in Rs 2,949-Crore Block Deal](/uploads/paytm-drops-to-days-low-msyj62l4.webp)
+
 Paytm's parent company, One97 Communications, was in sharp focus on Tuesday after Resilient Asset Management, a Netherlands-based entity wholly owned by Paytm founder and chief executive Vijay Shekhar Sharma, moved to sell up to 4.98 percent of its holding in the company through a block deal on the exchanges.
 
 The transaction was executed at Rs 1,535.1 per share, a discount of about 2.9 percent to Paytm's previous closing price of Rs 1,580.2 on the NSE. Roughly 2.95 percent of the company's equity changed hands through the block deal window, translating into a base deal size of close to Rs 2,949 crore. While the stake sale was carried out through Resilient, the economic proceeds are structured to benefit Antfin (Netherlands) Holding, under the terms of an existing Optionally Convertible Debenture arrangement between the two entities. In effect, the transaction trims Antfin's residual financial link to Paytm even though the shares were sold through Sharma's investment vehicle.
