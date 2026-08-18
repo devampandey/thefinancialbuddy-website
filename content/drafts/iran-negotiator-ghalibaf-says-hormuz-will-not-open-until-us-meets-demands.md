@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-18"
 ---
 
+![Iran's Top Negotiator Says Strait Of Hormuz Will Stay Shut Until US Meets Demands](/uploads/iran-resist-msytgkbk.jpg)
+
 Iran's top negotiator, Mohammad Bagher Ghalibaf, said on Tuesday that the strategic Strait of Hormuz will remain closed to normal shipping until the United States fulfils the commitments it made under an interim memorandum of understanding, including lifting its naval blockade and easing economic sanctions on Tehran. His comments, delivered in a speech broadcast on Iranian state television, came just hours after a 60-day deadline for the two countries to reach a permanent peace agreement expired without a resolution.
 
 ## What Ghalibaf Said
