@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-18"
 ---
 
+![Uber Adds Train Ticket Booking To Its App In India Through ixigo Partnership](/uploads/uber-msytcmeq.jpg)
+
 Ride-hailing company Uber announced on Tuesday the launch of a train ticket booking service within its mobile app in India, built in partnership with travel platform ixigo. The new feature lets riders book train tickets, check their passenger name record status, and connect their first- and last-mile journeys, all without leaving the Uber app.
 
 ## What The Partnership Offers
