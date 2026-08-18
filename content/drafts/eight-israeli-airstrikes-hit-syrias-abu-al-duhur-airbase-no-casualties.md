@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-18"
 ---
 
+![Eight Israeli Airstrikes Hit Syria's Abu al-Duhur Airbase, No Casualties Reported](/uploads/airstrike123-msythomp.webp)
+
 Israeli fighter jets carried out eight airstrikes on the Abu al-Duhur military airbase in northwestern Syria in the early hours of Tuesday, targeting the installation's runway and storage facilities, according to Syria's state-run broadcaster Ekhbariya, which cited a military source. Both a military source and a civilian living near the base confirmed that there were no reported casualties from the strikes.
 
 ## Details Of The Strike
