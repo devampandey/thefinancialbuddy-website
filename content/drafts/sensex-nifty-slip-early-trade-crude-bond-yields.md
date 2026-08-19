@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-19"
 ---
 
+![Sensex, Nifty Slip in Early Trade as Crude Prices and Global Bond Yields Weigh on Sentiment](/uploads/sensex-nifty-mszo86d1.webp)
+
 Indian equity benchmarks opened weak on Wednesday morning, extending a losing streak that has now stretched across several sessions as investors continued to weigh elevated crude oil prices, rising global bond yields and a selloff in international chip stocks.
 
 ## Early Trade Snapshot
