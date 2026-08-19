@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-19"
 ---
 
+![Gold Jumps Over 1.5% On MCX In Evening Trade As Silver Holds Near Recent Highs](/uploads/gold-mt0eenc7.webp)
+
 Gold prices on the Multi Commodity Exchange (MCX) staged a sharp rally in Wednesday's evening session, jumping over 1.5% to reclaim levels above Rs 1.56 lakh per 10 grams, even as India's equity benchmarks closed lower for a fourth straight session on the same day.
 
 ## The Numbers
