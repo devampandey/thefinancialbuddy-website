@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-19"
 ---
 
+![Jubilant Ingrevia To Acquire 40% Stake In Deep-Tech Firm Zettaone Technologies For Rs 189 Crore](/uploads/jubliant1-mszw3m2s.webp)
+
 Specialty chemicals maker Jubilant Ingrevia's board has approved entry into a binding term sheet to acquire a 40% strategic equity stake in Zettaone Technologies India, an electronics design and manufacturing company, for a total consideration of Rs 189.2 crore. The announcement was among the stocks to watch on Dalal Street on Wednesday, with shares of Jubilant Ingrevia drawing investor attention through the session.
 
 ## Inside The Deal
