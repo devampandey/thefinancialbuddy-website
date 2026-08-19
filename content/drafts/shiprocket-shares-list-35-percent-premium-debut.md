@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-19"
 ---
 
+![Shiprocket Shares List at 35% Premium in Stellar Stock Market Debut](/uploads/shiprocket-ipo-mszo7ctq.webp)
+
 Shiprocket, the e-commerce logistics and shipping platform, made a stellar debut on Indian stock exchanges on Wednesday, with its shares listing at a roughly 35% premium over its issue price, handing early investors a strong first-day gain.
 
 ## Listing Details
