@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-19"
 ---
 
+![Horizon Industrial Parks' Rs 2,600 Crore IPO Sees Tepid Subscription On Closing Day](/uploads/horizon-mszw6fnl.jpg)
+
 The initial public offering of Horizon Industrial Parks, a Blackstone-backed industrial and warehousing developer, closed for subscription on Wednesday after a three-day bidding window that ran from August 17, drawing a notably muted response from investors relative to its Rs 2,600 crore issue size.
 
 ## Subscription Details
