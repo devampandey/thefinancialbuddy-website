@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-19"
 ---
 
+![CtrlS Datacenters Raises Rs 250 Crore From Nikhil Kamath, Sreeram Reddy Vanga](/uploads/nikhil-kamath-mt0dkc50.jpg)
+
 Hyderabad-based hyperscale data centre operator CtrlS Datacenters has raised Rs 250 crore in fresh capital, with Zerodha co-founder Nikhil Kamath contributing around Rs 200 crore and entrepreneur Sreeram Reddy Vanga putting in the remaining roughly Rs 50 crore. The investment adds two prominent individual backers to a company that has increasingly positioned itself at the centre of India's build-out of AI and cloud infrastructure.
 
 ## Where the Money Goes
