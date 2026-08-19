@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-19"
 ---
 
+![Gaja Alternative Asset Management IPO Off To A Solid Start On Day One](/uploads/ipo-mt0eg64u.jpg)
+
 The initial public offering of Gaja Alternative Asset Management opened for subscription on Wednesday, drawing solid early demand from retail investors even as overall subscription numbers stayed modest through the first day of bidding.
 
 ## The Offer
