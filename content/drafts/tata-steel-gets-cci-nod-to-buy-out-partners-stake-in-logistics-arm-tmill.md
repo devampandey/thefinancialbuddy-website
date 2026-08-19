@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-19"
 ---
 
+![Tata Steel Gets CCI Nod To Buy Out German Partner's Stake In Logistics Arm TMILL](/uploads/tata-steel-mt0e8nl4.webp)
+
 The Competition Commission of India (CCI) has approved Tata Steel's acquisition of the entire 23% equity stake held by Germany's IQ Martrade Holding Und Management GmbH in TM International Logistics Limited (TMILL), clearing the way for the steel major to consolidate control of one of its key logistics arms.
 
 ## The Deal
