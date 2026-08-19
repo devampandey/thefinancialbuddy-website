@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-19"
 ---
 
+![L&T Technology Services Secures $75 Million Five-Year Engineering Deal](/uploads/lnt-mszw2ix2.jpg)
+
 L&T Technology Services (LTTS) announced Wednesday that it has secured a five-year engagement valued at more than $75 million, roughly Rs 718 crore, from a leading global technology enterprise. The company did not name the client, saying its identity could not be disclosed under the terms of the agreement.
 
 ## Scope Of The Engagement
