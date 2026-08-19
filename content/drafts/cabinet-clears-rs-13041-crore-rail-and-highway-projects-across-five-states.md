@@ -6,7 +6,7 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-19"
 ---
 
-![Cabinet Clears Rs 13,041 Crore Rail And Highway Push Across Five States](/uploads/infra-mt0ehpq9.jpg)
+![Cabinet Clears Rs 13,041 Crore Rail And Highway Push Across Five States](/uploads/infra-mt0eiadg.jpg)
 
 The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Narendra Modi, on Wednesday cleared five railway and highway infrastructure projects worth a combined Rs 13,041 crore, spread across five states, in the government's latest push to expand transport capacity ahead of the coming festive and winter construction season.
 
