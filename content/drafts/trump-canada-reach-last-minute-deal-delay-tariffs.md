@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-19"
 ---
 
+![Trump Says US and Canada Reach Last-Minute Deal to Delay 50% Tariffs on Canadian Goods](/uploads/trump-mszo6tor.webp)
+
 President Donald Trump announced late Tuesday that the United States and Canada had reached a last-minute agreement to delay a scheduled 50% tariff on roughly $20 billion worth of Canadian imports, pulling back from a trade confrontation just hours before the new duties were due to take effect.
 
 ## A Deadline Averted
