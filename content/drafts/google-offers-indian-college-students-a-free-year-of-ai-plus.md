@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-20"
 ---
 
+![Google Offers Indian College Students A Free Year Of AI Plus, New Gemini Study Tools](/uploads/google-mt1qnzv1.jpg)
+
 Google has rolled out a fresh set of student-focused offers on its AI subscription plans in India, giving eligible college students free access to Google AI Plus for a year while introducing a suite of new Gemini-powered learning tools aimed at classroom and exam preparation.
 
 ## What's on offer
