@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-20"
 ---
 
+![PV Sindhu's World Championship Medal Bid Ends In 88-Minute Battle vs Wang Zhi Yi](/uploads/pv-mt1ty0p0.webp)
+
 PV Sindhu's campaign for a sixth World Championships medal came to an end on Thursday, as the two-time Olympic medallist lost an 88-minute pre-quarterfinal battle to third seed Wang Zhi Yi of China at the BWF World Championships being held in New Delhi.
 
 ## How The Match Unfolded
