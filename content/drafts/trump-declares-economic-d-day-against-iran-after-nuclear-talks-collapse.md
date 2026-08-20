@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-20"
 ---
 
+![Trump Declares 'Economic D-Day' Against Iran After Nuclear Talks Collapse](/uploads/trump-mt11dc1e.webp)
+
 US President Donald Trump announced what he called an "Economic D-Day" against Iran on Wednesday evening, threatening severe financial consequences for any country, bank, or company that helps Tehran evade the sweeping sanctions regime Washington has built up since the collapse of nuclear negotiations.
 
 ## What Trump Said
