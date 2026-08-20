@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-20"
 ---
 
+![Gold Hits Fresh Record High On MCX As Sensex, Nifty Also Rebound](/uploads/gold-mt1u0fnc.webp)
+
 Gold prices on the Multi Commodity Exchange touched a fresh record high on Thursday, with the metal climbing to an intraday peak of roughly ₹1,58,750 per 10 grams before easing slightly to settle around ₹1,57,655, extending a rally that has pushed domestic bullion prices to their highest levels on record.
 
 ## The Numbers
