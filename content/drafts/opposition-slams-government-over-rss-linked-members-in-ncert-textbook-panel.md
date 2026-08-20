@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-20"
 ---
 
+![Opposition Slams Government Over RSS-Linked Members in NCERT Textbook Panel](/uploads/ncert-mt1ql6my.webp)
+
 Opposition parties on Thursday accused the central government of trying to influence India's school curriculum after the National Council of Educational Research and Training reconstituted the team responsible for developing new political science textbooks for Classes 11 and 12, with critics flagging the inclusion of members allegedly linked to the Rashtriya Swayamsevak Sangh.
 
 ## What Changed
