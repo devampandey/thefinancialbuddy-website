@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-20"
 ---
 
+![Russian Missile-and-Drone Barrage Kills at Least 12 in Kyiv, Damages Children's Hospital](/uploads/drone-attack-mt1qj6kz.jpg)
+
 Russia launched one of its heaviest combined missile-and-drone assaults on Kyiv in recent weeks overnight into Thursday, killing at least 12 people and wounding dozens more as explosions rocked the Ukrainian capital for hours, according to Ukrainian authorities and multiple international news agencies.
 
 ## Attack Unfolds Across the Capital
