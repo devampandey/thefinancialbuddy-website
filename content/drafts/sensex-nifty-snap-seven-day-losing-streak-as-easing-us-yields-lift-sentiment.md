@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-20"
 ---
 
+![Sensex, Nifty Snap Seven-Day Losing Streak as Easing US Yields Lift Sentiment](/uploads/sensex-nifty-123-mt1qi9ny.webp)
+
 Indian equity benchmarks opened sharply higher on Thursday, breaking a seven-session losing streak that had marked their longest run of declines in nearly 11 months, as easing US bond yields and a broad rally across Asian markets lifted sentiment on Dalal Street.
 
 ## The Numbers
