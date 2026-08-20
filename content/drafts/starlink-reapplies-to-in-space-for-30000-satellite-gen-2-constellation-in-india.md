@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-20"
 ---
 
+![Starlink Reapplies To IN-SPACe For 30,000-Satellite Gen 2 Constellation In India](/uploads/starlink-mt1tx7xs.jpg)
+
 Elon Musk's satellite internet venture Starlink has submitted a fresh application to India's space regulator seeking authorisation for its next-generation Gen 2 satellite constellation, according to multiple reports on Thursday, marking another attempt to expand its footprint in the country after an earlier version of the same request was turned down.
 
 ## What Starlink Is Asking For
