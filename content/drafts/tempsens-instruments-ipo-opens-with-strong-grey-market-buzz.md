@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-20"
 ---
 
+![Tempsens Instruments IPO Opens With Strong Grey Market Buzz](/uploads/ipo-mt11eaj9.jpg)
+
 Tempsens Instruments (India) Limited opened its initial public offering for subscription on Thursday, entering the market with one of the stronger grey market premiums seen among recent mainboard listings and a broadly positive read from brokerage analysts.
 
 ## Issue Details
