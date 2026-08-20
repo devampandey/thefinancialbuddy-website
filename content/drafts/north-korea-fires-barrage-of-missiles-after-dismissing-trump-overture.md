@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-20"
 ---
 
+![North Korea Fires Barrage of Missiles After Dismissing Trump Overture](/uploads/south-korea-mt1tyszr.jpg)
+
 North Korea fired a barrage of roughly ten short-range ballistic missiles toward the sea off its eastern coast on Thursday, just a day after Pyongyang publicly dismissed a diplomatic overture from US President Donald Trump.
 
 ## What Happened
