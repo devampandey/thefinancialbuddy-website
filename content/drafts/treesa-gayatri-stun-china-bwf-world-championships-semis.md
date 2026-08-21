@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-21"
 ---
 
+![Treesa-Gayatri Stun China to Reach BWF World Championships Semis, Guarantee India a Medal](/uploads/treesa-jolly-gayatri-gopichand-pullela-1-mt2ve9fx.webp)
+
 India's Treesa Jolly and Gayatri Gopichand pulled off one of the standout wins of their careers on Friday, coming from a game down to beat world number four Chinese pair Jia Yi Fan and Zhang Shu Xian in the women's doubles quarterfinals of the BWF World Championships in New Delhi, sealing India's first medal in the event since 2011.
 
 ## How the Match Unfolded
