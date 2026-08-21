@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-21"
 ---
 
+![Vande Mataram Row Deepens as Kapil Sibal Turns Amit Shah's Barb Back on BJP](/uploads/kapil-sibal-mt2vddx2.jpg)
+
 A political row over how much of "Vande Mataram" should be sung at public events sharpened on Friday, with Rajya Sabha MP Kapil Sibal firing back at Union Home Minister Amit Shah's charge that the Congress party's stance was "anti-national."
 
 ## What Triggered the Dispute
