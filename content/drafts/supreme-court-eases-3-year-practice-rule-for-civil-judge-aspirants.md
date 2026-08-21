@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-21"
 ---
 
+![Supreme Court Eases 3-Year Practice Rule for Civil Judge Aspirants, Adds Training Mandate](/uploads/supreme-court-mt2vgf2d.jpg)
+
 The Supreme Court on Friday delivered its verdict on a batch of review petitions challenging an earlier ruling that made three years of legal practice compulsory for candidates seeking to enter the judicial service as Civil Judges (Junior Division) through direct recruitment. The bench, led by Chief Justice of India Surya Kant along with Justices Augustine George Masih and K. Vinod Chandran, pronounced the judgment at 10:30 a.m., modifying the practice requirement that had triggered widespread concern among young law graduates and coaching institutes preparing candidates for judicial service exams across the country.
 
 ## What the Court Decided
