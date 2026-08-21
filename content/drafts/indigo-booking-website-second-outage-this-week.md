@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-21"
 ---
 
+![IndiGo's Booking Platform Suffers Second Outage This Week, Leaving Flyers Stranded Online](/uploads/indigo-flight-pti-file-photo-20260819131622-mt2vinev.webp)
+
 IndiGo's website and mobile app ran into a fresh bout of technical trouble on Friday, the second such disruption to hit India's largest airline within a single week, leaving travellers unable to book tickets, complete web check-in or reliably access their accounts.
 
 ## What Went Wrong
