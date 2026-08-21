@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-21"
 ---
 
+![Sensex, Nifty Close Flat as IT, FMCG and Auto Stocks Drag; Second Straight Weekly Decline](/uploads/sensex-and-nifty-mt38s6vk.webp)
+
 Indian equity benchmarks closed a choppy Friday session almost exactly where they started, with the Sensex and Nifty struggling for direction as elevated crude oil prices and a renewed rise in global bond yields kept investors cautious through the day.
 
 The BSE Sensex inched up just 3.11 points to settle at 77,540.83, while the NSE Nifty50 added 20.15 points, or 0.08 percent, to close at 24,252.00. The muted finish means both benchmarks have now ended lower for a second consecutive week, extending a stretch of range-bound trading that has gripped the market through much of August.
