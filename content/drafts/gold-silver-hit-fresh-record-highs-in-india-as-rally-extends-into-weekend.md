@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-21"
 ---
 
+![Gold and Silver Hit Fresh Record Highs in India as Rally Extends](/uploads/gold-mt38sik4.webp)
+
 Gold and silver prices in India touched fresh record highs on Friday, with the rally accelerating through the afternoon session as a weaker dollar and falling global bond yields pulled fresh money into precious metals.
 
 ## What Happened
