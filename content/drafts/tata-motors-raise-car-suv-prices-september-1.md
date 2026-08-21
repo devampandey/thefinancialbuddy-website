@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-21"
 ---
 
+![Tata Motors to Raise Car and SUV Prices by Up to Rs 25,000 from September 1](/uploads/tata-cars-mt2vf4ef.webp)
+
 Tata Motors Passenger Vehicles (TMPV) said on Friday it will increase prices across its car and SUV lineup by up to Rs 25,000, effective September 1, marking the company's third price revision of the year and its second consecutive increase to touch electric models.
 
 ## What Is Changing
