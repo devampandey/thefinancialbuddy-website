@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-25"
 ---
 
+![Supreme Court Clears Path for Trump's Mail-In Ballot Restrictions Ahead of Midterms](/uploads/us-supreme-court-mt880277.jpg)
+
 A divided U.S. Supreme Court has cleared the way for President Donald Trump to begin implementing an executive order that would impose sweeping new restrictions on mail-in voting, just months before the November midterm elections. The order, issued late Monday, lifts an injunction that a federal judge in Massachusetts had put in place in June to block key parts of the directive from taking effect this year.
 
 ## What The Order Does
