@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-25"
 ---
 
+![Canada Hits Back at Trump With Tariffs of Up to 50% as Trade War Escalates](/uploads/trump-mt8yef97.webp)
+
 Canada moved to retaliate against the United States on Tuesday, announcing a fresh round of counter-tariffs ranging from 15 to 50 percent on American goods, in the latest escalation of a trade dispute between the two historically close allies.
 
 ## What Ottawa Announced
