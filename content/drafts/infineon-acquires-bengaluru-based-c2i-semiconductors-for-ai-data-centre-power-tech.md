@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-25"
 ---
 
+![Infineon Acquires Bengaluru-Based C2i Semiconductors to Expand AI Data Centre Power Tech](/uploads/infeneon-mt8ydolm.webp)
+
 German semiconductor major Infineon Technologies has agreed to acquire C2i Semiconductors, a Bengaluru-based fabless chip startup, in a deal aimed at strengthening the company's power management offerings for artificial intelligence data centres.
 
 ## What C2i Brings to the Table
