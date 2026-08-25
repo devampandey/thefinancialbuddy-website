@@ -28,6 +28,7 @@ const plainLinks = {
     // entry (and flip CHAI_CHARTS_ENABLED in app/chai-charts/page.js back
     // to true) to bring it back.
     // { href: "/chai-charts", label: "Chai & Charts" },
+    { href: "/market-pulse", label: "Market Pulse" },
     { href: "/lifestyle", label: "Lifestyle" },
     { href: "/tools", label: "Tools" },
   ],
