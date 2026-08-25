@@ -1,0 +1,106 @@
+{
+  "issue_title": "Rate Cuts Reprice Everything",
+  "issue_subtitle": "August 2026’s Global Rotation",
+  "month_label": "August 2026",
+  "month_short": "Aug",
+  "issue_number": "01",
+  "contents": [
+    {"n": 1, "topic": "Global Markets", "page": 3, "color": "blue"},
+    {"n": 2, "topic": "Currency", "page": 4, "color": "blue"},
+    {"n": 3, "topic": "Commodities", "page": 5, "color": "blue"},
+    {"n": 4, "topic": "Indian Indices", "page": 6, "color": "gold"},
+    {"n": 5, "topic": "Equities & Flows", "page": 7, "color": "gold"},
+    {"n": 6, "topic": "Events Archive", "page": 8, "color": "orange"},
+    {"n": 7, "topic": "Opinion Poll", "page": 9, "color": "orange"}
+  ],
+  "section_pages": {
+    "2": ["Contents", "blue"],
+    "3": ["Global Markets", "blue"],
+    "4": ["Currency", "blue"],
+    "5": ["Commodities", "blue"],
+    "6": ["Indian Indices", "gold"],
+    "7": ["Equities & Flows", "gold"],
+    "8": ["Events Archive", "orange"],
+    "9": ["Opinion Poll", "orange"]
+  },
+  "throughline": {
+    "headline": "The Throughline",
+    "body": "Every month, one story tends to explain most of what happened everywhere else. This month, that story was the Fed's decisive turn toward rate cuts — and almost everything below, from currencies to commodities to Indian flows, traces back to it."
+  },
+  "global_indices": [
+    {"key": "spx", "title": "S&P 500 (in USD)", "points": [{"d":1,"v":6480},{"d":8,"v":6510},{"d":15,"v":6560},{"d":22,"v":6600},{"d":31,"v":6690}]},
+    {"key": "nikkei", "title": "Nikkei 225 (in JPY)", "points": [{"d":1,"v":42200},{"d":8,"v":41800},{"d":15,"v":41500},{"d":22,"v":41900},{"d":31,"v":42050}]},
+    {"key": "dxy", "title": "US Dollar Index (DXY)", "points": [{"d":1,"v":100.8},{"d":8,"v":100.4},{"d":15,"v":100.1},{"d":22,"v":99.8},{"d":31,"v":99.5}]},
+    {"key": "usdinr", "title": "USD/INR Currency Pair", "points": [{"d":1,"v":86.9},{"d":8,"v":86.7},{"d":15,"v":86.6},{"d":22,"v":86.5},{"d":31,"v":86.4}]}
+  ],
+  "currency": {
+    "commentary": "The dollar index slid through the month as rate-cut expectations got pulled forward, and the rupee firmed modestly against it despite India's own steady policy stance.",
+    "series": [
+      {"key": "dxy2", "title": "US Dollar Index (DXY)", "points": [{"d":1,"v":100.8},{"d":8,"v":100.4},{"d":15,"v":100.1},{"d":22,"v":99.8},{"d":31,"v":99.5}]},
+      {"key": "usdinr2", "title": "USD/INR Currency Pair", "points": [{"d":1,"v":86.9},{"d":8,"v":86.7},{"d":15,"v":86.6},{"d":22,"v":86.5},{"d":31,"v":86.4}]}
+    ]
+  },
+  "forex_story": {
+    "headline": "India's Forex Reserve",
+    "body": "Reserves rebuilt through most of the month before a late reversal, as the RBI sold dollars to defend the rupee against a stronger crude bill and steady foreign selling in equities."
+  },
+  "commodities": {
+    "commentary": "Gold pushed to new highs as real yields fell. Silver followed with even sharper percentage gains, as it typically does in risk-on, rate-cut environments.",
+    "series": [
+      {"key": "gold", "title": "Gold Futures Price (in $)", "points": [{"d":1,"v":4150},{"d":8,"v":4190},{"d":15,"v":4230},{"d":22,"v":4260},{"d":31,"v":4350}]},
+      {"key": "silver", "title": "Silver Futures Price (in $)", "points": [{"d":1,"v":47.5},{"d":8,"v":48.5},{"d":15,"v":49.8},{"d":22,"v":50.2},{"d":31,"v":50.4}]}
+    ]
+  },
+  "asset_returns": [
+    {"label": "Gold", "pct": 4.8}, {"label": "Silver", "pct": 6.1}, {"label": "Nifty 50", "pct": 2.3},
+    {"label": "S&P 500", "pct": 1.7}, {"label": "USD/INR", "pct": -1.1}, {"label": "Brent Crude", "pct": -0.4}
+  ],
+  "indian_indices": {
+    "commentary": "Nifty and Sensex both extended gains through the month, though almost the entire move came in the final week as easing global yields drew foreign flows back into risk assets.",
+    "series": [
+      {"key": "nifty", "title": "NIFTY 50", "points": [{"d":1,"v":25100},{"d":8,"v":25050},{"d":15,"v":25200},{"d":22,"v":25300},{"d":31,"v":25400}]},
+      {"key": "sensex", "title": "SENSEX", "points": [{"d":1,"v":82200},{"d":8,"v":82000},{"d":15,"v":82600},{"d":22,"v":83000},{"d":31,"v":83100}]},
+      {"key": "niftybank", "title": "NIFTY Bank", "points": [{"d":1,"v":57200},{"d":8,"v":57000},{"d":15,"v":57500},{"d":22,"v":58300},{"d":31,"v":58500}]},
+      {"key": "niftyit", "title": "NIFTY IT", "points": [{"d":1,"v":34800},{"d":8,"v":35200},{"d":15,"v":35900},{"d":22,"v":36400},{"d":31,"v":37700}]}
+    ]
+  },
+  "gainers": [
+    {"name": "HCL Technologies Ltd.", "pct": "+18.4"}, {"name": "Divi's Laboratories Ltd.", "pct": "+14.2"},
+    {"name": "Tech Mahindra Ltd.", "pct": "+12.9"}, {"name": "Tata Consultancy Services Ltd.", "pct": "+11.6"},
+    {"name": "Bajaj Auto Ltd.", "pct": "+9.8"}
+  ],
+  "losers": [
+    {"name": "Dr. Reddy's Laboratories Ltd.", "pct": "-9.7"}, {"name": "Axis Bank Ltd.", "pct": "-7.4"},
+    {"name": "Adani Ports and SEZ Ltd.", "pct": "-5.9"}, {"name": "HDFC Bank Ltd.", "pct": "-4.1"},
+    {"name": "Coal India Ltd.", "pct": "-3.2"}
+  ],
+  "flows_weekly": {
+    "weeks": ["Wk 1", "Wk 2", "Wk 3", "Wk 4"],
+    "fii": [-1200, 800, 2100, 3400],
+    "dii": [1800, 1600, 900, 1100],
+    "commentary": "FII flows turned net positive for the first month in a while, tracking dollar weakness and the broader EM risk-on mood. DIIs stayed steady buyers throughout."
+  },
+  "vix": {
+    "title": "India VIX",
+    "points": [{"d":1,"v":12.3},{"d":8,"v":11.6},{"d":15,"v":10.9},{"d":22,"v":10.2},{"d":31,"v":9.7}]
+  },
+  "events": {
+    "month": 8, "year": 2026,
+    "india": [
+      {"day": 1, "headline": "GST Collections at Rs. 1.98 Lakh Crore", "desc": "Revenue rose amid steady festive-season imports."},
+      {"day": 12, "headline": "CPI Inflation Eases to 3.9%", "desc": "Softer food prices brought inflation below the RBI's midpoint."},
+      {"day": 21, "headline": "IIP Growth Hits 6.8%", "desc": "Manufacturing and electricity output led the improvement."}
+    ],
+    "global": [
+      {"day": 1, "headline": "Fed Signals Further Cuts", "desc": "Minutes showed growing consensus for a September move."},
+      {"day": 12, "headline": "Dollar Index Slips to 3-Month Low", "desc": "Broad-based rate-cut repricing weighed on the greenback."},
+      {"day": 28, "headline": "US Core PCE Softens", "desc": "The Fed's preferred inflation gauge cooled for a second month."}
+    ]
+  },
+  "quotes": [
+    {"text": "Real, short (under 25 words), attributed quote from a named public official or analyst made this month — sourced from real news coverage.", "attribution": "— NAME, TITLE"},
+    {"text": "A second real, attributed quote on markets or policy from this month.", "attribution": "— NAME, TITLE"},
+    {"text": "A third real, attributed quote from this month.", "attribution": "— NAME, TITLE"}
+  ],
+  "closing_disclaimer": "This is an original editorial summary and analysis; it does not reproduce content from any single source. Quotes on this page are real, attributed public statements sourced from that month's news coverage."
+}
