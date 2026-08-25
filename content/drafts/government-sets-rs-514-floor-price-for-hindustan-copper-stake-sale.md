@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-25"
 ---
 
+![Government Sets Rs 514 Floor Price for Hindustan Copper Stake Sale](/uploads/hindustancopperlimitedx-mt880z63.webp)
+
 Shares of Hindustan Copper were firmly in focus on Tuesday after the government fixed a floor price of Rs 514 apiece for its offer for sale, kicking off the latest leg of its divestment programme for the current financial year. The price represents a discount of roughly 10.4 per cent to Monday's closing price of about Rs 573-574 on the exchanges, and the stock reacted sharply, falling around 7-8 per cent in early trade as the market absorbed the discounted supply.
 
 ## Structure Of The Offer
