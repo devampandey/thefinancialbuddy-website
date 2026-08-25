@@ -4,8 +4,10 @@ import { putBinaryFile } from "@/lib/github";
 import { slugify } from "@/lib/frontmatter";
 
 // Vercel's default request body limit is ~4.5MB, and base64 inflates size
-// by roughly a third — keep well under that.
-const MAX_BYTES = 4 * 1024 * 1024;
+// by roughly a third — a 4MB decoded image is already a ~5.3MB request
+// body, past that ceiling. Cap the decoded size at 3MB (client enforces
+// the same number) so the encoded request stays well clear of it.
+const MAX_BYTES = 3 * 1024 * 1024;
 
 const ALLOWED_EXT = {
   "image/jpeg": "jpg",
@@ -53,7 +55,7 @@ export async function POST(request) {
   const approxBytes = (base64.length * 3) / 4;
   if (approxBytes > MAX_BYTES) {
     return NextResponse.json(
-      { error: "That image is too large — please use a file under 4MB." },
+      { error: "That image is too large — please use a file under 3MB." },
       { status: 400 }
     );
   }

@@ -54,8 +54,14 @@ export default function ArticleEditorForm({
     if (!file) return;
 
     setUploadError("");
-    if (file.size > 4 * 1024 * 1024) {
-      setUploadError("That image is too large — please use a file under 4MB.");
+    // Base64-encoding inflates the file by roughly a third, and Vercel
+    // rejects any serverless-function request body over ~4.5MB at the
+    // platform level (before our code ever runs) with a plain-text error,
+    // not JSON — so the raw-file limit has to leave enough headroom that
+    // the encoded body stays comfortably under that, not just under 4.5MB
+    // itself. 3MB raw -> ~4MB encoded, safely clear of the ceiling.
+    if (file.size > 3 * 1024 * 1024) {
+      setUploadError("That image is too large — please use a file under 3MB.");
       return;
     }
 
@@ -76,7 +82,21 @@ export default function ArticleEditorForm({
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ filename: file.name, dataUrl }),
       });
-      const data = await res.json();
+      // A body-size rejection happens at the hosting platform, before our
+      // API route runs, and comes back as plain text (e.g. "Request Entity
+      // Too Large") rather than JSON — parse defensively so that shows up
+      // as a normal error message instead of a raw "Unexpected token"
+      // SyntaxError leaking to the user.
+      let data;
+      try {
+        data = await res.json();
+      } catch {
+        throw new Error(
+          res.status === 413
+            ? "That image is too large for the server to accept — please use a file under 3MB."
+            : "Upload failed — please try again."
+        );
+      }
       if (!res.ok) throw new Error(data.error || "Upload failed.");
       setImageUrl(data.url);
     } catch (err) {
