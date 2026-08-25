@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-25"
 ---
 
+![Skyways Air Services IPO Subscribed 2.46 Times on Day 2](/uploads/skyways-mt8s6ym1.webp)
+
 The initial public offering of Skyways Air Services picked up pace on the second day of bidding, with the issue subscribed 2.46 times overall as of Tuesday evening, up sharply from 1.16 times at the close of day one. The logistics and freight-forwarding company's Rs 583-crore offering, which opened on Monday, has now drawn bids for close to 7.26 crore shares against roughly 2.95 crore shares on offer.
 
 ## Demand Breakdown
