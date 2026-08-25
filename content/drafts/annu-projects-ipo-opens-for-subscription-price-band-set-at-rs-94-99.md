@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-25"
 ---
 
+![Annu Projects IPO Opens for Subscription, Price Band Set at Rs 94-99](/uploads/ipo-mt881eau.jpg)
+
 Annu Projects Limited opened its initial public offering for subscription on Tuesday, becoming the latest engineering, procurement and construction company to tap India's buoyant primary market. The book-built issue is entirely a fresh issue of up to 1.77 crore equity shares, with no offer-for-sale component, and will raise up to Rs 175.06 crore at the top end of its price band, which has been set at Rs 94 to Rs 99 per share.
 
 ## Issue Details And Timeline
