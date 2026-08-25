@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-25"
 ---
 
+![Asian Markets Slide as Chip Selloff Hits Samsung, SK Hynix Ahead of Nvidia Earnings](/uploads/samsung-mt8ioy4j.jpg)
+
 Stock markets across East Asia opened sharply lower on Tuesday as a selloff in US semiconductor and technology stocks spilled over into the region's biggest chipmakers, with South Korea bearing the brunt of the decline.
 
 ## Seoul Leads the Retreat
