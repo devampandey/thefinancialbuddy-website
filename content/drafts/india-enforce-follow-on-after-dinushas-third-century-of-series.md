@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-26"
 ---
 
+![India Enforce Follow-On After Dinusha's Third Century Powers Sri Lanka Past 290](/uploads/shubhman-gill-mta0l9sl.webp)
+
 Day four of the second Test between India and Sri Lanka at the Sinhalese Sports Club in Colombo delivered another twist, with Sri Lankan left-hander Sonal Dinusha continuing his remarkable run against India before India's bowlers wrapped up the innings and immediately sent the hosts back out to bat again.
 
 ## Dinusha's Hundred
