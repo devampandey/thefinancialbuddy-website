@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-26"
 ---
 
+![Iran, Oman Agree on Framework for Temporary Hormuz Corridor and Mine-Clearing Plan](/uploads/ship-mt9qk8kf.jpg)
+
 Iran and Oman have taken a significant step toward easing the months-long shipping crisis in the Strait of Hormuz, with the two countries' top diplomats agreeing on a framework for a temporary transit corridor and a joint mine-clearing operation in the strategic waterway.
 
 Omani Foreign Minister Badr Albusaidi travelled to Tehran on Tuesday for talks with his Iranian counterpart, Abbas Araghchi, focused on the future of navigation through the strait, which both nations border. In a joint statement, the two sides said they had discussed "a phased framework that could provide a practical and implementable basis for moving forward," centred on establishing a temporary joint navigation corridor and clearing the strait of mines.
