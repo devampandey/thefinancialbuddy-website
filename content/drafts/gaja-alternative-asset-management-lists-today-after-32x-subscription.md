@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-26"
 ---
 
+![Gaja Alternative Asset Management Lists Today After Nearly 33x Subscription](/uploads/ipo-mt9qlh4a.jpg)
+
 Shares of Gaja Alternative Asset Management began trading on the NSE and BSE on Wednesday, capping off a blockbuster subscription run for the private equity and alternative asset management firm's Rs 550-crore initial public offering.
 
 The issue, a combination of a fresh share sale worth Rs 450 crore and an offer for sale of Rs 100 crore by existing investors, was priced in a band of Rs 152 to Rs 160 per share, with the final issue price set at the upper end. By the time bidding closed, the IPO had been subscribed close to 33 times overall, with bids received for more than 79.35 crore shares against roughly 2.53 crore shares on offer.
