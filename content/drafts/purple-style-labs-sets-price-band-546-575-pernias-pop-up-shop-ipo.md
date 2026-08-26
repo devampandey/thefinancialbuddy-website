@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-26"
 ---
 
+![Purple Style Labs Sets Price Band at Rs 546-575 for Pernia's Pop-Up Shop's Rs 680-Crore IPO](/uploads/ipo-mta7nwog.jpg)
+
 Purple Style Labs, the Mumbai-based company behind the multi-brand luxury fashion platform Pernia's Pop-Up Shop, on Wednesday fixed the price band for its upcoming initial public offering at Rs 546 to Rs 575 per share, setting the stage for a Rs 680-crore listing later this month.
 
 ## IPO details
