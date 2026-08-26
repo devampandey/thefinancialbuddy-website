@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-26"
 ---
 
+![Sri Lanka Fight to Within 16 Runs of India on Day 4 of Colombo Test](/uploads/pasindu-mta7mzk2.webp)
+
 Sri Lanka staged a determined fightback on Day 4 of the second and final Test against India at the Sinhalese Sports Club Ground in Colombo, closing the day at 229 for 6 in their follow-on innings, just 16 runs behind India's massive first-innings total.
 
 ## How the day unfolded
