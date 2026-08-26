@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-26"
 ---
 
+![US Sanctions Four Indian Firms Over $119 Million Iranian Oil Trade](/uploads/trump-jpg-mta0kopl.webp)
+
 The United States Treasury has widened its sanctions net to include four India-based companies and three Indian nationals, accusing them of participating in a network that moved roughly $119 million worth of Iranian-origin petroleum and petrochemical products into India. The action, announced Wednesday under the Trump administration's ongoing "Operation Economic Outcast," is the latest in a series of moves aimed at cutting off revenue streams that Washington says help fund Iran's government even as a fragile truce between the US and Tehran continues to hold.
 
 ## Who Was Named
