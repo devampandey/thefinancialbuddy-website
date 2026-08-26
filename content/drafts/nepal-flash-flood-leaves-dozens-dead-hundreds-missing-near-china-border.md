@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-26"
 ---
 
+![Nepal Flash Flood Leaves Dozens Dead, Hundreds Missing Near China Border](/uploads/nepal-mta7pr3j.jpg)
+
 A sudden and powerful flash flood tore through Nepal's Rasuwa district near the border with China on Wednesday morning, killing dozens of people and leaving hundreds more unaccounted for in one of the country's most serious natural disasters in recent years.
 
 ## What happened
