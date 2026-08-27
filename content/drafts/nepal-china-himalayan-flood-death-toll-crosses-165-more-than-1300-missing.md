@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-27"
 ---
 
+![Nepal-China Himalayan Flood: Death Toll Crosses 165, More Than 1,300 Missing](/uploads/nepal-mtbhlri9.jpg)
+
 A catastrophic flash flood along the Nepal-China border has left more than 165 people confirmed dead and over 1,300 missing, as rescue teams from both countries raced on Thursday to reach communities buried under mud and debris in the Himalayas.
 
 The disaster struck on Wednesday when a mass of glacial ice and rock collapsed above the Lhende River near the Rasuwagadhi border crossing, sending a torrent of water, mud and boulders through towns and valleys on both sides of the frontier. The US Geological Survey said the resulting shock, initially mistaken for a magnitude 4.4 earthquake, was in fact the seismic signature of the glacial collapse and the debris flow that followed.
