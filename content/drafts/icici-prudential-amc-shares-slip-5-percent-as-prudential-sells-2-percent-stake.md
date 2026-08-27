@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-27"
 ---
 
+![ICICI Prudential AMC Shares Slip 5% as Prudential Plans 2% Stake Sale via Block Deal](/uploads/icici-mtb74md3.jpg)
+
 Shares of ICICI Prudential Asset Management Company (AMC) fell as much as 5% to around Rs 3,064.55 on the BSE in Thursday's trade after promoter Prudential Corporation Holdings Limited, a subsidiary of UK-based Prudential plc, announced plans to sell up to a 2% stake in the company through an open market transaction.
 
 ## What Prudential Is Selling
