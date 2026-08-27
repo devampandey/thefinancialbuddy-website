@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-26"
 ---
 
+![Hindustan Copper Govt OFS Closes With 726% Retail Subscription, Full Greenshoe Exercised](/uploads/hcl-mtb76anh.jpg)
+
 The central government's latest disinvestment move drew a strong response from retail investors on Wednesday, as the offer for sale (OFS) in Hindustan Copper closed with the retail portion subscribed 725.9 times, prompting the Centre to exercise its full oversubscription option and expand the total stake sale to 6% of the company.
 
 The two-day OFS, conducted through the Ministry of Mines, was originally structured to divest up to 3% of Hindustan Copper's paid-up equity, comprising just over 2.9 crore shares, with an additional oversubscription option of a similar size built in. Strong demand from institutional investors on the first day of bidding prompted the government to exercise that option in full, lifting the total offer size to 5.8 crore equity shares, equivalent to 6% of the company.
