@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-27"
 ---
 
+![Qatar's PM Arrives in Tehran to Push Iran Mediation and Hormuz De-Escalation](/uploads/qatar-mtb72huj.webp)
+
 Qatar's Prime Minister and Foreign Minister, Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, arrived in Tehran on Thursday for talks with senior Iranian officials, in one of the most visible diplomatic pushes yet to calm the months-long confrontation between Iran and the US-Israel coalition. The visit was confirmed by Iran's foreign ministry spokesperson, Esmail Baghaei, who said the discussions would cover bilateral relations as well as "the continuation of Qatar's mediation efforts and initiatives, as well as other regional developments."
 
 ## Why Qatar Is Stepping In
