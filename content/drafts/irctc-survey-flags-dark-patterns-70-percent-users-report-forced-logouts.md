@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-26"
 ---
 
+![IRCTC Survey Flags Six Dark Patterns as 70% of Users Report Forced Logouts](/uploads/irctc-mtb75fzl.jpg)
+
 A new consumer survey has put a spotlight on the everyday frustrations of booking train tickets in India, with more than two-thirds of IRCTC users reporting that they have been abruptly logged out of the platform mid-booking, one of six design practices flagged as potential "dark patterns" affecting the railway ticketing site.
 
 The survey, conducted by citizen engagement platform LocalCircles, drew more than 90,000 responses from users across 324 districts and mapped their experiences against the dark-pattern categories notified by the Central Consumer Protection Authority (CCPA). The findings point to a gap between the technical upgrades IRCTC has made to its platform and the everyday experience many travellers report while trying to book or cancel a ticket.
