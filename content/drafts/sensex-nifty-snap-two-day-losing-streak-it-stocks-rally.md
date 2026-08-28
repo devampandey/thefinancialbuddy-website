@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-28"
 ---
 
+![Sensex, Nifty Snap Two-Day Losing Streak as IT Stocks Rally](/uploads/sensex-and-nifty-mtd4qh9b.webp)
+
 Indian equity benchmarks bounced back on Friday, breaking a two-session losing run as a strong rally in technology stocks more than offset pressure on banking and consumer-facing names. The BSE Sensex closed up 330.92 points, or 0.43 per cent, at 77,264.51, while the Nifty 50 added 84.80 points, or 0.35 per cent, to settle at 24,175.65.
 
 ## IT stocks lead the recovery
