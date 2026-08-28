@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-28"
 ---
 
+![Ola Electric Launches S1Z Scooter With Indigenous Bharat Cell LFP Battery Technology](/uploads/ola-mtd4x9ir.webp)
+
 Ola Electric Mobility launched its new S1Z scooter range on Friday, marking the first time the company's indigenously developed Bharat Cell lithium iron phosphate, or LFP, battery technology has been brought to its most accessible, mass-market scooter line, in a move the company is positioning as a milestone for homegrown battery manufacturing in India.
 
 The S1Z will be sold in two variants, a 3.1 kilowatt-hour version priced at an introductory Rs 79,999 and a 5.1 kilowatt-hour version at Rs 99,999, both ex-showroom. The company said the smaller battery pack offers a claimed range of 179 kilometres on the Indian driving cycle, while the larger pack extends that to 301 kilometres, positioning the scooter to compete in the crowded affordable electric two-wheeler segment against both established players and other electric entrants.
