@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-28"
 ---
 
+![Rupee Ends Higher as Dollar Supply Surges Ahead of RBI Deposit Window Closure](/uploads/ruppee-mtd4uvhj.jpg)
+
 The Indian rupee ended higher on Friday, closing out the week with a modest gain against the US dollar, as a burst of dollar liquidity linked to the impending closure of a special Reserve Bank of India deposit window offset pressure from month-end importer demand.
 
 According to currency traders, the rupee settled around 95.38-95.39 against the dollar, up roughly six paise to 0.2 percent from Thursday's close, after reversing early losses during the afternoon session. The currency had opened weaker as importers stepped up dollar purchases ahead of the month's end, a routine source of pressure on the rupee, but the move reversed sharply as deposit-related dollar inflows triggered stop-losses and an unwinding of bets against the currency.
