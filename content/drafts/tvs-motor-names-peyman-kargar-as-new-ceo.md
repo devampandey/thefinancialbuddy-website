@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-28"
 ---
 
+![TVS Motor Names Peyman Kargar as New CEO, Succeeding K N Radhakrishnan](/uploads/tvs-mtd4tbey.webp)
+
 TVS Motor Company announced on Friday that it has appointed Peyman Kargar as its next Director and Chief Executive Officer, effective January 27, 2027, marking a significant leadership transition at one of India's largest two-wheeler manufacturers as it looks to accelerate its global expansion.
 
 Kargar currently heads TVS Motor's international business and brings more than three decades of experience in the automobile industry, spanning roles across Europe, Asia, Africa and the Middle East with companies including Renault, Nissan, Infiniti and Datsun. His elevation to the top job signals the company's intent to lean further into overseas growth as it looks to expand beyond its traditional strongholds in the domestic Indian market.
