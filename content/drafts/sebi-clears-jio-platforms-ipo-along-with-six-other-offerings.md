@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-28"
 ---
 
+![SEBI Clears Jio Platforms IPO Along With Six Other Public Offerings](/uploads/sebi-mtd4tv5y.webp)
+
 The Securities and Exchange Board of India cleared the initial public offering plans of seven companies on Friday, including Reliance Industries' telecom and digital services arm Jio Platforms, in what ranks among the most closely watched regulatory approvals in India's IPO market this year.
 
 The full list of companies that received SEBI's observations includes Jio Platforms, Paras Healthcare, Bharat PET, Sadbhav Futuretech, M K Sons Fine Jewels, Paramotor Digital Technology and Pushp Brand India. The companies had filed their draft IPO documents with the regulator between March and June this year, and SEBI issued its observations on the filings in stages between August 24 and August 28. Under SEBI's rules, companies filing through the standard route generally have up to one year from the date of receiving observations to actually launch their public issue, while those that used the confidential pre-filing route are given up to 18 months.
