@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-29"
 ---
 
+![Trump Announces 'Biggest Oil Deal in World History' With Venezuela](/uploads/trump-mte5qcuf.webp)
+
 President Donald Trump announced late Friday that the United States has entered into what he called "the biggest oil deal in world history" with Venezuela, securing majority American control over more than 65 billion barrels of the country's proven oil reserves.
 
 In a post on Truth Social, Trump said the agreement was negotiated by Secretary of State Marco Rubio and Defense Secretary Pete Hegseth in coordination with Venezuela's interim President Delcy Rodríguez. He described it as coming "at no cost to the American Taxpayer" and claimed it would "more than double American oil reserves" while helping lower gas prices nationwide.
