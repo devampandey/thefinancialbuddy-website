@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-29"
 ---
 
+![Delhi CNG Prices Jump Nearly 8% as West Asia Crisis Drives Up Global LNG Costs](/uploads/cng-mte5ssmn.webp)
+
 Compressed natural gas got noticeably more expensive in Delhi-NCR from Saturday morning, as city gas distributor Indraprastha Gas Limited (IGL) raised retail CNG prices by Rs 3.89 per kg, citing a sharp and sustained rise in international LNG costs.
 
 The revised rate, effective from 6 am on August 29, pushes Delhi's CNG price up from roughly Rs 77 per kg to about Rs 83 per kg — an increase of nearly 8%, among the steepest single revisions IGL has made in recent memory. The company said the hike was necessary because elevated global LNG prices have meaningfully raised its input gas costs, and it could no longer fully absorb the difference.
