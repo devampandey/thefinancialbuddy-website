@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-29"
 ---
 
+![Death Toll From Russian Strike on Kyiv Region's Bucha District Rises to 37](/uploads/russia-attack-mteh031u.webp)
+
 The death toll from a Russian strike on the Bucha district of Ukraine's Kyiv region climbed to 37 on Saturday, regional officials said, as rescue teams continued combing through the wreckage of a warehouse compound hit in an overnight attack.
 
 Timur Tkachenko, head of the Kyiv Regional State Administration, said on Telegram that the toll had risen through the day from an earlier count of 27, with work still ongoing at the site of what he called a tragedy. More than 40 people were reported wounded, and officials said around 400 residents had been evacuated from the area as fires continued to burn.
