@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-08-29"
 ---
 
+![Gold Futures Fall for Fourth Straight Session as Traders Book Profits](/uploads/gold-mteh2u5x.webp)
+
 Gold futures on the Multi Commodity Exchange extended their losing streak to a fourth straight session on Saturday, with the October contract shedding around Rs 856, or 0.54 percent, to trade near Rs 1,58,140 per 10 grams. The December contract also slipped, falling roughly Rs 942, or 0.59 percent, to around Rs 1,59,450 per 10 grams.
 
 Retail gold prices across major Indian cities mirrored the futures weakness. Twenty-four-carat gold was quoted around Rs 1.58 lakh per 10 grams in cities including Chennai, Mumbai, Kolkata, Bengaluru and Hyderabad, while 22-carat gold hovered near Rs 1.45 lakh per 10 grams in most of the same markets. Silver held around Rs 2.55 lakh per kilogram in several cities, with Chennai, Hyderabad and Kerala trading at a premium near Rs 2.65 lakh per kilogram.
