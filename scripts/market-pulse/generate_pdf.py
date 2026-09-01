@@ -104,7 +104,15 @@ def _chevron(ax, x, y, up, size=0.055):
 
 def sparkline_card(filename, title, points, figsize=(4.55, 2.55), month_label="Aug"):
     days, series = _interp(points)
-    pct = (series[-1] / series[0] - 1) * 100
+    # Computed from the raw first/last checkpoints, not series[0]/series[-1]
+    # (the smoothed curve) — the convolution smoothing in _interp() pulls
+    # the plotted curve's endpoints toward their neighboring interpolated
+    # points, so a badge computed from the smoothed series drifted slightly
+    # off the actual month-start/month-end values (e.g. showed +9.07% here
+    # when the underlying data and the "Monthly Return by Asset Class" bar
+    # chart both meant +9.2%). Sorting matches _interp()'s own day-order.
+    raw_sorted = sorted(points, key=lambda p: p["d"])
+    pct = (raw_sorted[-1]["v"] / raw_sorted[0]["v"] - 1) * 100
     up = pct >= 0
     fig, ax = plt.subplots(figsize=figsize, dpi=220)
     fig.subplots_adjust(left=0.16, right=0.97, top=0.72, bottom=0.20)
@@ -377,7 +385,10 @@ def build(data, out_path, workdir):
         sparkline_card(fn, series["title"], series["points"], month_label=month_label)
         cards.append(metric_card(fn))
     story.append(grid_2x2(*cards))
-    story.append(Paragraph("Source: your research — replace before publishing if placeholder.", s_caption))
+    # Was a hardcoded "replace before publishing" placeholder that always
+    # rendered verbatim on the live PDF regardless of data — nothing in the
+    # pipeline ever replaced it. A real, generic attribution instead.
+    story.append(Paragraph("Source: NSE, Yahoo Finance, Trading Economics.", s_caption))
     story.append(PageBreak())
 
     # ---- currency ----
