@@ -11,14 +11,20 @@ const X_URL = "https://x.com/financialbudd";
 // rather than the old left-aligned logo + right-aligned icon row. The grid
 // (empty spacer / logo / icons) is what keeps the wordmark visually centered
 // regardless of how wide the icon cluster ends up being.
+//
+// That symmetric grid only kicks in at sm: and up. On narrow phones, mirroring
+// the icon cluster's width as an invisible left spacer left the wordmark with
+// so little room it truncated to "The Financial Bud…" — below sm: this falls
+// back to a plain left-logo/right-icons flex row instead, so the wordmark gets
+// whatever width the icons don't use rather than being squeezed to match them.
 export default function Header() {
   return (
     <>
       <header className="border-b border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
-        <div className="mx-auto grid max-w-6xl grid-cols-[1fr_auto_1fr] items-center gap-2 px-4 py-4 sm:px-6 sm:py-6">
-          <div aria-hidden="true" />
+        <div className="mx-auto flex max-w-6xl items-center justify-between gap-2 px-4 py-4 sm:grid sm:grid-cols-[1fr_auto_1fr] sm:px-6 sm:py-6">
+          <div aria-hidden="true" className="hidden sm:block" />
 
-          <Link href="/" className="flex min-w-0 items-center justify-center gap-2 sm:gap-3">
+          <Link href="/" className="flex min-w-0 flex-1 items-center gap-2 sm:flex-none sm:justify-center sm:gap-3">
             <img
               src="/logo-icon.svg"
               alt=""
@@ -34,7 +40,7 @@ export default function Header() {
             </span>
           </Link>
 
-          <div className="flex shrink-0 items-center justify-end gap-1.5 sm:gap-3">
+          <div className="flex shrink-0 items-center gap-1.5 sm:justify-self-end sm:gap-3">
             <a
               href={X_URL}
               target="_blank"

@@ -69,12 +69,14 @@ export default function LatestNewsPage({ searchParams }) {
             className="group flex items-start justify-between gap-5 py-6 transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/40"
           >
             <div className="min-w-0 flex-1">
-              <div className="flex items-center gap-3 text-xs font-medium text-gray-500 dark:text-gray-400">
+              <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs font-medium text-gray-500 dark:text-gray-400">
                 <span className="rounded-full bg-gray-100 px-2.5 py-1 text-brand dark:bg-gray-800">
                   {post.category}
                 </span>
-                <span>{formatDate(post.date)}</span>
-                {post.author && <span>By {post.author}</span>}
+                <span className="whitespace-nowrap">{formatDate(post.date)}</span>
+                {post.author && (
+                  <span className="hidden whitespace-nowrap sm:inline">By {post.author}</span>
+                )}
               </div>
               <h2 className="mt-2 text-lg font-semibold text-black group-hover:text-navy dark:text-white dark:group-hover:text-navy-light">
                 {post.title}
@@ -87,7 +89,7 @@ export default function LatestNewsPage({ searchParams }) {
               <img
                 src={post.image}
                 alt=""
-                className="h-20 w-28 shrink-0 rounded-lg border border-gray-200 object-cover dark:border-gray-700"
+                className="h-16 w-20 shrink-0 rounded-lg border border-gray-200 object-cover dark:border-gray-700 sm:h-20 sm:w-28"
               />
             )}
           </Link>
