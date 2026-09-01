@@ -6,8 +6,6 @@ description: "Ardee Industries' Rs 426-crore IPO drew strong Day 1 demand, with 
 author: "The Financial Buddy Team"
 ---
 
-![Ardee Industries IPO Subscribed Over Two Times on Day One as Bidding Continues](/uploads/ardee-industries-ipo-day-2-gmp-at-29-issue-subscribed-3-08-times-so-far-should-y-msh0z5rn.webp)
-
 The initial public offering of Ardee Industries got off to a solid start, with the issue subscribed more than two times on its opening day, as investors weighed the company's business in recycling energy storage products against a backdrop of otherwise choppy sentiment in the primary market.
 
 ## Deal Details

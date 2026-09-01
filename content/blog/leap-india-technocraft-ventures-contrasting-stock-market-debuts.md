@@ -6,8 +6,6 @@ description: "LEAP India listed at a modest 4% premium while Technocraft Venture
 author: "The Financial Buddy Team"
 ---
 
-![LEAP India, Technocraft Ventures Make Contrasting Stock Market Debuts](/uploads/leap-india-ipo-20260814043852-mssuj0rw.webp)
-
 Two newly listed companies delivered sharply different outcomes for investors on their stock market debut on Friday, as shares of supply-chain solutions firm LEAP India and specialty manufacturer Technocraft Ventures began trading on the NSE and BSE.
 
 ## LEAP India's Muted Debut

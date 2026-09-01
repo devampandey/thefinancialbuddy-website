@@ -6,8 +6,6 @@ description: "The Lok Sabha cleared the Taxation and Other Laws (Amendment) Bill
 author: "The Financial Buddy Team"
 ---
 
-![Lok Sabha Passes Taxation and Other Laws (Amendment) Bill, 2026 Amid Opposition Protests](/uploads/lok-sabha2017-mshnt6wk.jpg)
-
 The Lok Sabha on Thursday passed the Taxation and Other Laws (Amendment) Bill, 2026, clearing the legislation by voice vote even as opposition members kept up protests inside the House over unrelated issues, disrupting any substantive debate on the bill's provisions.
 
 ## What the Bill Does

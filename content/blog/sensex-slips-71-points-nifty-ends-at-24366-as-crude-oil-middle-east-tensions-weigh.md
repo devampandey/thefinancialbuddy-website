@@ -6,8 +6,6 @@ description: "Indian benchmark indices closed marginally lower on Friday as elev
 author: "The Financial Buddy Team"
 ---
 
-![Sensex Slips 71 Points, Nifty Ends at 24,366 as Crude Oil, Middle East Tensions Weigh](/uploads/sensex-nifty-mst95rge.webp)
-
 Indian equity benchmarks ended a choppy, range-bound session marginally lower on Friday, with the BSE Sensex shedding 70.71 points, or 0.09 percent, to close at 78,009.25, while the NSE Nifty50 slipped 29.85 points, or 0.12 percent, to settle at 24,366.00. The Nifty Bank index underperformed the broader market, falling 144.15 points, or 0.25 percent, to end at 57,491.10.
 
 ## A session of two halves

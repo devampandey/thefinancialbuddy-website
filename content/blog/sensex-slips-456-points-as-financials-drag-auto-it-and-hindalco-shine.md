@@ -6,8 +6,6 @@ description: "Indian benchmarks ended lower on August 7 as an RBI draft proposal
 author: "The Financial Buddy Team"
 ---
 
-![Sensex Slips 456 Points as Financials Drag; Auto, IT and Hindalco Shine](/uploads/sensex-nifty-msiy3r5o.webp)
-
 Indian equity benchmarks snapped their recent winning streak on Friday, with the Sensex and Nifty both ending in the red even as several pockets of the market, from auto to IT to metals, put in a strong session. The BSE Sensex fell 455.59 points, or 0.58 percent, to close at 78,499.17, while the Nifty50 declined 65.35 points, or 0.27 percent, to settle at 24,570.65. The Bank Nifty was the weakest of the lot, dropping 317.20 points, or 0.55 percent, to end at 57,746.45.
 
 ## Financials Bear the Brunt

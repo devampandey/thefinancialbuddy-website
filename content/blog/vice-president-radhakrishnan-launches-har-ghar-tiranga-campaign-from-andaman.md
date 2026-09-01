@@ -6,8 +6,6 @@ description: "VP C P Radhakrishnan launched this year's Har Ghar Tiranga Abhiyaa
 author: "The Financial Buddy Team"
 ---
 
-![Vice President Radhakrishnan Launches Har Ghar Tiranga Campaign From Andaman](/uploads/har-ghar-tiranga-mslxdexl.jpg)
-
 Vice President C P Radhakrishnan on Sunday launched this year's edition of the Har Ghar Tiranga Abhiyaan from Sri Vijaya Puram (Port Blair) in the Andaman and Nicobar Islands, hoisting the national flag at Flag Point to mark August Kranti Diwas, the anniversary of the 1942 Quit India Movement.
 
 ## A Site With Historical Weight

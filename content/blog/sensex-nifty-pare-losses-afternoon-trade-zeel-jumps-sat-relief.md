@@ -6,8 +6,6 @@ description: "Indian benchmark indices clawed back most of the day's losses by a
 author: "The Financial Buddy Team"
 ---
 
-![Sensex, Nifty Pare Losses in Afternoon Trade as Consumer Durables Rally; ZEEL Jumps 8% on SAT Relief](/uploads/sensex-and-nifty-mssugrwj.webp)
-
 Indian equity benchmarks trimmed a chunk of their earlier losses in afternoon trade on Friday, helped by buying in consumer durable stocks even as banking and metal counters stayed under pressure. As of 2 pm, the Sensex was down around 82 points, or 0.1%, at roughly 77,998, while the Nifty50 slipped about 12 points, or 0.05%, to near 24,383. Both indices had fallen considerably more sharply earlier in the session, with the Sensex briefly down over 300 points from the day's high before recovering.
 
 ## Consumer Durables Lead, Metals Lag

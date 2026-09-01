@@ -6,8 +6,6 @@ description: "Air India has asked its owners for about $1.5 billion in fresh cap
 author: "The Financial Buddy Team"
 ---
 
-![Air India Seeks $1.5 Billion Fresh Equity From Tata Sons, Singapore Airlines](/uploads/air-india-mt8zkjm4.webp)
-
 Air India is seeking roughly $1.5 billion in fresh equity from its owners, Tata Sons and Singapore Airlines, according to a Reuters report citing people familiar with the discussions. The request comes just months after the carrier posted a record annual loss, adding fresh strain to an already costly turnaround effort.
 
 Air India and its low-cost arm, Air India Express, together reported combined losses of $2.33 billion for the financial year ended March, more than double what they lost the previous year. Those losses have also weighed on the results of Singapore Airlines, which holds about 25 percent of the Tata-owned carrier and would need to contribute its proportional share for the proposed infusion to go through.

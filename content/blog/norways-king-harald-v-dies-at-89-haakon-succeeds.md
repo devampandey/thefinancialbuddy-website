@@ -6,8 +6,6 @@ description: "King Harald V of Norway, Europe's oldest reigning monarch, has die
 author: "The Financial Buddy Team"
 ---
 
-![Norway's King Harald V Dies at 89, Son Haakon Succeeds Him as King Haakon VIII](/uploads/norway-mtd4ybhr.jpg)
-
 King Harald V of Norway, one of Europe's longest-serving and most popular monarchs, died early Friday morning at an Oslo hospital at the age of 89, the Royal Palace announced, bringing to a close a 35-year reign that spanned Norway's transformation into a modern, oil-rich Nordic democracy.
 
 The palace said Harald passed away peacefully in the presence of his family after being admitted roughly ten days earlier for complications from haemolytic anaemia, a rare blood disorder that depletes red blood cells and causes severe fatigue. His condition had worsened sharply in the preceding days, prompting his family to gather at his bedside. The royal flag was lowered to half-mast above the palace in Oslo following his death, and crowds gathered in the surrounding square to lay flowers.

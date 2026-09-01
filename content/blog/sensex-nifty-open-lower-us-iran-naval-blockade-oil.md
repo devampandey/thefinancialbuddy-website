@@ -6,8 +6,6 @@ description: "Indian benchmark indices fell in early trade Friday as Washington'
 author: "The Financial Buddy Team"
 ---
 
-![Sensex, Nifty Open Lower as US Naval Blockade Threat Keeps Oil Elevated](/uploads/sensex-nifty-msshsoel.webp)
-
 Indian equity benchmarks opened lower on Friday, extending a cautious tone in early trade after the United States signalled it intends to keep up its naval blockade near the Strait of Hormuz indefinitely, a stance that kept crude oil prices elevated and stoked fresh worries about imported inflation.
 
 ## How the market moved

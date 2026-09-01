@@ -6,8 +6,6 @@ description: "NSA Ajit Doval met Chinese Foreign Minister Wang Yi in Beijing for
 author: "The Financial Buddy Team"
 ---
 
-![Doval Holds 25th Round of India-China Border Talks With Wang Yi in Beijing](/uploads/nsa-mt8s7npf.jpg)
-
 National Security Advisor Ajit Doval held the 25th round of Special Representatives talks with Chinese Foreign Minister Wang Yi in Beijing on Tuesday, as the two countries continue efforts to stabilise ties strained by years of border tension. The meeting comes weeks ahead of Chinese President Xi Jinping's anticipated visit to New Delhi for the BRICS summit scheduled for September 12-13.
 
 ## What Was Discussed

@@ -6,8 +6,6 @@ description: "Gaja Alternative Asset Management's Rs 550 crore IPO saw healthy r
 author: "The Financial Buddy Team"
 ---
 
-![Gaja Alternative Asset Management IPO Off To A Solid Start On Day One](/uploads/ipo-mt0eg64u.jpg)
-
 The initial public offering of Gaja Alternative Asset Management opened for subscription on Wednesday, drawing solid early demand from retail investors even as overall subscription numbers stayed modest through the first day of bidding.
 
 ## The Offer

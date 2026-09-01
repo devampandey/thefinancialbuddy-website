@@ -6,8 +6,6 @@ description: "The Sensex snapped a two-day losing streak to close up 113 points 
 author: "The Financial Buddy Team"
 ---
 
-![Sensex Ends Higher, Nifty Slips as Volatile Session Closes Near 24,400](/uploads/gift-nifty-2-msrmdj3m.webp)
-
 Indian equity benchmarks ended a choppy session on a mixed note Thursday, with the Sensex breaking a two-day losing streak even as the Nifty extended its decline for a third consecutive session.
 
 The BSE Sensex climbed 113.61 points, or 0.15%, to close at 78,079.96, while the NSE Nifty 50 slipped 40.10 points, or 0.16%, to settle at 24,395.85. The Nifty recovered from an intraday low of 24,311.40 as buyers stepped in at lower levels, helping the index claw back most of its early losses by the close.

@@ -6,8 +6,6 @@ description: "Crude fell about 2% and Indian benchmarks edged higher Wednesday a
 author: "The Financial Buddy Team"
 ---
 
-![Oil Prices Slide, Sensex-Nifty Gain as Iran-Oman Hormuz Talks Ease Supply Fears](/uploads/crude-mt9qj8vo.jpg)
-
 Crude oil prices extended their slide into a second session on Wednesday, and Indian equity benchmarks opened firmer, as fresh signs of progress in talks between Iran and Oman over the Strait of Hormuz fuelled hopes that one of the world's most important oil chokepoints could soon see disrupted traffic ease.
 
 Brent crude futures fell $1.78, or about 2%, to $86.80 a barrel, while US West Texas Intermediate crude dropped $1.49, or 1.8%, to $80.87, building on losses of more than 3% in the previous session. The declines came after Iran said it had resumed talks with Oman on managing transit through the strait, which carries roughly a fifth of the world's seaborne oil and liquefied natural gas under normal conditions but has seen traffic largely paralysed since the region's war broke out in February.

@@ -6,8 +6,6 @@ description: "India completed a 165-run victory over Sri Lanka on the final day 
 author: "The Financial Buddy Team"
 ---
 
-![India Beat Sri Lanka By 165 Runs In Galle Test To Take 1-0 Series Lead](/uploads/ind-defeated-mszw54hr.jpg)
-
 India wrapped up a comprehensive 165-run victory over Sri Lanka on the fifth and final day of the first Test in Galle on Wednesday, taking a 1-0 lead in the series. Sri Lanka, resuming the day on 84 for 4 while chasing a daunting target of 372, could not survive the final session as India's bowlers cleaned up the tail to seal the win.
 
 ## How The Match Unfolded

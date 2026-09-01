@@ -6,8 +6,6 @@ description: "Gold and silver ecosystem player Augmont Enterprises opened its Rs
 author: "The Financial Buddy Team"
 ---
 
-![Augmont Enterprises' Rs 825-Crore IPO Opens for Subscription](/uploads/ipo-mt2vj9ej.jpg)
-
 Augmont Enterprises, an integrated gold and silver ecosystem player, opened its initial public offering for subscription on Friday, kicking off a five-day bidding window that will run through August 25. The mainboard issue has been priced in a band of Rs 750 to Rs 788 per equity share, and the company is looking to raise a total of Rs 825 crore through the offering, split between a fresh issue and an offer for sale by existing shareholders.
 
 ## Issue Structure and Key Dates

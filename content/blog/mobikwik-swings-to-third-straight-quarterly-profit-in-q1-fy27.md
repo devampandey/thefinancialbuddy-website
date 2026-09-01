@@ -6,8 +6,6 @@ description: "One MobiKwik Systems posted a Rs 7.6 crore consolidated profit in 
 author: "The Financial Buddy Team"
 ---
 
-![MobiKwik Swings to Third Straight Quarterly Profit in Q1 FY27](/uploads/mk-msdj47b3.png)
-
 Fintech firm One MobiKwik Systems Ltd has reported a consolidated net profit of roughly Rs 7.6 crore for the first quarter of FY27, the three months ended June 30, 2026, marking its third consecutive profitable quarter. The turnaround is notable given the company posted a net loss of around Rs 42 crore in the same period a year earlier, underscoring a sharp swing in the fintech's financial trajectory over the last twelve months.
 
 ## Revenue and Margin Improvement

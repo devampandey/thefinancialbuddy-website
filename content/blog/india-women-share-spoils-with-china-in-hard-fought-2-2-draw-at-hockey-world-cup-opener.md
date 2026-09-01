@@ -6,8 +6,6 @@ description: "India's women's hockey team fought back twice but had to settle fo
 author: "The Financial Buddy Team"
 ---
 
-![India Women Share Spoils With China in Hard-Fought 2-2 Draw at Hockey World Cup Opener](/uploads/women-hockey-msvzfc5a.webp)
-
 India's women's hockey team opened its FIH Hockey World Cup 2026 campaign with a hard-fought 2-2 draw against Olympic silver medallists China on Sunday, sharing the points after a fluctuating contest at the Wagener Hockey Stadium in Amstelveen, the Netherlands.
 
 ## India Twice Take the Lead

@@ -6,8 +6,6 @@ description: "Sebi's consultation paper could let REITs and InvITs buy minority 
 author: "The Financial Buddy Team"
 ---
 
-![Sebi Proposes Letting REITs, InvITs Take Minority Stakes in Under-Construction Projects](/uploads/sebi-mspm775z.webp)
-
 The Securities and Exchange Board of India has proposed a rule change that could give real estate and infrastructure developers a new route to raise capital without giving up full ownership of their assets. Under a fresh consultation paper, Sebi has suggested allowing real estate investment trusts (REITs) and infrastructure investment trusts (InvITs) to take minority stakes in third-party projects, including those still under construction.
 
 ## What the proposal changes

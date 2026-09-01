@@ -6,8 +6,6 @@ description: "The small-cap IPO closed undersubscribed at 0.3x overall, with ret
 author: "The Financial Buddy Team"
 ---
 
-![Aegeus Technologies IPO Sees Muted Response as Subscription Window Closes](/uploads/aeguses-mshbe095.jpg)
-
 The initial public offering of Aegeus Technologies wrapped up its subscription window on August 6 with a tepid response from investors, a contrast to the frenzied oversubscription seen in several other small and mid-cap IPOs this year. The issue, which opened on August 4, was subscribed roughly 0.3 times overall as bidding closed, meaning the offer received well under the total number of shares on the table.
 
 ## A Small Offer With a Narrow Price Band

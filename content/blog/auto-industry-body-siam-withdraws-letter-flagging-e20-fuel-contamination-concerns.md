@@ -6,8 +6,6 @@ description: "SIAM pulled back its communication on E20 fuel contamination after
 author: "The Financial Buddy Team"
 ---
 
-![Auto Industry Body SIAM Withdraws Letter Flagging E20 Fuel Contamination Concerns](/uploads/e20-petrol-1024x687-msge98xi.png)
-
 The Society of Indian Automobile Manufacturers (SIAM) has withdrawn a letter it had earlier sent to the Ministry of Petroleum and Natural Gas raising concerns about contamination in E20 fuel, the 20% ethanol-blended petrol that the government has been rolling out nationally. The reversal came a day after media coverage of the original communication, dated July 28, triggered widespread public debate over whether the fuel blend could be damaging vehicle components.
 
 ## What the Original Letter Said

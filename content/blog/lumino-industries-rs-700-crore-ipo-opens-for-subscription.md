@@ -6,8 +6,6 @@ description: "Kolkata-based cable and EPC firm Lumino Industries opened its Rs 7
 author: "The Financial Buddy Team"
 ---
 
-![Lumino Industries' Rs 700 Crore IPO Opens for Subscription Today](/uploads/ipo-mtb734yy.jpg)
-
 Kolkata-based Lumino Industries opened its initial public offering for subscription on Thursday, becoming the latest mainboard issue to test investor appetite in what has been an active year for Indian IPOs. The offer will remain open until August 31, with the company targeting a listing on the BSE and NSE in the following days.
 
 ## Issue Structure and Pricing

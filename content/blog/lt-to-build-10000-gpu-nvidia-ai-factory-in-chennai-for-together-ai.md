@@ -6,8 +6,6 @@ description: "L&T's Vyoma.AI has secured an order worth Rs 10,000-15,000 crore t
 author: "The Financial Buddy Team"
 ---
 
-![L&T to Build 10,000-GPU Nvidia AI Factory in Chennai for Together AI](/uploads/lt-nvidia-jpg-mssfs7ow.jpg)
-
 Larsen & Toubro has landed one of the largest AI infrastructure orders awarded in India to date, with its data centre arm Vyoma.AI set to build a 10,000-GPU Nvidia B300 AI factory in Chennai for US-based AI cloud company Together AI, in a deal valued at an estimated Rs 10,000-15,000 crore.
 
 ## The Deal

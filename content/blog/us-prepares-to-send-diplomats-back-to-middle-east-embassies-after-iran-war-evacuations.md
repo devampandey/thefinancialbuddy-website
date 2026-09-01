@@ -6,8 +6,6 @@ description: "The US State Department is reportedly readying a phased return of 
 author: "The Financial Buddy Team"
 ---
 
-![US Prepares to Send Diplomats Back to Middle East Embassies After Iran War Evacuations](/uploads/use-prep-12-mt8s3dxv.webp)
-
 The United States is preparing to send American diplomats back to embassies across the Middle East that were evacuated in the run-up to and during its recent war with Iran, according to a New York Times report citing an internal State Department document. The development, reported on Tuesday, marks one of the clearest signals yet that Washington does not expect hostilities with Tehran to resume in the near term.
 
 ## What The Report Says

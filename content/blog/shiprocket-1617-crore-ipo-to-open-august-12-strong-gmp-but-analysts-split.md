@@ -6,8 +6,6 @@ description: "Shiprocket's mainboard IPO opens Wednesday with a solid grey-marke
 author: "The Financial Buddy Team"
 ---
 
-![Shiprocket's ₹1,617-Crore IPO to Open August 12: Strong GMP but Analysts Split](/uploads/shiprocket-ipo-mspm6ndc.webp)
-
 E-commerce logistics platform Shiprocket is set to open its ₹1,617.5-crore initial public offering for subscription on Wednesday, August 12, in what is shaping up to be a busy week for India's primary markets. While the issue is drawing a healthy grey-market premium ahead of listing, brokerages remain split on whether investors should apply, largely because of the company's loss-making history.
 
 ## Issue details

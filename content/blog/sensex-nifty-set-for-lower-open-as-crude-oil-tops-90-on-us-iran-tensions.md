@@ -6,8 +6,6 @@ description: "GIFT Nifty signals a weak start for Indian markets on August 18 as
 author: "The Financial Buddy Team"
 ---
 
-![Sensex, Nifty Set for Lower Open as Crude Oil Tops $90 on US-Iran Tensions](/uploads/sensex-nifty-msy61ahb.webp)
-
 Indian equity benchmarks looked set for a weak start on Tuesday, August 18, with GIFT Nifty futures pointing to a lower open after crude oil prices climbed back above the $90-a-barrel mark overnight. The move came as fresh uncertainty over the status of the US-Iran ceasefire rattled global energy markets, adding another headwind to a domestic market already on a losing streak.
 
 ## GIFT Nifty Signals Weak Start

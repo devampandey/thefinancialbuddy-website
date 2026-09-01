@@ -6,8 +6,6 @@ description: "At least 10 people were killed in fresh Israeli strikes in Gaza on
 author: "The Financial Buddy Team"
 ---
 
-![Israel's Deadly Gaza Strikes Cast Doubt On Ceasefire Progress After Kushner Visit](/uploads/osreal-mt0ecpxe.jpg)
-
 Fresh Israeli strikes across the Gaza Strip on Wednesday killed at least 10 people and cast renewed doubt on the fragile ceasefire that has held since October, coming just days after a marathon meeting between senior U.S. negotiator Jared Kushner and Israeli Prime Minister Benjamin Netanyahu.
 
 ## What Happened

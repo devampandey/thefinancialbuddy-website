@@ -6,8 +6,6 @@ description: "FII ownership of Nifty 500 firms has slipped to a multi-year low e
 author: "The Financial Buddy Team"
 ---
 
-![Foreign Investors Have Pulled $58 Billion From Indian Stocks in 22 Months, Domestic Buyers Fill the Gap](/uploads/investor-msge89nx.jpg)
-
 A quiet but significant shift has been underway in Indian equity markets, one that has little to do with any single day's headline. Since the market's September 2024 peak, foreign institutional investors (FIIs) have withdrawn close to $58 billion from Indian stocks over roughly 22 months, a sustained pullback that has steadily eroded their footprint in the country's largest companies. Domestic institutional investors (DIIs), meanwhile, have more than filled the void.
 
 ## Ownership Tables Have Flipped

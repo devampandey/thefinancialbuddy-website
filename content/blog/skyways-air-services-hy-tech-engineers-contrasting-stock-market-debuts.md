@@ -6,8 +6,6 @@ description: "Skyways Air Services listed at a 10% discount while Hy-Tech Engine
 author: "The Financial Buddy Team"
 ---
 
-![Skyways Air Services, Hy-Tech Engineers Post Contrasting Stock Market Debuts](/uploads/ipo-mti7jckr.jpg)
-
 Tuesday's stock market session brought sharply contrasting fortunes for two newly listed companies, as logistics firm Skyways Air Services stumbled out of the gate while hydraulic components maker Hy-Tech Engineers made a strong debut, underscoring how selective investor appetite has become even amid generally healthy IPO demand this year.
 
 ## Skyways Air Services defies grey market expectations

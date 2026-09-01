@@ -6,8 +6,6 @@ description: "Jammu and Kashmir pacer Auqib Nabi gets his first India Test call-
 author: "The Financial Buddy Team"
 ---
 
-![Auqib Nabi Earns Maiden India Test Call-Up as Bumrah Ruled Out of Sri Lanka Series](/uploads/an-msdj5c6v.webp)
-
 Jammu and Kashmir fast bowler Auqib Nabi has been named as a replacement for Jasprit Bumrah in India's Test squad for the upcoming tour of Sri Lanka, earning his maiden call-up to the senior national side. The selection committee's move comes after Bumrah failed to make a full recovery from the left knee injury he picked up during India's ODI series against England earlier this year.
 
 ## Bumrah Sidelined Again

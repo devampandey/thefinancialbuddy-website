@@ -6,8 +6,6 @@ description: "Colombia's president says 265 people have died and 496 are still m
 author: "The Financial Buddy Team"
 ---
 
-![Colombia Earthquake Death Toll Rises to 265 as Nearly 500 Remain Missing](/uploads/coloumbia-earthquake-mssfz3ac.jpg)
-
 The human toll from Colombia's devastating earthquake continued to climb on Thursday, with President Abelardo de la Espriella confirming that 265 people have died and 496 remain missing, three days after a 7.4-magnitude quake tore through the western part of the country.
 
 The earthquake struck on Monday with an epicenter near San Jose del Palmar, sending tremors through several major cities and triggering building collapses across the region. According to the National Unit for Disaster Risk Management (UNGRD), roughly 25,872 families — an estimated 53,816 people — have been affected by the disaster, with 3,494 people reported injured.

@@ -6,8 +6,6 @@ description: "The Monetary Policy Committee kept rates unchanged and retained it
 author: "The Financial Buddy Team"
 ---
 
-![RBI Holds Repo Rate at 5.25%, Flags West Asia Disruption to Trade and Sentiment](/uploads/rbi-1-msfuf8po.jpg)
-
 The Reserve Bank of India's Monetary Policy Committee has left the policy repo rate unchanged at 5.25 percent, concluding its three-day meeting that ran from August 3 to August 5. The six-member panel voted unanimously to hold rates and retained its "neutral" policy stance, a decision that was broadly anticipated by economists heading into the announcement.
 
 ## What Stays the Same

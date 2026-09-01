@@ -6,8 +6,6 @@ description: "A drone strike ignited a huge fire at Libya's Zawiya refinery, the
 author: "The Financial Buddy Team"
 ---
 
-![Drone Strike Sparks Massive Blaze at Libya's Zawiya Oil Refinery](/uploads/drone-123-msosep18.jpg)
-
 A drone strike has triggered a massive fire at Libya's Zawiya oil refinery, one of the country's largest, in what authorities say is the third such attack on the facility's energy infrastructure within just two days, deepening concerns over the security of Libya's fragile oil sector.
 
 ## What Happened

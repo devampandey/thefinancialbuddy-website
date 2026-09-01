@@ -6,8 +6,6 @@ description: "Google's Pixel 11, 11 Pro, 11 Pro XL and 11 Pro Fold are now offic
 author: "The Financial Buddy Team"
 ---
 
-![Google Launches Pixel 11 Series in India: Pixel 11 Priced From Rs 89,999](/uploads/pixel-11-msr383by.webp)
-
 Google has officially launched its Pixel 11 smartphone lineup in India, unveiling four new devices alongside a fresh smartwatch and accessory at its annual "Made by Google" event held overnight. The launch, hosted by comedian and television personality Trevor Noah, brought the new phones to Indian buyers just hours after their global debut.
 
 ## The Lineup

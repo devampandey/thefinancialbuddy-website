@@ -6,8 +6,6 @@ description: "A powerful 7.7-magnitude quake struck off Flores Island early Satu
 author: "The Financial Buddy Team"
 ---
 
-![Magnitude 7.7 Earthquake Off Indonesia's Flores Island Leaves at Least 38 Dead, Rescue Operations Widen](/uploads/earthquake-msuhodgi.webp)
-
 A powerful magnitude 7.7 earthquake struck off the coast of Indonesia's Flores Island in the early hours of Saturday, killing at least 38 people and setting off a widening rescue effort across some of the country's hardest-hit eastern regencies. Indonesian authorities said the toll was expected to climb further as search teams reached areas cut off by landslides and damaged infrastructure.
 
 ## What Happened

@@ -6,8 +6,6 @@ description: "BJP's statewide Jharkhand bandh over alleged police brutality on J
 author: "The Financial Buddy Team"
 ---
 
-![Jharkhand Bandh Over Police Action on Job Aspirants Spills Into Parliament Logjam](/uploads/jharkhand-2-msosdrjb.jpg)
-
 A political storm that began on the streets of Ranchi has now spread to the floor of Parliament, with the ruling alliance and opposition trading sharp accusations over the state government's handling of a student protest that turned violent this week.
 
 ## What Triggered the Bandh

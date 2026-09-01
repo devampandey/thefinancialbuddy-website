@@ -6,8 +6,6 @@ description: "Titan, Kalyan Jewellers and other listed jewellery names fell in e
 author: "The Financial Buddy Team"
 ---
 
-![Jewellery Stocks Slide After Modi Renews Call to Avoid Non-Essential Gold Purchases](/uploads/gold-mtiflzsd.webp)
-
 Shares of India's listed jewellery companies came under selling pressure in early trade on Tuesday after Prime Minister Narendra Modi renewed his call for citizens to avoid buying gold unless absolutely necessary, a message that rattled sentiment across the sector even as broader markets navigated a mixed session.
 
 ## What Modi Said

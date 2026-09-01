@@ -6,8 +6,6 @@ description: "ICICI Prudential AMC shares slid on Thursday after UK-based promot
 author: "The Financial Buddy Team"
 ---
 
-![ICICI Prudential AMC Shares Fall 5% After Promoter Prudential Sells 2% Stake](/uploads/icici-mtbhm4oj.jpg)
-
 Shares of ICICI Prudential Asset Management Company fell nearly 5% on Thursday after promoter Prudential Corporation Holdings sold about 2% of its stake in the company through a large block deal, a day after the company disclosed plans for the sale.
 
 The stock slipped to around Rs 3,098, down roughly 3.8% from its previous close of Rs 3,222.80, as the block trade involving close to 99.2 lakh shares, worth roughly 2% of the company's total equity, was executed in early trade. Reports had suggested an indicative offer price band of Rs 2,998 to Rs 3,158 per share, a discount of about 2% to 7% to Wednesday's closing price, which weighed on sentiment.

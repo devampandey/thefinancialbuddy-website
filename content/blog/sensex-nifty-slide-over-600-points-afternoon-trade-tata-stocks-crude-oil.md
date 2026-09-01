@@ -6,8 +6,6 @@ description: "Indian benchmark indices reversed a firm morning start to slide sh
 author: "The Financial Buddy Team"
 ---
 
-![Sensex, Nifty Slide Over 600 Points in Afternoon Trade as Tata Stocks, Crude Oil Weigh](/uploads/sensex-nifty-mspxc5rz.webp)
-
 Indian equity benchmarks gave up early gains and slid sharply through Wednesday's session, with the Sensex and Nifty both down more than half a percent by early afternoon as a combination of company-specific and macro pressures weighed on sentiment.
 
 ## The Numbers

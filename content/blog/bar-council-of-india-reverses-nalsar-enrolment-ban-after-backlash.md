@@ -6,8 +6,6 @@ description: "BCI withdrew its order blocking 2026 NALSAR law graduates from enr
 author: "The Financial Buddy Team"
 ---
 
-![Bar Council of India Reverses NALSAR Enrolment Ban After Backlash](/uploads/bar-council-msshvxdu.webp)
-
 The Bar Council of India (BCI) reversed a directive halting the enrolment of NALSAR University of Law's 2026 graduating class as advocates, just hours after issuing it, following a sharp backlash from students, faculty and members of the legal fraternity.
 
 ## The original order

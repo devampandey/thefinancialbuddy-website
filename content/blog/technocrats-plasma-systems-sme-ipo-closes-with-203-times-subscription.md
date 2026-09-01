@@ -6,8 +6,6 @@ description: "The BSE SME issue from the industrial plasma equipment maker drew 
 author: "The Financial Buddy Team"
 ---
 
-![Technocrats Plasma Systems SME IPO Closes Oversubscribed 203 Times](/uploads/ipo-msyylz1b.jpg)
-
 The initial public offering of Technocrats Plasma Systems closed on Tuesday with subscription figures that far outstripped expectations, as the small and medium enterprise issue was booked 203.36 times by the close of bidding at 5:03 pm. The overwhelming response marks one of the stronger showings among the recent wave of SME listings on Indian exchanges and underscores the continued retail and institutional appetite for smaller, niche manufacturing plays even as broader markets stay choppy.
 
 ## Subscription breakdown

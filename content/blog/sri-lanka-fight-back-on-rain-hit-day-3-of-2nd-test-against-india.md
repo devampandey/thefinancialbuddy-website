@@ -6,8 +6,6 @@ description: "Sri Lanka showed resolve on day three of the second Test in Colomb
 author: "The Financial Buddy Team"
 ---
 
-![Sri Lanka Fight Back on Rain-Hit Day 3 of 2nd Test Against India](/uploads/000912-mt8s5duf.jpg)
-
 Sri Lanka put up a spirited display on the third day of the second Test against India at the Sinhalese Sports Club in Colombo on Tuesday, closing on 265 for 8 in 83.4 overs before rain brought an early end to play, with the hosts still trailing India by 238 runs. The result leaves the match finely poised heading into what should be a decisive fourth day, with India needing quick breakthroughs to press home their advantage.
 
 ## Sooriyabandara Shines On Debut

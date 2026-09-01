@@ -6,8 +6,6 @@ description: "Shiprocket's Rs 1,617-crore IPO crossed full subscription on day t
 author: "The Financial Buddy Team"
 ---
 
-![Shiprocket IPO Fully Subscribed on Day 2 as Retail and Employee Demand Surges](/uploads/shiprocket-ipo-mssfqskj.webp)
-
 Shiprocket's Rs 1,617.48-crore initial public offering crossed full subscription on the second day of bidding on Thursday, with strong demand from retail investors and company employees pushing the overall subscription level to roughly 3.08 times by late evening.
 
 ## Subscription Breakdown

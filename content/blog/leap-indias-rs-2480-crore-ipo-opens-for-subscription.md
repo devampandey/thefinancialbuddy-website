@@ -6,8 +6,6 @@ description: "Supply chain solutions provider LEAP India opened its Rs 2,480 cro
 author: "The Financial Buddy Team"
 ---
 
-![LEAP India's Rs 2,480 Crore IPO Opens for Subscription](/uploads/leap-msiy7tuy.webp)
-
 The primary market added another large mainboard offering on Friday as LEAP India opened its Rs 2,480 crore initial public offering for public subscription. The issue will remain open until August 11, giving investors a four-day window to bid before the allotment process kicks in.
 
 ## Deal Structure

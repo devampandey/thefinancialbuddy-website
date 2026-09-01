@@ -6,8 +6,6 @@ description: "A large-scale Russian missile and drone assault on Kyiv overnight 
 author: "The Financial Buddy Team"
 ---
 
-![Russia Launches Massive Overnight Missile and Drone Barrage on Kyiv, Killing at Least 11](/uploads/russia-attack-12-mtifjegf.webp)
-
 Ukraine's capital endured one of its heaviest nights of bombardment in weeks after Russia launched a coordinated barrage of missiles and drones on Kyiv and the surrounding region, killing at least 11 people and injuring more than a dozen others, including children, according to Ukrainian emergency officials.
 
 ## A Sustained, Multi-Wave Assault

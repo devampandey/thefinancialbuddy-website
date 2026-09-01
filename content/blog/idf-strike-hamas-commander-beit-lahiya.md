@@ -6,8 +6,6 @@ description: "Israel's military says it killed a Hamas cell leader planning an a
 author: "The Financial Buddy Team"
 ---
 
-![IDF Strike Kills Hamas Commander in Northern Gaza's Beit Lahiya](/uploads/isreali-atak-msqdv5o0.jpg)
-
 The Israeli military said on Wednesday evening that it had carried out an airstrike in Beit Lahiya, in the northern Gaza Strip, killing the head of a Hamas cell it accused of plotting an attack on Israeli troops stationed in the area. The Israel Defense Forces (IDF) described the strike as a pre-emptive move "to remove the threat to the forces," though it did not immediately name the operative it said was targeted.
 
 The strike is among the more significant Israeli military actions in Gaza in over a week, coming at a delicate moment in the fragile ceasefire that has held, with intermittent violence, since October. Israeli forces have continued to carry out strikes on people they say approach or cross the so-called Yellow Line, the demarcation Israeli troops withdrew to under the first phase of the US-brokered peace framework. That line leaves Israel in control of roughly half of the Gaza Strip while Hamas retains authority over the rest.

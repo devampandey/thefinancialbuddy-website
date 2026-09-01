@@ -6,8 +6,6 @@ description: "The Rs 1,553-crore Milky Mist Dairy Food IPO saw a sharp pickup in
 author: "The Financial Buddy Team"
 ---
 
-![Milky Mist Dairy Food IPO Subscription Surges Past 7x on Final Day](/uploads/ipo-123-msregiu9.jpg)
-
 The initial public offering of Milky Mist Dairy Food, the direct-to-consumer dairy brand, closed out its subscription window on Thursday with a marked surge in demand across investor categories, capping a three-day bidding period for the Rs 1,553-crore issue.
 
 ## Subscription Numbers Climb on Final Day

@@ -6,8 +6,6 @@ description: "CENTCOM says US forces have cleared international shipping lanes i
 author: "The Financial Buddy Team"
 ---
 
-![US Military Says Hormuz Shipping Lanes Cleared of Iranian Mines, Iran Disputes Claim](/uploads/us-mil-mtd4pok2.jpg)
-
 The United States military said on Friday that it has cleared internationally recognised shipping lanes in the Strait of Hormuz of sea mines laid by Iran, a claim Tehran quickly disputed even as Washington pushed to restore normal commercial traffic through one of the world's most important energy chokepoints.
 
 Admiral Brad Cooper, head of US Central Command, said in a video statement that American forces had "achieved a major milestone" in the strait, describing months of work by Navy divers, special operations forces and aircraft to clear the traffic separation scheme used by commercial vessels. He said the effort had helped nearly 1,500 commercial ships transit the waterway, carrying close to 750 million barrels of crude oil bound for global markets.

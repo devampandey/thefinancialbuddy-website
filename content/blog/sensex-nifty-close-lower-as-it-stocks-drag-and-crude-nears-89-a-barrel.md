@@ -6,8 +6,6 @@ description: "Indian benchmark indices fell on Monday as IT majors dropped nearl
 author: "The Financial Buddy Team"
 ---
 
-![Sensex, Nifty Close Lower as IT Stocks Drag and Crude Nears $89 a Barrel](/uploads/sensex-and-nifty-msxk5ezv.webp)
-
 India's benchmark equity indices closed lower on Monday, extending a cautious tone from last week as weakness in information technology stocks and persistent worries over elevated crude oil prices weighed on sentiment. The Sensex slipped 281.09 points, or 0.36 percent, to settle at 77,728.16, while the Nifty 50 declined 78.35 points, or 0.32 percent, to close at 24,287.65.
 
 ## IT Stocks Lead the Decline

@@ -6,8 +6,6 @@ description: "Priority Jewels' Rs 190-200 price band IPO got off to a robust sta
 author: "The Financial Buddy Team"
 ---
 
-![Priority Jewels IPO Sees Strong Day 1 Demand, Nearly 2x Subscribed](/uploads/ipo-mtd4w225.jpg)
-
 Priority Jewels, a designer and manufacturer of lightweight diamond-studded gold and platinum jewellery, saw a strong opening day of bidding for its initial public offering on Friday, with the issue closing out day one subscribed close to two times overall.
 
 ## Strong retail and broad-based demand

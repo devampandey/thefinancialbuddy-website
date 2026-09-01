@@ -6,8 +6,6 @@ description: "Indian benchmark indices opened in the red on Tuesday as fading ho
 author: "The Financial Buddy Team"
 ---
 
-![Sensex, Nifty Open Lower as Hormuz Deal Hopes Fade and Oil Prices Climb](/uploads/sensex-nifty-mso69tjr.webp)
-
 Indian equity benchmarks opened lower on Tuesday, with the Sensex slipping around 290 points and the Nifty 50 dropping below the 24,500 mark, as fading hopes of an early resolution to US-Iran tensions pushed crude oil prices higher and dented investor sentiment.
 
 The GIFT Nifty had signalled a negative start well before the opening bell, quoted roughly 40-45 points lower ahead of trade, as global cues turned mixed. Wall Street had closed marginally weaker overnight, with the Dow Jones Industrial Average and the S&P 500 both ending in the red and the Nasdaq Composite slipping about a third of a percent, as investors digested the latest developments around West Asia. Asian markets, by contrast, were broadly firmer in early trade, with Hong Kong's Hang Seng and South Korea's Kospi both in positive territory, suggesting the weakness in Indian indices had more to do with domestic and crude-specific concerns than a broader regional selloff.

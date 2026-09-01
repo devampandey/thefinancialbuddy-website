@@ -6,8 +6,6 @@ description: "Indian benchmarks opened in the green on mixed global cues before 
 author: "The Financial Buddy Team"
 ---
 
-![Sensex, Nifty Open Higher on Friday but Trim Gains as Crude Oil Stays Elevated](/uploads/sensex-nifty-123-mt2vh4fw.webp)
-
 Indian equity benchmarks opened Friday's session on a positive note, extending the previous session's rally, before losing steam through the morning as elevated crude oil prices and cautious global cues tempered investor enthusiasm. The BSE Sensex opened around 163 points higher, gaining roughly 0.21 percent to start near 77,701, while the NSE Nifty50 opened about 52 points up near 24,284, building on Thursday's strong close.
 
 ## A Choppy Start to the Session

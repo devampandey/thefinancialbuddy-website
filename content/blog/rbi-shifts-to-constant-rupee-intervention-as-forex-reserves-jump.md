@@ -6,8 +6,6 @@ description: "The RBI is stepping in more frequently to support the rupee, backe
 author: "The Financial Buddy Team"
 ---
 
-![RBI Shifts to Near-Constant Rupee Intervention as Forex Reserves Jump](/uploads/rbi-1-mtbhl4b1.jpg)
-
 The Reserve Bank of India has shifted to a more constant pattern of currency market intervention over the past month, moving away from its earlier approach of stepping in only during sharp swings, as fresh dollar inflows give it more room to defend the rupee.
 
 According to people familiar with the matter, the change is being funded by roughly $73 billion in fresh money that has flowed in since June under RBI measures designed to attract dollar deposits. In one notable instance, the central bank reportedly sold about $7 billion in a single day across onshore and offshore markets as the rupee approached record-low levels.

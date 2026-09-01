@@ -6,8 +6,6 @@ description: "Skyways Air Services' Rs 582.8-crore IPO closed with subscription 
 author: "The Financial Buddy Team"
 ---
 
-![Skyways Air Services IPO Subscribed Over 11 Times on Final Day, GMP Signals Strong Debut](/uploads/skyways-mtbhkovk.webp)
-
 The initial public offering of Skyways Air Services closed for subscription on Thursday with overall demand crossing 11 times the shares on offer, capping off a bidding window that opened on August 24 and saw interest build steadily through its final two days.
 
 The Rs 582.8-crore issue, priced in a band of Rs 131 to Rs 138 per share, drew its strongest response from retail and non-institutional investors, while participation from qualified institutional buyers picked up sharply in the closing sessions after a slower start. Retail investors led demand throughout the offer, while the non-institutional portion also saw a marked pickup as the issue neared its close, reflecting growing confidence among high-net-worth investors in the final stretch of bidding.

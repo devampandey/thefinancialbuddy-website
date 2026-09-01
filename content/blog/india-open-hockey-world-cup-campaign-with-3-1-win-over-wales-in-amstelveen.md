@@ -6,8 +6,6 @@ description: "Harmanpreet Singh's brace helped India beat Wales 3-1 in their FIH
 author: "The Financial Buddy Team"
 ---
 
-![India Open Hockey World Cup Campaign With 3-1 Win Over Wales in Amstelveen](/uploads/indian-hockey-msuhpmgq.jpg)
-
 India began their campaign at the FIH Men's Hockey World Cup 2026 with a 3-1 win over Wales in Amstelveen on Saturday, giving Harmanpreet Singh's side the winning start they were looking for as they chase a first World Cup title since 1975.
 
 ## How the Match Unfolded

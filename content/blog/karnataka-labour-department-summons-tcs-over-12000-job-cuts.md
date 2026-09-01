@@ -6,8 +6,6 @@ description: "Karnataka's Labour Department has called Tata Consultancy Services
 author: "The Financial Buddy Team"
 ---
 
-![Karnataka Labour Department Summons TCS Over 12,000 Job Cuts](/uploads/tcs-msg7gmkk.jpg)
-
 Karnataka's Labour Department has summoned Tata Consultancy Services, India's largest IT services company, for a conciliation meeting scheduled for August 6 to explain its plan to reduce headcount by roughly 12,000 employees. The meeting follows an industrial dispute formally filed by the Karnataka State IT/ITeS Employees Union, which has been pushing back against the scale and manner of the layoffs.
 
 ## What Triggered the Summons

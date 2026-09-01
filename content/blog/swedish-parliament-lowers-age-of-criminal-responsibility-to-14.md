@@ -6,8 +6,6 @@ description: "Sweden's parliament voted to lower the criminal responsibility age
 author: "The Financial Buddy Team"
 ---
 
-![Swedish Parliament Lowers Age of Criminal Responsibility to 14 Ahead of Election](/uploads/swedish-parlia-msshs5ta.jpg)
-
 Sweden's parliament voted on Thursday to lower the age of criminal responsibility from 15 to 14, a major shift in the country's youth justice framework that arrives just weeks before a closely watched general election.
 
 ## How the vote went

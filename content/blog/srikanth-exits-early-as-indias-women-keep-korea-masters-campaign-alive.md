@@ -6,8 +6,6 @@ description: "Kidambi Srikanth crashed out in the men's singles first round at K
 author: "The Financial Buddy Team"
 ---
 
-![Srikanth Exits Early as India's Women Keep Korea Masters Campaign Alive](/uploads/sri-mshbbsaq.webp)
-
 India's campaign at the Korea Masters 2026 badminton tournament produced a mixed set of results through its opening rounds, with a disappointing early exit for one of the country's most experienced players offset by encouraging progress from a deep women's contingent.
 
 ## Srikanth Falls in a Tight Three-Setter

@@ -6,8 +6,6 @@ description: "Augmont Enterprises' Rs 825-crore IPO drew heavy demand on its clo
 author: "The Financial Buddy Team"
 ---
 
-![Augmont Enterprises IPO Closes With Strong Demand on Final Day](/uploads/augmont-mt8io3ta.webp)
-
 The initial public offering of Augmont Enterprises, a Mumbai-based precious metals platform, drew strong investor interest as bidding closed on Tuesday, capping a five-day subscription window that saw demand build steadily across investor categories.
 
 ## Robust Subscription Numbers

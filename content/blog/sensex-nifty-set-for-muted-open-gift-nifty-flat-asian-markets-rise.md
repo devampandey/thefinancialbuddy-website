@@ -6,8 +6,6 @@ description: "GIFT Nifty pointed to a flat start for Indian benchmarks as Asian 
 author: "The Financial Buddy Team"
 ---
 
-![Sensex, Nifty Set for Muted Open as GIFT Nifty Signals Flat Start, Asian Markets Rise](/uploads/gift-nifty-2-msmqcxo7.webp)
-
 Indian equity benchmarks were poised for a tepid start on Monday, August 10, with GIFT Nifty futures hovering close to the 24,655-24,665 mark, largely unchanged from Friday's close, as traders weighed a mix of firm Asian cues, rising crude prices and continued uncertainty over the reopening of the Strait of Hormuz.
 
 ## Asian Markets Advance, Track Wall Street Gains

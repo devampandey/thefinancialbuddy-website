@@ -6,8 +6,6 @@ description: "Meta's vice-president for India, Sandhya Devanathan, is leaving af
 author: "The Financial Buddy Team"
 ---
 
-![Meta's India Head Sandhya Devanathan Departs to Join OpenAI](/uploads/meta-india-mteh16l9.jpg)
-
 Sandhya Devanathan, Meta's vice-president and India head, is leaving the company after a decade to join OpenAI in a newly created leadership role covering Southeast Asia and Australia, in one of the more high-profile executive moves in India's technology sector this year.
 
 Devanathan will be based in Singapore and report to Kiran Mani, OpenAI's managing director for the Asia-Pacific region. In her new position, she will be responsible for consumer growth, enterprise adoption and partnerships, regulatory engagement, and overall operations across Southeast Asia and Australia.

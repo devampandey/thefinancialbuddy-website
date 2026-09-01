@@ -6,8 +6,6 @@ description: "Ardee Industries' Rs 426 crore IPO opens August 5 at a Rs 50-53 pr
 author: "The Financial Buddy Team"
 ---
 
-![Two New Mainboard IPOs Open This Week: Ardee Industries and Technocraft Ventures](/uploads/ipo-mscrv38h.webp)
-
 The mainboard IPO calendar is picking up pace this week, with two new issues set to open for subscription in quick succession. Ardee Industries will kick things off on August 5, followed by Technocraft Ventures on August 7, giving investors back-to-back opportunities to evaluate fresh listings alongside a handful of allotments and debuts already lined up for the week. Here is a closer look at what each offering brings to the table.
 
 ## Ardee Industries:Price Band and Issue Size

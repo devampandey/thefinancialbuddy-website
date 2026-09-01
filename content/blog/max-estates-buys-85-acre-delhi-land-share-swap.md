@@ -6,8 +6,6 @@ description: "Max Estates has acquired an 84.71-acre land parcel in West Delhi t
 author: "The Financial Buddy Team"
 ---
 
-![Max Estates Buys 85-Acre Delhi Land Parcel in Rs 420-Crore Share Swap](/uploads/max-mteh2540.webp)
-
 Realty developer Max Estates has entered Delhi's housing market for the first time, acquiring an 84.71-acre land parcel in the city's western Najafgarh belt through a non-cash share-swap transaction valued at roughly Rs 420 crore.
 
 In a regulatory filing on Saturday, the company said it has signed a share purchase agreement to acquire 100 percent stakes in nine promoter-owned land-holding companies that together own the parcel. The nine entities will become wholly owned subsidiaries of Max Estates once the deal closes.

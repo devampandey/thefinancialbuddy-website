@@ -6,8 +6,6 @@ description: "Kannada organisations and farmer groups called a 12-hour bandh acr
 author: "The Financial Buddy Team"
 ---
 
-![Karnataka Observes Statewide Bandh as Cauvery Water Release Order Sparks Protests](/uploads/karnatka-msrnb1v6.webp)
-
 Karnataka observed a statewide bandh on Thursday, with Kannada organisations and farmer groups protesting a directive from the Cauvery Water Management Authority (CWMA) ordering the state to release 12,000 cusecs of water daily to Tamil Nadu for a 15-day period starting August 12.
 
 The shutdown, called for roughly 12 hours from 6 am to 6 pm, is the latest flashpoint in the decades-old dispute between Karnataka and Tamil Nadu over sharing the Cauvery river's waters. Protest organisers argue the CWMA's order comes at a time when Karnataka's own reservoirs are under strain and accuse the state government of failing to adequately contest the release mandate before the authority.

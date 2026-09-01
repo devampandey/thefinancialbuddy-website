@@ -6,8 +6,6 @@ description: "FSN E-Commerce's Nykaa posted a 3.3x jump in Q1 FY27 net profit as
 author: "The Financial Buddy Team"
 ---
 
-![Nykaa Q1 FY27 Net Profit Triples to Rs 79.76 Crore on Beauty and Fashion Growth](/uploads/nykkaf1123-mseyrzik.jpg)
-
 Shares of FSN E-Commerce Ventures, the parent company of beauty and fashion platform Nykaa, are likely to draw fresh investor attention after the company reported a sharp jump in first-quarter profitability for FY27. Net profit came in at roughly Rs 79.76 crore, about 3.3 times higher than the corresponding quarter a year earlier, while revenue rose close to 29% year-on-year. The results, announced August 4 alongside an investor earnings call, mark one of Nykaa's strongest quarters since its 2021 stock market debut and offer a data point for a market segment, consumer internet and e-commerce, that investors have watched closely for signs of a durable path to profitability.
 
 ## Margins Expand Alongside Revenue

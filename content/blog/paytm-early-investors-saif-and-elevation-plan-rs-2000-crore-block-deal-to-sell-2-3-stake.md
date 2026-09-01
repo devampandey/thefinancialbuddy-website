@@ -6,8 +6,6 @@ description: "Early Paytm backers SAIF Partners and Elevation Capital are set to
 author: "The Financial Buddy Team"
 ---
 
-![Paytm Early Investors SAIF and Elevation Plan Rs 2,000-Crore Block Deal to Sell 2.3% Stake](/uploads/paytm-mseg35e3.jpg)
-
 Shares of One97 Communications, which runs Paytm, were in focus on Tuesday after reports emerged that early investor backers SAIF Partners and Elevation Capital are looking to sell a combined 2.3% stake in the company through a block deal worth roughly Rs 2,000 crore.
 
 ## Deal Details
@@ -29,3 +27,5 @@ It is worth noting this is not the first time large shareholders have trimmed po
 Investors will likely track two things in the sessions ahead: how Paytm stock trades relative to the Rs 1,339.65 floor price, and whether any commentary emerges from the company or the selling investors about the rationale or timing. Block deals of this size do not change Paytm's fundamentals, but they can influence near-term stock momentum and are a useful gauge of how early private investors continue to view the stock nearly five years after listing.
 
 This article is for informational purposes only and does not constitute financial advice. Please consult a qualified financial advisor before making investment decisions.
+
+This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.

@@ -6,8 +6,6 @@ description: "RBI's rate-setting panel meets from August 3-5, with GIFT Nifty po
 author: "The Financial Buddy Team"
 ---
 
-![RBI Rate Verdict Looms as GIFT Nifty Signals Gap-Up Start to the Week](/uploads/rbi-photo-mscs1735.webp)
-
 Indian equity markets are heading into a pivotal week, with the Reserve Bank of India's Monetary Policy Committee (MPC) beginning its three-day deliberations today, even as early indicators point to a positive start for domestic indices. GIFT Nifty futures were trading around 150-170 points above the previous close in early trade, suggesting the Nifty 50 could open with a gap-up of more than 100 points. The setup gives investors a cautiously optimistic backdrop as they wait for RBI Governor Sanjay Malhotra's rate announcement later in the week.
 
 ## RBI's Rate Call Takes Centre Stage

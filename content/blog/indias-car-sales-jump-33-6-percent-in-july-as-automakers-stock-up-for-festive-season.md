@@ -6,8 +6,6 @@ description: "Passenger vehicle dispatches surged in July 2026 as Maruti Suzuki 
 author: "The Financial Buddy Team"
 ---
 
-![India's Car Sales Jump 33.6% in July as Automakers Stock Up for Festive Season](/uploads/cars-mshbclrq.jpg)
-
 India's passenger vehicle industry delivered a strong July, with dispatches from factories to dealerships climbing 33.6 percent year-on-year to roughly 4,63,249 units. The jump was also sharp on a sequential basis, with volumes up 18.2 percent over June, as automakers front-loaded stock ahead of the festive buying season that traditionally begins with Onam and Varamahalakshmi and runs through Diwali.
 
 Dispatch numbers measure what manufacturers ship to dealers rather than what customers actually drive home, so the July surge reflects the industry's confidence that festive demand will be strong enough to justify filling showroom lots early. That timing matters: dealers typically want inventory in place well before the first wave of festival buyers arrives, and a late scramble can mean lost sales to whichever brand has cars ready on the lot.

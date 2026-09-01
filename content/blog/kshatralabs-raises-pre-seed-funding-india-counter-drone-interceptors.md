@@ -6,8 +6,6 @@ description: "Finvolve and India Accelerator have backed KshatraLabs, an Indian 
 author: "The Financial Buddy Team"
 ---
 
-![Defence-Tech Startup KshatraLabs Raises Pre-Seed Funding to Build India's Counter-Drone Interceptors](/uploads/drone-defence-msrn8jj8.jpg)
-
 Indian defence-technology startup KshatraLabs has secured an undisclosed pre-seed investment from venture fund Finvolve and India Accelerator, as the company works to bring its autonomous counter-drone systems closer to field deployment.
 
 KshatraLabs is developing HAWK, an autonomous aerial interceptor designed to detect, track and neutralise hostile drones at speeds upward of 300 km/h, with under five seconds of launch readiness. The system pairs external sensors such as radar with onboard electro-optical and infrared sensors to guide the interceptor autonomously toward its target, using a proprietary autonomy software stack the company calls APEX. According to the company, this software-first approach is built to deliver fast, accurate responses even in high-speed, contested environments.

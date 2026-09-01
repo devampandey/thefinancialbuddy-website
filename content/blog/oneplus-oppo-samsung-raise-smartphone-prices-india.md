@@ -6,8 +6,6 @@ description: "Rising memory chip costs and slowing demand have pushed OnePlus, O
 author: "The Financial Buddy Team"
 ---
 
-![OnePlus, OPPO and Samsung Raise Smartphone Prices Again as India's Market Slows](/uploads/oneplus-15-review-13-mt0dj83f.webp)
-
 Smartphone buyers in India are facing yet another round of price increases, with OnePlus, OPPO and Samsung all raising prices across multiple models as manufacturers grapple with rising memory and component costs at a time when overall demand in the domestic market is cooling. The latest revisions, most of which took effect this week, range from roughly Rs 1,000 to Rs 5,000 depending on the device and variant.
 
 ## A Pattern of Repeated Hikes

@@ -6,8 +6,6 @@ description: "Nepal's foreign ministry says domestic agencies can handle search-
 author: "The Financial Buddy Team"
 ---
 
-![Nepal Rejects Foreign Rescue Teams as Flood Death Toll Nears 500](/uploads/nepal-mtd4zkim.jpg)
-
 Nepal has turned down offers of foreign search-and-rescue assistance following the catastrophic flash floods that tore through Rasuwa district and surrounding areas near the Chinese border, even as the death toll approaches 500 and hundreds of people, including many foreign nationals, remain unaccounted for.
 
 ## Domestic agencies leading the operation

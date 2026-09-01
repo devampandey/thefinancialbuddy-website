@@ -6,8 +6,6 @@ description: "Finance Minister Nirmala Sitharaman urged US investors to build in
 author: "The Financial Buddy Team"
 ---
 
-![Sitharaman Pitches India as Global Manufacturing Hub at Chicago Roundtable](/uploads/sitharaman-mte5roo6.jpg)
-
 Finance Minister Nirmala Sitharaman on Friday made a fresh pitch to American investors to set up manufacturing bases and technology centres in India, addressing a high-level business roundtable with investors and executives in Chicago as part of her ongoing six-day tour of the United States and Canada.
 
 Organised by India's Consulate General in Chicago in partnership with the US-India Strategic Partnership Forum, the event centred on the theme "Manufacture in India — for India and for the world." Sitharaman told attendees that India's investment case no longer rests on any single sector but on the convergence of scale, talent, infrastructure, technology and a decade of sustained reform.

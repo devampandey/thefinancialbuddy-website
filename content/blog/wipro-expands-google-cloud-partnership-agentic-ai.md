@@ -6,8 +6,6 @@ description: "Wipro is deepening its Google Cloud alliance to roll out Gemini En
 author: "The Financial Buddy Team"
 ---
 
-![Wipro Expands Google Cloud Partnership to Scale Agentic AI](/uploads/wipro-mtd4oh1k.png)
-
 Wipro announced an expansion of its partnership with Google Cloud aimed at accelerating enterprise-wide adoption of Gemini Enterprise and agentic artificial intelligence, sending its shares higher in Friday's trading session and adding to the momentum behind Indian IT stocks this week.
 
 ## Scaling AI across the workforce

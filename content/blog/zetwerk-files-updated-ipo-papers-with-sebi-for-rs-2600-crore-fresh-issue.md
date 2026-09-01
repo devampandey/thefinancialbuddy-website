@@ -6,8 +6,6 @@ description: "Manufacturing platform Zetwerk has filed updated draft IPO papers 
 author: "The Financial Buddy Team"
 ---
 
-![Zetwerk Files Updated IPO Papers With Sebi for Rs 2,600 Crore Fresh Issue](/uploads/zetwerk-mst937pp.webp)
-
 Bengaluru-based technology-led manufacturing platform Zetwerk has filed its Updated Draft Red Herring Prospectus (UDRHP-1) with the Securities and Exchange Board of India, outlining a proposed initial public offering that includes a fresh issue of equity shares worth up to Rs 2,600 crore. The filing, made public on Friday, comes nearly five months after Zetwerk first lodged its preliminary IPO papers through the confidential pre-filing route in March.
 
 ## Offer structure

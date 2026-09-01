@@ -6,8 +6,6 @@ description: "Indian benchmark indices fell for a fresh session Wednesday as ris
 author: "The Financial Buddy Team"
 ---
 
-![Sensex, Nifty Extend Losing Streak As Crude Oil Tops $91 Amid Hormuz Tensions](/uploads/sensex1009-mszw12et.webp)
-
 Indian equity benchmarks extended their recent losing streak on Wednesday, with the Sensex and Nifty 50 sliding through the morning and afternoon session as elevated crude oil prices and escalating tensions around the Strait of Hormuz kept investors on edge.
 
 ## The Numbers

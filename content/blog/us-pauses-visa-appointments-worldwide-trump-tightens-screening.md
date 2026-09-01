@@ -6,8 +6,6 @@ description: "The Trump administration has paused visa interview scheduling at U
 author: "The Financial Buddy Team"
 ---
 
-![US Pauses Visa Appointments Worldwide, Adding Uncertainty for Indian Applicants](/uploads/trump-mta7kqoj.webp)
-
 The United States has temporarily halted the scheduling of visa appointments at its embassies and consulates around the world, a move that could affect thousands of applicants, including large numbers of Indian students, skilled workers and travellers seeking entry into the country.
 
 ## What is happening

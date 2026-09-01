@@ -6,8 +6,6 @@ description: "A new industry report shows over 1.63 lakh global tech layoffs in 
 author: "The Financial Buddy Team"
 ---
 
-![Global Tech Layoffs Cross 1.63 Lakh in 2026 as AI Restructuring Hits India Hard](/uploads/ai-layoffs-msk45948.webp)
-
 Global technology companies have cut more than 1,63,000 jobs since the start of 2026, and artificial intelligence is being blamed for well over half of those losses, according to a fresh industry report that also flags India as one of the hardest-hit job markets in Asia.
 
 The findings, compiled by markets research firm TradingPlatforms, show that AI was cited as a direct factor in more than 91,000 of the layoffs recorded so far this year. The cuts have not been confined to any single corner of the technology industry. Cloud and SaaS companies account for the largest share of job losses, followed by e-commerce and online marketplaces, IT services firms, and social media platforms. Enterprise software, while a smaller slice of the total, has still seen tens of thousands of roles eliminated, with the vast majority of those cuts concentrated at US-headquartered companies.

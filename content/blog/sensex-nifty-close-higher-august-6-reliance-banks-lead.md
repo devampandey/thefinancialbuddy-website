@@ -6,8 +6,6 @@ description: "Indian benchmarks ended Thursday's session marginally higher, supp
 author: "The Financial Buddy Team"
 ---
 
-![Sensex, Nifty Close Higher on August 6 as Reliance and Banking Stocks Lead Gains](/uploads/sensex-nifty-mshnsovn.webp)
-
 Indian equity benchmarks closed Thursday's trading session with modest gains, as strength in Reliance Industries and banking stocks offset weakness in IT, auto, realty and metal counters. The BSE Sensex climbed 373.76 points, or 0.48%, to settle at 78,954.76, while the NSE Nifty 50 added 11.35 points, or 0.05%, to end the day at 24,636.00.
 
 ## What Drove the Market

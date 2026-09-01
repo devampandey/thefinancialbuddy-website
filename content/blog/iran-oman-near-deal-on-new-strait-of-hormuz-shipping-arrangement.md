@@ -6,8 +6,6 @@ description: "Iran and Oman say they are close to finalising a new shipping-rout
 author: "The Financial Buddy Team"
 ---
 
-![Iran and Oman Near Deal on New Strait of Hormuz Shipping Arrangement](/uploads/iran-and-oma-msk025ky.jpg)
-
 Iran and Oman say they are on the verge of finalising a new arrangement governing shipping traffic through the Strait of Hormuz, one of the world's most important oil transit corridors, in what would mark a significant step toward de-escalating tensions tied to the broader US-Iran standoff. Officials from both countries describe a joint statement as being in its final drafting stage, though key details are still being worked out.
 
 ## What the Emerging Deal Involves

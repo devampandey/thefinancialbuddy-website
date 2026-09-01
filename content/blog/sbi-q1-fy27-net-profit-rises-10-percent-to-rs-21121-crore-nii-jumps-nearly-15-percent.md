@@ -6,8 +6,6 @@ description: "State Bank of India posted a 10% rise in standalone net profit for
 author: "The Financial Buddy Team"
 ---
 
-![SBI Q1 FY27: Net Profit Rises 10% to Rs 21,121 Crore, NII Jumps Nearly 15%](/uploads/sbi-msiy6cn5.webp)
-
 State Bank of India, the country's largest lender, opened its first-quarter earnings card on Friday with numbers that comfortably beat what a cautious Street had been bracing for. The bank reported a standalone net profit of Rs 21,121 crore for the quarter ended June 2026, up 10 percent from Rs 19,160 crore in the same period last year, while its consolidated net profit, which folds in subsidiaries and associates, came in at Rs 24,113 crore, a 12 percent rise year-on-year.
 
 ## Core Lending Business Firms Up

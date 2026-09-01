@@ -6,8 +6,6 @@ description: "R Praggnanandhaa tied for first in the classical standings but los
 author: "The Financial Buddy Team"
 ---
 
-![Praggnanandhaa Finishes Runner-Up as Wesley So Retains Sinquefield Cup Title in Armageddon](/uploads/chess-mt1qk51i.webp)
-
 Indian grandmaster R Praggnanandhaa came within a whisker of winning the Sinquefield Cup for the first time early Thursday, finishing tied for first place in the classical standings before losing a tense Armageddon tiebreak to American grandmaster Wesley So, who claimed the title for the third time in his career and the second year running.
 
 ## A Tiebreak Decided by Inches

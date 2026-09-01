@@ -6,8 +6,6 @@ description: "Startup funding in India dropped sharply in July after a June surg
 author: "The Financial Buddy Team"
 ---
 
-![Indian Startup Funding Falls 67% to $662 Million in July](/uploads/startup-1-msczitag.jpg)
-
 India's startup funding environment cooled noticeably in July, with companies raising a combined $662 million across 85 deals, a steep 67 percent drop from the roughly $2 billion recorded in June. The June figure had been inflated by one outsized transaction, Meta's investment in fintech firm CRED, which meant July's decline looks sharper in percentage terms than the underlying trend might suggest. Compared with July of last year, funding was actually up about 11 percent, a reminder that month-to-month swings in India's startup capital markets can be misleading without longer-term context.
 
 ## Large Deals Are Scarce
@@ -27,3 +25,5 @@ One notable counterpoint to the funding slowdown is that startup layoffs, which 
 Taken together, July's data paints a picture of an ecosystem that is uneven rather than in retreat: overall funding remains dependent on isolated large rounds rather than a broad base of mid-sized deals, but early-stage activity and year-on-year growth suggest investor interest has not disappeared. For founders, the message is that capital is available for standout businesses and specific themes such as AI and EVs, but the days of easy, broad-based fundraising remain some way off. Whether August brings a rebound or a further slowdown will offer a clearer signal on whether June's surge or July's pullback better represents the current state of India's startup capital markets.
 
 This article is for informational purposes only and does not constitute financial advice. Please consult a qualified financial advisor before making investment decisions.
+
+This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.

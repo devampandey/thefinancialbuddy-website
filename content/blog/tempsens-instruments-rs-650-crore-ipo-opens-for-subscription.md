@@ -6,8 +6,6 @@ description: "Temperature-sensor and industrial cable maker Tempsens Instruments
 author: "The Financial Buddy Team"
 ---
 
-![Tempsens Instruments' Rs 650-Crore IPO Opens for Subscription](/uploads/tempsens-instruments-rs-650-crore-ipo-opens-on-august-20-price-band-fixed-at-rs--mt1qhk1p.webp)
-
 Tempsens Instruments (India) Ltd, a thermal engineering and specialised cable manufacturer, opened its initial public offering for subscription on Thursday, seeking to raise Rs 650 crore in one of the week's key mainboard listings.
 
 ## Issue Details

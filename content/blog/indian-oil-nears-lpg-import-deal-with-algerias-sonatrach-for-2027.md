@@ -6,8 +6,6 @@ description: "IOC is close to a long-term LPG supply agreement with Algeria's So
 author: "The Financial Buddy Team"
 ---
 
-![Indian Oil Nears LPG Import Deal With Algeria's Sonatrach For 2027](/uploads/indian-oil-mt1qm5fk.jpg)
-
 Indian Oil Corporation (IOC), the country's largest refiner, is reportedly close to finalising a long-term deal with Algeria's state-owned energy company Sonatrach to import liquefied petroleum gas (LPG) starting in 2027, according to a Reuters report citing sources familiar with the negotiations.
 
 ## What the deal involves

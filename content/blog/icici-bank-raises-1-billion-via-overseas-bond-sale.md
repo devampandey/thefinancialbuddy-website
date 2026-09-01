@@ -6,8 +6,6 @@ description: "ICICI Bank completed a $1 billion five-year senior notes issuance 
 author: "The Financial Buddy Team"
 ---
 
-![ICICI Bank Raises $1 Billion via Landmark Overseas Bond Sale](/uploads/icici-bank-mtd51y9q.webp)
-
 ICICI Bank has completed the issuance of $1 billion in senior unsecured fixed-rate notes through its IFSC Banking Unit, tapping international debt markets in one of the largest single-tranche dollar bond sales by an Indian financial institution so far this year.
 
 ## Strong investor demand

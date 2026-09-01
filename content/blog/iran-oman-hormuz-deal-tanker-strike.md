@@ -6,8 +6,6 @@ description: "Iran says a shipping-route deal with Oman for the Strait of Hormuz
 author: "The Financial Buddy Team"
 ---
 
-![Iran and Oman Edge Closer to Hormuz Deal Even as a Gulf Tanker Comes Under Missile Attack](/uploads/h-ataa-mslbn8f7.jpg)
-
 Iran's government signalled on Saturday that it is nearing a deal with Oman to restore limited shipping traffic through the Strait of Hormuz, even as a fresh missile attack on a tanker in the same waterway underlined how fragile the surrounding truce still is.
 
 ## Araghchi Says Deal Is "Very Close"

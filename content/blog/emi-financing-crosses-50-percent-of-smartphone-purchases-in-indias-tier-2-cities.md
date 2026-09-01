@@ -6,8 +6,6 @@ description: "Counterpoint Research says EMI penetration in Tier 2 smartphone sa
 author: "The Financial Buddy Team"
 ---
 
-![EMI Financing Crosses 50% of Smartphone Purchases in India's Tier 2 Cities](/uploads/smartphone-finance-mspma3p3.jpg)
-
 Buying a smartphone on EMI has become the norm rather than the exception in India's smaller cities, according to fresh data from Counterpoint Research. The firm's Monthly Smartphone Financing Tracker shows that equated monthly instalments accounted for 57.5 per cent of smartphone purchases in Tier 2 mainline markets during the second quarter of 2026, up sharply from 44 per cent in the same period last year — a 13 percentage point jump in just twelve months.
 
 ## Financing spreads beyond the metros

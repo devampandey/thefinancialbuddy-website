@@ -6,8 +6,6 @@ description: "18 tonnes of GI-tagged Mithila Makhana from Bihar has been exporte
 author: "The Financial Buddy Team"
 ---
 
-![Bihar's GI-Tagged Mithila Makhana Reaches Australia in First-Ever Sea Shipment](/uploads/makhna-msk4771r.webp)
-
 Bihar's geographically-tagged Mithila Makhana has landed in Australia for the first time, with Commerce and Industry Minister Piyush Goyal announcing on Saturday that an 18-tonne consignment had been shipped from the state via sea route, marking the latest step in India's push to turn a traditional regional crop into a global export commodity.
 
 The shipment was procured directly from farmers in Darbhanga, the heart of India's makhana-growing belt, and facilitated by the Agricultural and Processed Food Products Export Development Authority (APEDA). According to the minister, farmers linked to this consignment earned close to 18 percent more than prevailing market prices, a margin that officials are holding up as evidence that direct export linkages can meaningfully improve returns for small and mid-sized growers.

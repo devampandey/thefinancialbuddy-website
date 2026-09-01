@@ -6,8 +6,6 @@ description: "Milky Mist Dairy Food shares listed at Rs 165 on Tuesday, an 18% p
 author: "The Financial Buddy Team"
 ---
 
-![Milky Mist Dairy Food Shares Debut With Nearly 18% Listing Gain](/uploads/milky-1-msyj8zb1.webp)
-
 Shares of Milky Mist Dairy Food made a strong stock market debut on Tuesday, listing at around Rs 165 apiece on the exchanges, a premium of roughly 17.9 percent over its issue price. The listing caps off a public offer that drew robust demand across investor categories and marks the largest initial public offering by an Indian dairy company to date.
 
 ## Strong Demand Across Categories

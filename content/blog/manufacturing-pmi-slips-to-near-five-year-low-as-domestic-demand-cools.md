@@ -6,8 +6,6 @@ description: "India's HSBC Manufacturing PMI eased to 53.5 in July, its weakest 
 author: "The Financial Buddy Team"
 ---
 
-![Manufacturing PMI Slips to Near Five-Year Low as Domestic Demand Cools](/uploads/eg1-mse681fh.webp)
-
 India's factory sector expanded at its slowest pace in nearly five years last month, a fresh set of survey data shows, adding a note of caution to markets that have otherwise been in a buoyant mood over the past week.
 
 ## Weakest Growth Since 2021
@@ -29,3 +27,5 @@ The PMI print lands at a sensitive moment. It comes just as the Reserve Bank of 
 For retail investors, a softening PMI is a reminder to watch demand-sensitive sectors such as autos, consumer durables and cement more closely in the current earnings season, since order books and margin commentary from these companies could offer an early read on whether the slowdown deepens or proves temporary. Export-oriented manufacturers, on the other hand, may continue to see relatively better momentum if global demand holds up.
 
 This article is for informational purposes only and does not constitute financial advice. Please consult a qualified financial advisor before making investment decisions.
+
+This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.

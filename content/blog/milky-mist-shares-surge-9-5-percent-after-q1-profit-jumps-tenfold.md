@@ -6,8 +6,6 @@ description: "Milky Mist Dairy Food shares rallied 9.5% on Tuesday after the com
 author: "The Financial Buddy Team"
 ---
 
-![Milky Mist Shares Jump 9.5% as Q1 Profit Surges Nearly Tenfold](/uploads/milkymist-mti7mqt6.jpg)
-
 Shares of Milky Mist Dairy Food rallied as much as 9.5 per cent in early trade on Tuesday, September 1, after the dairy products company reported a sharp jump in first-quarter profit for FY27, reinforcing investor confidence in one of this year's better-performing new listings.
 
 ## The numbers behind the rally

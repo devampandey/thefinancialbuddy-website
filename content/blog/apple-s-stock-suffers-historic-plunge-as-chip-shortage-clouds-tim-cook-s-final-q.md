@@ -2,10 +2,8 @@
 title: "Apple's Stock Suffers Historic Plunge as Chip Shortage Clouds Tim Cook's Final Quarter as CEO"
 date: "2026-08-01"
 category: "Technology"
-author: "Anonymous"
+author: "The Financial Buddy Team"
 ---
-
-![Apple's Stock Suffers Historic Plunge as Chip Shortage Clouds Tim Cook's Final Quarter as CEO](/uploads/apple-1-msaofpvw.webp)
 
 Apple's stock took its steepest one-day hit since the early days of the pandemic on Friday, sliding close to 10% after the company warned that a worsening components crunch is limiting how many iPhones and Macs it can actually build and sell.
 
@@ -34,3 +32,5 @@ Industry watchers expect the broader supply squeeze to weigh on both the smartph
 The timing adds a layer of drama to Apple's leadership transition. Cook is set to become executive chairman on September 1, handing the CEO role to John Ternus, Apple's longtime senior vice president of hardware engineering, who has been with the company since 2001 and played a central role in developing products including the iPhone and AirPods. Arthur Levinson will step into the role of lead independent director at the same time.
 
 Cook is closing out his tenure atop Apple, not with a victory lap, but with a candid admission that even the industry's most disciplined operator is running into constraints it cannot simply engineer its way out of. Whether Ternus inherits a temporary supply bottleneck or a more structural shift in how AI demand reshapes the chip market is likely to be one of the first major tests of his leadership.
+
+This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.

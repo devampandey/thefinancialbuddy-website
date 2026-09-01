@@ -6,8 +6,6 @@ description: "RBI data released Friday showed India's foreign exchange reserves 
 author: "The Financial Buddy Team"
 ---
 
-![India's Forex Reserves Surge $14.1 Billion to Cross $707 Billion, Hit Record High](/uploads/forex-mst9ne57.jpg)
-
 India's foreign exchange reserves posted their sharpest weekly increase in months, rising by $14.136 billion during the week ended August 7 to cross the $707 billion mark for the first time, according to data released by the Reserve Bank of India on Friday. The jump takes the country's reserve cushion to a fresh record high, reinforcing the central bank's buffer against external shocks at a time when global crude prices and geopolitical uncertainty have kept currency markets on edge.
 
 In rupee terms, the reserves expanded by Rs 1.19 lakh crore during the reporting week to stand at Rs 67.32 lakh crore, reflecting both the dollar increase and valuation effects from currency movements.

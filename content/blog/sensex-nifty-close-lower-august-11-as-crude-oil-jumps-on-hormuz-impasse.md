@@ -6,8 +6,6 @@ description: "Indian benchmark indices ended lower Tuesday as surging crude oil 
 author: "The Financial Buddy Team"
 ---
 
-![Sensex, Nifty Close Lower as Crude Oil Jumps Toward $90 on Hormuz Impasse](/uploads/bse-622b35-msosbu86.webp)
-
 Indian equity benchmarks closed lower on Tuesday, snapping the previous session's gains, as a sharp jump in crude oil prices and renewed uncertainty over a potential US-Iran agreement on the Strait of Hormuz rattled investor sentiment.
 
 ## How the Indices Fared

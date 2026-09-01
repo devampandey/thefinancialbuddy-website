@@ -6,8 +6,6 @@ description: "A brilliant fifth-wicket stand from Ashwini Chillar and Lalit Yada
 author: "The Financial Buddy Team"
 ---
 
-![DPL 2026: Purani Dilli 6 Seal Last-Over Thriller Against North Delhi Strikers](/uploads/dpl-msshu8z9.jpg)
-
 Purani Dilli 6 pulled off a dramatic last-over win over North Delhi Strikers in the Delhi Premier League (DPL) 2026, recovering from a shaky start with the bat to seal victory in a contest that went down to the final delivery.
 
 ## A strong total from North Delhi Strikers

@@ -6,8 +6,6 @@ description: "The Bankers' Books Evidence Bill, 2026 replaces an 1891 colonial l
 author: "The Financial Buddy Team"
 ---
 
-![Lok Sabha Passes Bill to Recognise Digital Banking Records as Legal Evidence](/uploads/lok-sabha2017-msge6zjy.jpg)
-
 The Lok Sabha has passed the Bankers' Books Evidence Bill, 2026, a piece of legislation that formally recognises digital and virtual banking records as admissible evidence in courts of law. Moved by Finance Minister Nirmala Sitharaman, the bill replaces the Bankers' Books Evidence Act of 1891, a colonial-era law that had governed how banking records could be used in legal proceedings for well over a century.
 
 ## Closing a Gap Between Law and Modern Banking

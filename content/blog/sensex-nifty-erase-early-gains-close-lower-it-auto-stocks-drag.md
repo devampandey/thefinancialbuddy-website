@@ -6,8 +6,6 @@ description: "Indian benchmark indices reversed early gains to end lower on Wedn
 author: "The Financial Buddy Team"
 ---
 
-![Sensex, Nifty Erase Early Gains to Close Lower as IT and Auto Stocks Drag](/uploads/sensex-nifty-123-mta7l6qx.webp)
-
 Indian equity benchmarks gave up an early rally and closed lower on Wednesday, marking a volatile session in which gains built on easing crude oil prices could not be sustained through the day.
 
 ## How the session played out

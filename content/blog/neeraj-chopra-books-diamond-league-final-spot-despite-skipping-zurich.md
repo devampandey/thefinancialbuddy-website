@@ -6,8 +6,6 @@ description: "Neeraj Chopra has secured a place in the 2026 Diamond League javel
 author: "The Financial Buddy Team"
 ---
 
-![Neeraj Chopra Books Diamond League Final Spot Despite Skipping Zurich](/uploads/neeraj-mtd50mkl.webp)
-
 Star Indian javelin thrower Neeraj Chopra has confirmed his place in this year's Diamond League final, set to be held in Brussels in early September, even after opting out of the Zurich leg of the circuit that concluded on Thursday.
 
 ## A season built on limited but strong outings

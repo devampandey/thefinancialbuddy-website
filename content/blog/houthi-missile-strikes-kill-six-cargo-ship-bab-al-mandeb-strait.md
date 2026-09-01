@@ -6,8 +6,6 @@ description: "A double missile strike on the Egyptian-owned Tihamah killed six a
 author: "The Financial Buddy Team"
 ---
 
-![Houthi Missile Strikes Kill Six on Cargo Ship in Bab al-Mandeb Strait](/uploads/israeil-attack-cargo-mspm31eg.webp)
-
 At least six people were killed and ten others wounded on Tuesday when Houthi forces launched a double missile strike on a cargo vessel transiting the Bab al-Mandeb strait, according to Yemen's internationally recognised government. The attack on the Egyptian-owned vessel Tihamah marks the first shipping deaths linked to the Iran-aligned Houthi movement since the United States and Israel launched their war on Iran in late February.
 
 ## What happened

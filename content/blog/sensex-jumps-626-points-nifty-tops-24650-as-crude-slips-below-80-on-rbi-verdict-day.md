@@ -6,8 +6,6 @@ description: "Indian equities extended gains after the RBI held rates steady, wi
 author: "The Financial Buddy Team"
 ---
 
-![Sensex Jumps 626 Points, Nifty Tops 24,650 as Crude Slips Below $80 on RBI Verdict Day](/uploads/sensex-nifty-msfucsdp.webp)
-
 Indian benchmark indices climbed sharply on August 5 as the Reserve Bank of India's decision to hold interest rates, combined with a sharp drop in crude oil prices, lifted investor sentiment through the session. The BSE Sensex jumped 626.43 points, or 0.79 percent, while the Nifty added to its opening gains to move past the 24,650 mark.
 
 ## What Drove the Rally

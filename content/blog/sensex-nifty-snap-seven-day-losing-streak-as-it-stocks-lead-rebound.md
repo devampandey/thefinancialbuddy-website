@@ -6,8 +6,6 @@ description: "Indian benchmark indices rose in early trade on August 20, ending 
 author: "The Financial Buddy Team"
 ---
 
-![Sensex, Nifty Snap Seven-Day Losing Streak as IT Stocks Lead Rebound](/uploads/sensex-nifty-123-mt11fux6.webp)
-
 Indian equity benchmarks opened sharply higher on Thursday, breaking a punishing seven-session losing streak that had dragged the Nifty 50 to its worst run of the year, as gains in IT stocks and a pullback in global bond yields improved risk appetite.
 
 ## The Numbers

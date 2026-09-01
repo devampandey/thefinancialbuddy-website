@@ -6,8 +6,6 @@ description: "Persistent rain wiped out the first session of Day 2 in Galle, lea
 author: "The Financial Buddy Team"
 ---
 
-![Rain Washes Out Morning Session as India Look to Extend Galle Dominance](/uploads/galle-weather-msvkl65v.webp)
-
 Heavy showers over the Galle International Stadium washed out the opening session of Day 2 in the first Test between India and Sri Lanka on Sunday, denying fans a ball of action through the morning as India looked to press home the advantage built on the opening day.
 
 ## Rain has the final say through the morning

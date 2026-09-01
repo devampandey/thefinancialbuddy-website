@@ -6,8 +6,6 @@ description: "Shiprocket's Rs 1,617-crore mainboard IPO drew strong retail deman
 author: "The Financial Buddy Team"
 ---
 
-![Shiprocket IPO Day 1: Issue Subscribed 97%, Retail Portion Leads at 3.3x](/uploads/shiprocket-ipo-msqdt6lf.webp)
-
 Shiprocket's much-awaited initial public offering got off to a solid, if uneven, start on its opening day of bidding on Wednesday, with the issue subscribed 97 per cent overall by the time trading closed for the day. The e-commerce enablement firm's Rs 1,617.48-crore mainboard offering received bids for over 9.14 crore shares against the shares on offer, according to exchange data reviewed through the day.
 
 The subscription numbers told a familiar story for a new-age tech listing: retail investors piled in enthusiastically while institutional buyers held back. The retail individual investor (RII) category was subscribed 3.33 times on day one, with bids for roughly 5.77 crore shares against the 1.73 crore shares reserved for the segment. Non-institutional investors (NIIs), typically high-net-worth individuals, subscribed 1.23 times their allotted portion. The qualified institutional buyer (QIB) category, however, saw only a fraction of its reserved shares bid for on day one — a pattern common in IPOs where institutional investors tend to place the bulk of their bids on the final day of the offer window.

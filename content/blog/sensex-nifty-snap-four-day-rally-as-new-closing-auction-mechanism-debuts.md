@@ -6,8 +6,6 @@ description: "Indian benchmark indices fell on August 4 as the new Closing Aucti
 author: "The Financial Buddy Team"
 ---
 
-![Sensex, Nifty Snap Four-Day Rally as New Closing Auction Mechanism Debuts](/uploads/bse-msev3maz.jpg)
-
 India's benchmark equity indices ended lower on August 4, breaking a four-session winning streak as traders adjusted to a newly implemented market mechanism and digested a large government stake sale in the country's biggest insurer. The BSE Sensex closed at 78,428.95, down 210.08 points or 0.27%, while the NSE Nifty 50 settled at 24,614.90, lower by 159.40 points or 0.64%.
 
 ## A Volatile Session Around a New Mechanism
@@ -29,3 +27,5 @@ Sectoral performance was mixed rather than uniformly negative. Nifty Media was t
 Attention now turns to the Reserve Bank of India's Monetary Policy Committee, which is scheduled to announce its rate decision on August 5 following a three-day meeting. A Business Standard poll of economists suggests the MPC is likely to hold the repo rate unchanged for a fourth consecutive policy meeting, citing a stable domestic growth backdrop weighed against persistent inflation risks, elevated crude oil prices, and global uncertainty. Traders will also be watching how quickly the market settles into a rhythm with the new Closing Auction Session mechanism, and whether the added end-of-day volatility seen on its debut session proves temporary or becomes a recurring feature of daily trading.
 
 This article is for informational purposes only and does not constitute financial advice. Please consult a qualified financial advisor before making investment decisions.
+
+This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.

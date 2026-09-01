@@ -6,8 +6,6 @@ description: "Tata Motors Passenger Vehicles reported an 80% drop in consolidate
 author: "The Financial Buddy Team"
 ---
 
-![Tata Motors Passenger Vehicles' Q1 Profit Slumps 80% on JLR Drag, but Stock Rallies on Demand Outlook](/uploads/tata-motors-msrn6rbg.jpg)
-
 Tata Motors Passenger Vehicles (TMPV) reported a sharp 80.25% decline in consolidated net profit for the June quarter on Thursday, even as its shares climbed after the company struck an upbeat tone on demand for the rest of the year.
 
 Consolidated net profit fell to Rs 775 crore in Q1 FY27, down from Rs 3,924 crore in the same quarter last year, while revenue from operations rose 9.26% year-on-year to Rs 95,799 crore. Profit before exceptional items and tax dropped nearly 59% to Rs 1,606 crore, and the company booked Rs 32 crore in exceptional items, including employee separation costs. EBITDA slipped 6.43% to Rs 7,128 crore, with the margin contracting to 7.4% from 8.7% a year earlier.

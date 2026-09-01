@@ -6,8 +6,6 @@ description: "The Rs 94-crore SME IPO from healthcare logistics firm Credent Con
 author: "The Financial Buddy Team"
 ---
 
-![Credent Connect N Care IPO Opens Today: Price Band, GMP and What Investors Should Know](/uploads/ipo-123-msrndsf4.jpg)
-
 Credent Connect N Care, a New Delhi-based healthcare logistics and services provider, opened its initial public offering for subscription on Thursday, aiming to raise Rs 94 crore through a fresh issue of shares on the NSE Emerge SME platform.
 
 The IPO is priced in a band of Rs 179 to Rs 189 per share, with a lot size of 600 shares. The issue, comprising entirely a fresh issuance of 49.68 lakh equity shares, will remain open for subscription through August 17, with listing tentatively scheduled for August 20. Hem Securities is acting as the sole book-running lead manager, while Kfin Technologies is the registrar to the issue.

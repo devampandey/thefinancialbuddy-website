@@ -6,8 +6,6 @@ description: "Israel's Housing Ministry opened bidding for over 1,200 homes in t
 author: "The Financial Buddy Team"
 ---
 
-![Israel Advances E1 Settlement Plan That Could 'Bury' Two-State Solution](/uploads/isreal123-mt1tzlhv.jpg)
-
 Israel's Housing Ministry has issued a tender inviting construction bids for more than 1,200 housing units in the E1 area near Jerusalem, a long-frozen settlement project that critics say would sever the West Bank in two and make a contiguous Palestinian state effectively impossible.
 
 ## What The Tender Covers

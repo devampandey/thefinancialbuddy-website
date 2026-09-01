@@ -6,8 +6,6 @@ description: "Seoul and Washington agree to cut this month's Ulchi Freedom Shiel
 author: "The Financial Buddy Team"
 ---
 
-![US and South Korea Shorten Joint Military Drills After Trump Order; North Korea Calls Exercises 'Frantic'](/uploads/sk-n-us-mszof0cz.jpg)
-
 The United States and South Korea have agreed to significantly shorten their annual summertime military exercises after President Donald Trump directed the Pentagon to scale back the drills, South Korean officials confirmed on Wednesday. The decision marks an abrupt change to an exercise schedule that had only begun days earlier and comes as Trump signals renewed interest in re-engaging North Korean leader Kim Jong Un.
 
 ## What Changed

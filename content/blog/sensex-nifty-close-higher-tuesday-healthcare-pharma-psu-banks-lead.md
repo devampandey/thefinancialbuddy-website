@@ -6,8 +6,6 @@ description: "Indian benchmark indices reversed early losses to end higher on Tu
 author: "The Financial Buddy Team"
 ---
 
-![Sensex, Nifty Close Higher Tuesday as Healthcare, Pharma and PSU Banks Lead](/uploads/sensex-and-nifty-mt8s5ubu.webp)
-
 India's benchmark equity indices staged a recovery on Tuesday, reversing early losses to close firmly in positive territory as gains in healthcare, pharmaceutical and public sector bank stocks offset a weak start driven by soft global cues. The BSE Sensex ended the session up around 287 points, or roughly 0.37 percent, settling near the 77,656 mark, while the NSE Nifty added about 115 points, or close to 0.48 percent, to finish above the 24,330 level.
 
 ## A Choppy Session

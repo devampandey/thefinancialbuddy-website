@@ -6,8 +6,6 @@ description: "Five block deals worth more than Rs 6,000 crore changed hands on W
 author: "The Financial Buddy Team"
 ---
 
-![PhysicsWallah, Groww, Rubicon Research See Over Rs 4,400 Crore in Block Deals on Dalal Street](/uploads/pw-mta7oq1l.jpg)
-
 Dalal Street saw a burst of large ownership changes on Wednesday, with five separate block deals worth a combined value of more than Rs 6,000 crore changing hands across newly listed and established companies.
 
 ## The biggest moves

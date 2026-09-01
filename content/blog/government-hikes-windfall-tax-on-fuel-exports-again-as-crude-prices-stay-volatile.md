@@ -6,8 +6,6 @@ description: "New Delhi raised export duty on petrol, diesel and ATF from August
 author: "The Financial Buddy Team"
 ---
 
-![Government Hikes Windfall Tax on Fuel Exports Again as Crude Prices Stay Volatile](/uploads/pppp-mseg7b0c.jpg)
-
 The central government has once again raised the special additional excise duty, commonly called the windfall tax, on exports of petrol, diesel and aviation turbine fuel (ATF). The revised rates took effect from August 3, marking the second increase in less than three weeks as authorities try to keep domestic fuel supplies comfortable amid choppy global crude prices.
 
 ## What Changed
@@ -31,3 +29,5 @@ For everyday consumers, the direct effect is limited since the duty applies to e
 This is not a one-off adjustment. Records of the last few months show the windfall tax on diesel and ATF exports has been raised and lowered multiple times since April, tracking swings in crude benchmarks. That pattern is likely to continue as long as geopolitical uncertainty keeps oil markets on edge, meaning refiners, exporters and investors in the energy sector should expect further revisions rather than treating this as a settled rate.
 
 This article is for informational purposes only and does not constitute financial advice. Please consult a qualified financial advisor before making investment decisions.
+
+This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.

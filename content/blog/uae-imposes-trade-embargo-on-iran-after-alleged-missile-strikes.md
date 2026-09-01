@@ -6,8 +6,6 @@ description: "UAE halts all trade and financial ties with Iran after accusing it
 author: "The Financial Buddy Team"
 ---
 
-![UAE Imposes Indefinite Trade Embargo On Iran After Alleged Missile Strikes](/uploads/uae-imposes-mszvzvd0.webp)
-
 The United Arab Emirates announced an indefinite suspension of all trade, commercial exchanges and financial transactions with Iran early Wednesday, hours after its Ministry of Defence said air defence systems had intercepted two ballistic missiles fired from Iranian territory toward the country. Both projectiles reportedly landed in the sea, and no casualties or damage were reported on the ground.
 
 ## What Triggered The Embargo

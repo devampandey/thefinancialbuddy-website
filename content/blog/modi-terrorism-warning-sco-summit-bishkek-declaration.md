@@ -6,8 +6,6 @@ description: "PM Modi called for dismantling terrorism's global ecosystem as SCO
 author: "The Financial Buddy Team"
 ---
 
-![Modi Warns Against 'Double Standards' on Terrorism as SCO Leaders Adopt Bishkek Declaration](/uploads/modi-mtiflhcs.jpg)
-
 Leaders of the Shanghai Cooperation Organisation gathered in Bishkek, Kyrgyzstan on Tuesday for the formal Council of Heads of State session of the 26th SCO Summit, where Prime Minister Narendra Modi delivered a pointed message on counter-terrorism even as member states signed off on a joint Bishkek Declaration marking 25 years of the bloc.
 
 ## Modi's Message: No 'Strategic Asset' for Terror

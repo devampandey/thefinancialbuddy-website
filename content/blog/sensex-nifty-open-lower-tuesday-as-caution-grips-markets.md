@@ -6,8 +6,6 @@ description: "Indian benchmark indices slipped at the open on Tuesday, tracking 
 author: "The Financial Buddy Team"
 ---
 
-![Sensex, Nifty Open Lower on Tuesday as Caution Grips Markets](/uploads/sensex-nifty-123-mt87yqu4.webp)
-
 Indian equity benchmarks started Tuesday's session on a cautious note, extending a hesitant tone that has marked trading over the past several sessions. The BSE Sensex opened down around 109 to 177 points, or roughly 0.14 to 0.23 per cent, slipping toward the 77,190-77,260 range, while the NSE Nifty 50 shed about 80 to 83 points, or close to 0.33 per cent, to trade near 24,138 in the opening hour.
 
 ## What Set The Tone

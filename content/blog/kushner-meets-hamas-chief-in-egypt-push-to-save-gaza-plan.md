@@ -6,8 +6,6 @@ description: "Jared Kushner met Hamas leader Khalil al-Hayya in Egypt as mediato
 author: "The Financial Buddy Team"
 ---
 
-![Kushner Meets Hamas Chief in Egypt in Push to Save Stalled Gaza Plan](/uploads/0000ooihh-msw57ifq.webp)
-
 US President Donald Trump's son-in-law and senior envoy Jared Kushner met Hamas chief Khalil al-Hayya in the Egyptian coastal city of El-Alamein on Sunday, as international mediators intensified efforts to rescue a postwar Gaza plan that Israeli Prime Minister Benjamin Netanyahu has publicly rejected.
 
 ## A high-stakes meeting in Egypt

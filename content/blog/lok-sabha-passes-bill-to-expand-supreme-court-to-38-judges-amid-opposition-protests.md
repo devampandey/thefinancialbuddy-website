@@ -27,3 +27,5 @@ The bill will now need to clear the Rajya Sabha before receiving presidential as
 ## What It Means Going Forward
 
 A larger bench strength alone does not guarantee faster case disposal — new judges take time to be appointed through the collegium process, and courtroom infrastructure and support staff must scale alongside judicial numbers. Legal observers will be watching how quickly the Supreme Court collegium moves to recommend appointments to fill the four additional vacancies created by this amendment, and whether the expanded strength translates into a measurable dent in the pendency figures cited to justify the change.
+
+This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.

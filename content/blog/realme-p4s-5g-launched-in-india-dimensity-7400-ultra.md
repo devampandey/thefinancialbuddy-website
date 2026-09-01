@@ -6,8 +6,6 @@ description: "Realme has launched the P4s 5G in India with a MediaTek Dimensity 
 author: "The Financial Buddy Team"
 ---
 
-![Realme P4s 5G Launched in India With Dimensity 7400 Ultra Chip and 8,000mAh Battery](/uploads/real-me-mta7lzt1.jpg)
-
 Realme expanded its budget smartphone lineup in India on Wednesday with the launch of the P4s 5G, a gaming-focused device aimed at price-conscious buyers who still want flagship-adjacent performance features.
 
 ## Key specifications

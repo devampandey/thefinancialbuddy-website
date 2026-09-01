@@ -6,8 +6,6 @@ description: "Iranian lawmakers approved the general principles of a bill crimin
 author: "The Financial Buddy Team"
 ---
 
-![Iran's Parliament Advances Bill to Criminalize Contact With 'Hostile' Foreign Media](/uploads/i89999-msw58kjq.jpg)
-
 Iran's parliament on Sunday approved the general principles of a new bill that would criminalise interviews and other communications with media outlets deemed hostile to the Islamic Republic, including any outlet financed or backed by the United States or Israel, according to Iranian state-linked media reports.
 
 ## What the bill proposes

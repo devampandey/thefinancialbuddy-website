@@ -6,8 +6,6 @@ description: "Vodafone Idea shares surged as much as 8% after reports that the t
 author: "The Financial Buddy Team"
 ---
 
-![Vodafone Idea Shares Jump 8% on SBI-Led Debt Funding Progress](/uploads/vodafone-mt8s22h1.webp)
-
 Shares of Vodafone Idea rallied sharply in Tuesday's trading session, climbing as much as 8 percent to touch an intraday high of around Rs 15.30, after reports indicated the cash-strapped telecom operator is in the final stages of securing a major debt funding package from a consortium of public sector banks led by the State Bank of India. The stock's move added meaningfully to its market capitalisation, which stood at over Rs 1.6 lakh crore during the session.
 
 ## What's Driving The Rally

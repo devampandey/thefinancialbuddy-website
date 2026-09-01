@@ -6,8 +6,6 @@ description: "Sri Lanka Cricket XI batters piled on runs before India's spin tri
 author: "The Financial Buddy Team"
 ---
 
-![India's Spinners Fight Back After Sri Lanka XI Post 363/8 on Day One of Colombo Warm-Up](/uploads/india-vs-sri-lanka-test-warm-up-match-msj8xhgo.webp)
-
 India's bowlers were made to toil through a long, sweltering opening day in Colombo as a young Sri Lanka Cricket XI side batted first and reached 363 for 8 by the close of play in the three-day tour match at the Nondescripts Cricket Club Ground. The fixture, India's only warm-up assignment before the two-match Test series against Sri Lanka begins, offered the tourists their first extended look at conditions after a five-week gap since their last competitive outing.
 
 ## Openers set the tone

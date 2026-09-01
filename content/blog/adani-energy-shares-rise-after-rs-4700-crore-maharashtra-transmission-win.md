@@ -6,8 +6,6 @@ description: "Adani Energy Solutions shares climbed after the company won a Rs 4
 author: "The Financial Buddy Team"
 ---
 
-![Adani Energy Shares Rise After Winning Rs 4,700 Crore Maharashtra Transmission Project](/uploads/adani-energy-mta0nf4e.jpg)
-
 Shares of Adani Energy Solutions Limited (AESL) gained in Wednesday's trading session after the company secured a major transmission project in Maharashtra with an estimated capital outlay of around Rs 4,700 crore, adding to what has already been a strong run for the stock this year.
 
 ## The Project

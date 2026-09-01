@@ -6,8 +6,6 @@ description: "Mahanagar Gas raised CNG prices by Rs 2 per kg and domestic PNG by
 author: "The Financial Buddy Team"
 ---
 
-![Mahanagar Gas Hikes CNG and PNG Prices in Mumbai as Middle East Crisis Bites](/uploads/mahanagr-mti83fhm.webp)
-
 Mahanagar Gas Limited (MGL) has raised prices for compressed natural gas (CNG) and domestic piped natural gas (PNG) across its Mumbai service area, becoming the latest city gas distributor to pass on higher input costs driven by ongoing tensions in the Middle East.
 
 ## What changed

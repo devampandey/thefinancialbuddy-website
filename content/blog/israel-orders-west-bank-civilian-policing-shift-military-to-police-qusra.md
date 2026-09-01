@@ -6,8 +6,6 @@ description: "Defense Minister Israel Katz has ordered the army to prepare a pla
 author: "The Financial Buddy Team"
 ---
 
-![Israel Orders Shift of West Bank Civilian Policing From Military to Police After Qusra Standoff](/uploads/isreaili-mssut2gc.jpg)
-
 Israel's Defense Minister Israel Katz has ordered the military to draw up a plan to transfer civilian law-enforcement responsibilities in the occupied West Bank from the army to the Israel Police, a significant policy shift that comes amid mounting criticism of the military's handling of Jewish settlers who besieged a Palestinian family's home in the West Bank village of Qusra.
 
 ## The Qusra Standoff That Triggered the Order

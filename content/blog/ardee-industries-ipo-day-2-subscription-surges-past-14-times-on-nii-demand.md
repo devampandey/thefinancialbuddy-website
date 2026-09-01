@@ -6,8 +6,6 @@ description: "Ardee Industries' Rs 425.87 crore IPO saw subscription levels rock
 author: "The Financial Buddy Team"
 ---
 
-![Ardee Industries IPO Day 2: Subscription Surges Past 14 Times on NII Demand](/uploads/ardee-industries-ipo-day-2-gmp-at-29-issue-subscribed-3-08-times-so-far-should-y-mshth83g.webp)
-
 The initial public offering of Ardee Industries Limited saw a dramatic jump in investor demand on its second day of bidding on Thursday, with overall subscription climbing well past 14 times by late afternoon, according to exchange data. The sharp acceleration marks a significant step-up from the company's opening day, when the issue had crossed roughly two times subscription.
 
 ## What's Driving the Surge

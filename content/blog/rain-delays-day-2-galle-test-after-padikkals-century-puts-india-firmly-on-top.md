@@ -6,8 +6,6 @@ description: "Persistent rain held up the start of Day 2 in Galle, a day after D
 author: "The Financial Buddy Team"
 ---
 
-![Rain Delays Day 2 in Galle as Padikkal's Century Leaves India Firmly on Top](/uploads/rain-in-sl-msvcrpm3.webp)
-
 Play on the second morning of the opening Test between India and Sri Lanka in Galle was held up by persistent rain on Sunday, with covers rushed onto the square and both teams forced into an anxious wait in the pavilion before the delayed start to a match India already dominate.
 
 ## A Damp Start to Day 2

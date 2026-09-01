@@ -6,8 +6,6 @@ description: "Ola Electric's Q1 FY27 loss narrowed to Rs 336 crore even as reven
 author: "The Financial Buddy Team"
 ---
 
-![Ola Electric Q1 FY27: Net Loss Narrows 22% to Rs 336 Crore as Revenue Falls 45%](/uploads/ola-electric-2026-02-13-13-36-41-msj6wkkm.webp)
-
 Ola Electric Mobility reported its first-quarter results for FY27 on Friday, posting a consolidated net loss of Rs 336 crore for the three months ended June 30, 2026. While the company remains firmly in the red, the loss marks an improvement of roughly 21-22% compared to the year-ago quarter, even as its topline continued to shrink sharply.
 
 ## Revenue Under Pressure

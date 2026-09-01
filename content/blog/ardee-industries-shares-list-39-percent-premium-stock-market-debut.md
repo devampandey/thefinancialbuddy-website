@@ -6,8 +6,6 @@ description: "Ardee Industries shares opened well above their Rs 53 issue price 
 author: "The Financial Buddy Team"
 ---
 
-![Ardee Industries Shares List at Nearly 39% Premium on Stock Market Debut](/uploads/arde100988-mspm5at6.webp)
-
 Shares of Ardee Industries made a strong debut on the stock exchanges on Wednesday, listing well above their issue price and rewarding investors who had piled into one of the most heavily subscribed initial public offerings of the month. The recycling and recovery solutions company's stock opened at Rs 72 on the National Stock Exchange, a gain of nearly 36 percent over its Rs 53 issue price, while on the BSE the shares debuted even higher at Rs 73.60, up close to 39 percent.
 
 ## A blockbuster subscription number

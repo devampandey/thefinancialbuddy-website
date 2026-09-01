@@ -6,8 +6,6 @@ description: "Wang Yi and Ajit Doval held talks in Beijing on the disputed Himal
 author: "The Financial Buddy Team"
 ---
 
-![China, India Hold Border Talks in Beijing, Agree to Keep Seeking Settlement](/uploads/ind-n-chima-mta0me77.webp)
-
 China and India have agreed to continue working toward a "fair, reasonable and mutually acceptable settlement" of their long-running border dispute, following talks between senior diplomats in Beijing this week that both sides described as candid and constructive.
 
 Chinese Foreign Minister Wang Yi and India's National Security Advisor Ajit Doval met on Tuesday for what China's foreign ministry called "comprehensive, in-depth, friendly and candid" discussions covering both border affairs and the broader bilateral relationship. The Indian Embassy in China confirmed the meeting in a post on social media, saying the two sides had reviewed bilateral ties and discussed ways to expand cooperation while maintaining stability and peace along the border.

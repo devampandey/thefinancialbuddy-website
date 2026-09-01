@@ -6,8 +6,6 @@ description: "Welspun Corp's promoter group and MD & CEO Vipul Mathur offloaded 
 author: "The Financial Buddy Team"
 ---
 
-![Welspun Corp CEO, Promoter Group Sell 2.4% Stake via Block Deal; Stock Slides](/uploads/welspun-mt9qhu33.jpg)
-
 Shares of Welspun Corp came under pressure on Wednesday after the company's promoter group and its managing director and chief executive, Vipul Mathur, sold a combined stake of roughly 2.4% through a block deal, unsettling investors even as the transaction appeared largely aimed at monetising part of their existing holdings.
 
 According to market data, promoter entity Welspun Investments and Commercials offloaded about 60 lakh shares, while Mathur separately sold 3 lakh shares, together amounting to roughly 6.3 million shares. The stock changed hands at approximately Rs 2,275.30 apiece in the deal, a discount of around 3% to Tuesday's closing price of Rs 2,345.50, valuing the transaction at close to Rs 1,417-1,433 crore. Shares sold in the block deal carry a 90-day lock-up period, a standard feature meant to prevent an immediate secondary sell-down.

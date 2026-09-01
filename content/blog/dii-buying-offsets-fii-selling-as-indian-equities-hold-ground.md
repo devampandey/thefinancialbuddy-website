@@ -6,8 +6,6 @@ description: "Domestic institutional investors bought nearly Rs 4,353 crore of I
 author: "The Financial Buddy Team"
 ---
 
-![Domestic Investors Buy Rs 4,353 Crore of Stocks as Foreign Investors Turn Sellers](/uploads/fpi12-mssfxvov.jpg)
-
 Indian equity markets saw a familiar tug-of-war play out on Thursday, as domestic institutional investors (DIIs) stepped in with net purchases of Rs 4,353.10 crore in the cash segment, comfortably offsetting net selling of Rs 510.70 crore by foreign institutional investors (FIIs).
 
 ## A Day of Diverging Flows

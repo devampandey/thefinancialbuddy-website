@@ -6,8 +6,6 @@ description: "Two mainboard IPOs worth a combined Rs 4,000 crore-plus opened on 
 author: "The Financial Buddy Team"
 ---
 
-![Dhoot Transmission, Molbio Diagnostics IPOs Open for Subscription Today](/uploads/ipo-123-msmqiwqx.jpg)
-
 India's primary market saw fresh action on Monday as two mainboard initial public offerings, Dhoot Transmission and Molbio Diagnostics, opened for public subscription, together seeking to raise more than Rs 4,000 crore.
 
 ## Dhoot Transmission's Rs 3,067-Crore Issue

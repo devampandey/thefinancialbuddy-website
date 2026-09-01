@@ -6,8 +6,6 @@ description: "24K gold crossed ₹1.61 lakh per 10 grams and silver topped ₹2.
 author: "The Financial Buddy Team"
 ---
 
-![Gold and Silver Hit Fresh Record Highs in India as Rally Extends](/uploads/gold-mt38sik4.webp)
-
 Gold and silver prices in India touched fresh record highs on Friday, with the rally accelerating through the afternoon session as a weaker dollar and falling global bond yields pulled fresh money into precious metals.
 
 ## What Happened

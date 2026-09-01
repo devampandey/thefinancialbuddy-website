@@ -6,8 +6,6 @@ description: "Nifty IT has staged a sharp multi-week recovery from its 52-week l
 author: "The Financial Buddy Team"
 ---
 
-![Nifty IT Extends Recovery Rally on Strong Q1 Earnings and AI Deals](/uploads/nifty-msczenn2.jpg)
-
 Technology stocks have quietly become one of the standout stories of India's equity market over the past month. After a rough start to 2026 that left the Nifty IT index down as much as 29 percent for the calendar year, the sector has staged a sharp turnaround, gaining nearly 16 percent in July alone and extending those gains into early August, with the index adding a further 2 percent or so in Monday's session even as broader indices traded more cautiously.
 
 ## From 52-Week Lows to Sustained Recovery
@@ -27,3 +25,5 @@ Part of the rally also reflects positioning rather than pure fundamentals. Inves
 For market participants, the key question is whether this recovery reflects a genuine turn in the technology spending cycle or a shorter-term rotation that could reverse if global rate expectations or AI spending sentiment shift again. The sector's steep decline earlier in the year was itself driven by concerns that have not fully disappeared, only eased. With the Reserve Bank of India's rate decision due later this week and US Fed policy signals still evolving, IT stocks are likely to stay sensitive to global cues even as domestic earnings momentum provides support.
 
 This article is for informational purposes only and does not constitute financial advice. Please consult a qualified financial advisor before making investment decisions.
+
+This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.

@@ -6,8 +6,6 @@ description: "Zenergize Technologies has raised Rs 33.5 crore in a pre-Series A 
 author: "The Financial Buddy Team"
 ---
 
-![Deep-Tech Startup Zenergize Raises Rs 33.5 Crore to Scale EV Charger Production](/uploads/deep-mti84dva.png)
-
 Zenergize Technologies, an Indian deep-tech startup building indigenous power electronics, has raised nearly Rs 33.5 crore in a pre-Series A funding round, as the company looks to scale up manufacturing of its electric vehicle chargers and solar inverter platforms.
 
 ## Details of the round

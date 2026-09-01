@@ -6,8 +6,6 @@ description: "IBM's 2026 data breach report finds Indian firms paying record sum
 author: "The Financial Buddy Team"
 ---
 
-![India's Data Breach Costs Hit Record Rs 25.5 Crore as AI Speeds Up Cyberattacks: IBM Report](/uploads/data-breach-msh0utx4.jpg)
-
 The average cost borne by Indian organisations after a data breach has climbed to an all-time high of Rs 25.5 crore in 2026, according to IBM's latest Cost of a Data Breach report, underscoring how artificial intelligence is simultaneously making cyberattacks more damaging and, in some cases, easier to contain.
 
 ## Costs Keep Climbing

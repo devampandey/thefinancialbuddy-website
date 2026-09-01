@@ -6,8 +6,6 @@ description: "IndiGo's Happy Independence Day Sale offers up to 20% off base far
 author: "The Financial Buddy Team"
 ---
 
-![IndiGo Launches Independence Day Sale With Up to 20% Off Airfares](/uploads/indogo-20-sales-mssfu4eb.jpg)
-
 IndiGo has kicked off its "Happy Independence Day Sale," offering travellers discounts of up to 20 percent on base fares across its domestic and international network, timed to coincide with the run-up to India's Independence Day celebrations.
 
 ## Sale Details

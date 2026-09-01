@@ -6,8 +6,6 @@ description: "India closed its Glasgow 2026 Commonwealth Games campaign with 39 
 author: "The Financial Buddy Team"
 ---
 
-![India Wraps Up Commonwealth Games 2026 With 39 Medals as Glasgow Hands Over to Ahmedabad 2030](/uploads/20260802155808-medalscwg-msc1ralp.webp)
-
 India closed out its campaign at the 2026 Commonwealth Games in Glasgow with 39 medals 13 gold, 17 silver and nine bronze capping a strong showing on the final day of competition before the Games formally handed over hosting duties to Ahmedabad for 2030.
 
 ## A Record Haul in the Ring

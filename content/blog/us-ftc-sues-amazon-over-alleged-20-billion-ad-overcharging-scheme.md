@@ -6,8 +6,6 @@ description: "The FTC and 22 states have sued Amazon, alleging the company secre
 author: "The Financial Buddy Team"
 ---
 
-![US FTC Sues Amazon Over Alleged $20 Billion Ad Overcharging Scheme](/uploads/us-ftc-mti7i34f.webp)
-
 The US Federal Trade Commission, joined by attorneys general from 22 states, has filed a lawsuit against Amazon accusing the e-commerce giant of quietly manipulating its advertising auctions in a way that overcharged advertisers by an estimated $20 billion. The complaint, lodged in a Seattle federal court, marks one of the most significant regulatory actions taken against Amazon's advertising business to date.
 
 ## What the lawsuit alleges

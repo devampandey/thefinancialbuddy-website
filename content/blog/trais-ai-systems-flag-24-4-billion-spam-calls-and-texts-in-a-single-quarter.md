@@ -6,8 +6,6 @@ description: "TRAI data shows AI-based detection flagged 24.43 billion suspected
 author: "The Financial Buddy Team"
 ---
 
-![TRAI's AI Systems Flag 24.4 Billion Spam Calls and Texts in a Single Quarter](/uploads/trais-mshbajy8.webp)
-
 The scale of India's spam-call problem — and the technology now being deployed against it — came into sharper focus this week with fresh data from the Telecom Regulatory Authority of India (TRAI). For the first quarter of FY27 (April-June 2026), AI-based detection systems deployed across telecom networks flagged 24.43 billion suspected spam calls and SMSs, giving consumers the option to either ignore such communication or approach it with caution.
 
 The figures, compiled from telecom operators and released by TRAI, also show that regulators took direct action against nearly 1,83,839 telecom resources during the quarter. Of these, 1,37,053 resources were barred for 15 days following a first violation, while repeat offenders faced a full year of disconnection. On the messaging side, 2,873 SMS headers were blocked and 263 senders were blacklisted for a year.

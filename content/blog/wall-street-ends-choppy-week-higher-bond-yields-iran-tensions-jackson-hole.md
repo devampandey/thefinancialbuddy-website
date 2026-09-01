@@ -6,8 +6,6 @@ description: "US stocks rose Friday but still posted weekly losses as Treasury y
 author: "The Financial Buddy Team"
 ---
 
-![Wall Street Ends Choppy Week Higher as Bond Yields, Iran Tensions Keep Investors on Edge](/uploads/wall-street-mt3xr4nk.webp)
-
 Wall Street closed out a turbulent week on a positive note Friday, even as all three major US indexes finished lower for the week overall, weighed down by persistent volatility in the bond market and simmering geopolitical tension over Iran.
 
 ## Friday's Rebound

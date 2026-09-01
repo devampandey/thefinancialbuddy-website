@@ -6,8 +6,6 @@ description: "The Sports Ministry named 17 athletes across badminton, chess, ath
 author: "The Financial Buddy Team"
 ---
 
-![India Names 17 Athletes for Arjuna Award 2026, Skips Khel Ratna](/uploads/arjuna-awards-2025-msyymu21.webp)
-
 India's Sports Ministry on Tuesday announced the recipients of the Arjuna Award 2026, honouring 17 athletes drawn from disciplines ranging from badminton and chess to athletics, hockey, boxing, shooting, rowing, kabaddi and para-sports. Notably, the ministry did not name anyone for the Major Dhyan Chand Khel Ratna, the country's highest sporting honour, this year.
 
 ## Badminton and chess lead the list

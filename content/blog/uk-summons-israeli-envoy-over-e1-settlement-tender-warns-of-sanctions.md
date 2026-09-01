@@ -6,8 +6,6 @@ description: "Britain condemned Israel's tender for the E1 settlement project an
 author: "The Financial Buddy Team"
 ---
 
-![UK Summons Israeli Envoy Over E1 Settlement Tender, Warns of Sanctions](/uploads/uk-vs-usreal-mt11cnoy.jpg)
-
 Britain has summoned Israel's charge d'affaires in London and delivered a formal protest after the Israeli government opened bidding on the long-disputed E1 settlement project in the occupied West Bank, in one of the sharpest diplomatic rebukes London has issued to Jerusalem in months.
 
 ## What Happened

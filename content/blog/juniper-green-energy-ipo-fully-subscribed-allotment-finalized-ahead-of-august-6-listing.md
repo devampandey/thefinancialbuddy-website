@@ -6,8 +6,6 @@ description: "Juniper Green Energy's Rs 1,800 crore IPO was fully subscribed, wi
 author: "The Financial Buddy Team"
 ---
 
-![Juniper Green Energy IPO Fully Subscribed, Allotment Finalized Ahead of August 6 Listing](/uploads/juniper-green-energy-ipo-mse6aqlk.webp)
-
 The initial public offering of renewable energy developer Juniper Green Energy has crossed its final hurdle before listing, with the basis of allotment finalized today after the issue drew strong interest from institutional investors.
 
 ## Deal Details
@@ -31,3 +29,5 @@ The IPO adds to a busy year for renewable energy listings on Indian exchanges, a
 Juniper Green Energy's listing arrives in the middle of an active primary market week, with other mainboard and SME issues also in various stages of subscription and listing. Investors tracking the broader IPO calendar should note that allotment and listing timelines can shift depending on regulatory processing and market conditions, so it is worth confirming exact dates through official registrar or exchange notifications closer to the listing date.
 
 This article is for informational purposes only and does not constitute financial advice. Please consult a qualified financial advisor before making investment decisions.
+
+This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
