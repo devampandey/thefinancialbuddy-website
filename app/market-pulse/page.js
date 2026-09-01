@@ -19,8 +19,8 @@ function formatDate(dateStr) {
 
 // Market Pulse issues are published like any other post (category:
 // "MarketPulse"), just surfaced here instead of mixed into the general News
-// feed — same pattern as Chai & Charts, including the optional PDF download
-// alongside the usual "Read" link when an issue has one attached.
+// feed, with an optional PDF download alongside the usual "Read" link when
+// an issue has one attached.
 export default function MarketPulsePage() {
   const issues = getPostsByCategory("MarketPulse");
 
