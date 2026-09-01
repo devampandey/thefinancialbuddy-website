@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-09-01"
 ---
 
+![ESDS Software Solution's Rs 720-Crore IPO Subscribed Over 42 Times on Final Day](/uploads/ipo-mtifytuk.jpg)
+
 ESDS Software Solution's initial public offering drew overwhelming investor demand as bidding closed on Tuesday, with the issue subscribed more than 42 times overall by early afternoon, according to exchange data — one of the stronger subscription showings among recent mainboard IPOs on Indian exchanges.
 
 ## Subscription Breakdown
