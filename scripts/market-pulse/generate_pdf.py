@@ -480,8 +480,7 @@ def build(data, out_path, workdir):
             if d in highlight:
                 tstyle.append(("BOX",(c,r),(c,r),1.4,highlight[d]))
     cal_table.setStyle(TableStyle(tstyle))
-    story.append(Paragraph(f"{ev['month']:02d}&nbsp;&nbsp;&nbsp;&nbsp;<b>{data['month_label'].split()[0]}</b>"
-        f"&nbsp;&nbsp;&nbsp;&nbsp;{ev['year']}",
+    story.append(Paragraph(f"<b>{data['month_label'].split()[0]}</b>&nbsp;&nbsp;&nbsp;&nbsp;{ev['year']}",
         ParagraphStyle("calh", fontName="Helvetica", fontSize=17, textColor=C_INK, alignment=TA_CENTER)))
     story.append(Spacer(1, 10)); story.append(cal_table); story.append(Spacer(1, 22))
 
