@@ -1,4 +1,6 @@
 ---
+pdf: "/market-pulse/gold-debasement-rally-hawkish-fed-august-2026.pdf" 
+
 title: "Gold's Debasement Rally Collides With a Hawkish Fed: Inside August 2026's Market Whipsaw"
 date: "2026-09-01T05:26:01.687Z"
 category: "MarketPulse"
