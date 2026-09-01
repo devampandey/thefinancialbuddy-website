@@ -67,12 +67,28 @@ export default function HeroCarousel({ posts }) {
               pointerEvents: i === index ? "auto" : "none",
             }}
           >
-            {post.image && (
+            {post.image ? (
               <img
                 src={post.image}
                 alt=""
                 className="h-full w-full object-cover transition-transform duration-300 group-hover/img:scale-[1.02]"
               />
+            ) : (
+              // Editorial posts without a cover photo (Market Pulse issues,
+              // for instance) used to leave this slide's image box empty —
+              // just the bare gray/dark background — since nothing rendered
+              // in the img's place. A branded placeholder keeps the slot
+              // from ever going blank.
+              <div className="flex h-full w-full items-center justify-center bg-gradient-to-br from-navy to-[#0D3D75]">
+                <div className="flex flex-col items-center gap-2.5">
+                  <div className="flex h-14 w-14 items-center justify-center rounded-full border-2 border-brand-light bg-white/10 text-lg font-bold text-brand-light">
+                    FB
+                  </div>
+                  <span className="text-xs font-semibold uppercase tracking-[0.2em] text-brand-light">
+                    {post.category}
+                  </span>
+                </div>
+              </div>
             )}
             <span className="absolute bottom-3 left-3 rounded-full bg-brand px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-white">
               {post.category}
