@@ -185,6 +185,27 @@ def build(data, out_path, workdir):
 
     section_pages = data["section_pages"]  # {page_no(str): [name, key]}
 
+    def _wrap_by_width(c, text, font, size, max_width):
+        # Word-wraps text to fit max_width at the given font/size, using
+        # actual glyph widths rather than a fixed character count — needed
+        # because issue_title/issue_subtitle length varies every month and
+        # a long one (e.g. "August 2026: How a Jackson Hole Pivot and a
+        # Hormuz Oil Shock Rewired Global Markets") was previously drawn
+        # with a single drawString() and ran off the right edge of the
+        # cover page uncut.
+        words = text.split()
+        lines, current = [], ""
+        for word in words:
+            candidate = f"{current} {word}".strip()
+            if c.stringWidth(candidate, font, size) <= max_width or not current:
+                current = candidate
+            else:
+                lines.append(current)
+                current = word
+        if current:
+            lines.append(current)
+        return lines
+
     def draw_cover(c):
         c.setFillColor(C_NAVY_DARK); c.rect(0, 0, PAGE_W, PAGE_H, fill=1, stroke=0)
         c.setFillColor(C_GOLD_LIGHT); c.rect(0, PAGE_H - 12, PAGE_W, 7, fill=1, stroke=0)
@@ -204,8 +225,17 @@ def build(data, out_path, workdir):
         c.drawString(0.83*inch, PAGE_H - 3.55*inch, "Market")
         c.drawString(0.83*inch, PAGE_H - 4.25*inch, "Pulse")
         c.setFont("Helvetica", 15); c.setFillColor(colors.HexColor("#DCE7F4"))
-        c.drawString(0.85*inch, PAGE_H - 4.95*inch, data["issue_title"])
-        c.drawString(0.85*inch, PAGE_H - 5.25*inch, data["issue_subtitle"])
+        subtitle_max_width = PAGE_W - 1.7*inch  # 0.85in margin on each side
+        title_lines = _wrap_by_width(c, data["issue_title"], "Helvetica", 15, subtitle_max_width)
+        subtitle_lines = _wrap_by_width(c, data["issue_subtitle"], "Helvetica", 15, subtitle_max_width)
+        y = PAGE_H - 4.95*inch
+        for line in title_lines:
+            c.drawString(0.85*inch, y, line)
+            y -= 0.28*inch
+        y -= 0.02*inch
+        for line in subtitle_lines:
+            c.drawString(0.85*inch, y, line)
+            y -= 0.28*inch
         c.setFont("Helvetica-Bold", 11); c.setFillColor(C_GOLD_LIGHT)
         c.drawString(0.85*inch, 1.55*inch, data["month_label"].upper())
         c.setFont("Helvetica", 10); c.setFillColor(colors.HexColor("#8FAAC9"))
