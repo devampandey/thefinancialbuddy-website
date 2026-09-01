@@ -89,6 +89,10 @@ export async function PUT(request, { params }) {
         category: (category || existingData.category || "General").trim(),
         description: (description || "").trim(),
         author: existingData.author || session.name,
+        // Preserve any pdf attachment (e.g. Market Pulse issues) — the edit
+        // form has no field for this, so it must be carried through from
+        // the existing file rather than dropped.
+        pdf: existingData.pdf,
       },
       body_
     );

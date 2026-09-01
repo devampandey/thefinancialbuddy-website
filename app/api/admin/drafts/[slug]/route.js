@@ -90,6 +90,10 @@ export async function PUT(request, { params }) {
         description: (description || "").trim(),
         author: existingData.author || session.name,
         submittedAt: existingData.submittedAt || new Date().toISOString().slice(0, 10),
+        // Preserve any pdf attachment (e.g. Market Pulse issues) — the edit
+        // form has no field for this, so it must be carried through from
+        // the existing draft rather than dropped.
+        pdf: existingData.pdf,
       },
       body_
     );

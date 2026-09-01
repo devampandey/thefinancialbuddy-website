@@ -54,6 +54,12 @@ export async function POST(request) {
         category: data.category,
         description: data.description,
         author: data.author,
+        // Carried through as-is (e.g. Market Pulse issues attach a styled
+        // PDF at publish time via the scheduled-task pipeline) — without
+        // this, publishing silently dropped it since it wasn't in this
+        // fixed field list, breaking the "Download PDF" link on the live
+        // article even though the draft had it.
+        pdf: data.pdf,
       },
       content
     );
