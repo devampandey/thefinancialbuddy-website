@@ -12,6 +12,14 @@ import NotificationPrompt from "@/components/NotificationPrompt";
 // property, and each turns on automatically without further code changes.
 const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
 
+// Also optional, same pattern — set once the AdSense account exists.
+// Value is the "ca-pub-..." client ID from the adsbygoogle.js snippet
+// AdSense gives you on the "connect your site" step. Loading this script
+// is what lets AdSense crawl/verify the site during review; it doesn't
+// place any actual ads on its own unless Auto ads is turned on in the
+// AdSense dashboard.
+const ADSENSE_CLIENT_ID = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID;
+
 export const metadata = {
   metadataBase: new URL("https://thefinancialbuddy.com"),
   title: {
@@ -96,6 +104,14 @@ export default function RootLayout({ children }) {
         <Footer />
         <NotificationPrompt />
         <Analytics />
+        {ADSENSE_CLIENT_ID && (
+          <Script
+            async
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT_ID}`}
+            crossOrigin="anonymous"
+            strategy="afterInteractive"
+          />
+        )}
         {GA_MEASUREMENT_ID && (
           <>
             <Script
