@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-09-01"
 ---
 
+![US Supreme Court Lets White House Continue $400 Million Ballroom Construction](/uploads/trump-jpg-mti7h7s0.webp)
+
 A divided US Supreme Court has allowed construction to continue on a $400 million ballroom project at the White House, handing President Donald Trump a procedural win as litigation over the project's legality continues in lower courts.
 
 ## The ruling
