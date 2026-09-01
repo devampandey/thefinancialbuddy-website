@@ -6,6 +6,8 @@ author: "The Financial Buddy Team"
 submittedAt: "2026-09-01"
 ---
 
+![Skyways Air Services, Hy-Tech Engineers Post Contrasting Stock Market Debuts](/uploads/ipo-mti7jckr.jpg)
+
 Tuesday's stock market session brought sharply contrasting fortunes for two newly listed companies, as logistics firm Skyways Air Services stumbled out of the gate while hydraulic components maker Hy-Tech Engineers made a strong debut, underscoring how selective investor appetite has become even amid generally healthy IPO demand this year.
 
 ## Skyways Air Services defies grey market expectations
