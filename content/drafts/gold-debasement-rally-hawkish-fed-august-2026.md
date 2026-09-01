@@ -1,10 +1,9 @@
 ---
 title: "Gold's Debasement Rally Collides With a Hawkish Fed: Inside August 2026's Market Whipsaw"
-description: "A Treasury bond buyback revived the 'debasement trade' and sent gold and silver soaring in August — until a hawkish Fed Chair and a Strait of Hormuz oil shock reversed course and put rate hikes back on the table."
-date: "2026-09-01"
 category: "MarketPulse"
+description: "A Treasury bond buyback revived the 'debasement trade' and sent gold and silver soaring in August — until a hawkish Fed Chair and a Strait of Hormuz oil shock reversed course and put rate hikes back on the table."
 author: "The Financial Buddy Team"
-pdf: "/market-pulse/gold-debasement-rally-hawkish-fed-august-2026.pdf"
+submittedAt: "2026-09-01"
 ---
 
 August 2026 was a month of two markets. For its first three weeks, a revived "debasement trade" — built on worries about America's fiscal trajectory and the Treasury's decision to double its long-bond buyback operations — sent gold and silver into their sharpest monthly rally since January. Then, in the final week, Federal Reserve Chair Kevin Warsh's hawkish turn at the Jackson Hole symposium collided with a fresh flare-up between the US and Iran near the Strait of Hormuz, and the story flipped: rate-hike odds jumped, oil climbed, and much of the metals rally unwound. Almost every market covered below — from the dollar to Indian equities — traces back to that single pivot.
