@@ -1,9 +1,9 @@
 ---
 title: "SCO Leaders Sign Bishkek Declaration as Modi Pushes Anti-Terror Agenda, Pakistan to Chair Bloc"
+date: "2026-09-01T17:00:59.030Z"
 category: "Politics"
 description: "Leaders of the Shanghai Cooperation Organisation, including PM Modi, Xi Jinping and Putin, signed the Bishkek Declaration on Tuesday, with Pakistan set to take over the bloc's chair."
 author: "The Financial Buddy Team"
-submittedAt: "2026-09-01"
 ---
 
 Heads of state from the Shanghai Cooperation Organisation signed the Bishkek Declaration on Tuesday at the close of the bloc's 26th summit in Kyrgyzstan, capping a two-day gathering that brought together Indian Prime Minister Narendra Modi, Chinese President Xi Jinping, Russian President Vladimir Putin, Iranian President Masoud Pezeshkian and other regional leaders.

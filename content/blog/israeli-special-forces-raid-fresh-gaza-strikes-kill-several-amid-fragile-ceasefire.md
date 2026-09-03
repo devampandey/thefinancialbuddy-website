@@ -1,9 +1,9 @@
 ---
 title: "Israeli Special Forces Raid, Fresh Gaza Strikes Kill Several Amid Fragile Ceasefire"
+date: "2026-09-01T17:01:11.193Z"
 category: "World"
 description: "A covert Israeli raid and a wave of strikes across Gaza City killed several Palestinians on Tuesday, underscoring how fragile the nearly year-old ceasefire remains."
 author: "The Financial Buddy Team"
-submittedAt: "2026-09-01"
 ---
 
 Gaza City saw one of its most violent days in weeks on Tuesday after Israeli forces carried out a covert raid to detain a senior Hamas security official, followed by a separate series of strikes that killed several Palestinians, including children, according to multiple international outlets and Gaza health officials.
