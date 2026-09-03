@@ -46,6 +46,11 @@ export const metadata = {
   ...(process.env.GSC_VERIFICATION
     ? { verification: { google: process.env.GSC_VERIFICATION } }
     : {}),
+  // AdSense's own site-ownership signal, separate from the adsbygoogle.js
+  // script tag below — both are part of "connect your site" verification.
+  ...(ADSENSE_CLIENT_ID
+    ? { other: { "google-adsense-account": ADSENSE_CLIENT_ID } }
+    : {}),
 };
 
 // Locks the mobile viewport to the device width so the site renders at its
