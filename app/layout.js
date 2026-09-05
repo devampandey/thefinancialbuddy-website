@@ -1,6 +1,7 @@
 import "./globals.css";
 import Script from "next/script";
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import MarketTicker from "@/components/MarketTicker";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -109,6 +110,7 @@ export default function RootLayout({ children }) {
         <Footer />
         <NotificationPrompt />
         <Analytics />
+        <SpeedInsights />
         {ADSENSE_CLIENT_ID && (
           <Script
             async
