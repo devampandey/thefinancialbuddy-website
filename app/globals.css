@@ -178,3 +178,17 @@ body > * {
 .no-scrollbar::-webkit-scrollbar {
   display: none;
 }
+
+/* Used by the FinShorts "swipe for more" hint (ShortsFeed.js) — Tailwind
+   ships a vertical `animate-bounce` but nothing horizontal, and the feed
+   swipes left/right, so this nudges the leading chevron left and back
+   instead of up and down. */
+@keyframes bounce-left {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(-4px);
+  }
+}

@@ -24,11 +24,16 @@ function formatDate(dateStr) {
   return d.toLocaleDateString("en-IN", { year: "numeric", month: "short", day: "numeric" });
 }
 
-// Full-screen, swipe-through card feed in the Inshorts mould. Deliberately
-// built on plain CSS scroll-snap (snap-y snap-mandatory + snap-start on each
-// card) rather than a JS touch/gesture library — native momentum scrolling
-// already gives the swipe feel on mobile, and scroll-snap does the
-// "settle on one card" behavior for free on both touch and mouse-wheel.
+// Full-screen, swipe-through card feed in the Inshorts mould — left/right
+// paging (swipe left for next, right for previous), like Tinder or
+// Instagram Stories. Deliberately built on plain CSS scroll-snap (snap-x
+// snap-mandatory + snap-start on each card) rather than a JS touch/gesture
+// library — native momentum scrolling already gives the swipe feel on
+// mobile/trackpad, and scroll-snap does the "settle on one card" behavior
+// for free. Left/Right arrow keys are wired up separately below purely for
+// desktop convenience (a plain scroll container has no built-in keyboard
+// paging), scrolling by exactly one card width so it lands on the next
+// snap point instead of an arbitrary scroll offset.
 //
 // The container's height is measured at runtime (viewport height minus
 // wherever it sits below the header/nav) instead of a hardcoded calc(), so
@@ -71,10 +76,24 @@ export default function ShortsFeed({ posts }) {
     return () => observer.disconnect();
   }, [posts.length]);
 
+  useEffect(() => {
+    function handleKeyDown(e) {
+      const container = containerRef.current;
+      if (!container) return;
+      if (e.key === "ArrowRight") {
+        container.scrollBy({ left: container.clientWidth, behavior: "smooth" });
+      } else if (e.key === "ArrowLeft") {
+        container.scrollBy({ left: -container.clientWidth, behavior: "smooth" });
+      }
+    }
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, []);
+
   return (
     <div
       ref={containerRef}
-      className="no-scrollbar w-full snap-y snap-mandatory overflow-y-scroll scroll-smooth"
+      className="no-scrollbar flex w-full snap-x snap-mandatory overflow-x-scroll scroll-smooth"
       style={{ height: height ? `${height}px` : "100dvh" }}
     >
       {posts.map((post, i) => {
@@ -111,11 +130,17 @@ export default function ShortsFeed({ posts }) {
                 <p className="mt-5 text-base leading-relaxed text-white/90 sm:text-lg">{post.shortSummary}</p>
 
                 {i === 0 && activeIndex === 0 && posts.length > 1 && (
-                  <div className="pointer-events-none mt-8 flex w-full animate-bounce flex-col items-center text-white/70">
-                    <span className="text-xs">Swipe up for more</span>
-                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" className="mt-1">
-                      <path d="M2 6l6 6 6-6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+                  <div className="pointer-events-none mt-8 flex w-full items-center justify-center gap-1.5 text-white/70">
+                    <svg
+                      width="14"
+                      height="14"
+                      viewBox="0 0 16 16"
+                      fill="none"
+                      className="shrink-0 animate-[bounce-left_1.4s_infinite]"
+                    >
+                      <path d="M10 2L4 8l6 6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
                     </svg>
+                    <span className="text-xs">Swipe for more</span>
                   </div>
                 )}
               </div>
