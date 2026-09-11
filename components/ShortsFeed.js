@@ -187,31 +187,44 @@ export default function ShortsFeed({ posts }) {
           the wheel handler above actually move it), so anyone without a
           trackpad had no way to advance by clicking. Hidden on small
           screens, where touch swipe is the primary — and sufficient —
-          interaction. */}
-      {activeIndex > 0 && (
-        <button
-          type="button"
-          onClick={() => scrollByCard(-1)}
-          aria-label="Previous story"
-          className="absolute left-3 top-1/2 z-10 hidden -translate-y-1/2 items-center justify-center rounded-full bg-white/90 p-2 text-navy shadow-lg transition-opacity hover:opacity-90 sm:flex"
-        >
-          <svg width="20" height="20" viewBox="0 0 16 16" fill="none">
-            <path d="M10 2L4 8l6 6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
-          </svg>
-        </button>
-      )}
-      {activeIndex < posts.length - 1 && (
-        <button
-          type="button"
-          onClick={() => scrollByCard(1)}
-          aria-label="Next story"
-          className="absolute right-3 top-1/2 z-10 hidden -translate-y-1/2 items-center justify-center rounded-full bg-white/90 p-2 text-navy shadow-lg transition-opacity hover:opacity-90 sm:flex"
-        >
-          <svg width="20" height="20" viewBox="0 0 16 16" fill="none">
-            <path d="M6 2l6 6-6 6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
-          </svg>
-        </button>
-      )}
+          interaction.
+
+          This overlay is itself capped at max-w-2xl and centered exactly
+          like the card (same mx-auto + matching horizontal padding as the
+          section below), with pointer-events disabled on the wrapper and
+          re-enabled only on the buttons — otherwise `right-3`/`left-3`
+          against the full-width outer div plants the buttons at the true
+          screen edge, nowhere near the card on a wide desktop viewport. */}
+      <div className="pointer-events-none absolute inset-0 z-10 mx-auto hidden max-w-2xl items-center justify-between px-2 sm:flex sm:px-4">
+        {activeIndex > 0 ? (
+          <button
+            type="button"
+            onClick={() => scrollByCard(-1)}
+            aria-label="Previous story"
+            className="pointer-events-auto flex items-center justify-center rounded-full bg-white/90 p-2 text-navy shadow-lg transition-opacity hover:opacity-90"
+          >
+            <svg width="20" height="20" viewBox="0 0 16 16" fill="none">
+              <path d="M10 2L4 8l6 6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
+          </button>
+        ) : (
+          <span />
+        )}
+        {activeIndex < posts.length - 1 ? (
+          <button
+            type="button"
+            onClick={() => scrollByCard(1)}
+            aria-label="Next story"
+            className="pointer-events-auto flex items-center justify-center rounded-full bg-white/90 p-2 text-navy shadow-lg transition-opacity hover:opacity-90"
+          >
+            <svg width="20" height="20" viewBox="0 0 16 16" fill="none">
+              <path d="M6 2l6 6-6 6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
+          </button>
+        ) : (
+          <span />
+        )}
+      </div>
     </div>
   );
 }
