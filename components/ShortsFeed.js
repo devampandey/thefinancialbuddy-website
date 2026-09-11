@@ -189,19 +189,21 @@ export default function ShortsFeed({ posts }) {
           screens, where touch swipe is the primary — and sufficient —
           interaction.
 
-          This overlay is itself capped at max-w-2xl and centered exactly
-          like the card (same mx-auto + matching horizontal padding as the
-          section below), with pointer-events disabled on the wrapper and
-          re-enabled only on the buttons — otherwise `right-3`/`left-3`
-          against the full-width outer div plants the buttons at the true
-          screen edge, nowhere near the card on a wide desktop viewport. */}
-      <div className="pointer-events-none absolute inset-0 z-10 mx-auto hidden max-w-2xl items-center justify-between px-2 sm:flex sm:px-4">
+          This overlay is capped at max-w-2xl and centered exactly like the
+          card (same mx-auto), with pointer-events disabled on the wrapper
+          and re-enabled only on the buttons. The buttons themselves sit at
+          a NEGATIVE offset (-left-14/-right-14) — i.e. outside this box's
+          own edge, in the gray gutter beside the card — rather than inside
+          it via padding; matching the card's own width exactly meant a
+          padding-based inset still landed inside the card, on top of its
+          text, since the card fills this same box edge-to-edge. */}
+      <div className="pointer-events-none absolute inset-0 z-10 mx-auto hidden max-w-2xl items-center sm:flex">
         {activeIndex > 0 ? (
           <button
             type="button"
             onClick={() => scrollByCard(-1)}
             aria-label="Previous story"
-            className="pointer-events-auto flex items-center justify-center rounded-full bg-white/90 p-2 text-navy shadow-lg transition-opacity hover:opacity-90"
+            className="pointer-events-auto absolute -left-14 top-1/2 flex -translate-y-1/2 items-center justify-center rounded-full bg-white/90 p-2 text-navy shadow-lg transition-opacity hover:opacity-90"
           >
             <svg width="20" height="20" viewBox="0 0 16 16" fill="none">
               <path d="M10 2L4 8l6 6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -215,7 +217,7 @@ export default function ShortsFeed({ posts }) {
             type="button"
             onClick={() => scrollByCard(1)}
             aria-label="Next story"
-            className="pointer-events-auto flex items-center justify-center rounded-full bg-white/90 p-2 text-navy shadow-lg transition-opacity hover:opacity-90"
+            className="pointer-events-auto absolute -right-14 top-1/2 flex -translate-y-1/2 items-center justify-center rounded-full bg-white/90 p-2 text-navy shadow-lg transition-opacity hover:opacity-90"
           >
             <svg width="20" height="20" viewBox="0 0 16 16" fill="none">
               <path d="M6 2l6 6-6 6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
