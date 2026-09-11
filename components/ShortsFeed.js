@@ -80,50 +80,59 @@ export default function ShortsFeed({ posts }) {
       {posts.map((post, i) => {
         const theme = CARD_THEMES[i % CARD_THEMES.length];
         return (
+          // Outer slide is a neutral, full-height snap stop — it's what
+          // scroll-snap grabs onto. The colored card lives INSET inside it
+          // (rounded corners, shadow, margin all round) so what the user
+          // sees is a card sitting on the page rather than a wall-to-wall
+          // color block, which read as a rendering bug rather than design.
           <section
             key={post.slug}
-            className={`relative flex h-full w-full shrink-0 snap-start flex-col justify-between px-6 py-10 text-white sm:px-12 sm:py-14 ${theme}`}
+            className="relative flex h-full w-full shrink-0 snap-start items-center justify-center bg-gray-100 px-4 py-6 dark:bg-gray-950 sm:px-8 sm:py-10"
           >
-            <div className="flex items-center justify-between text-xs font-medium uppercase tracking-wide text-white/70">
-              <span className="rounded-full border border-white/30 px-3 py-1">{post.category}</span>
-              <span>
-                {i + 1} / {posts.length}
-              </span>
-            </div>
-
-            <div className="mx-auto flex max-w-2xl flex-1 flex-col items-start justify-center py-8">
-              <Link href={getPostUrl(post)} className="group">
-                <h2
-                  className="text-2xl font-bold leading-tight sm:text-4xl"
-                  style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}
-                >
-                  {post.title}
-                </h2>
-              </Link>
-              <p className="mt-5 text-base leading-relaxed text-white/90 sm:text-lg">{post.shortSummary}</p>
-            </div>
-
-            <div className="flex items-center justify-between gap-4">
-              <span className="text-xs text-white/60">
-                {formatDate(post.date)}
-                {post.author ? ` · ${post.author}` : ""}
-              </span>
-              <Link
-                href={getPostUrl(post)}
-                className="shrink-0 rounded-full bg-white px-4 py-2 text-sm font-semibold text-navy transition-opacity hover:opacity-90"
-              >
-                Read full story →
-              </Link>
-            </div>
-
-            {i === 0 && activeIndex === 0 && posts.length > 1 && (
-              <div className="pointer-events-none absolute bottom-24 left-1/2 flex -translate-x-1/2 animate-bounce flex-col items-center text-white/70 sm:bottom-28">
-                <span className="text-xs">Swipe up for more</span>
-                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" className="mt-1">
-                  <path d="M2 6l6 6 6-6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
-                </svg>
+            <div
+              className={`flex h-full w-full max-w-2xl flex-col justify-between overflow-hidden rounded-3xl p-6 text-white shadow-2xl sm:p-10 ${theme}`}
+            >
+              <div className="flex items-center justify-between text-xs font-medium uppercase tracking-wide text-white/70">
+                <span className="rounded-full border border-white/30 px-3 py-1">{post.category}</span>
+                <span>
+                  {i + 1} / {posts.length}
+                </span>
               </div>
-            )}
+
+              <div className="flex flex-1 flex-col items-start justify-center py-8">
+                <Link href={getPostUrl(post)} className="group">
+                  <h2
+                    className="text-2xl font-bold leading-tight sm:text-4xl"
+                    style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}
+                  >
+                    {post.title}
+                  </h2>
+                </Link>
+                <p className="mt-5 text-base leading-relaxed text-white/90 sm:text-lg">{post.shortSummary}</p>
+
+                {i === 0 && activeIndex === 0 && posts.length > 1 && (
+                  <div className="pointer-events-none mt-8 flex w-full animate-bounce flex-col items-center text-white/70">
+                    <span className="text-xs">Swipe up for more</span>
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" className="mt-1">
+                      <path d="M2 6l6 6 6-6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+                    </svg>
+                  </div>
+                )}
+              </div>
+
+              <div className="flex items-center justify-between gap-4">
+                <span className="text-xs text-white/60">
+                  {formatDate(post.date)}
+                  {post.author ? ` · ${post.author}` : ""}
+                </span>
+                <Link
+                  href={getPostUrl(post)}
+                  className="shrink-0 rounded-full bg-white px-4 py-2 text-sm font-semibold text-navy transition-opacity hover:opacity-90"
+                >
+                  Read full story →
+                </Link>
+              </div>
+            </div>
           </section>
         );
       })}
