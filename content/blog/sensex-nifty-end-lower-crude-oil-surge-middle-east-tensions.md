@@ -1,10 +1,9 @@
 ---
 title: "Sensex, Nifty End Lower as Surging Crude Oil and Middle East Tensions Weigh on Sentiment"
+date: "2026-09-11T19:04:45.632Z"
 category: "Markets"
 description: "Sensex and Nifty closed lower on Friday as a sharp jump in crude oil prices and escalating Middle East tensions weighed on investor sentiment."
-shortSummary: "Sensex and Nifty closed lower on Friday, dragged by a sharp jump in crude oil prices and escalating Middle East tensions. Realty and auto stocks led the fall while IT held up better. Brent crude near $108 a barrel is fanning inflation worries. Investors now await US inflation data and the Fed's September policy meeting for the next cue."
 author: "The Financial Buddy Team"
-submittedAt: "2026-09-12"
 ---
 
 Indian equity benchmarks ended lower on Friday, snapping back only partially from a sharper intraday fall, as surging crude oil prices and escalating tensions in the Middle East weighed on investor sentiment through the session. The S&P BSE Sensex slipped 120.83 points, or 0.16 percent, to close at 74,781.76, while the Nifty 50 shed 79.70 points, or 0.34 percent, to settle at 23,398.10. Both indices had fallen more sharply earlier in the day before recovering a chunk of those losses by the close.
