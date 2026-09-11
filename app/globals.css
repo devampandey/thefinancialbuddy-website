@@ -164,3 +164,17 @@ body > * {
 .prose-financial .table-wrap + p {
   margin-top: 1.5rem;
 }
+
+/* Used by the FinShorts (/shorts) swipe feed — the scroll-snap container
+   needs to scroll (for touch/wheel/keyboard scrolling to work) but a
+   visible scrollbar down the middle of a full-screen card feed looks like
+   a bug, not a feature. Hidden on both scrollbar-gutter browsers (Firefox/
+   IE via width/-ms-overflow-style) and WebKit (via the pseudo-element). */
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}

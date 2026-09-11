@@ -24,6 +24,7 @@ const plainLinks = {
   before: [{ href: "/", label: "Home" }],
   after: [
     { href: "/blog", label: "Latest News" },
+    { href: "/shorts", label: "Shorts" },
     { href: "/market-pulse", label: "Market Pulse" },
     { href: "/lifestyle", label: "Lifestyle" },
     { href: "/tools", label: "Tools" },
