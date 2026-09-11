@@ -22,7 +22,7 @@ const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
 const ADSENSE_CLIENT_ID = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID;
 
 export const metadata = {
-  metadataBase: new URL("https://thefinancialbuddy.com"),
+  metadataBase: new URL("https://www.thefinancialbuddy.com"),
   title: {
     default: "The Financial Buddy — Practical Money Guides & Free Calculators",
     template: "%s | The Financial Buddy",
