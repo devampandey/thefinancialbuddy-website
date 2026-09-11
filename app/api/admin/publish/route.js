@@ -60,6 +60,11 @@ export async function POST(request) {
         // fixed field list, breaking the "Download PDF" link on the live
         // article even though the draft had it.
         pdf: data.pdf,
+        // Same story for the FinShorts condensed summary — omitting it here
+        // silently wiped every draft's shortSummary on publish, which is
+        // why a freshly-published article could still be missing from
+        // /shorts even though the draft file had the field set.
+        shortSummary: data.shortSummary,
       },
       content
     );

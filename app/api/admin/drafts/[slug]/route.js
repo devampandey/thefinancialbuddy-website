@@ -94,6 +94,10 @@ export async function PUT(request, { params }) {
         // form has no field for this, so it must be carried through from
         // the existing draft rather than dropped.
         pdf: existingData.pdf,
+        // Same reasoning — the draft edit form has no shortSummary field
+        // either, so it must be carried through or editing a pipeline-drafted
+        // article strips its FinShorts summary before it's ever published.
+        shortSummary: existingData.shortSummary,
       },
       body_
     );

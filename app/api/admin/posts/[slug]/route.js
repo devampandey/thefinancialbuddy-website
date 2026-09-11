@@ -93,6 +93,10 @@ export async function PUT(request, { params }) {
         // form has no field for this, so it must be carried through from
         // the existing file rather than dropped.
         pdf: existingData.pdf,
+        // Same reasoning — the edit form has no shortSummary field either,
+        // so it must be carried through or a resave silently removes the
+        // post from the FinShorts (/shorts) feed.
+        shortSummary: existingData.shortSummary,
       },
       body_
     );
