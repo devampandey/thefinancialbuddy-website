@@ -76,27 +76,46 @@ export default function ShortsFeed({ posts }) {
     return () => observer.disconnect();
   }, [posts.length]);
 
+  function scrollByCard(direction) {
+    const container = containerRef.current;
+    if (!container) return;
+    container.scrollBy({ left: direction * container.clientWidth, behavior: "smooth" });
+  }
+
   useEffect(() => {
     function handleKeyDown(e) {
-      const container = containerRef.current;
-      if (!container) return;
-      if (e.key === "ArrowRight") {
-        container.scrollBy({ left: container.clientWidth, behavior: "smooth" });
-      } else if (e.key === "ArrowLeft") {
-        container.scrollBy({ left: -container.clientWidth, behavior: "smooth" });
-      }
+      if (e.key === "ArrowRight") scrollByCard(1);
+      else if (e.key === "ArrowLeft") scrollByCard(-1);
     }
     window.addEventListener("keydown", handleKeyDown);
     return () => window.removeEventListener("keydown", handleKeyDown);
   }, []);
 
+  // A plain mouse wheel only ever reports vertical motion (deltaY) — there's
+  // no drag-to-pan on a native overflow container either, which is what
+  // made left/right feel "broken" to a mouse user with no trackpad. This
+  // redirects normal wheel scrolling into horizontal movement so spinning
+  // the wheel pages through cards the same way it used to page down them.
+  useEffect(() => {
+    const container = containerRef.current;
+    if (!container) return undefined;
+
+    function handleWheel(e) {
+      if (Math.abs(e.deltaY) <= Math.abs(e.deltaX)) return;
+      e.preventDefault();
+      container.scrollLeft += e.deltaY;
+    }
+    container.addEventListener("wheel", handleWheel, { passive: false });
+    return () => container.removeEventListener("wheel", handleWheel);
+  }, []);
+
   return (
-    <div
-      ref={containerRef}
-      className="no-scrollbar flex w-full snap-x snap-mandatory overflow-x-scroll scroll-smooth"
-      style={{ height: height ? `${height}px` : "100dvh" }}
-    >
-      {posts.map((post, i) => {
+    <div className="relative w-full" style={{ height: height ? `${height}px` : "100dvh" }}>
+      <div
+        ref={containerRef}
+        className="no-scrollbar flex h-full w-full snap-x snap-mandatory overflow-x-scroll scroll-smooth"
+      >
+        {posts.map((post, i) => {
         const theme = CARD_THEMES[i % CARD_THEMES.length];
         return (
           // Outer slide is a neutral, full-height snap stop — it's what
@@ -160,7 +179,39 @@ export default function ShortsFeed({ posts }) {
             </div>
           </section>
         );
-      })}
+        })}
+      </div>
+
+      {/* Explicit click targets — a native overflow container has no
+          drag-to-pan for mouse users (only touch/trackpad swipe and, now,
+          the wheel handler above actually move it), so anyone without a
+          trackpad had no way to advance by clicking. Hidden on small
+          screens, where touch swipe is the primary — and sufficient —
+          interaction. */}
+      {activeIndex > 0 && (
+        <button
+          type="button"
+          onClick={() => scrollByCard(-1)}
+          aria-label="Previous story"
+          className="absolute left-3 top-1/2 z-10 hidden -translate-y-1/2 items-center justify-center rounded-full bg-white/90 p-2 text-navy shadow-lg transition-opacity hover:opacity-90 sm:flex"
+        >
+          <svg width="20" height="20" viewBox="0 0 16 16" fill="none">
+            <path d="M10 2L4 8l6 6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+        </button>
+      )}
+      {activeIndex < posts.length - 1 && (
+        <button
+          type="button"
+          onClick={() => scrollByCard(1)}
+          aria-label="Next story"
+          className="absolute right-3 top-1/2 z-10 hidden -translate-y-1/2 items-center justify-center rounded-full bg-white/90 p-2 text-navy shadow-lg transition-opacity hover:opacity-90 sm:flex"
+        >
+          <svg width="20" height="20" viewBox="0 0 16 16" fill="none">
+            <path d="M6 2l6 6-6 6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+        </button>
+      )}
     </div>
   );
 }
