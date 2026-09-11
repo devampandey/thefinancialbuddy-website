@@ -1,10 +1,10 @@
 ---
 title: "SBI to Tap UPI Data for Lending to Small Businesses Without GST Registration"
+date: "2026-09-11T19:22:37.894Z"
 category: "Technology"
 description: "SBI is building a lending solution that uses UPI transaction data as a proxy for sales to extend credit to small businesses outside the GST system."
-shortSummary: "SBI is developing a lending tool that uses UPI transaction data, instead of GST records, to assess small businesses for loans. MD Ashwini Kumar Tewari announced the plan at the Global Fintech Fest, saying UPI can substitute GST as a sales proxy. SBI already disburses GST-based business loans in minutes, lending Rs 1 trillion this way over 18 months."
 author: "The Financial Buddy Team"
-submittedAt: "2026-09-12"
+shortSummary: "SBI is developing a lending tool that uses UPI transaction data, instead of GST records, to assess small businesses for loans. MD Ashwini Kumar Tewari announced the plan at the Global Fintech Fest, saying UPI can substitute GST as a sales proxy. SBI already disburses GST-based business loans in minutes, lending Rs 1 trillion this way over 18 months."
 ---
 
 State Bank of India, the country's largest lender, is building a new lending solution that would use UPI transaction data as a stand-in for sales records to extend credit to small businesses that lack Goods and Services Tax (GST) registration, according to Managing Director Ashwini Kumar Tewari.

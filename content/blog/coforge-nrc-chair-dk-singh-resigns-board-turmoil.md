@@ -1,10 +1,10 @@
 ---
 title: "Coforge Boardroom Turmoil Deepens as NRC Chair D K Singh Resigns"
+date: "2026-09-11T19:22:41.686Z"
 category: "Business"
 description: "Coforge's Nomination and Remuneration Committee chair D K Singh has resigned citing boardroom tension, days after Chairman O P Bhatt's exit."
-shortSummary: "Coforge's governance troubles deepened as NRC chair D K Singh resigned, citing tension between independent and executive directors. It follows O P Bhatt's exit as Chairman days earlier over a board evaluation dispute. Coforge disputes Singh's account, calling it an afterthought. Beth Boucher takes over the NRC while Vivek Sharma leads a global search for new independent directors."
 author: "The Financial Buddy Team"
-submittedAt: "2026-09-12"
+shortSummary: "Coforge's governance troubles deepened as NRC chair D K Singh resigned, citing tension between independent and executive directors. It follows O P Bhatt's exit as Chairman days earlier over a board evaluation dispute. Coforge disputes Singh's account, calling it an afterthought. Beth Boucher takes over the NRC while Vivek Sharma leads a global search for new independent directors."
 ---
 
 IT services firm Coforge is grappling with a fresh round of boardroom turbulence after D K Singh, its non-executive independent director and chairperson of the Nomination and Remuneration Committee (NRC), resigned with immediate effect, citing "differences and tension" between independent and executive directors.
