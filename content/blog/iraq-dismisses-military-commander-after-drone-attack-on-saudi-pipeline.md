@@ -1,10 +1,10 @@
 ---
 title: "Iraq Dismisses Military Commander After Drone Attack On Saudi Pipeline"
+date: "2026-09-12T07:13:49.497Z"
 category: "World"
 description: "Iraq's PM sacked a commander in Maysan province after confirming drones that hit Saudi Arabia's East-West pipeline were launched from Iraqi soil, amid a wider Gulf security crisis."
-shortSummary: "Iraq's PM dismissed a military commander in Maysan province early Saturday after confirming drones that struck Saudi Arabia's East-West oil pipeline originated from Iraqi territory. Saudi Arabia condemned the attack but held off retaliating at Baghdad's request. The episode adds to Gulf tensions as Houthi rebels tighten their grip on Yemen's Red Sea coast."
 author: "The Financial Buddy Team"
-submittedAt: "2026-09-12"
+shortSummary: "Iraq's PM dismissed a military commander in Maysan province early Saturday after confirming drones that struck Saudi Arabia's East-West oil pipeline originated from Iraqi territory. Saudi Arabia condemned the attack but held off retaliating at Baghdad's request. The episode adds to Gulf tensions as Houthi rebels tighten their grip on Yemen's Red Sea coast."
 ---
 
 Iraq's Prime Minister Ali al-Zaidi dismissed a senior military commander early Saturday after an investigation confirmed that a recent drone attack on a critical Saudi Arabian oil pipeline had been launched from Iraqi territory, according to a statement from his office. The move follows days of diplomatic strain between Baghdad and Riyadh over strikes that damaged one of Saudi Arabia's most strategically important pieces of energy infrastructure.
