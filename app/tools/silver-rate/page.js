@@ -6,6 +6,7 @@ import CityRatesTable from "@/components/CityRatesTable";
 import RateHistoryTable from "@/components/RateHistoryTable";
 import MonthlyRateHistory from "@/components/MonthlyRateHistory";
 import MetalInfoSection from "@/components/MetalInfoSection";
+import JumpNav from "@/components/JumpNav";
 
 export const metadata = {
   title: "Silver Rate Today",
@@ -18,6 +19,16 @@ const CITY_WEIGHTS = [
   { label: "1kg", grams: 1000 },
 ];
 
+const JUMP_NAV_ITEMS = [
+  { id: "chart", label: "Price chart" },
+  { id: "calculator", label: "Calculator" },
+  { id: "breakdown", label: "By weight" },
+  { id: "city-rates", label: "By city" },
+  { id: "history", label: "Last 10 days" },
+  { id: "monthly-history", label: "Historical price" },
+  { id: "about", label: "About silver rates" },
+];
+
 export default function SilverRatePage() {
   return (
     <div className="mx-auto max-w-4xl px-6 py-16">
@@ -26,43 +37,57 @@ export default function SilverRatePage() {
         Live international silver price, converted to Indian Rupees per kilogram.
       </p>
 
+      <JumpNav items={JUMP_NAV_ITEMS} />
+
       <div className="mt-8">
         <RateCard dataKey="silver" unit="per kg" />
       </div>
 
-      <h2 className="mt-10 text-lg font-bold text-black dark:text-white">
+      <h2 id="chart" className="mt-10 scroll-mt-24 text-lg font-bold text-black dark:text-white">
         Weekly &amp; monthly graph of silver price in India
       </h2>
       <div className="mt-3">
         <RateChart metal="silver" unit="Price per kg" />
       </div>
 
-      <h2 className="mt-10 text-lg font-bold text-black dark:text-white">Calculator</h2>
+      <h2 id="calculator" className="mt-10 scroll-mt-24 text-lg font-bold text-black dark:text-white">
+        Calculator
+      </h2>
       <div className="mt-3">
         <RateCalculator dataKey="silver" referenceGrams={1000} defaultMakingPct={12} />
       </div>
 
-      <h2 className="mt-10 text-lg font-bold text-black dark:text-white">By weight</h2>
+      <h2 id="breakdown" className="mt-10 scroll-mt-24 text-lg font-bold text-black dark:text-white">
+        By weight
+      </h2>
       <div className="mt-3">
         <SilverBreakdown />
       </div>
 
-      <h2 className="mt-10 text-lg font-bold text-black dark:text-white">By city</h2>
+      <h2 id="city-rates" className="mt-10 scroll-mt-24 text-lg font-bold text-black dark:text-white">
+        By city
+      </h2>
       <div className="mt-3">
         <CityRatesTable dataKey="silver" referenceGrams={1000} weights={CITY_WEIGHTS} />
       </div>
 
-      <h2 className="mt-10 text-lg font-bold text-black dark:text-white">Last 10 days</h2>
+      <h2 id="history" className="mt-10 scroll-mt-24 text-lg font-bold text-black dark:text-white">
+        Last 10 days
+      </h2>
       <div className="mt-3">
         <RateHistoryTable metal="silver" unit="kg" />
       </div>
 
-      <h2 className="mt-10 text-lg font-bold text-black dark:text-white">Historical price of silver</h2>
+      <h2 id="monthly-history" className="mt-10 scroll-mt-24 text-lg font-bold text-black dark:text-white">
+        Historical price of silver
+      </h2>
       <div className="mt-3">
         <MonthlyRateHistory metal="silver" unit="kg" />
       </div>
 
-      <h2 className="mt-10 text-lg font-bold text-black dark:text-white">About silver rates</h2>
+      <h2 id="about" className="mt-10 scroll-mt-24 text-lg font-bold text-black dark:text-white">
+        About silver rates
+      </h2>
       <div className="mt-3">
         <MetalInfoSection metal="silver" />
       </div>
