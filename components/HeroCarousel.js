@@ -9,21 +9,18 @@ import { getPostUrl } from "@/lib/categories";
 const ROTATE_MS = 6000;
 const FADE_MS = 700;
 
-// Same 6-color rotation as the FinShorts card feed (ShortsFeed.js) — reused
-// here for the same reason: a photo-less post used to always fall back to a
-// flat navy block, and since auto-drafted articles never get a cover image
-// until a human adds one during review, the hero's 5 rotating slots often
-// ended up showing that identical navy rectangle 5 times in a row. Cycling
-// through this palette by position keeps navy as one option (so the brand
-// color still appears) without it being the only thing a visitor sees.
-const PLACEHOLDER_THEMES = [
-  "from-navy to-[#0D3D75]",
-  "from-[#0F3D3E] to-[#0A2A2B]", // deep teal
-  "from-[#5C3A21] to-[#3D2716]", // warm brown
-  "from-[#2C2A4A] to-[#1C1A30]", // indigo
-  "from-[#7A2E2E] to-[#511F1F]", // deep maroon
-  "from-[#1F4B3F] to-[#122E27]", // forest green
-];
+// A first attempt at fixing the "always flat navy" placeholder cycled it
+// through the same bright palette FinShorts uses — but FinShorts is a mixed
+// feed of short, upbeat items where a colorful card fits, and cycling by
+// position meant a serious story (a ferry disaster, 140 people missing)
+// could land on a warm, decorative brown-and-gold gradient that read as
+// cheerful and out of place. Real newsrooms don't decorate breaking or
+// tragic coverage — they either have a real photo (wire services supply one
+// with every story) or fall back to something deliberately restrained. So:
+// one single, muted, near-neutral treatment for every photo-less post,
+// regardless of topic, rather than a rotating "branded card" look. It still
+// keeps the slot from going visually blank, just without implying anything
+// about the story's tone.
 
 function formatDate(dateStr) {
   if (!dateStr) return "";
@@ -90,26 +87,15 @@ export default function HeroCarousel({ posts }) {
                 className="h-full w-full object-cover transition-transform duration-300 group-hover/img:scale-[1.02]"
               />
             ) : (
-              // Editorial posts without a cover photo (Market Pulse issues,
-              // for instance) used to leave this slide's image box empty —
-              // just the bare gray/dark background — since nothing rendered
-              // in the img's place. A branded placeholder keeps the slot
-              // from ever going blank; the color cycles by position so 5
-              // photo-less posts in a row don't render as the same flat
-              // navy rectangle 5 times.
-              <div
-                className={`flex h-full w-full items-center justify-center bg-gradient-to-br ${
-                  PLACEHOLDER_THEMES[i % PLACEHOLDER_THEMES.length]
-                }`}
-              >
-                <div className="flex flex-col items-center gap-2.5">
-                  <div className="flex h-14 w-14 items-center justify-center rounded-full border-2 border-brand-light bg-white/10 text-lg font-bold text-brand-light">
-                    FB
-                  </div>
-                  <span className="text-xs font-semibold uppercase tracking-[0.2em] text-brand-light">
-                    {post.category}
-                  </span>
-                </div>
+              // Neutral "no photo" tile — same muted gray/border treatment
+              // used for cards elsewhere on the site, deliberately with no
+              // color, gradient, or decorative badge, so it never implies a
+              // tone the story doesn't have. The category is already shown
+              // by the pill badge below, so it isn't repeated in here too.
+              <div className="flex h-full w-full items-center justify-center border border-gray-200 bg-gray-100 dark:border-gray-800 dark:bg-gray-900">
+                <span className="text-xs font-semibold uppercase tracking-[0.3em] text-gray-400 dark:text-gray-600">
+                  The Financial Buddy
+                </span>
               </div>
             )}
             <span className="absolute bottom-3 left-3 rounded-full bg-brand px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-white">

@@ -41,6 +41,10 @@ export default function HomePage() {
   // The hero rotates through the most recent posts automatically instead of
   // pinning a single one until the next publish — see HeroCarousel. "Latest"
   // below picks up right after those so the same story doesn't appear twice.
+  // Deliberately still strict recency order (not filtered/reordered by
+  // whether a post has a photo) — a breaking story shouldn't get bumped for
+  // an older, merely-photographed one. Photo-less posts are handled by
+  // HeroCarousel's own neutral placeholder instead.
   const heroPosts = allPosts.slice(0, 5);
   const latest = allPosts.slice(heroPosts.length, heroPosts.length + 6);
 
