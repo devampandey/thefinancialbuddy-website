@@ -2,9 +2,9 @@
 title: "Rajasthan Civic Polls: BJP Leads Statewide As Congress Ends Its 36-Year Grip On Ajmer"
 category: "Politics"
 description: "Counting in Rajasthan's urban local body elections shows the BJP ahead in most municipal corporations, while Congress springs a major upset by dislodging the BJP in Ajmer after 36 years."
-shortSummary: "Vote counting across 309 Rajasthan urban local bodies showed the BJP leading in most municipal corporations on Monday, including Jaipur, Udaipur and Kota. But Congress pulled off a big upset in Ajmer, ending the BJPs 36-year hold on the civic body, while independents swept Bharatpur and Jodhpur stayed a nail-biter."
 author: "The Financial Buddy Team"
 submittedAt: "2026-09-14"
+shortSummary: "Vote counting across 309 Rajasthan urban local bodies showed the BJP leading in most municipal corporations on Monday, including Jaipur, Udaipur and Kota. But Congress pulled off a big upset in Ajmer, ending the BJPs 36-year hold on the civic body, while independents swept Bharatpur and Jodhpur stayed a nail-biter."
 ---
 
 Counting got underway on Monday for the second phase of Rajasthan's urban local body elections, covering 309 civic bodies across the state, including 10 municipal corporations, 51 municipal councils and 248 municipalities. By afternoon, trends showed the Bharatiya Janata Party holding a clear edge over the Congress in ward-level tallies statewide, even as the day produced one of its most striking upsets in the temple city of Ajmer.
