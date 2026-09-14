@@ -1,10 +1,10 @@
 ---
 title: "Houthi Rebels Seize Red Sea Island As Saudi Arabia Shuts Key Oil Pipeline"
+date: "2026-09-12T18:08:06.100Z"
 category: "World"
 description: "Yemen's Houthi rebels captured the island of Mayun guarding the Bab el-Mandeb Strait, prompting Saudi Arabia to shut a major oil pipeline after a drone attack."
-shortSummary: "Houthi rebels seized Yemens Mayun island at the mouth of the Bab el-Mandeb Strait, a passage for roughly 12 percent of world trade. Saudi Arabia shut its main east-west oil pipeline after a drone strike it says originated from Iraq. Oil pushed past 100 dollars a barrel as tensions widened beyond the Strait of Hormuz."
 author: "The Financial Buddy Team"
-submittedAt: "2026-09-12"
+shortSummary: "Houthi rebels seized Yemens Mayun island at the mouth of the Bab el-Mandeb Strait, a passage for roughly 12 percent of world trade. Saudi Arabia shut its main east-west oil pipeline after a drone strike it says originated from Iraq. Oil pushed past 100 dollars a barrel as tensions widened beyond the Strait of Hormuz."
 ---
 
 Iran-backed Houthi rebels have captured the island of Mayun, also known as Perim, at the narrow mouth of the Bab el-Mandeb Strait, opening a second front in the wider regional conflict and pushing Saudi Arabia to shut down one of its most important crude oil pipelines as a precaution.

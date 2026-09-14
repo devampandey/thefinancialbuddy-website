@@ -1,10 +1,10 @@
 ---
 title: "India's Junior Women Rout South Korea 5-1 To Reach Asia Cup Hockey Final"
+date: "2026-09-12T18:07:55.323Z"
 category: "Sports"
 description: "Supriya's hat-trick of penalty-corner conversions powered India's Junior Women's hockey team past South Korea in the AHF Junior Asia Cup semi-final in Moqi, China."
-shortSummary: "Indias Junior Women's hockey team thrashed South Korea 5-1 in the AHF Junior Asia Cup semi-final in Moqi, China. Drag-flick specialist Supriya scored a hat-trick from penalty corners, with Madhu Sidar and Sukhveer Kaur also finding the net. The defending champions now await the China-Japan semi-final winner in Sundays title clash."
 author: "The Financial Buddy Team"
-submittedAt: "2026-09-12"
+shortSummary: "Indias Junior Women's hockey team thrashed South Korea 5-1 in the AHF Junior Asia Cup semi-final in Moqi, China. Drag-flick specialist Supriya scored a hat-trick from penalty corners, with Madhu Sidar and Sukhveer Kaur also finding the net. The defending champions now await the China-Japan semi-final winner in Sundays title clash."
 ---
 
 India's Junior Women's hockey team put on a dominant display to beat South Korea 5-1 in the first semi-final of the AHF Junior Asia Cup on Saturday in Moqi, China, booking their place in the final as they look to defend the title they have won in each of the last two editions.
