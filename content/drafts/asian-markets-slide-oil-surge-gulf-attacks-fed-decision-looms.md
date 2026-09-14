@@ -2,9 +2,9 @@
 title: "Asian Markets Slide as Oil Prices Surge on Fresh Gulf Attacks, Fed Decision Looms"
 category: "World"
 description: "Asian equities fell sharply Monday as fresh attacks in the Gulf pushed Brent crude toward $108 a barrel and investors braced for a likely US Fed rate hike this week."
-shortSummary: "Asian stocks tumbled Monday as fresh attacks on Saudi Arabia and Gulf shipping sent Brent crude up nearly 3 percent toward 108 dollars a barrel. Japans Nikkei fell 1.7 percent and South Koreas Kospi dropped over 3 percent. Markets are also bracing for a likely US Fed rate hike Wednesday, with a Bank of Japan move expected Friday."
 author: "The Financial Buddy Team"
 submittedAt: "2026-09-14"
+shortSummary: "Asian stocks tumbled Monday as fresh attacks on Saudi Arabia and Gulf shipping sent Brent crude up nearly 3 percent toward 108 dollars a barrel. Japans Nikkei fell 1.7 percent and South Koreas Kospi dropped over 3 percent. Markets are also bracing for a likely US Fed rate hike Wednesday, with a Bank of Japan move expected Friday."
 ---
 
 Stock markets across Asia opened the week sharply lower on Monday as a fresh escalation in Gulf tensions sent oil prices surging, compounding investor anxiety just days before a widely expected US interest rate decision. The sell-off touched nearly every major regional index, underscoring how quickly renewed conflict risk in the Middle East can ripple through global markets already on edge over the direction of monetary policy.
