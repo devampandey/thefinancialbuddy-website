@@ -9,18 +9,20 @@ import { getPostUrl } from "@/lib/categories";
 const ROTATE_MS = 6000;
 const FADE_MS = 700;
 
-// A first attempt at fixing the "always flat navy" placeholder cycled it
-// through the same bright palette FinShorts uses — but FinShorts is a mixed
-// feed of short, upbeat items where a colorful card fits, and cycling by
-// position meant a serious story (a ferry disaster, 140 people missing)
-// could land on a warm, decorative brown-and-gold gradient that read as
-// cheerful and out of place. Real newsrooms don't decorate breaking or
-// tragic coverage — they either have a real photo (wire services supply one
-// with every story) or fall back to something deliberately restrained. So:
-// one single, muted, near-neutral treatment for every photo-less post,
-// regardless of topic, rather than a rotating "branded card" look. It still
-// keeps the slot from going visually blank, just without implying anything
-// about the story's tone.
+// The image stage went through two earlier versions: a flat navy block,
+// then a rotating color palette (dropped — a serious story could land on a
+// cheerful gradient purely by chance), then a neutral gray "no photo" tile.
+// That tile fixed the tone problem but introduced a new one: since no
+// auto-drafted article currently has a cover photo (that's added manually
+// by a human reviewer, and in practice hasn't been happening), the tile was
+// rendering for every single slide — a large, mostly-empty gray box at the
+// very top of the homepage, every time. Rather than keep inventing new
+// filler for a box that's usually empty, the image stage is now skipped
+// entirely when none of the current slides have a real photo — the hero
+// falls back to a clean, text-only headline treatment (see "text stage"
+// below), the same pattern already used successfully elsewhere on the site
+// (the homepage's own "Latest" grid just omits the image box when a post
+// has none). If a slide DOES have a real photo, it still displays normally.
 
 function formatDate(dateStr) {
   if (!dateStr) return "";
@@ -42,6 +44,7 @@ export default function HeroCarousel({ posts }) {
   const [index, setIndex] = useState(0);
   const pausedRef = useRef(false);
   const count = posts.length;
+  const hasAnyImage = posts.some((post) => post.image);
 
   useEffect(() => {
     if (count <= 1) return undefined;
@@ -65,51 +68,54 @@ export default function HeroCarousel({ posts }) {
     >
       {/* Image stage: fixed aspect ratio so nothing shifts as slides change,
           every slide's image stacked in the same box via absolute
-          positioning, crossfaded purely by opacity. */}
-      <div className="relative aspect-[4/3] w-full overflow-hidden rounded-xl border border-gray-200 bg-gray-100 dark:border-gray-800 dark:bg-gray-800 sm:aspect-[21/9]">
-        {posts.map((post, i) => (
-          <Link
-            key={post.slug}
-            href={getPostUrl(post)}
-            aria-hidden={i !== index}
-            tabIndex={i === index ? 0 : -1}
-            className="group/img absolute inset-0 block overflow-hidden"
-            style={{
-              opacity: i === index ? 1 : 0,
-              transition: `opacity ${FADE_MS}ms ease-in-out`,
-              pointerEvents: i === index ? "auto" : "none",
-            }}
-          >
-            {post.image ? (
-              <img
-                src={post.image}
-                alt=""
-                className="h-full w-full object-cover transition-transform duration-300 group-hover/img:scale-[1.02]"
-              />
-            ) : (
-              // Neutral "no photo" tile — same muted gray/border treatment
-              // used for cards elsewhere on the site, deliberately with no
-              // color, gradient, or decorative badge, so it never implies a
-              // tone the story doesn't have. The category is already shown
-              // by the pill badge below, so it isn't repeated in here too.
-              <div className="flex h-full w-full items-center justify-center border border-gray-200 bg-gray-100 dark:border-gray-800 dark:bg-gray-900">
-                <span className="text-xs font-semibold uppercase tracking-[0.3em] text-gray-400 dark:text-gray-600">
-                  The Financial Buddy
-                </span>
-              </div>
-            )}
-            <span className="absolute bottom-3 left-3 rounded-full bg-brand px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-white">
-              {post.category}
-            </span>
-          </Link>
-        ))}
-      </div>
+          positioning, crossfaded purely by opacity. Skipped entirely when
+          no slide has a real photo — see the note above the component. */}
+      {hasAnyImage && (
+        <div className="relative aspect-[4/3] w-full overflow-hidden rounded-xl border border-gray-200 bg-gray-100 dark:border-gray-800 dark:bg-gray-800 sm:aspect-[21/9]">
+          {posts.map((post, i) => (
+            <Link
+              key={post.slug}
+              href={getPostUrl(post)}
+              aria-hidden={i !== index}
+              tabIndex={i === index ? 0 : -1}
+              className="group/img absolute inset-0 block overflow-hidden"
+              style={{
+                opacity: i === index ? 1 : 0,
+                transition: `opacity ${FADE_MS}ms ease-in-out`,
+                pointerEvents: i === index ? "auto" : "none",
+              }}
+            >
+              {post.image ? (
+                <img
+                  src={post.image}
+                  alt=""
+                  className="h-full w-full object-cover transition-transform duration-300 group-hover/img:scale-[1.02]"
+                />
+              ) : (
+                // A photo-less post can still land in the rotation alongside
+                // ones that do have a photo — this neutral tile (same
+                // muted gray/border treatment used for cards elsewhere on
+                // the site, no color or badge) covers that one slide
+                // without implying anything about the story's tone.
+                <div className="flex h-full w-full items-center justify-center border border-gray-200 bg-gray-100 dark:border-gray-800 dark:bg-gray-900">
+                  <span className="text-xs font-semibold uppercase tracking-[0.3em] text-gray-400 dark:text-gray-600">
+                    The Financial Buddy
+                  </span>
+                </div>
+              )}
+              <span className="absolute bottom-3 left-3 rounded-full bg-brand px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-white">
+                {post.category}
+              </span>
+            </Link>
+          ))}
+        </div>
+      )}
 
       {/* Text stage: same overlap trick via CSS Grid — every slide's text
           block placed in the same grid cell, so the container's height
           tracks the tallest one instead of collapsing between slides of
           different lengths. */}
-      <div className="mt-3 grid w-full sm:mt-4">
+      <div className={`grid w-full ${hasAnyImage ? "mt-3 sm:mt-4" : ""}`}>
         {posts.map((post, i) => (
           <Link
             key={post.slug}
@@ -124,6 +130,14 @@ export default function HeroCarousel({ posts }) {
             }}
           >
             <div className="flex items-center gap-3 text-xs font-medium text-gray-500 dark:text-gray-400">
+              {/* Without an image stage, the category badge has nowhere
+                  else to live, so it moves up here instead of being
+                  dropped entirely. */}
+              {!hasAnyImage && (
+                <span className="rounded-full bg-brand px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-white">
+                  {post.category}
+                </span>
+              )}
               <span>{formatDate(post.date)}</span>
               {post.author && <span>By {post.author}</span>}
             </div>
@@ -145,7 +159,13 @@ export default function HeroCarousel({ posts }) {
         ))}
       </div>
 
-      {count > 1 && (
+      {/* These floating arrow/dot controls are styled to sit on top of a
+          photo (semi-transparent black pill, white dots) — they only make
+          sense when the image stage is actually showing. Without it, the
+          same multi-story navigation is given a plain, non-overlapping row
+          of dots below the text instead, so it doesn't float on top of and
+          obscure the headline. */}
+      {count > 1 && hasAnyImage && (
         <>
           <button
             type="button"
@@ -177,6 +197,22 @@ export default function HeroCarousel({ posts }) {
             ))}
           </div>
         </>
+      )}
+
+      {count > 1 && !hasAnyImage && (
+        <div className="mt-4 flex gap-1.5">
+          {posts.map((p, i) => (
+            <button
+              key={p.slug}
+              type="button"
+              aria-label={`Show story ${i + 1}`}
+              onClick={() => setIndex(i)}
+              className={`h-1.5 rounded-full transition-all ${
+                i === index ? "w-5 bg-navy dark:bg-white" : "w-1.5 bg-gray-300 hover:bg-gray-400 dark:bg-gray-700"
+              }`}
+            />
+          ))}
+        </div>
       )}
     </div>
   );
