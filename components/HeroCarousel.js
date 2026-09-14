@@ -9,6 +9,22 @@ import { getPostUrl } from "@/lib/categories";
 const ROTATE_MS = 6000;
 const FADE_MS = 700;
 
+// Same 6-color rotation as the FinShorts card feed (ShortsFeed.js) — reused
+// here for the same reason: a photo-less post used to always fall back to a
+// flat navy block, and since auto-drafted articles never get a cover image
+// until a human adds one during review, the hero's 5 rotating slots often
+// ended up showing that identical navy rectangle 5 times in a row. Cycling
+// through this palette by position keeps navy as one option (so the brand
+// color still appears) without it being the only thing a visitor sees.
+const PLACEHOLDER_THEMES = [
+  "from-navy to-[#0D3D75]",
+  "from-[#0F3D3E] to-[#0A2A2B]", // deep teal
+  "from-[#5C3A21] to-[#3D2716]", // warm brown
+  "from-[#2C2A4A] to-[#1C1A30]", // indigo
+  "from-[#7A2E2E] to-[#511F1F]", // deep maroon
+  "from-[#1F4B3F] to-[#122E27]", // forest green
+];
+
 function formatDate(dateStr) {
   if (!dateStr) return "";
   const d = new Date(dateStr);
@@ -78,8 +94,14 @@ export default function HeroCarousel({ posts }) {
               // for instance) used to leave this slide's image box empty —
               // just the bare gray/dark background — since nothing rendered
               // in the img's place. A branded placeholder keeps the slot
-              // from ever going blank.
-              <div className="flex h-full w-full items-center justify-center bg-gradient-to-br from-navy to-[#0D3D75]">
+              // from ever going blank; the color cycles by position so 5
+              // photo-less posts in a row don't render as the same flat
+              // navy rectangle 5 times.
+              <div
+                className={`flex h-full w-full items-center justify-center bg-gradient-to-br ${
+                  PLACEHOLDER_THEMES[i % PLACEHOLDER_THEMES.length]
+                }`}
+              >
                 <div className="flex flex-col items-center gap-2.5">
                   <div className="flex h-14 w-14 items-center justify-center rounded-full border-2 border-brand-light bg-white/10 text-lg font-bold text-brand-light">
                     FB
