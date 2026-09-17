@@ -26,4 +26,4 @@ The approval comes as global supply chains for chips and electronics components 
 
 Industry watchers will be looking for how quickly companies commit fresh capital under Semicon 2.0, given that earlier semiconductor mission approvals took time to translate into operational fabs. For mobile manufacturing, the local sourcing and R&D incentive tiers will be the areas to track, since they determine whether the scheme meaningfully shifts component supply chains onto Indian soil rather than simply extending existing assembly arrangements.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

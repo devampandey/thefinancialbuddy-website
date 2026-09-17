@@ -24,4 +24,4 @@ Tuesday's rebound came against the backdrop of a market that has been trading in
 
 Market breadth improved through the session as the recovery gathered pace, though trading volumes remained in line with recent averages, suggesting the move was driven more by targeted sectoral buying than a broad-based shift in risk appetite.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

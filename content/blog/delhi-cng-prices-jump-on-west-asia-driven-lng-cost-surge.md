@@ -28,4 +28,4 @@ The CNG price hike lands alongside other signs of West Asia-linked cost pressure
 
 For now, IGL has not indicated whether further revisions are imminent, saying pricing will continue to be calibrated against international market movements.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

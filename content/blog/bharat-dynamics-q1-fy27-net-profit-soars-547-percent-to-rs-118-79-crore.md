@@ -26,4 +26,4 @@ Analysts tracking the defence PSU space have generally pointed to lumpy revenue 
 
 Investors will likely look to the company's forthcoming management commentary for clarity on the composition of the current order book, the pipeline of upcoming deliveries, and any update on new contract wins that could sustain the growth trajectory seen this quarter. With India's defence ministry continuing to emphasise indigenous production across missile systems, ammunition and allied equipment, Bharat Dynamics remains positioned as one of the key beneficiaries of that policy direction, though the stock's near-term performance will continue to hinge on the consistency of quarterly execution rather than the strength of any single reporting period.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

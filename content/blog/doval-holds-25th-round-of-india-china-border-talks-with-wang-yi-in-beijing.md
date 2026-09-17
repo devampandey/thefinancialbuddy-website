@@ -24,4 +24,4 @@ The timing adds further significance to the meeting. With Xi Jinping expected to
 
 Despite the diplomatic engagement, differences over the border — including disputes concerning Arunachal Pradesh — continue to weigh on the relationship. Officials on both sides have nonetheless continued to describe the Special Representatives framework as a useful, if imperfect, tool for managing recurring friction even where a comprehensive resolution remains elusive. No formal joint statement had been issued by the two sides at the time of writing, with further details on outcomes expected in the coming days as both governments release their respective readouts.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

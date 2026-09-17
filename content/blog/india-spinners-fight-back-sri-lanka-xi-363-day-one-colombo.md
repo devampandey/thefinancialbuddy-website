@@ -26,4 +26,4 @@ The tour match carries added significance for India given the composition of the
 
 Day two in Colombo is expected to be shaped by how quickly India can polish off the Sri Lanka Cricket XI innings and how their top order responds with the bat against a hungry young attack looking to make an impression of its own.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

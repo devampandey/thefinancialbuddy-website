@@ -28,4 +28,4 @@ The strong debut adds to what has been an active year for India's SME IPO segmen
 
 As with many SME listings, liquidity can be thinner than on the mainboard, and price swings on debut day are not always a reliable guide to longer-term performance. Investors who participated in the IPO will now be watching how the stock behaves once initial listing-day enthusiasm settles, as well as how the company's order book converts into revenue and profit over the coming quarters.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -28,4 +28,4 @@ Trading was choppy through the morning, with information technology stocks offer
 
 Wednesday's reversal underscores how sensitive Indian markets remain to both global energy dynamics and domestic corporate governance developments. With crude prices still elevated and the succession process at Tata Sons yet to play out, market participants are likely to stay watchful in the sessions ahead. Traders will also be keeping an eye on incremental developments around the Strait of Hormuz situation, given how quickly sentiment has swung on related headlines in recent weeks.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

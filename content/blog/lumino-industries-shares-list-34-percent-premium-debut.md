@@ -26,4 +26,4 @@ The company's order book has grown substantially in recent years, rising from Rs
 
 Analysts have flagged that a significant share of Lumino's revenue comes from state electricity boards and public sector power utilities, a customer base that offers scale but also exposes the company to concentration risk tied to the payment cycles and budgetary priorities of government-linked buyers. For investors who received allotment in the IPO, Thursday's debut translated into gains of roughly Rs 4,900 to Rs 5,100 per lot at listing prices, based on the difference between the issue price and the opening trade. Whether those gains hold through the session, and beyond, will likely hinge on broader market sentiment as well as company-specific execution on its expanding order book in the quarters ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -26,4 +26,4 @@ Founded in 2012, Augmont operates an integrated precious metals platform spannin
 
 With bidding now closed, the basis of allotment for Augmont Enterprises is expected to be finalized around August 27, giving successful applicants a short window before the company's shares are tentatively scheduled to debut on the BSE and NSE on August 31. Investors who did not receive allotment will see refunds processed around the same time, in line with standard mainboard IPO timelines.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

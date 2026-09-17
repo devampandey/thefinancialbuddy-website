@@ -26,4 +26,4 @@ The session's reversal also coincided with a flurry of block deal activity acros
 
 With Nifty IT under pressure and global cues in flux, analysts said the market is likely to remain choppy in the near term until clarity emerges from Nvidia's results and the latest round of US economic data.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

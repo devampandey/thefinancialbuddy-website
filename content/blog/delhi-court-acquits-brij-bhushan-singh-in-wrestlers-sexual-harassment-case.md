@@ -24,4 +24,4 @@ Speaking after the verdict, Singh said the judge had acquitted him and Tomar "wi
 
 The case became a flashpoint for broader conversations in India about accountability in sports administration and the treatment of athlete complaints against powerful federation officials. Several of the complainant wrestlers, some of them Olympic and Commonwealth medallists, had given up months of training time to sustain the protests, making the episode one of the more prominent public disputes involving a sitting parliamentarian in recent memory. With the criminal case now resolved in Singh's favour, attention is likely to shift to whether any of the complainants pursue further legal recourse, and to the broader institutional reforms within Indian wrestling administration that the episode prompted.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

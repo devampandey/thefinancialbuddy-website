@@ -30,4 +30,4 @@ Away from equities, bitcoin continued its recent surge, extending a rally that h
 
 Attention now turns to next week's Jackson Hole Economic Policy Symposium, where the new Federal Reserve chair is scheduled to speak. Markets will be looking for signals on the central bank's approach to interest rates and its stance on independence from political pressure, themes that have taken on added weight given the recent turbulence in long-term yields. Until then, analysts expect markets to remain sensitive to any fresh headlines on both the bond market and the Iran standoff.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

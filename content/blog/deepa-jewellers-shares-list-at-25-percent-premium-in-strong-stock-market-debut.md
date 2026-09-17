@@ -26,4 +26,4 @@ Deepa Jewellers' strong listing adds to what has been an active and generally in
 
 For a company operating largely in the business-to-business hallmarked jewellery segment rather than pure retail, a successful listing also signals investor comfort with the sourcing and quality-assurance model that underpins Deepa Jewellers' operations across its home markets in the south. Whether the stock can hold onto its listing-day gains in the sessions ahead will likely depend on broader market conditions, which have been choppy in recent days amid crude oil price volatility and geopolitical uncertainty weighing on investor sentiment more broadly.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

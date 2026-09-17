@@ -30,4 +30,4 @@ On the doubles side, Satwiksairaj Rankireddy and Chirag Shetty remain the other 
 
 Chaliha's final against Han Qianxi will be closely watched by Indian badminton followers, both for what it means for her individual career and for what it would add to what has already been an unusually productive year for Indian shuttlers on the international tour. A win would give India its fourth women's singles BWF title of the year and mark Chaliha's arrival as a genuine title contender on tour, rather than just a dangerous floater capable of upsetting higher-ranked opponents.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -12,4 +12,4 @@ August 2026 was a month of two markets: a revived "debasement trade" sent gold a
 
 **Download the full issue above** for the complete breakdown — global markets, currency, commodities, Indian indices, institutional flows, and the month's key events — with charts and data tables.
 
-This is an original editorial summary and analysis; it does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

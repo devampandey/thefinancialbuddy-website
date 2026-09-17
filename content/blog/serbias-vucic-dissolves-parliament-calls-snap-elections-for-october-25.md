@@ -22,4 +22,4 @@ With the decree signed, Serbia's political parties now have just over six weeks 
 
 The outcome will be closely watched both within Serbia and across the region, given the country's role as a candidate for European Union membership and its balancing act between ties to Brussels, Moscow and Beijing. A strong showing for Vucic's party would likely reinforce the current governing approach, while a weaker result could embolden the protest movements that have shaped Serbian politics for much of the year. Serbia's electoral commission is expected to formally confirm the election timeline and candidate registration deadlines in the coming days.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

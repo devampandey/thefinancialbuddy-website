@@ -22,4 +22,4 @@ Retail investors are required to apply for a minimum of two lots, or 1,200 share
 
 Analysts have flagged some caution alongside the growth story. Equivision, which has assigned the issue a "neutral" rating, noted that much of the company's recent growth has come from subsidiary expansion and consolidation rather than purely organic operations, raising questions about the sustainability of the pace of growth. The business also remains working-capital intensive with elevated receivables and negative operating cash flow, while customer concentration is notable, with the top 10 customers accounting for nearly 82% of FY26 revenue.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

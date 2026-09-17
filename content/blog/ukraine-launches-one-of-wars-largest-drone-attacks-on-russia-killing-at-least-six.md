@@ -30,4 +30,4 @@ Zelenskyy, writing on social media, said Russian forces continued to strike civi
 
 Sunday's exchange is among the most intense single-day escalations of the war in recent months and comes as diplomatic efforts to reach a ceasefire remain stalled. The scale of the Ukrainian strike — with over 800 drones intercepted by Russia's own count — signals Kyiv's growing domestic drone-manufacturing capacity, even as Russia continues to press its own missile and drone campaign against Ukrainian cities. Neither side has indicated any near-term let-up, keeping energy markets, European security planners and global investors focused on the risk of further escalation.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

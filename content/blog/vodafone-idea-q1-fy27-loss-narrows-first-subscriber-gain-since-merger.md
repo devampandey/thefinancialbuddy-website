@@ -24,4 +24,4 @@ Despite the operational improvement, Vodafone Idea's balance sheet still carries
 
 Basic and diluted loss per share for the quarter stood at Rs 0.35. The results follow a volatile stretch for the stock, which has swung sharply over the past year on news of fundraising, regulatory relief on past dues, and swings in investor sentiment about the company's long-term viability. Monday's numbers give the telco a rare, largely positive quarter to point to, even as the scale of its legacy debt means the path to sustained profitability remains a long one.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -28,4 +28,4 @@ SBI was one of several large companies reporting June-quarter results on the sam
 
 With the RBI's own monetary policy decision due the following day, SBI's results also served as a timely data point on how India's banking system is holding up on the ground, even as policymakers weigh their next move on interest rates.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

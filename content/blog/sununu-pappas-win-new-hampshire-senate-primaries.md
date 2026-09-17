@@ -24,4 +24,4 @@ With the nominees now set, both campaigns are expected to move quickly into gene
 
 Down-ballot, New Hampshire's other primary contests also produced notable results, including in the governor's race, where the sitting Republican governor cruised to renomination while the Democratic nominee ran unopposed, setting up a rematch of sorts from the last gubernatorial cycle. Election watchers say the coming weeks will bring a wave of outside spending into the state as both national parties look to shape a race they view as pivotal to the fight for Senate control.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

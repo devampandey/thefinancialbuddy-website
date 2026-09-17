@@ -24,4 +24,4 @@ People familiar with the matter said the scaled-back sales reflect a view among 
 
 NSE is expected to officially announce its price band on September 11, with the issue slated to open for public subscription between September 16 and 18. The basis of allotment is expected around September 21, with listing targeted for September 23. The IPO is widely regarded as one of the most keenly watched listings in India's exchange history, given NSE's dominant position in the country's equity and derivatives markets, and its outcome is likely to be closely tracked by both retail and institutional investors as a bellwether for broader IPO market sentiment heading into the year-end listing season.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

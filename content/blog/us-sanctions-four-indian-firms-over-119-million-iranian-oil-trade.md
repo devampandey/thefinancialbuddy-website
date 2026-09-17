@@ -26,4 +26,4 @@ For Indian companies operating in commodity trading and logistics, the sanctions
 
 Market analysts noted that the shift toward economic rather than military pressure has, somewhat counterintuitively, been read as a mildly reassuring signal by oil traders, since it suggests Washington currently favours financial tools over further escalation. That said, the sanctions arrive just as Iran and Oman have separately been discussing a temporary shipping corridor through the Strait of Hormuz, underscoring how intertwined the diplomatic and economic tracks of the standoff remain.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

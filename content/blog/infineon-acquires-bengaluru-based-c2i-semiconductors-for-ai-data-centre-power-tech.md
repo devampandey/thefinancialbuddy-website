@@ -26,4 +26,4 @@ The deal is also notable as another example of a global semiconductor company ac
 
 For C2i, becoming part of a much larger, well-capitalized organization like Infineon is expected to give its technology a faster path to commercialization and a broader customer base, while Infineon gains a capability it can fold directly into its power semiconductor roadmap for AI infrastructure customers globally.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

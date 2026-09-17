@@ -20,4 +20,4 @@ The company has already completed hardware-in-the-loop testing at speeds of 90 m
 
 With the new capital, KshatraLabs is aiming to advance its swarm interceptor technology to Technology Readiness Level 6, pursue strategic partnerships, and carry out operational field trials as it works toward formal defence procurement opportunities. The company has also pointed to potential civilian applications for its technology, including protecting airports, power plants, refineries, ports and other critical infrastructure from unauthorised drone incursions, suggesting a possible commercial market beyond its core defence focus.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

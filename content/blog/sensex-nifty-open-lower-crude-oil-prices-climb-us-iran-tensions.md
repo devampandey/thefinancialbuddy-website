@@ -28,4 +28,4 @@ Not all sectors moved in tandem with the broader decline, however. The Nifty Met
 
 Tuesday's early weakness follows a pattern seen through much of the past week, with Indian markets swinging between gains and losses as investors try to balance strong domestic growth data against external headwinds ranging from oil price volatility to geopolitical risk in the Middle East. With crude prices staying elevated and foreign investors cautious, market participants will be watching closely for any signs of de-escalation that could ease pressure on oil-import-dependent economies like India's in the sessions ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

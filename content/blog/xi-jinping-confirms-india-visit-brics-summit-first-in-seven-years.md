@@ -26,4 +26,4 @@ The scale of the summit has triggered extensive preparations across the capital,
 
 For India, hosting Xi successfully alongside other global leaders will be seen as a test of its diplomatic balancing act: managing a complicated relationship with China even as it continues to build closer ties with Western partners and navigate a volatile global environment shaped by conflicts in the Middle East and Eastern Europe.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

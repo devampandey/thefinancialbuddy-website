@@ -30,4 +30,4 @@ For a company navigating a mix of legacy businesses and newer growth bets, Thurs
 
 The company's next set of quarterly numbers, due later this fiscal year, will offer a clearer sense of whether Thursday's profit dip was a one-quarter blip or the start of a more sustained trend.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

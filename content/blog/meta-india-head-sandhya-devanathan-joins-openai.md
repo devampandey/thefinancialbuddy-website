@@ -26,4 +26,4 @@ For Meta, the exit adds to a string of leadership changes in its largest markets
 
 Devanathan's move follows a wave of AI-related investment and expansion activity in India this year, including new regional offices opened by global AI labs and a state-backed venture fund earmarked to support artificial intelligence and advanced manufacturing startups in the country, as global technology firms increasingly treat India as a strategic priority market rather than a peripheral one.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

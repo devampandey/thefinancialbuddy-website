@@ -30,4 +30,4 @@ The renewed hostilities come against the backdrop of intensifying fighting insid
 
 A fragile truce reached in 2022 had significantly reduced hostilities between Saudi Arabia and the Houthis, but tensions have climbed sharply in recent weeks, with Tuesday's attack following an earlier strike in early August that wounded 11 civilians in Najran province. With both sides now trading threats of further escalation, the coming days are likely to determine whether the truce can hold or whether the conflict widens further, with implications for global energy markets that extend well beyond the Arabian Peninsula.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

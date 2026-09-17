@@ -24,4 +24,4 @@ Subscriber trends have also turned a corner. The company's total subscriber base
 
 Vodafone Idea has for years been viewed by investors as the weakest of India's three private telecom operators, weighed down by a heavy debt load including adjusted gross revenue dues to the government. Confirmation of committed bank funding would be a significant milestone, giving the company the capital firepower needed to compete more effectively with Reliance Jio and Bharti Airtel on network quality and 5G coverage. Analysts have long flagged access to fresh capital as the single biggest swing factor for the stock, and any formal confirmation of the SBI-led facility closing would likely be closely watched by both debt and equity investors in the days ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

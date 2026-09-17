@@ -24,4 +24,4 @@ Bankipur was among several bypolls held around the same time in different states
 
 A single assembly seat does not change the balance of power in the Bihar legislature, where Jan Suraaj remains without any other representation. But the win gives Kishor a foothold and a talking point ahead of future electoral contests, potentially helping the party attract candidates, workers and funding that a zero-seat outcome in the 2025 assembly polls made harder to secure. For BJP, losing a seat it has traditionally held will likely prompt some internal review of local organisation and candidate selection, even as the party's broader position in the state remains dominant. Analysts will be watching whether Kishor can convert this individual win into a broader organisational push before Bihar's next major electoral test.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

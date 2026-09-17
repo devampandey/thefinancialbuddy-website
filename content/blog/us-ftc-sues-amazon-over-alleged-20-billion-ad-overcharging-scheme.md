@@ -30,4 +30,4 @@ Amazon's advertising division has grown into one of the most profitable parts of
 
 The case adds to a growing list of legal and regulatory challenges facing large US technology companies over their advertising and marketplace practices, and its outcome is likely to be watched closely by both advertisers and rival platforms as it moves through the courts in the months ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

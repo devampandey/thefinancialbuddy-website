@@ -24,4 +24,4 @@ Market strategists flagged the 23,720-23,680 zone on the Nifty as an important s
 
 Monday's losses underline how closely Dalal Street's near-term direction remains tied to developments well outside India's borders, particularly the trajectory of the US-Iran conflict and its knock-on effect on energy prices. With crude oil costs a major input for Indian industry and a key driver of the country's import bill, sustained strength in oil prices tends to pressure both corporate margins and broader macroeconomic indicators such as inflation and the currency, a dynamic that traders expect to keep dictating the market's mood in the sessions ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

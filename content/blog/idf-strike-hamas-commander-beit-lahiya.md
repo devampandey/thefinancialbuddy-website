@@ -20,4 +20,4 @@ Beit Lahiya, where Wednesday's strike took place, has been one of the more frequ
 
 No Israeli casualties were reported in connection with Wednesday's incident. The IDF has not indicated whether it expects retaliation from Hamas or allied armed factions in Gaza, though previous Israeli strikes near the Yellow Line have at times prompted sporadic exchanges of fire in the days that followed.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

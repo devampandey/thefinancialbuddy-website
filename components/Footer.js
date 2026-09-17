@@ -20,6 +20,9 @@ export default function Footer() {
             <Link href="/about" className="hover:text-brand">
               About
             </Link>
+            <Link href="/editorial-policy" className="hover:text-brand">
+              Editorial Policy
+            </Link>
             <Link href="/privacy" className="hover:text-brand">
               Privacy &amp; Disclosures
             </Link>

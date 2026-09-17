@@ -24,4 +24,4 @@ The launch comes at a time when the monsoon parliamentary session has been domin
 
 Official events of this kind typically see participation from local administration officials, defence personnel stationed in the islands, and school students, and are usually followed in the coming days by similar flag-hoisting ceremonies organised by state governments and local bodies across India as August 15 approaches. No further policy announcements were made alongside the launch.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -24,4 +24,4 @@ The company is expected to finalize its basis of allotment on August 28, with re
 
 Skyways Air Services operates in India's aviation services segment, an industry that has drawn growing investor interest as domestic air travel demand continues to expand and airport infrastructure investment accelerates across the country. The strong final-day subscription adds Skyways Air Services to a run of well-received mainboard and SME offerings that have helped lift India's IPO fundraising activity through July and August, even as the broader primary market has trailed last year's pace for the financial year so far.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

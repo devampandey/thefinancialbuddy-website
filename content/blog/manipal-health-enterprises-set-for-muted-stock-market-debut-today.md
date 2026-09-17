@@ -24,4 +24,4 @@ A flat or lukewarm listing for an issue of this size carries signal value for th
 
 Today's session will be watched closely by bankers and other issuers eyeing the primary market later this month, given the number of mainboard IPOs currently in India's pipeline. How Manipal Health trades through the day, and whether it can hold the issue price into the close, will offer an early read on investor appetite for large-ticket healthcare listings heading into the rest of August.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

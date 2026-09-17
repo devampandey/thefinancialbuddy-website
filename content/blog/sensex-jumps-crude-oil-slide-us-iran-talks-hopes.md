@@ -28,4 +28,4 @@ The rally also comes as the Reserve Bank of India's rate-setting committee began
 
 Monday's session was a reminder of how sensitive Indian markets remain to global crude oil swings and geopolitical headlines out of West Asia. A sustained de-escalation between the US and Iran, if it holds, would be a genuine tailwind for a net oil-importing economy like India. At the same time, the sharp divergence between broad index gains and steep individual stock declines, such as Muthoot Finance's fall, is a useful reminder that index-level optimism does not always translate evenly across sectors, and investors would do well to look past the headline numbers to what is actually driving moves in the stocks they hold.
 
-Disclaimer: This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+Disclaimer: This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

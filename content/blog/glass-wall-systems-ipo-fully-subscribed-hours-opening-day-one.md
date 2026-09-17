@@ -24,4 +24,4 @@ The strong opening-day response comes at a time when India's primary markets hav
 
 Investors considering the offer have been advised by market analysts to evaluate the company's order book, margins and export exposure alongside broader sectoral trends in construction and infrastructure, rather than relying solely on grey market premiums or early subscription momentum, both of which can be volatile in the days leading up to listing.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -24,4 +24,4 @@ Ahead of listing, shares were commanding a premium of roughly Rs 255 in the unof
 
 The listing comes during an active week for India's primary markets, with several other mainboard and SME issues opening, closing or debuting around the same period, reflecting continued investor appetite for new listings even as broader secondary markets have shown some volatility amid global geopolitical uncertainty. Whether ESDS can convert its heavy subscription numbers into a strong listing-day performance will offer one more data point on how selective India's IPO market has become for infrastructure and technology-services businesses.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

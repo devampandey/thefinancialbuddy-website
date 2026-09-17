@@ -24,4 +24,4 @@ The deferred-launch explanation is a familiar refrain in Indian real estate resu
 
 DLF's results arrive amid a wider earnings season in which real estate and consumer-facing companies have shown a mixed picture, with some developers posting strong booking momentum and others citing softer demand or launch delays. The company's ability to keep profit and cash flow steady through a quarter of unusually low revenue recognition will likely be read by the market as a sign of underlying resilience, though the pace of new launches in the coming quarters will be the more important signal for the stock's medium-term trajectory.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

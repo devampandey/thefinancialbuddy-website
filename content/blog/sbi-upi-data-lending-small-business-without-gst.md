@@ -25,4 +25,4 @@ As a complementary idea, Tewari suggested that small-value transactions of up to
 
 If SBI's UPI-based underwriting model works at scale, it could open formal credit access to a large segment of India's small and micro businesses that currently sit outside the GST net entirely, either because they fall below GST registration thresholds or operate informally. It would also mark a meaningful shift in how Indian banks think about creditworthiness, leaning more heavily on real-time digital transaction behaviour rather than static financial statements. For now, the solution remains under development, and SBI has not detailed a launch timeline.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -26,4 +26,4 @@ The new law is set to take effect on September 10, just three days before Sweden
 
 The reform is likely to be viewed by supporters as a necessary response to years of escalating gang violence and by critics as a punitive step that risks funnelling more teenagers into the criminal justice system. Given the timing, both sides are expected to make the issue central to their closing campaign pitches, with the law's real-world impact on youth crime unlikely to be visible before voters head to the polls.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

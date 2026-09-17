@@ -28,4 +28,4 @@ For India, which shares deep cultural and economic ties with Nepal and had also 
 
 Nepali authorities have not ruled out revisiting their position should the search-and-rescue effort prove insufficient in the days ahead, but for now the government appears intent on demonstrating it can manage the response domestically, even as it continues to accept outside financial support to help affected communities rebuild.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

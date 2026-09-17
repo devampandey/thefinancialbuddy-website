@@ -30,4 +30,4 @@ The results come roughly two months after Ola Electric raised Rs 780 crore throu
 
 Shares of Ola Electric closed Friday's trading session at Rs 41.07 apiece, valuing the Bengaluru-based company at a market capitalisation of roughly Rs 19,185 crore. Investors will now be watching whether the sequential improvement in revenue and losses can be sustained in the coming quarters, particularly as the company navigates regulatory uncertainty around its cell manufacturing unit alongside a still-competitive EV retail environment.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

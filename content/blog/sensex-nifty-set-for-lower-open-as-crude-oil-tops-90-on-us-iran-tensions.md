@@ -28,4 +28,4 @@ Higher crude prices tend to weigh on Indian equities through multiple channels: 
 
 With global crude benchmarks now hovering near multi-month highs and the geopolitical backdrop still fluid, market participants are likely to stay cautious in the near term. Traders will be tracking further developments out of Washington and Tehran through the day, alongside any commentary from Indian policymakers on the potential impact of sustained high oil prices on the broader economy.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

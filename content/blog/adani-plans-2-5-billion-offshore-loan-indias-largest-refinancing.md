@@ -26,4 +26,4 @@ The refinancing push comes as Adani entities pursue capital across several front
 
 The group's ports-to-energy businesses have increasingly relied on a mix of domestic and offshore borrowing to fund expansion, and bankers say the latest cement-debt refinancing reflects an effort to manage borrowing costs amid shifting global credit conditions rather than any change in the underlying investment thesis for its cement business.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

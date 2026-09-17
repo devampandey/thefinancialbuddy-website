@@ -34,4 +34,4 @@ The National Sports Awards, instituted to recognise outstanding achievement in I
 
 This year's list reflects the breadth of India's sporting rise beyond its traditional strongholds of cricket and hockey, with chess, para-sports and combat sports all finding representation among the honourees. The recognition also comes at a time when several of the awardees, including Tejaswin Shankar and the badminton doubles pairing, remain active and competing internationally, adding a forward-looking dimension to what is otherwise a retrospective honour.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

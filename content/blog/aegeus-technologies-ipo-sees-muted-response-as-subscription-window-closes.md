@@ -24,4 +24,4 @@ With the subscription period now closed, allotment is expected to be finalized o
 
 An undersubscribed IPO does not automatically signal trouble for a company post-listing, but it does typically reduce the odds of a strong listing-day pop, since heavy oversubscription is often what fuels grey market premium and first-day buying momentum. Investors watching the space will likely compare Aegeus Technologies' muted reception against the far stronger demand seen recently in other listings this IPO season, where issues have closed multiple times oversubscribed. The contrast underscores that despite a generally busy primary market in 2026, investor appetite continues to vary sharply from one offer to the next based on sector, size, and pricing.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

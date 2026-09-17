@@ -25,4 +25,4 @@ The move comes as global consulting firms face mounting pressure to consolidate 
 
 The transaction is expected to close in the first half of 2027, pending regulatory approvals including clearance from the Competition Commission of India. Until then, PwC US and PwC India will continue to serve clients through their existing separate structures. For India's consulting and technology services sector, the deal signals growing confidence among global professional services firms in deepening rather than merely outsourcing delivery capacity in the country, a trend that has accelerated as AI reshapes how consulting work is priced, staffed and delivered across borders.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

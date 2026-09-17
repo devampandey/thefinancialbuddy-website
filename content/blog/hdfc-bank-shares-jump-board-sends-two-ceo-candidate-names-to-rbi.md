@@ -25,4 +25,4 @@ Alongside the CEO shortlist, HDFC Bank has also expanded its board, increasing t
 
 For a stock that has underperformed some of its private banking peers over the past year, clarity on leadership is often treated by the market as a potential re-rating trigger, particularly if the RBI approves a candidate seen as capable of sharpening HDFC Bank's growth and cost strategy. Brokerages have flagged that a credible external appointment, in particular, could be read as a catalyst given the stock's recent underperformance relative to the sector. Whether Tuesday's rally holds will likely depend on how quickly the RBI moves and, eventually, on which of the two candidates gets the nod.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

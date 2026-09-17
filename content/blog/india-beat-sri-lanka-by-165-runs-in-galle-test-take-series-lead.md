@@ -24,4 +24,4 @@ The win gives India a 1-0 lead heading into the second Test, which moves to the 
 
 For India, the result continues a strong run in overseas conditions this year and adds further weight to the squad's depth, with contributions coming from across the batting order and bowling attack rather than resting on any single individual performance.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -25,4 +25,4 @@ The distinction is not academic for anyone holding options or futures positions 
 
 The consultation lands at a moment when SEBI is pushing several structural changes through India's market plumbing at once, from the CAS rollout itself to a separate push around tokenising regulated financial assets under its so-called Demat 2.0 initiative. Readers tracking their own portfolios through market swings may also find it useful to check the latest [Market Pulse](/market-pulse) issue for broader context on how regulatory shifts like this one are shaping trading conditions.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

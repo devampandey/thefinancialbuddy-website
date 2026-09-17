@@ -28,4 +28,4 @@ Beyond the search for survivors, the disaster has created an urgent humanitarian
 
 The earthquake ranks among the deadliest natural disasters to hit Colombia in recent years, and its aftermath is expected to remain a dominant national story in the country for weeks as reconstruction efforts begin alongside the ongoing search for the missing.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -22,4 +22,4 @@ Investment bankers said the bunching of offerings reflects issuers racing to com
 
 For retail investors, the simultaneous opening of six offerings means having to prioritise limited capital across issues with meaningfully different risk profiles, price bands and grey market signals, a dynamic that bankers say is likely to sharpen scrutiny of each company's fundamentals over the remaining bidding days.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

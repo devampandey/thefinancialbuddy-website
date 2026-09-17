@@ -29,4 +29,4 @@ The claimed strike lands at a particularly volatile moment. Over the past week, 
 
 Whether Saudi Arabia responds with fresh air strikes of its own, and whether Riyadh chooses to publicly confirm or deny the extent of damage at King Khalid Air Base, will shape the next phase of this exchange. For now, neither side shows signs of de-escalating, and the claimed attack adds another flashpoint to a Gulf region already contending with blocked pipelines, disputed shipping corridors and stalled diplomacy.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

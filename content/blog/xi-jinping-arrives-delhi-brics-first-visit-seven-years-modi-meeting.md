@@ -26,4 +26,4 @@ The Modi-Xi meeting is unfolding against the backdrop of a BRICS Summit that Ind
 
 No formal readout of the bilateral meeting had been released at the time of writing, with both sides expected to issue statements once the talks conclude later Saturday.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

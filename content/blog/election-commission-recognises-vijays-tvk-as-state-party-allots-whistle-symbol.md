@@ -24,4 +24,4 @@ The ECI's recognition is significant beyond symbolism. A state party enjoys bene
 
 With recognition secured, attention now shifts to how TVK consolidates its coalition ahead of future electoral contests, including the 2029 Lok Sabha elections, where questions remain over how the party's various alliance partners will align nationally. The party's rapid organisational growth, paired with the formal backing of a reserved symbol, marks a new phase for Tamil Nadu's political landscape, which now features TVK as a distinct third force alongside the state's two long-dominant Dravidian parties.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

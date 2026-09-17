@@ -26,4 +26,4 @@ Siemens India's results arrive amid a broader wave of June-quarter earnings from
 
 For investors and analysts tracking the capital goods space, the quarter is likely to be read as a reminder that order growth and revenue expansion are not always sufficient indicators of near-term earnings health when input costs are volatile. Whether Siemens can translate its expanding order backlog into improved profitability will likely depend on how commodity prices and currency movements evolve over the remainder of the fiscal year, along with the company's ability to pass on cost increases to customers without denting its competitive order-winning momentum.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

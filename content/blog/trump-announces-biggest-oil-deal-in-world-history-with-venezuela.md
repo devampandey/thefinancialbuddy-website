@@ -32,4 +32,4 @@ Major US oil companies have also voiced caution about returning to Venezuela giv
 
 Neither side has disclosed which private company will operate the new joint venture or the full legal structure of the arrangement, leaving key questions about implementation still open.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

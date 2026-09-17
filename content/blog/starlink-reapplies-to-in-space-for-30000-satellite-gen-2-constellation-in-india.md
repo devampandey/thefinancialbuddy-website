@@ -24,4 +24,4 @@ India has been steadily opening its skies to satellite internet players, with St
 
 IN-SPACe has not indicated a timeline for reviewing the fresh filing. Given the scale of the proposed constellation and the spectrum questions that scuttled the earlier application, the review is likely to involve consultation with India's telecom and spectrum authorities before any decision is reached. Starlink has continued to build out its Gen 1 service in India in the meantime, giving the company an operational presence in the market even as its larger ambitions await regulatory clearance.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

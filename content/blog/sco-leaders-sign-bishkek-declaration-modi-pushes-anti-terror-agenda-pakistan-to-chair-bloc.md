@@ -28,4 +28,4 @@ For India, the summit offered a platform to press its anti-terrorism messaging d
 
 Markets in the region showed no immediate reaction to the summit outcomes, with attention more focused on near-term factors such as crude oil prices and domestic earnings. Longer-term, however, the connectivity and trade commitments made in Bishkek could shape regional supply chains and infrastructure investment through the rest of the decade.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

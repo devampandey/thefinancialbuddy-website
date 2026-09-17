@@ -28,4 +28,4 @@ Karnataka is home to a significant share of India's IT workforce, and any fricti
 
 Investors and employees alike will be watching whether the meeting produces any commitments from TCS on severance terms, redeployment options, or a revised timeline for the cuts. For the broader IT sector, the outcome could also signal how aggressively other state governments are willing to intervene as AI-driven restructuring continues to reshape hiring and firing decisions across the industry.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

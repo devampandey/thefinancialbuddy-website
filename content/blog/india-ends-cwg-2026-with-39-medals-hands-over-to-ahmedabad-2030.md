@@ -28,4 +28,4 @@ Commonwealth Sport has indicated that the Ahmedabad Games will feature 15 to 17 
 
 A 39-medal finish and a dominant showing in boxing give Indian sporting bodies a strong platform to build from as preparations begin for a home Games in 2030. With four years now on the clock, expect increased focus and funding on the disciplines — boxing, weightlifting and athletics chief among them — where India has shown it can consistently compete at the top of the Commonwealth table.
 
-Disclaimer: This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+Disclaimer: This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

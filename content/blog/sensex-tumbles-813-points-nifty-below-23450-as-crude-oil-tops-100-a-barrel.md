@@ -22,4 +22,4 @@ Wednesday's fall extended a losing run that has now stretched across three sessi
 
 Market participants said the coming sessions would likely hinge on how the situation in the Gulf evolves, along with any fresh signals from Iran about the scope of restrictions it plans to impose on shipping lanes near the Strait of Hormuz. Continued volatility in crude prices is expected to keep oil-sensitive sectors, including aviation, paints and tyre manufacturers, under close watch, while any signs of de-escalation could offer near-term relief to battered indices.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

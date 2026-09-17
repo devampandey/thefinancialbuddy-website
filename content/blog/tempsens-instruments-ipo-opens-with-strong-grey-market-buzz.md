@@ -26,4 +26,4 @@ The company's revenue from operations grew from around Rs 275 crore in FY24 to a
 
 Investors will be watching subscription data over the coming days, particularly demand from qualified institutional buyers, which typically firms up in the final one to two days of a book-built issue and tends to be the strongest signal of how the stock might perform on listing day.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

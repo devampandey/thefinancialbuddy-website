@@ -24,4 +24,4 @@ The repeated reversals have left the question of the BSP's future leadership unr
 
 Political observers will now watch whether this latest expulsion proves final or whether, as in past cycles, family and political considerations eventually bring Anand back into the fold. For now, Mayawati has signaled she intends to lead the 2027 campaign preparations without him occupying a formal leadership role, a shift that could reshape how the party positions its next generation of leadership in the run-up to the polls.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

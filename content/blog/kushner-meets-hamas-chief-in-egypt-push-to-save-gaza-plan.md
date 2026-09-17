@@ -30,4 +30,4 @@ Kushner is scheduled to continue his regional tour with stops in Israel this wee
 
 For now, the ceasefire that halted major hostilities remains formally in place, but the failure to agree on implementation sequencing means the transition to the plan's next phase — including reconstruction funding and a broader Israeli withdrawal — remains on hold pending further talks this week.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

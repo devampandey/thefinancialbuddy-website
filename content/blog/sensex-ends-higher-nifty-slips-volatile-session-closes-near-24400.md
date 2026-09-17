@@ -20,4 +20,4 @@ The session unfolded against a backdrop of persistent global uncertainty. Market
 
 With more than 693 companies scheduled to report June-quarter results around this period, earnings-driven volatility in individual stocks is likely to remain a dominant theme for Indian markets in the sessions ahead. Investors are also keeping a close watch on crude oil trends and developments around the Strait of Hormuz, given their potential to influence inflation and interest rate expectations domestically.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

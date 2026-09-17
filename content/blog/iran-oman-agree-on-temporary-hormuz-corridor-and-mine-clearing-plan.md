@@ -30,4 +30,4 @@ Despite that pressure campaign, there are early signs Washington sees reduced ne
 
 For now, the Tehran talks mark the clearest sign yet that Iran and Oman are converging on a workable, if temporary, mechanism to unclog one of the world's most important energy chokepoints — even as the broader terms for ending the standoff remain unresolved.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

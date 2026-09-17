@@ -28,4 +28,4 @@ The scale of trading in newer listings such as PhysicsWallah and Groww's parent 
 
 While block deals do not always signal a change in company fundamentals, the scale of Wednesday's activity, cutting across sectors from edtech to pharmaceuticals to fintech, made it one of the more closely watched trading sessions of the week for market participants tracking ownership shifts in India's newer listed companies.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

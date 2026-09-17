@@ -23,4 +23,4 @@ The result followed a similar pattern to the series opener on Sunday, where Indi
 
 With the series wrapped up 2-0, the remaining T20I in Delhi on September 17 becomes a chance for India's think tank to experiment rather than a contest for the trophy. Expect selection questions to dominate the build-up to that finale, including whether uncapped-at-home teenager Vaibhav Sooryavanshi finally gets an opportunity in the XI, and whether the management gives some of the frontline bowlers, including Bumrah, a breather with nothing left to play for. For Afghanistan, already 0-2 down, the final game is now about pride and building momentum ahead of their next assignments, after two matches in which their batting has repeatedly struggled to build partnerships against India's seam and spin combination.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

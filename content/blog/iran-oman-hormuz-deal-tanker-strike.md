@@ -28,4 +28,4 @@ Despite the attack, financial markets leaned toward optimism. Brent crude held a
 
 The strait, through which about a fifth of the world's oil supply typically flows, has seen only intermittent traffic since it was effectively shut down following the US and Israeli strikes on Iran in late February. A durable resolution would still need to address thornier questions, including the fate of Iran's nuclear programme and the broader sanctions regime, which continue to weigh on the country's economy.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

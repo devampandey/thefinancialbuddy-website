@@ -29,4 +29,4 @@ Analysts following the conflict say the timing of the pipeline attack, coming so
 
 The developments come as global energy markets remain on edge over the possibility of further disruption to Gulf oil flows, with traders watching closely for any sign that either chokepoint crisis could escalate further in the days ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

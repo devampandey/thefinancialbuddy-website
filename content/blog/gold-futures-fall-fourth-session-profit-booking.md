@@ -24,4 +24,4 @@ For Indian households, the pullback offers some relief heading into the festive 
 
 Traders will be watching upcoming US economic data and further signals from Federal Reserve officials for direction on whether the current pullback extends into next week or whether gold resumes its climb toward fresh highs.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

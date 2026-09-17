@@ -30,4 +30,4 @@ BNPB has deployed a helicopter to support logistics and evacuation efforts in Ea
 
 Indonesia sits on the Pacific "Ring of Fire" and is among the world's most seismically active nations. The same stretch of coastline was struck by a comparably powerful earthquake in December 1992, when the resulting tsunami killed more than 2,500 people on Flores. Authorities said experts would begin mapping soil conditions across the affected region to guide reconstruction and earthquake-resistant rebuilding.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

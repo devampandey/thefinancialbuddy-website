@@ -24,4 +24,4 @@ With East Zone batting again and openers Abhimanyu Easwaran and Vaibhav Sooryava
 
 The result will be a significant marker for both teams heading into the new domestic season, with East Zone's dominant batting and disciplined seam attack likely to strengthen several players' claims for national selection, while South Zone will look to regroup after a final that has, so far, gone almost entirely according to their opponents' script.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

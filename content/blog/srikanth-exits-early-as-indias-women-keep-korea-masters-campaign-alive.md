@@ -24,4 +24,4 @@ India's doubles pairings also had moments worth noting. The men's doubles combin
 
 Results at a tour-level event like the Korea Masters rarely make or break a career, but they do serve as a useful gauge of squad depth heading into a season with bigger targets on the calendar, including the BWF World Badminton Championships scheduled for New Delhi later this month. A women's singles group advancing seven of nine entrants, combined with doubles pairs pulling off seed upsets, suggests India's bench strength in badminton continues to widen beyond its best-known names — even as senior players like Srikanth face a tougher road back to their earlier form.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

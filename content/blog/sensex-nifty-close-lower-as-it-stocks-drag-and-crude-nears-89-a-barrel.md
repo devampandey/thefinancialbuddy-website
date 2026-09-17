@@ -26,4 +26,4 @@ Foreign fund flows remain a key swing factor for Indian markets in the current e
 
 Monday's session also came against the backdrop of a busy corporate calendar, with several companies reporting quarterly results and at least one high-profile stock market debut adding to overall trading volumes. Analysts said investors are likely to keep a close watch on crude oil prices, the rupee, and incoming corporate earnings in the sessions ahead for cues on the market's near-term direction.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

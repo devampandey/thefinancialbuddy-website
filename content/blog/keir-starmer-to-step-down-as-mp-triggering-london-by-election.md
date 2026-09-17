@@ -24,4 +24,4 @@ Reaction from within Labour has been largely warm. Former colleagues credited St
 
 A selection process for Labour's candidate is expected to move quickly given the seat's high profile, and the timing of the by-election itself will depend on procedural steps in the House of Commons in the coming weeks. For Starmer personally, departing the Commons closes the electoral chapter of a career that took him from human rights lawyer and former Director of Public Prosecutions to the country's highest office in under a decade. Whether his successor as MP can hold the seat may say as much about the broader political mood in Britain as it does about local politics in north London.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

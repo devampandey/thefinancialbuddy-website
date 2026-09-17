@@ -26,4 +26,4 @@ Thursday's close comes after a session that opened higher, with early gains driv
 
 With foreign portfolio investors having pulled significant sums out of Indian equities over the past several months, domestic institutional buying has increasingly become the primary support for the market, a dynamic that was visible again in Thursday's session as buying in large-cap names helped indices hold their ground despite selling pressure in several sectors.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -28,4 +28,4 @@ The price increase across the Pixel 11 range reflects a broader trend among prem
 
 Analysts tracking the Indian smartphone market will be watching sell-through numbers for the Pixel 11 closely, given that Google has historically struggled to move meaningful volumes in India relative to its ambitions, despite consistently positive reviews for its camera and software experience. With pricing now pushing further into the premium bracket, the strategy this year appears focused on margin and brand positioning rather than volume-led growth.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

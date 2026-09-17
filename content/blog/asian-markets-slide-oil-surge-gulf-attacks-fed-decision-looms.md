@@ -27,4 +27,4 @@ Adding another layer to the week's central bank calculus, the Bank of Japan is a
 
 For now, the interplay between oil supply risk and central bank policy is likely to remain the dominant theme steering Asian markets through the week. Any further escalation around the Strait of Hormuz, or a surprise in either the Fed's or the BOJ's rate decisions, could trigger fresh bouts of volatility. Conversely, signs of de-escalation in the Gulf or a softer-than-expected Fed stance could offer markets a reprieve after a difficult start to the week.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

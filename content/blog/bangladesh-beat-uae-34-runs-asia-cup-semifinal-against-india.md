@@ -28,4 +28,4 @@ With the group phase now complete, attention turns to the knockout stage, where 
 
 For India, the semifinal draw against Bangladesh presents a contest against a side that showed both promise and inconsistency through the group stage, having thrashed one opponent convincingly while narrowly losing to Sri Lanka's defending champions. Bangladesh, for their part, will head into the knockout match aiming to carry forward the momentum of Tuesday's comprehensive win as they look to spring an upset against a India side that has been unbeaten through the tournament so far. With the tournament now down to its final four teams, Wednesday and Thursday's semifinals are set to decide who advances to contest the Women's Asia Cup title.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

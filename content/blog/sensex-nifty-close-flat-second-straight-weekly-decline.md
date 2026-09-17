@@ -28,4 +28,4 @@ Institutional flows remained a mixed bag through the week, with foreign investor
 
 With crude prices and global bond yields likely to remain the key swing factors in the sessions ahead, traders said the market's near-term bias stays cautiously positive but prone to bouts of volatility, especially if geopolitical developments around Iran and the Strait of Hormuz take a turn.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

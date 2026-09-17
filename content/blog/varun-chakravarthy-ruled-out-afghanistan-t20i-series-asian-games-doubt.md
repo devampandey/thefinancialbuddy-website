@@ -23,4 +23,4 @@ The latest fitness setback has again put the spotlight on India's injury managem
 
 India, who lead the three-match T20I series against Afghanistan 1-0 after their opening win, will look to seal the series when the two sides meet again at the Arun Jaitley Stadium in Delhi, with the third and final match to follow on Thursday. The team management will now have to decide on a replacement spinner for the remainder of the series and assess options for the Asian Games squad in Chakravarthy's likely absence.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

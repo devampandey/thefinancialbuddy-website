@@ -24,4 +24,4 @@ The opening Test between India and Sri Lanka is scheduled to be played at the Ga
 
 For Nabi, the tour represents an opportunity to translate domestic dominance into an international debut, while for India's team management, it is another test of the depth built into the pace bowling reserves as they continue to manage Bumrah's workload with an eye on the longer term.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

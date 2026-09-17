@@ -24,4 +24,4 @@ Tata Sons Chairman N Chandrasekaran has previously acknowledged that reviving Ai
 
 Singapore Airlines has said it continues to work closely with Tata Sons in support of Air India's transformation programme, though it declined to comment specifically on the airline's finances or the reported funding request. For now, the scale of the ask underscores just how far Air India still has to go before its post-privatisation turnaround reaches self-sufficiency, and how much patience its shareholders will need in the years ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

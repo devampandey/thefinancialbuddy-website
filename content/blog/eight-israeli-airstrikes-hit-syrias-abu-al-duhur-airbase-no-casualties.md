@@ -26,4 +26,4 @@ Israel has carried out repeated strikes on military sites inside Syria since the
 
 For now, neither side has escalated rhetoric beyond the current exchange of strikes and statements, but the combination of Syria's rebuilding military ambitions, Turkey's growing involvement, and Israel's stated wariness suggests northern Syria is likely to remain a flashpoint in the months ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

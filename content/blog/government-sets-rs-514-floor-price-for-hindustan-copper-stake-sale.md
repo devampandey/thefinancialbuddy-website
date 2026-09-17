@@ -24,4 +24,4 @@ For existing shareholders, the sharp discount to the prevailing market price is 
 
 With copper prices and demand from India's electrification and infrastructure push remaining a broader tailwind for the sector, investors are likely to weigh Tuesday's short-term price pressure against the company's longer-term operating outlook as the OFS window closes on Wednesday.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

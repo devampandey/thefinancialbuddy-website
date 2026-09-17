@@ -25,4 +25,4 @@ The remarks drew a quick reaction from across the Irish Sea. British Prime Minis
 
 Martin had extended the invitation for Trump's visit when the two met at the White House on St Patrick's Day earlier this year, with Irish officials viewing the trip as a chance to shore up trans-Atlantic ties despite friction over trade tariffs and foreign policy. Trump's unscripted remarks on reunification risk complicating that goal, since the question of a united Ireland remains politically explosive on both sides of the border, tied closely to identity, security and the durability of a peace agreement that took decades to negotiate. After the Dublin engagements, Trump was scheduled to travel to his golf club in Doonbeg to watch the Irish Open.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

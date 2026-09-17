@@ -26,4 +26,4 @@ The Bab al-Mandeb strait, which connects the Red Sea to the Gulf of Aden, is one
 
 The United Nations has called for restraint, warning that the resumption of hostilities risks dragging Yemen into a broader regional confrontation with severe humanitarian consequences. Yemen's Foreign Ministry condemned the strike on the Tihamah and urged the international community to move from condemnation to decisive action against the Houthis.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

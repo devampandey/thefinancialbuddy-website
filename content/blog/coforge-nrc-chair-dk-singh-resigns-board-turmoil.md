@@ -27,4 +27,4 @@ In response to Singh's departure, Coforge has reconstituted its board committees
 
 The episode adds to a string of governance disclosures at Coforge this year and comes at a sensitive time for the IT services sector, where investors have grown more attentive to board conduct and disclosure practices following several high-profile boardroom disputes across corporate India. Both Singh and Bhatt had accepted fresh multi-year board terms earlier this year before the audit findings surfaced, underscoring how quickly the situation escalated. How swiftly Coforge can stabilise its board and complete its search for new independent directors is likely to be watched closely by shareholders and governance analysts alike.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

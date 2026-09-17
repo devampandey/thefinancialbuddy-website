@@ -29,4 +29,4 @@ Vi remains the most heavily indebted of India's three private telecom operators,
 
 The complaint comes as Vodafone Idea has stepped up an aggressive advertising and customer-win-back campaign to arrest years of subscriber losses to Airtel and Jio. Industry watchers will be tracking whether TRAI's scrutiny slows that momentum, and whether the regulator moves to tighten porting rules more broadly across the sector, a change that would affect how all operators compete for customers switching networks in India's fiercely contested telecom market.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -26,4 +26,4 @@ With three points on the board, India will look to build on the win as the group
 
 For now, though, the takeaway from Amstelveen is straightforward: a composed, largely comfortable win to start the campaign, built on early goals and a disciplined defensive performance that limited Wales to a single, late consolation strike.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

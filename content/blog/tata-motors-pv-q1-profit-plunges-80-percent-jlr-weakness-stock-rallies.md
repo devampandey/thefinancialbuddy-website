@@ -18,4 +18,4 @@ Investors appeared to look past the profit decline, focusing instead on the dema
 
 Looking ahead, the company flagged global geopolitical developments and shifting trends in the luxury segment as key variables to watch, particularly for JLR's transition toward battery-electric models. On the domestic side, management said it expects commodity costs to stay elevated but described underlying demand as healthy, supported by rising EV penetration, and said the company would prioritize revenue growth alongside cost discipline and calibrated pricing actions in the quarters ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

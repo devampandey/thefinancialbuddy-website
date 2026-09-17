@@ -24,4 +24,4 @@ Investment bankers point to a combination of factors behind the clustering: favo
 
 For retail investors, a crowded IPO calendar means more choice but also more competition for allocation in oversubscribed issues, alongside the challenge of evaluating multiple offerings across very different business models within a short window. Analysts have generally urged investors to assess each company on its own merits, including valuation, profitability track record and sector outlook, rather than treating the flurry of listings as a uniform buying opportunity. Allotment and listing timelines for this week's issues are staggered through the middle of September, giving the market a steady stream of debuts to digest in the days ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

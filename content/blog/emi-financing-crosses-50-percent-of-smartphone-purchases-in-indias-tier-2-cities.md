@@ -30,4 +30,4 @@ India now has 24 smartphone models priced above ₹1 lakh and more than 40 price
 
 The financing boom is unfolding alongside a new regulatory framework from the Reserve Bank of India governing how lenders can remotely restrict financed devices in cases of missed payments. The rules, which take effect from January 1, 2027, require a graduated process before any restriction is applied, bar lenders from blocking emergency calls or messages, and prohibit accessing personal data stored on a device for recovery purposes. Analysts say the added clarity could give lenders more confidence to extend device financing, reinforcing a shift that is already reshaping how Indians — particularly outside the metros — buy their next phone.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

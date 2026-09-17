@@ -26,4 +26,4 @@ For investors, the win reinforces a theme that has played out repeatedly in Indi
 
 Whether the stock can sustain its recent momentum will likely depend on execution timelines for this and other projects in the pipeline, as well as broader sentiment toward capital-intensive infrastructure plays in a market that has recently been more sensitive to global crude price swings and geopolitical developments in the Middle East.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

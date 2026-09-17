@@ -26,4 +26,4 @@ The scale and timing of the approval are tied directly to India's broader sporti
 
 The real test for the revamped scheme will not be the size of the outlay but whether the expanded athlete pool and new feeder-school structures translate into measurable improvements in India's medal performance at major multi-sport events over the next several years. India's recent showing at the Commonwealth Games, where the country closed out its campaign with dozens of medals before handing over hosting duties for 2030, offers a baseline against which the impact of this fresh investment will eventually be measured. Sports administrators and federations will now be watching how quickly the funding translates into on-the-ground programmes at the school and district level, where the scheme's grassroots ambitions will ultimately be tested.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

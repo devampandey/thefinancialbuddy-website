@@ -24,4 +24,4 @@ India go into the fourth day firmly in control, having already wrapped up the fi
 
 For Dinusha, the series has already been a breakout moment regardless of the eventual result, with his sequence of scores marking him out as one of the more promising batting talents to emerge from Sri Lanka's often-changing top order in recent seasons.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

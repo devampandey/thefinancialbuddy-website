@@ -26,4 +26,4 @@ Merz also used the news conference to signal continuity on foreign policy, stati
 
 The result adds to a string of strong regional performances by the AfD and will intensify scrutiny of Merz's coalition ahead of future state and national contests. European governments and commentators have watched Germany's rightward electoral drift closely, given the country's central role in EU policymaking, and Monday's reaction from Berlin suggests the CDU leadership now views the threat from the AfD as an existential one for the party rather than a temporary protest vote confined to the former East Germany.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

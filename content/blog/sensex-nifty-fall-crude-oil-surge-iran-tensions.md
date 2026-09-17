@@ -28,4 +28,4 @@ The rupee also felt the heat, opening a few paise weaker against the US dollar c
 
 With Middle East tensions showing no clear signs of easing, market participants are likely to stay cautious in the near term. Analysts tracking the situation say the key variables to watch are the trajectory of Brent crude, any further escalation around the Strait of Hormuz, and incoming signals from the US Federal Reserve on the path of interest rates, all of which will shape how Indian equities trade in the sessions ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

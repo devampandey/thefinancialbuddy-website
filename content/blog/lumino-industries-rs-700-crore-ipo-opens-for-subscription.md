@@ -24,4 +24,4 @@ Multiple brokerages have flagged that the issue is priced at a reasonable discou
 
 Following the close of subscription on August 31, the basis of allotment is expected to be finalized around September 1, with refunds and demat credits typically following within a day or two after that. A listing on the BSE and NSE is currently penciled in for September 3, subject to the usual regulatory and exchange processes. As with any IPO, the eventual listing-day performance will depend on how subscription numbers shape up across investor categories over the next few sessions, as well as the broader market mood heading into early September.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

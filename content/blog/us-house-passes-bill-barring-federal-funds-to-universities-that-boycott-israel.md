@@ -28,4 +28,4 @@ The vote comes amid continued friction over how American universities have respo
 
 With the bill now in the Senate's hands, its fate is uncertain. Senate Democrats who share Scott's First Amendment concerns could slow or block the measure, and any Senate version would likely need to be reconciled with the House text before reaching the president's desk. Universities, meanwhile, are watching closely, since even the threat of losing federal research and student-aid funding could reshape how institutions approach boycott-related activism on campus regardless of whether the bill ultimately becomes law.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -24,4 +24,4 @@ For Uber, the launch adds train tickets to what is already a fairly broad mobili
 
 The partnership is part of a broader pattern of consolidation and cross-platform integration in India's travel and mobility sector, where companies increasingly look to bundle adjacent services rather than compete purely on their core offering. As more Indian consumers rely on their phones to plan entire journeys end-to-end, tie-ups of this kind are likely to become more common, with mobility and travel platforms racing to become the single app travellers turn to for booking, tracking, and completing multi-leg trips.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

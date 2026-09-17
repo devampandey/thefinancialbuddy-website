@@ -28,4 +28,4 @@ The broader US-Canada relationship has deteriorated sharply over the past year, 
 
 For now, Monday's post remains a threat rather than an enacted policy, and there is no indication that the US Commerce Department or Federal Aviation Administration has begun formal proceedings to restrict Bombardier sales. Given that the January tariff threat did not materialize into action, markets and industry watchers are likely to treat this latest warning with some caution until a concrete regulatory step follows. Still, the renewed rhetoric underscores how quickly trade tensions between the two historically close allies can resurface, with implications for aerospace supply chains on both sides of the border.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

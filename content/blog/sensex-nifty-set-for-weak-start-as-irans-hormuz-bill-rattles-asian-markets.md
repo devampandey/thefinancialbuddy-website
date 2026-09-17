@@ -26,4 +26,4 @@ The cautious global backdrop arrives on a day when well over 200 Indian companie
 
 Thursday's session had already seen a split in investor behaviour, with foreign institutional investors turning net sellers of Indian shares while domestic institutional investors stepped in as buyers, a pattern that has repeated through much of the year and one market watchers will be watching for again today. The market's next major trigger is the Reserve Bank of India's monetary policy decision due on August 8, which leaves limited room for the kind of sharp moves seen earlier in the week and points instead to a session likely to be shaped by a mix of global cues and individual earnings.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

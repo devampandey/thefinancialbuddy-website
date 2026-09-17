@@ -26,4 +26,4 @@ Broader booking metrics reported alongside the hotel data painted a similar pict
 
 Taken together, the data suggests that India's domestic travel and hospitality sector continues to see healthy consumer spending even as broader retail indicators elsewhere have shown signs of caution. Hospitality operators will be watching closely to see whether the momentum from the Independence Day weekend carries through into the traditionally quieter weeks that typically follow before the festive season ramps up later in the year. For now, industry executives say the shorter booking cycles and resilient demand point to a domestic traveller base that remains willing to spend on leisure, even if the planning horizon for that spending has grown noticeably shorter.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

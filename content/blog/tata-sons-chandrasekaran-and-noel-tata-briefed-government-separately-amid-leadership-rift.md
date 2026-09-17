@@ -30,4 +30,4 @@ Another significant point of contention involves a long-discussed public listing
 
 With Chandrasekaran's tenure now on a fixed clock, the Tata Group faces the twin task of managing an orderly leadership transition while resolving disagreements over capital allocation and the future ownership structure of its flagship holding company. The developments come just ahead of the group's Tata Sons annual general meeting, which is scheduled for August 18 and reportedly faces its own procedural hurdles linked to an ongoing regulatory dispute involving the Sir Ratan Tata Trust.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

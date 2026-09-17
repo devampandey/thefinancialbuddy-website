@@ -26,4 +26,4 @@ The scandal has overshadowed Reform UK's two-day annual conference in Birmingham
 
 The affair also lands amid broader scrutiny of how political parties across the UK finance themselves, with foreign-donor rules a recurring flashpoint in British politics. How the internal investigation unfolds, and whether police or electoral regulators pursue formal action, will shape whether the episode remains a personnel matter or escalates into a more serious legal and reputational challenge for Reform UK heading into a critical electoral period.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

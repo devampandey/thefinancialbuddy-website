@@ -30,4 +30,4 @@ The summit brought together leaders representing a significant share of the worl
 
 For India, the SCO platform also offers a venue to advance economic connectivity initiatives even as it balances complex bilateral relationships with China and Russia within the same grouping. The outcomes of the Bishkek Declaration are likely to shape working-group discussions on trade facilitation and security cooperation among member states in the months ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

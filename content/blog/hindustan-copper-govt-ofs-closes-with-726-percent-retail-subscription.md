@@ -22,4 +22,4 @@ The stock itself reflected the enthusiasm around the offer, settling nearly 4.4%
 
 The Hindustan Copper divestment forms part of the government's broader disinvestment programme for the current financial year, with the Centre continuing to lean on strong retail liquidity and firm commodity prices to meet its annual targets. With metal markets running hot and retail participation in public offers showing little sign of fatigue, the response to this OFS is likely to be read as an encouraging signal for further stake sales the government may look to bring to market in the coming months.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

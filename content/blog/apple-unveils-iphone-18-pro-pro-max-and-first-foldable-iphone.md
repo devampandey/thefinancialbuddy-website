@@ -22,4 +22,4 @@ For Indian buyers, the event carries particular significance given the size and 
 
 India has become one of Apple's fastest-growing markets in recent years, both for retail sales and as a manufacturing base, making the local reception to the new lineup, and particularly the foldable model once it becomes available, a closely watched indicator for the company's next phase of growth in the country.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

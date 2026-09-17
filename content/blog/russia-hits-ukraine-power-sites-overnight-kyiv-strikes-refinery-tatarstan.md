@@ -23,4 +23,4 @@ For now, both capitals appear focused on demonstrating they can keep inflicting 
 
 Neither Moscow nor Kyiv has provided a full, independently verified damage assessment for Sunday's strikes, and casualty figures on both sides typically take time to be confirmed. The scale and location of the strikes nonetheless mark one of the more geographically extensive exchanges of the past week, reaching from Ukraine's south to Russia's Volga region.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

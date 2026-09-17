@@ -20,4 +20,4 @@ With East Zone's second innings extending their lead well past 400 runs by the e
 
 The final has also drawn attention for showcasing a mix of established internationals and rising talents on the same stage, from Shami's continued red-ball effectiveness to younger batters looking to state their case for higher honours. A win for East Zone would add to a tournament run defined by their batting depth and disciplined bowling, while South Zone will look to their lower order and part-time bowling options to salvage pride on the final day. The result of the match is expected to be decided during the fifth and final day of play in Chennai.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

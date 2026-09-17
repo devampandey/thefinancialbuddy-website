@@ -28,4 +28,4 @@ On the opening day itself, subscription numbers started out modest, as is typica
 
 LEAP India's listing adds to what has already been an active year for India's IPO market, with a steady stream of mainboard offerings spanning sectors from financial services to healthcare to industrials. A large offer-for-sale component means existing investors are using the public markets to partially exit their positions, a pattern increasingly common among India's more mature private-equity-backed businesses as they look to monetise stakes built up over several years. Investors weighing whether to participate will likely watch subscription trends over the coming days, particularly from institutional buyers, for a clearer signal on how the issue is being received.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

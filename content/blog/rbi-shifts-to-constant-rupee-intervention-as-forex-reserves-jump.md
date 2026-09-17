@@ -24,4 +24,4 @@ Currency strategists tracking the market note that dollar demand from importers 
 
 Economists caution that the RBI's approach still leaves an open question: whether even a more assertive intervention strategy, backed by record reserves, will be enough to convince investors that the rupee's current level is undervalued. The central bank has so far avoided raising interest rates to defend the currency, wary of slowing an economy that is already contending with headwinds from the broader geopolitical environment.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -24,4 +24,4 @@ India go into the final as the tournament's most successful side, having already
 
 For a young Indian side blending experienced age-group campaigners with newer faces, reaching the final again is being seen by followers of the sport as validation of the pipeline Indian hockey has built at the junior level in recent years, with several players from previous Junior Asia Cup-winning squads having gone on to represent the senior national team. A strong showing in the final would add further weight to that narrative as India looks to maintain its dominance in continental age-group hockey.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

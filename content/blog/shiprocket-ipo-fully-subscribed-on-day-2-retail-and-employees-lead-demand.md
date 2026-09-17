@@ -26,4 +26,4 @@ Shiprocket has built its business around providing logistics, shipping and fulfi
 
 The strong retail and employee subscription on day two suggests healthy investor appetite heading into the issue's final day, though the QIB category's eventual participation on August 14 will likely be the more decisive factor in determining the overall subscription multiple and, by extension, sentiment heading into the stock's listing.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

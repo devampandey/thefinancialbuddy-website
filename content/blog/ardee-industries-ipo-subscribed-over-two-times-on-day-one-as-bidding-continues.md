@@ -24,4 +24,4 @@ The mainboard IPO market has seen a steady stream of fresh listings in recent we
 
 Investors considering the remaining two days of the bidding window will want to watch how subscription numbers build across the retail, non-institutional and qualified institutional buyer categories, since a broad-based response across all three tends to be a better predictor of listing-day performance than grey market premium alone. As with any small and mid-sized IPO, allotment is not guaranteed even for investors who apply, and those evaluating the offer should weigh the company's financials, promoter background and sector outlook rather than relying solely on subscription buzz or grey market chatter.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

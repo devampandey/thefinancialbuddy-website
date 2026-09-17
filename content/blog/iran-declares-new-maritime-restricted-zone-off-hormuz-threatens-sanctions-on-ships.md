@@ -22,4 +22,4 @@ The confrontation comes as Washington maintains a naval posture aimed at keeping
 
 For now, the restricted zone remains more a declaration of intent than an enforced boundary, since Iran has yet to publish exact coordinates. But the warning itself is likely to weigh on shipowners and insurers weighing routes through the Gulf, particularly as the broader conflict between Iran, Israel and the United States continues into its seventh month with no clear diplomatic breakthrough in sight. Regional governments, including Gulf Arab states that depend on the strait for their own oil exports, are watching closely for signs of how strictly Iran intends to enforce the new zone once its boundaries are made public.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

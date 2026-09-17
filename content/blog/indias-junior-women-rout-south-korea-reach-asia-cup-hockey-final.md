@@ -27,4 +27,4 @@ The result keeps India on course for a hat-trick of their own at the tournament 
 
 The performance also underlined the growing depth of India's junior women's setup, with contributions coming from multiple players rather than a single standout, even as Supriya's penalty-corner conversions provided the headline moments. For a program that has increasingly fed talent into the senior national side in recent years, a dominant run at this level is likely to be read as a promising sign heading into the final and beyond.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

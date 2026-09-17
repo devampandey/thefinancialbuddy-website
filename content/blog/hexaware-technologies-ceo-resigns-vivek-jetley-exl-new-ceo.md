@@ -24,4 +24,4 @@ Despite the guidance cut and leadership uncertainty, several brokerages, includi
 
 Leadership transitions at large listed IT services firms typically draw close scrutiny from investors focused on continuity of client relationships and strategic direction, particularly when guidance has already been under pressure. With close to two months before Jetley formally takes charge, Hexaware's existing management is expected to continue executing on its current strategy, while the incoming CEO's own priorities and any shifts in strategic focus are likely to become clearer only once he assumes the role in late October. Shareholders and analysts will be watching closely for early signals on how Jetley intends to position the company relative to larger peers as competition for AI-linked deals intensifies across the Indian IT sector.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

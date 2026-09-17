@@ -24,4 +24,4 @@ Ahead of the price band announcement, the red herring prospectus had already sho
 
 As the operator of India's largest stock exchange by trading volumes, NSE's own listing carries outsized significance for the market ecosystem, giving retail and institutional investors alike a rare opportunity to own equity in the exchange that facilitates the bulk of the country's derivatives and cash-market trading activity. Given the scale of the offering, market watchers expect the issue to draw considerable demand from both domestic and international institutional investors when bidding opens next week, though the final verdict on subscription levels will only become clear once the book-building process gets under way.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

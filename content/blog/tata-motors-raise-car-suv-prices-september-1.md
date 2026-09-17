@@ -26,4 +26,4 @@ For consumers, the increase means anyone finalising a Tata car or SUV purchase b
 
 Tata Motors Passenger Vehicles remains one of India's largest carmakers by volume, with a significant footprint in both the ICE and EV segments, meaning price moves of this kind are watched closely as a bellwether for where the broader auto sector may be headed on pricing this festive season.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

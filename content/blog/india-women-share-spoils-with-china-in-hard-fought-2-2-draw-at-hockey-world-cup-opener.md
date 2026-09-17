@@ -28,4 +28,4 @@ The result comes a day after India's men's team opened their own World Cup campa
 
 For the women's team, Sunday's draw against a strong Chinese side that reached the Olympic final is likely to be viewed as a solid, if incomplete, start — a reminder of the squad's ability to trouble higher-ranked opposition, but also of the fine margins that will decide how far this campaign can go.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -28,4 +28,4 @@ Executives who spoke at the closing session framed the fest's outcomes as a shif
 
 For India's fintech sector, GFF has increasingly served as a barometer of where the industry is placing its bets, and this year's edition leaned firmly toward artificial intelligence embedded directly into payment infrastructure rather than as a customer-facing add-on. With UPI processing tens of billions of transactions a month domestically, the announcements around agentic commerce and cross-border interoperability suggest Indian payment companies are positioning themselves to export that infrastructure rather than simply scale it at home.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

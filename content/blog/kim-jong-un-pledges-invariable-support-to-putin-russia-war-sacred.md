@@ -25,4 +25,4 @@ For investors and policymakers tracking global risk, the letter is less a single
 
 Tuesday's message adds little new in substance but confirms that Pyongyang intends to stay firmly aligned with Moscow for the foreseeable future, a stance that will keep the North Korea-Russia axis on the watchlist of governments and markets alike as the Ukraine war continues into its fourth year.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

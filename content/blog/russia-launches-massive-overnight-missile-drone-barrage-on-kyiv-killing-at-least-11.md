@@ -28,4 +28,4 @@ Ukrainian officials reiterated calls for accelerated air-defence support from al
 
 The scale of overnight destruction underscores how, more than four years into the war, large Russian aerial campaigns against Ukrainian cities continue to inflict heavy civilian tolls even as both sides face pressure to consider paths toward a negotiated resolution.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -26,4 +26,4 @@ Chinese authorities have warned that a still-dammed lake upstream in Gyirong pos
 
 Satellite imagery analysis has helped researchers trace the origin of the debris flow to a point roughly 20 kilometers northeast of the border crossing, offering clues to authorities assessing the risk of further glacial collapses in the area as the search for survivors continues.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

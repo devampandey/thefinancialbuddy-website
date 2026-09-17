@@ -26,4 +26,4 @@ Crude oil prices eased slightly during the session even as tensions around the S
 
 Trading in newly listed shares also drew attention, with Tempsens Instruments settling well above its issue price after a strong debut, while several ongoing IPOs, including Lumino Industries and Priority Jewels, continued to see healthy subscription interest from investors during the session.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

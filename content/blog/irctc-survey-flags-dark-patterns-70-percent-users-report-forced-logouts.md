@@ -22,4 +22,4 @@ LocalCircles said it plans to formally submit its findings to the Ministry of Ra
 
 For India's enormous base of train travellers, many of whom rely on IRCTC as the sole official channel for reservations, the survey adds to a broader conversation around digital consumer protection as regulators increasingly scrutinise how e-commerce and ticketing platforms design their user interfaces. Whether the recommendations translate into concrete changes on the platform will likely depend on how the Ministry of Railways and IRCTC respond in the coming weeks.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

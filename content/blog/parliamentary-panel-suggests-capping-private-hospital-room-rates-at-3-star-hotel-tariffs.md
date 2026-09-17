@@ -32,4 +32,4 @@ The committee also urged the government to expand capacity in public hospitals, 
 
 If adopted, the recommendations would represent one of the more direct regulatory interventions into private hospital pricing seen in recent years, and would likely face pushback from hospital operators concerned about margins on room charges, which have traditionally been used to cross-subsidise other hospital services. The report will now need to be considered by the health ministry before any formal policy or legislative action follows.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

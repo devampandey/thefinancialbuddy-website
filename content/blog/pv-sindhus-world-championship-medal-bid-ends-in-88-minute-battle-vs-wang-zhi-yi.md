@@ -24,4 +24,4 @@ New Delhi hosting the World Championships for the first time in 17 years was see
 
 With several of India's singles hopes eliminated in the pre-quarterfinal round, attention at the championships turns to the remaining doubles events over the following days, as India looks to salvage a strong overall showing from a tournament it had hoped would be a career highlight for its singles stars on home soil.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

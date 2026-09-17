@@ -24,4 +24,4 @@ To ensure continuity, Coforge's board moved quickly to name Vivek Sharma, a non-
 
 The scale of the stock's decline reflects how sensitive markets have become to governance red flags at Indian companies, particularly in a sector where investor confidence rests heavily on management credibility and transparency. Analysts covering the stock noted that while the underlying business fundamentals at Coforge have not changed, an abrupt chairman exit tied to an unresolved disclosure dispute tends to inject uncertainty that markets typically price in swiftly and sharply. Several brokerages said they would be watching closely for any further disclosures from the company, including whether the audit findings prompt additional governance reviews or regulatory queries, before revising their outlook on the stock.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

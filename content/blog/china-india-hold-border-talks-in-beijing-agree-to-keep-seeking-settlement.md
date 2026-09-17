@@ -28,4 +28,4 @@ For India, keeping a functioning diplomatic channel open with Beijing carries si
 
 The latest round of talks does not resolve the underlying territorial dispute — an issue that has defied full settlement since a war between the two countries in 1962 — but it does extend a diplomatic track that had been at risk of stalling amid recent friction. With the next formal round not scheduled until 2027, the working-level relationship in the interim will likely continue to be shaped by how effectively both sides manage the border quietly, away from the negotiating table.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

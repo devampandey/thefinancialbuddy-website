@@ -26,4 +26,4 @@ A price band for the issue has not yet been finalised. Given Reliance's approach
 
 A Jio IPO of this scale would be a landmark event for Indian capital markets, testing investor appetite for a mega-issue at a time when the broader market has been volatile amid rising crude prices and global geopolitical tension. Success would also mark a significant moment for Reliance's broader strategy of unlocking value from its digital businesses through public listings, following the earlier spin-off of Jio Financial Services.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

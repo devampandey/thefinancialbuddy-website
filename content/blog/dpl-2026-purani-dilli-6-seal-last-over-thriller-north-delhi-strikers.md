@@ -26,4 +26,4 @@ With the platform set, Purani Dilli 6 carried the chase into the final over stil
 
 The result offers a timely confidence boost for Purani Dilli 6, whose middle order showed the kind of resolve under pressure that can prove valuable as the tournament progresses toward its business end. For North Delhi Strikers, the defeat will sting given the strength of their batting effort, particularly the twin fifties from Ranjan and Bhatia, but their bowling attack's inability to close out a game with 30-plus runs in hand highlights an area the side will look to address in their remaining fixtures. As the Delhi Premier League continues, both franchises now shift focus to their next assignments, with Purani Dilli 6 buoyed by a statement win and North Delhi Strikers eager to bounce back.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

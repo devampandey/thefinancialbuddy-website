@@ -26,4 +26,4 @@ The Strait of Hormuz is one of the world's most important chokepoints for seabor
 
 With Ghalibaf's statement effectively ruling out any near-term reopening of the strait on Iran's part, attention now shifts to whether Washington is willing to meet Tehran's stated conditions, or whether the standoff will continue to simmer without a clear resolution. Diplomatic channels between the two countries remain officially open, even as both sides continue to trade pointed public statements. Regional states and international shipping operators are likely to keep monitoring the situation closely, given the strait's outsized importance to global trade and energy security.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

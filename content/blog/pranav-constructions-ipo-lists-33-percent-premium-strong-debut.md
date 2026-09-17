@@ -23,4 +23,4 @@ Pranav Constructions specialises in redevelopment projects under the Municipal C
 
 Proceeds from the fresh issue are earmarked for government approvals and redevelopment-related expenses, repayment of existing borrowings, funding future redevelopment projects, and general corporate purposes. The strong debut adds to what has been an active year for mainboard listings on Indian exchanges, with several other issues either recently listed or in the pipeline.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

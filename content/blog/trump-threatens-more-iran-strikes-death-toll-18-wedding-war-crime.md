@@ -28,4 +28,4 @@ The renewed fighting has pushed Brent crude prices up more than 30 percent since
 
 Regional analysts say Iran appears to be betting that it cannot defeat the US militarily but can make the war costly enough, economically and politically, to sap American appetite for continued escalation, while the Trump administration insists it retains the upper hand over traffic through the strait despite widely reported disruptions to commercial shipping.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

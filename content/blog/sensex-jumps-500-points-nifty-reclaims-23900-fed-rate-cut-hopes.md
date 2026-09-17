@@ -28,4 +28,4 @@ The rupee opened modestly firmer against the US dollar, building on recent stabi
 
 Friday's bounce comes after a choppy week for Indian markets, which had snapped a multi-session losing streak earlier before slipping again on lingering worries tied to elevated crude prices and geopolitical tensions in the Gulf. Whether Friday's gains mark a durable turnaround or another temporary reprieve will likely hinge on how incoming US economic data, particularly the closely watched jobs report, shapes expectations for the Fed's next policy move.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

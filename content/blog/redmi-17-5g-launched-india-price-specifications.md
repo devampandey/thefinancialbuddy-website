@@ -30,4 +30,4 @@ The Redmi 17 5G will be available in three colourways: Absolute Black, Endless B
 
 The launch adds to Xiaomi's push to defend its position in India's competitive budget and mid-range 5G smartphone segment, where battery life and display quality have become key differentiators as brands compete on value rather than just price. With a large battery, a smooth 120Hz display and a capable mid-tier chipset, the Redmi 17 5G is aimed squarely at cost-conscious Indian buyers upgrading from older 4G devices or looking for a dependable daily driver without paying premium prices.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

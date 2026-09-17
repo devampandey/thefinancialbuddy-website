@@ -26,4 +26,4 @@ The two sides will resume on day four with Sri Lanka looking to extend their low
 
 Fans and followers of the series will be watching closely to see whether Sri Lanka's lower order can extend Tuesday's fightback into a genuine rearguard effort, or whether India's bowlers can force an early breakthrough and take firm control of the contest.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -24,4 +24,4 @@ With the issue already fully subscribed by the second day, market watchers expec
 
 Grey market activity around the issue has also been tracked closely by investors in the run-up to listing, though such unofficial indicators are not a regulated gauge of listing performance and are typically treated by analysts as one data point among several rather than a reliable predictor of how a stock will trade once listed. Investors considering late applications are typically advised to weigh the company's fundamentals, sector positioning within the auto components space, and broader market conditions rather than subscription momentum alone.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

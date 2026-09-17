@@ -24,4 +24,4 @@ European governments have in recent months explored various models for a postwar
 
 Putin's comments came against the backdrop of continuing hostilities inside Ukraine, with both sides trading strikes even as diplomatic channels remain open intermittently through third-party mediation efforts. For Kyiv's Western backers, the challenge remains reconciling Ukraine's demand for credible, enforceable security guarantees with Moscow's repeated insistence that any foreign military presence on Ukrainian soil would be treated as a direct act of war. With no ceasefire currently in place and both sides continuing to press their respective positions, Putin's latest remarks are likely to feature prominently in the calculations of European policymakers as they weigh their next steps.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

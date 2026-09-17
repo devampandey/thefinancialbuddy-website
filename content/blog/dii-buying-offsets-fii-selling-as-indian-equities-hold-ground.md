@@ -28,4 +28,4 @@ Individual stock moves on Thursday illustrated how the broader flow dynamics pla
 
 For market watchers, the key takeaway from Thursday's flow data is less about the size of any single day's numbers and more about the underlying trend: domestic capital has continued to provide a durable floor under Indian equities even during stretches of foreign investor caution. Whether that pattern holds through the rest of August will depend heavily on how global crude prices, the Federal Reserve's rate trajectory, and geopolitical developments evolve in the coming weeks — all factors that continue to shape how much conviction foreign investors are willing to put behind India as an investment destination relative to other emerging markets.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

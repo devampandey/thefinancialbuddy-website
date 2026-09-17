@@ -30,4 +30,4 @@ While the bill passed comfortably by voice vote, Opposition members staged a wal
 
 With the bill now cleared by both Houses, attention turns to how quickly banks, courts and financial regulators adapt their processes to the new digital-evidence standard, and whether the government uses its notification powers to widen the law's reach across the financial sector in the months ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

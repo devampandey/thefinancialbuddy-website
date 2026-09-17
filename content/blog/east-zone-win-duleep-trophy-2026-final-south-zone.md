@@ -24,4 +24,4 @@ The victory represents a significant statement for East Zone's domestic cricket 
 
 For South Zone, the defeat ends their bid for back-to-back Duleep Trophy titles and will raise questions about their middle-order depth beyond Varma, even as his own near-century performance drew widespread praise for its fighting quality under pressure. With several contracted India players featuring across both line-ups, the final also offered national selectors a useful form guide ahead of the upcoming domestic and international season, as India's cricketing calendar moves toward a busy white-ball and Test schedule in the coming months.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

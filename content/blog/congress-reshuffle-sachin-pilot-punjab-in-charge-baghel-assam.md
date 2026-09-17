@@ -26,4 +26,4 @@ Reshuffles of this kind are routine in Indian political parties, but the timing 
 
 Whether the new appointees can deliver tangible improvements in organisational cohesion and electoral readiness remains to be seen. For now, the changes give the party a fresh lineup of state managers heading into what is expected to be an eventful period on the political calendar, with implications for how the Congress positions itself in Punjab, Assam, Gujarat, Karnataka, Chhattisgarh, Maharashtra and Andhra Pradesh alike.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -26,4 +26,4 @@ E20 fuel sits at the center of India's broader push to blend ethanol into petrol
 
 For vehicle owners, the episode is likely to renew questions about component compatibility with E20, even as the industry body walks back its own claims. For automakers, the underlying tension remains: balancing public confidence in a government-backed fuel policy against genuine engineering concerns about fuel quality consistency at the retail level. Whether the "two cases nationwide" framing offered by government officials fully settles the matter, or whether SIAM and its members return with more substantiated data down the line, is likely to shape how this story develops in the coming weeks.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

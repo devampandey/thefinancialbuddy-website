@@ -32,4 +32,4 @@ To access the free AI Plus offer, students need to visit Google's student offer 
 
 The move lands amid intensifying competition among AI companies to win over student users early, a demographic that tends to build long-term habits around whichever tools they adopt during their studies. It also follows similar aggressive positioning from rivals in the AI assistant space targeting India's large student population, as companies look to convert free users into paying subscribers once they enter the workforce.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -26,4 +26,4 @@ With the bilateral talks concluded, attention now turns to the broader BRICS Sum
 
 For India, the Modi-Putin meeting offers a chance to advance concrete economic asks, including energy security and defence procurement, at a moment when global oil and shipping markets remain unsettled by tensions in West Asia. How much of Friday's talks translates into firm agreements is likely to become clearer as the BRICS Summit proceeds over the weekend.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

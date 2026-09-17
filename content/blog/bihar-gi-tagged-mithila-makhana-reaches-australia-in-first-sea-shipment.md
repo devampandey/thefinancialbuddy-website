@@ -28,4 +28,4 @@ For now, the volumes involved, 18 tonnes to Australia and seven tonnes to Canada
 
 If the pricing premiums farmers are reportedly receiving hold up as volumes increase, the makhana export push could become a template for how India tries to commercialise other GI-tagged regional agricultural products, moving them from local mandis into higher-value international retail and specialty food shelves.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

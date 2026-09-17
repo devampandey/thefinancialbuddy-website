@@ -26,4 +26,4 @@ The move comes as Iran continues informal, indirect contacts with the United Sta
 
 The bill's next steps — detailed clause-by-clause debate in parliament, followed by Guardian Council review — mean it is unlikely to become enforceable law immediately. But its approval in principle signals where the current parliamentary majority stands on foreign media access, at a moment when Iran's relationship with Western and Israeli-linked outlets remains a politically sensitive fault line.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

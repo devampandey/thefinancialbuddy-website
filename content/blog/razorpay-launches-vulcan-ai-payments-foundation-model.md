@@ -26,4 +26,4 @@ Razorpay co-founder and chief executive Harshil Mathur said the initiative is ai
 
 India's payments ecosystem is unusually fragmented by global standards, spanning UPI, cards, net banking, digital wallets and cash on delivery, with transactions routed through hundreds of different banks and payment gateways. A model purpose-built to navigate that complexity in real time could meaningfully reduce failed transactions and fraud losses at scale, both of which remain persistent drags on merchant revenue and consumer trust in digital payments. As India's digital commerce market continues to grow, tools like Vulcan are likely to become increasingly central to how payment platforms compete on reliability rather than just cost or convenience.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

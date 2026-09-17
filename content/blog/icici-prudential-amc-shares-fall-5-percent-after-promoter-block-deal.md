@@ -24,4 +24,4 @@ Analysts tracking the asset management sector note that promoter stake sales tie
 
 ICICI Prudential AMC, a joint venture between ICICI Bank and Prudential Corporation Holdings, is one of India's largest mutual fund managers by assets under management, competing with peers such as HDFC AMC, SBI Funds Management and Nippon Life India Asset Management in a rapidly growing domestic savings market.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

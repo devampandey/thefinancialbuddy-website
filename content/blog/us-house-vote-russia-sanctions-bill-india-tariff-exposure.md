@@ -27,4 +27,4 @@ Within the House itself, the tariff provision has split Democrats. Some, like Co
 
 For now, India's exposure remains a possibility tied to future decisions rather than an active measure, but the bill's progress through Congress this week is one to watch closely given how directly it could reshape trade costs for Indian exporters to the US.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

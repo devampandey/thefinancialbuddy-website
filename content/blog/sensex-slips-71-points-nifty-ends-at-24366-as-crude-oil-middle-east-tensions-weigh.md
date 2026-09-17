@@ -28,4 +28,4 @@ The session's price action came a day after domestic institutional investors bou
 
 Market participants said the modest decline reflected routine profit booking after a choppy week rather than any fresh shock, with attention now turning to how crude prices and the broader Middle East situation evolve heading into next week, alongside the tail end of the Q1 FY27 corporate earnings season.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

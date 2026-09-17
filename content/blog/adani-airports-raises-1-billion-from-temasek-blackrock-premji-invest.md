@@ -22,4 +22,4 @@ Analysts tracking the sector have pointed to India's airport privatization push 
 
 The fundraise comes as AAHL has previously flagged ambitions for a public listing of its airport business, with the latest equity infusion seen as a step that could strengthen its balance sheet ahead of any future stock market debut.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

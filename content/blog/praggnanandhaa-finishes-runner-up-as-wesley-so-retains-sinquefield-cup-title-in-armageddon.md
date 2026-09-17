@@ -28,4 +28,4 @@ Speaking after the loss, Praggnanandhaa said the defeat stung given how close he
 
 The Sinquefield Cup served as the final regular-season leg of the 2026 Grand Chess Tour, with the season-ending Finals now looming this weekend. Praggnanandhaa's return to the Finals, after also competing in the previous edition, sets up another opportunity for the Indian number one to add to his growing list of achievements on the international circuit.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

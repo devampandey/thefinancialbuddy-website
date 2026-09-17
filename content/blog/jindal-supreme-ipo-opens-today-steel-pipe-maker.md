@@ -29,4 +29,4 @@ For a company like Jindal Supreme, the appeal lies less in high-growth potential
 
 With the issue now open, subscription data over the next three days will offer the clearest read on investor appetite, particularly from retail and high-net-worth applicants who often drive momentum in smaller IPOs of this size. The lot size and minimum investment requirements are structured for retail participation, keeping the entry point accessible compared with some of the larger IPOs that have hit Dalal Street this year.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

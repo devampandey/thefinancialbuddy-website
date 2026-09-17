@@ -28,4 +28,4 @@ The yield on India's 10-year benchmark government bond rose to just under 6.8%, 
 
 Investors are now turning their attention to the US consumer price inflation report due Wednesday, which could shape expectations around the Federal Reserve's next policy move; a stronger-than-expected reading could revive talk of a rate hike, adding another layer of uncertainty for emerging markets like India. Closer to home, the ongoing June-quarter earnings season continues to drive individual stock moves, with several mid-cap names posting sharp swings on the back of results even as the broader index narrative remained dominated by crude oil and geopolitics.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

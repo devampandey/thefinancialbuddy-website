@@ -26,4 +26,4 @@ The bill has already drawn attention beyond Parliament. Several chief ministers,
 
 By moving the bill to a Joint Parliamentary Committee rather than pushing it through the House directly, the government has effectively delayed a floor vote until at least the Winter Session, giving both supporters and critics of the legislation a formal venue to press their case. Whether that satisfies Opposition demands for a full withdrawal, or simply shifts the fight to the committee room, is likely to shape how the bill's next phase plays out.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

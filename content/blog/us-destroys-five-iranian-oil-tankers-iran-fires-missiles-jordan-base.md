@@ -24,4 +24,4 @@ The exchange rattled energy markets, with Brent crude climbing toward the $100-a
 
 US Secretary of State Marco Rubio defended the strikes, saying Iran would keep losing tankers for every attempt to target American ships. Analysts have warned that the tit-for-tat pattern raises the risk of a broader escalation that could further destabilise energy markets and regional security, with both sides now targeting economic as well as military assets six months into the standoff.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

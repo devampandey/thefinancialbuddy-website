@@ -28,4 +28,4 @@ Incorporated in August 2005, ESDS Software Solution positions itself as an AI-en
 
 ESDS listed alongside three other issues on Friday — mainboard peer Priority Jewels and SME offerings from Paluck Technologies and Complete Sports & Management India — making it a particularly busy day for India's primary markets. Brokerages had broadly recommended the ESDS issue for both listing gains and longer-term holding, citing its positioning in the fast-growing cloud and data centre infrastructure space. The strength of Friday's debut adds to a string of well-received IPOs this year and suggests investor appetite for India's primary market, particularly for technology-linked infrastructure plays, remains robust even as broader secondary markets navigate geopolitical crosscurrents.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

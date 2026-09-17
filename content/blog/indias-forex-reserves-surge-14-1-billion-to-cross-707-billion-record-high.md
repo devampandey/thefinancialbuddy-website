@@ -26,4 +26,4 @@ The reserve build-up also comes against the backdrop of a mixed picture in the c
 
 While reserve data releases typically do not move equity markets sharply on their own, currency traders and economists closely track the weekly RBI figures as a gauge of the central bank's capacity to defend the rupee during periods of stress. With reserves now at a record high heading into the back half of the year, analysts said the RBI retains ample headroom to manage volatility stemming from global oil price swings and shifting foreign investor sentiment, even as the rupee continues to navigate a challenging external environment.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -28,4 +28,4 @@ With the win, India Women became the first side to confirm their place in the se
 
 For Mandhana personally, the innings adds further momentum to what has already been a standout campaign, with the opener firmly among the tournament's leading run-scorers and now holding the record for the highest individual score in the competition's history.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

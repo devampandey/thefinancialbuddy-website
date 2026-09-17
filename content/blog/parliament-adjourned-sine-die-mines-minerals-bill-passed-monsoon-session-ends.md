@@ -30,4 +30,4 @@ For markets and industry watchers, the passage of the Mines and Minerals Amendme
 
 With the Monsoon Session now concluded, attention turns to the Winter Session later in the year, where the unresolved NEET protest debate and other pending legislative business are likely to resurface.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

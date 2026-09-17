@@ -28,4 +28,4 @@ For banks, the legislation offers welcome legal clarity at a time when nearly al
 
 The bill will next need to clear the Rajya Sabha before it can receive presidential assent and come into force.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

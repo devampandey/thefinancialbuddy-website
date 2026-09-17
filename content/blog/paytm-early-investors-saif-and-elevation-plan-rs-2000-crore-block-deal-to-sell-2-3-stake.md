@@ -28,4 +28,4 @@ Investors will likely track two things in the sessions ahead: how Paytm stock tr
 
 This article is for informational purposes only and does not constitute financial advice. Please consult a qualified financial advisor before making investment decisions.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

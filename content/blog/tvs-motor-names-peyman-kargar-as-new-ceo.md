@@ -24,4 +24,4 @@ The appointment also comes at a time when India's two-wheeler industry is naviga
 
 TVS Motor is one of India's oldest and largest automobile manufacturing groups, with a presence spanning motorcycles, scooters, three-wheelers and components, and has increasingly positioned itself as a company with global manufacturing and distribution ambitions rather than a purely domestic player. How Kargar's tenure shapes that ambition, once he formally takes charge early next year, will be a key theme for investors and industry watchers tracking the company's next phase of growth.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

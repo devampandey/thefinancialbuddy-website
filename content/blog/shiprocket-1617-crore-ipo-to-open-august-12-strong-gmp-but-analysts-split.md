@@ -28,4 +28,4 @@ Shiprocket intends to use part of its fresh issue proceeds — roughly ₹210 cr
 
 With the IPO market seeing a cluster of mainboard listings this week, Shiprocket's debut will be closely watched as a test of investor appetite for growth-stage internet companies that have yet to turn a full-year profit.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

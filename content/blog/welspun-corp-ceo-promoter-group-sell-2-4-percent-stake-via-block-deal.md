@@ -26,4 +26,4 @@ For Welspun Corp specifically, the key questions going forward will be whether t
 
 The company's underlying operating performance — order inflows in pipes, plates and coils, and its infrastructure segment — remains the more fundamental driver of the stock over the medium term, and Wednesday's block deal alone is unlikely to alter that trajectory unless it is followed by a broader pattern of insider selling.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

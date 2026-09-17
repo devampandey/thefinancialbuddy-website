@@ -26,4 +26,4 @@ Human rights organisations have criticised the broader immigration crackdown as 
 
 For now, the practical impact on Indian applicants remains unclear, with consular posts yet to indicate when normal appointment scheduling will resume. Immigration lawyers and education consultants are likely to watch closely in the coming days, particularly with the US academic year already underway and peak H-1B and work-visa processing periods on the horizon.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

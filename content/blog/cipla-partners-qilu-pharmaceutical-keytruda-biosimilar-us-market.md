@@ -26,4 +26,4 @@ The deal does not involve an upfront cash outlay disclosed by either company, an
 
 For Cipla, which has built its US business primarily around respiratory and generic drug categories, the Keytruda biosimilar tie-up represents another step toward establishing a credible oncology presence in a market where competition among biosimilar developers is intensifying as multiple companies race to be among the first movers once Keytruda's exclusivity narrows.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

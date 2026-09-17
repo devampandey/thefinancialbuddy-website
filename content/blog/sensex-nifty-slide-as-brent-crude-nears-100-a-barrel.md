@@ -22,4 +22,4 @@ Market participants said sentiment is likely to stay volatile in the near term, 
 
 Analysts noted that while Indian corporate earnings and domestic institutional buying have provided some cushion against foreign portfolio outflows in recent months, a prolonged spike in oil prices would test that resilience, particularly for sectors such as aviation, paints, tyres and consumer durables that are directly exposed to crude-linked input costs.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

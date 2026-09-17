@@ -26,4 +26,4 @@ An analyst quoted in the report noted that markets increasingly treat large-scal
 
 For India's technology and IT services workforce, the report adds to a growing body of evidence that AI-linked restructuring by global clients and parent companies is a persistent, rather than temporary, feature of the current cycle. With enterprise software and cloud spending continuing to shift toward AI infrastructure and tooling, the composition of hiring and layoffs within India's technology sector is likely to keep evolving through the rest of 2026, even as overall industry revenues and deal pipelines remain healthy.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

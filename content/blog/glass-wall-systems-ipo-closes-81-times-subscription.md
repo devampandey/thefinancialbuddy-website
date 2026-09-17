@@ -26,4 +26,4 @@ Brokerages tracking the issue pointed to strong recent financial performance as 
 
 The allotment basis for the issue is expected to be finalised on Friday, September 11, with refunds for unsuccessful applicants likely to begin processing around September 15, the same day successful allottees can expect shares credited to their demat accounts. Glass Wall Systems shares are tentatively scheduled to make their stock market debut on the BSE and NSE on September 16, when the strength of Thursday's institutional demand will face its first real test against actual trading sentiment.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

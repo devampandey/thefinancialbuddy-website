@@ -24,4 +24,4 @@ Horizon Industrial Parks operates in the industrial and logistics real estate sp
 
 Allotment of shares is expected to be finalized on August 20, with listing on the BSE and NSE tentatively scheduled for August 24. Investors who did not receive allotment will have refunds processed in the days following the allotment finalization, per standard IPO settlement timelines. Market participants will be watching the listing-day performance closely as a gauge of investor appetite for large industrial real estate offerings heading into the rest of the year's IPO pipeline.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

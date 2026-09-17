@@ -26,4 +26,4 @@ The exchange filed its draft prospectus in June for an offering structured entir
 
 NSE's public listing has been one of the most closely watched pending offerings in Indian capital markets for several years, given the exchange's central role in the country's equity and derivatives trading infrastructure. A successful listing at anywhere near the marketed valuation range would mark a milestone for India's IPO market, both in terms of absolute size and in cementing India's standing among the world's most valuable exchange operators. Investors and market participants are likely to watch closely for further details on pricing and timing as the offering moves toward its expected September launch.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

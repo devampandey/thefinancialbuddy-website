@@ -28,4 +28,4 @@ With bidding now closed, the basis of allotment for the issue is expected to be 
 
 The scale of oversubscription on an SME-platform issue of this size is notable given the mixed mood in India's broader primary market this week, where several other small-cap offerings have struggled to draw even full subscription on their final day. Analysts tracking the SME IPO space have pointed to a pattern this year in which niche industrial and engineering companies with clear, understandable business models continue to attract disproportionate retail interest, even as investors turn more selective on issues from sectors seen as more crowded or richly valued. Whether that enthusiasm translates into a strong listing-day pop for Technocrats Plasma Systems will become clear once the stock begins trading later this week.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

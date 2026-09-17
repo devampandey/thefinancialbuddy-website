@@ -28,4 +28,4 @@ Markets have so far reacted cautiously rather than with panic, with crude prices
 
 For now, both Washington and Tehran appear to be signaling resolve without fully closing the door on de-escalation — a posture that leaves the shipping lanes, and the global economy that depends on them, in a state of prolonged uncertainty.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -33,4 +33,4 @@ The timing adds a layer of drama to Apple's leadership transition. Cook is set t
 
 Cook is closing out his tenure atop Apple, not with a victory lap, but with a candid admission that even the industry's most disciplined operator is running into constraints it cannot simply engineer its way out of. Whether Ternus inherits a temporary supply bottleneck or a more structural shift in how AI demand reshapes the chip market is likely to be one of the first major tests of his leadership.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

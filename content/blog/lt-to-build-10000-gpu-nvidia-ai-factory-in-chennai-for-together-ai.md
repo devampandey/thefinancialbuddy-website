@@ -26,4 +26,4 @@ India has increasingly positioned itself as a destination for AI compute investm
 
 As more global AI companies look to diversify their compute footprint beyond the US and China, deals like the L&T-Together AI partnership suggest India is emerging as a serious contender for large-scale AI infrastructure investment, with implications for the broader semiconductor, power and construction ecosystems that support such projects.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

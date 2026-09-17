@@ -26,4 +26,4 @@ The BSP has struggled in recent Uttar Pradesh election cycles to hold on to its 
 
 Whether this latest expulsion holds, given that Siddharth was brought back once before, remains to be seen. For now, the party leadership appears intent on signalling zero tolerance for internal dissent as it heads into a campaign cycle it will be keen to contest on a more disciplined footing.
 
-Disclaimer: This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+Disclaimer: This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

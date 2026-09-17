@@ -28,4 +28,4 @@ Away from the large caps, the picture was comparatively calmer. The Nifty Midcap
 
 Friday's session capped off one of the busiest weeks of the ongoing June-quarter earnings season, with several more heavyweight results still trickling in. Attention now turns to the Reserve Bank of India's monetary policy decision due the following day, which will give investors a clearer read on how the central bank is weighing growth against the recent flare-up in crude prices and global uncertainty.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

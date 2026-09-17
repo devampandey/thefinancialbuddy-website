@@ -28,4 +28,4 @@ Part of what makes India's case unusual, according to the report, is sheer scale
 
 With the FCRA amendments due for debate in the coming days, opposition parties in India have separately demanded that the bill either be withdrawn or referred to a Joint Parliamentary Committee for closer scrutiny, arguing it could be used to target NGOs and civil society groups selectively. The US lawmaker's comments have now added an external dimension to what was already shaping up as a contentious debate inside Parliament, and are likely to feature in the government's defence of the bill when discussions resume.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

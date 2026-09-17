@@ -32,4 +32,4 @@ The company has also found it difficult to meaningfully expand its footprint in 
 
 Despite the current cost pressures, Samsung India's overall financial performance has remained healthy on a full-year basis, with the company reporting revenue of about ₹1.1 lakh crore in the last financial year, an increase of roughly 12 per cent, and a sharp rise in net profit. The layoffs illustrate how even a strong top-line performance is not shielding individual business units from the effects of a global chip cost spike and a softer consumer electronics demand environment.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

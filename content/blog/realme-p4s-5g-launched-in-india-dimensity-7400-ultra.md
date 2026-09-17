@@ -24,4 +24,4 @@ The launch lands at a time when Indian smartphone buyers have been squeezed by r
 
 The device also arrives amid a broader wave of activity in India's budget 5G segment, with rivals such as Vivo preparing to launch its own T5 5G model in the same price band in the coming days, and Philips separately readying its own 5G smartphone for the Indian market. With gaming-oriented features such as high refresh-rate displays and large batteries increasingly becoming standard even in sub-Rs 40,000 phones, the P4s 5G reflects how competitive India's mid-tier smartphone segment has become, with manufacturers racing to out-spec each other on hardware while keeping prices within reach of a price-sensitive but performance-hungry buyer base.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

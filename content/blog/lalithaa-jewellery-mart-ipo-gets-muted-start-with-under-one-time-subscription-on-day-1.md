@@ -26,4 +26,4 @@ The tepid response to Lalithaa Jewellery Mart's offering came on a day when anot
 
 Market watchers say the coming two days of bidding will be crucial in determining whether institutional investors step in to lift overall subscription numbers, or whether the issue continues to track below the levels typically associated with a strong listing-day pop.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

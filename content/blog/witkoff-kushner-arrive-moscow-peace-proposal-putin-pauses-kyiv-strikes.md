@@ -26,4 +26,4 @@ Neither the Kremlin nor the White House has detailed the substance of the propos
 
 For now, the three-day strike pause offers a rare, if narrow, window of calm for residents of Kyiv, even as both sides continue to trade accusations over who bears responsibility for the war's continuation. Markets and diplomats alike are likely to treat the visit as a test of whether renewed high-level engagement can succeed where previous rounds of talks have stalled.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

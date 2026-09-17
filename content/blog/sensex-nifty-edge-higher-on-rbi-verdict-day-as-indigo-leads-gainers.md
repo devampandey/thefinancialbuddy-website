@@ -26,4 +26,4 @@ Beyond the RBI verdict, market participants continue to track the ongoing corpor
 
 With the policy announcement just hours away at the time of writing, analysts caution that volatility could pick up around the 10:00 AM statement and the subsequent press conference, where the governor is expected to field questions on the inflation trajectory, banking sector liquidity and the RBI's broader growth assessment for the year.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

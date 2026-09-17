@@ -24,4 +24,4 @@ The price hikes land at a difficult moment for India's smartphone industry. Ship
 
 The timing is particularly sensitive with the festive season approaching, a period when Indian smartphone brands typically lean on discounts and promotional pricing to drive volumes. With component costs showing no signs of easing, manufacturers may have considerably less room to offer the kind of aggressive festive discounts that have driven sales in previous years, leaving both brands and consumers to navigate a more expensive upgrade cycle through the rest of 2026.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

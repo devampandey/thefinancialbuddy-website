@@ -26,4 +26,4 @@ The attacks come at a moment of renewed volatility in global energy markets, wit
 
 Investigators and Libyan authorities have not indicated a timeline for establishing responsibility for the strikes, and it remains unclear whether the attacks are linked to internal Libyan rivalries or external actors. For now, the priority remains containing the blaze and assessing the extent of damage to the refinery's operational capacity.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

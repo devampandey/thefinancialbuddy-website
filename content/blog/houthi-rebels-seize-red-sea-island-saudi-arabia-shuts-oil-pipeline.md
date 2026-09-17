@@ -29,4 +29,4 @@ Diplomatic efforts continue on a separate track: Iran's foreign ministry said a 
 
 For now, the twin disruptions leave two of the world's most strategically important waterways simultaneously under strain, a combination that energy analysts say could keep upward pressure on oil prices and shipping insurance costs well beyond the immediate news cycle.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

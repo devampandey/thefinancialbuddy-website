@@ -24,4 +24,4 @@ Away from bullion, India's benchmark equity indices snapped a four-day losing st
 
 The simultaneous rally in gold and equities is somewhat unusual, since the two asset classes often move in opposite directions when investors are choosing between risk-on and safe-haven positioning. Analysts suggest the current mix, easing rate-cut expectations lifting stocks while geopolitical risk keeps a bid under gold, explains why both markets found support on the same day. For retail investors in India, where gold remains a culturally significant asset alongside its investment role, the fresh high adds to an already strong year for bullion returns, even as some market watchers caution that prices at these levels leave less room for further sharp upside without a corresponding shift in the underlying risk drivers.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

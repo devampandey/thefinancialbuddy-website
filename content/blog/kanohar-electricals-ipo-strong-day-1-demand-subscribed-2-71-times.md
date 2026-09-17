@@ -26,4 +26,4 @@ Kanohar Electricals' listing is one of several IPOs currently active in the Indi
 
 With two more days of bidding remaining, the qualified institutional buyer segment will be closely watched, as strong anchor and institutional participation on the final day is often seen as a signal of listing-day performance. Investors will also be tracking how the grey market premium evolves over the remaining subscription window, as any softening or strengthening in unofficial pricing could offer clues about how the stock might perform when it debuts on the exchanges later this month.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

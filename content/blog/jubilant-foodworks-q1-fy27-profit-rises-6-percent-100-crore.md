@@ -30,4 +30,4 @@ Basic and diluted earnings per share came in at Rs 1.47, marginally higher than 
 
 For the full year ended March 2026, the group had reported consolidated revenue of Rs 9,512.5 crore and a full-year profit of Rs 444.2 crore, a base against which the June quarter's sequential improvement offers an early, if modest, sign of momentum. With the Dunkin' exit now largely behind it, investors will be watching whether Domino's India can sustain the uptick in like-for-like sales through the rest of FY27, particularly as the group continues to expand its store footprint in smaller cities.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -24,4 +24,4 @@ Ardee Industries was one of several stocks in the spotlight on Wednesday, a day 
 
 Market participants said the strong debut reflects continued investor confidence in the primary market even as secondary market indices wrestle with external headwinds such as rising crude prices and uncertainty over a resolution in the Strait of Hormuz standoff. With Ardee Industries now trading as a listed company, attention will shift to how the stock holds its listing-day gains in subsequent sessions and whether the promoters and pre-IPO investors show any signs of profit booking once the mandatory lock-in periods for various investor categories begin to lift.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

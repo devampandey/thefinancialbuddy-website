@@ -28,4 +28,4 @@ Tokenisation of debt instruments has been trialled by individual issuers and pla
 
 Secondary-market infrastructure to support broader trading of these tokenised instruments is expected to be ready by December 2026, according to people familiar with the project, after which the pilot's next phases will determine how quickly the model scales beyond its initial institutional test cases.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -26,4 +26,4 @@ Following the passage of the taxation bill, the Lok Sabha was adjourned for the 
 
 The Monsoon Session has been marked by repeated disruptions, with this bill's passage being one of the few pieces of business the government managed to push through the noise. Markets and tax practitioners are likely to watch for the Rajya Sabha's handling of the bill and for any detailed rules or notifications that follow once it receives presidential assent, since those will clarify exactly how the amended provisions apply to payment systems operators and taxpayers.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

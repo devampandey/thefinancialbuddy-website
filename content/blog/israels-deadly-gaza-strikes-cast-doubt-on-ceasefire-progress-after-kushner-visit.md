@@ -30,4 +30,4 @@ Also on Wednesday, Israel's military said it had completed reviews of 150 incide
 
 The renewed violence underscores how, even with a ceasefire technically in place, the underlying disputes over disarmament, territorial withdrawal and the future governance of Gaza remain far from resolved — leaving U.S. mediators with a narrowing window to convert a fragile truce into a durable settlement.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -26,4 +26,4 @@ Market participants said the day's gains, while modest, suggested some resilienc
 
 With volatility elevated and global crude markets in flux, analysts said stock selection and sector rotation were likely to matter more than broad index direction in the sessions ahead, particularly for sectors such as aviation, paints and tyres that are directly sensitive to swings in crude oil prices.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

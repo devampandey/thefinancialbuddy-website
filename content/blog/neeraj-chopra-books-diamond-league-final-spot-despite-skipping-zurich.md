@@ -24,4 +24,4 @@ Chopra's presence in the final also matters beyond his individual result. As one
 
 The Diamond League final will be held on September 4 and 5 in the Belgian capital, bringing together the season's top qualifiers across all disciplines. For India, Chopra's participation remains the primary point of interest in the field events, with the country continuing to build broader depth in throwing disciplines but still relying heavily on his individual performances for podium contention on the world stage.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

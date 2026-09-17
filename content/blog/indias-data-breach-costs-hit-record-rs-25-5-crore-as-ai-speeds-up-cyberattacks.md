@@ -26,4 +26,4 @@ For companies operating in India, the widening gap between AI-equipped and AI-la
 
 With India's digital economy continuing to expand rapidly across banking, e-commerce and government services, the scale of financial exposure highlighted in this report is likely to keep cybersecurity spending high on the agenda for corporate India through the rest of the year.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

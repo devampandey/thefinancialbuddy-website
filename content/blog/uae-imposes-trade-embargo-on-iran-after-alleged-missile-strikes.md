@@ -30,4 +30,4 @@ Crude oil prices have climbed in tandem with the rising tensions, with Brent cru
 
 With trade and financial channels now frozen, attention will turn to whether other Gulf Cooperation Council members follow the UAE's lead, and whether Tehran responds with reciprocal measures. Diplomats in the region have called for restraint on both sides, warning that further escalation risks drawing in outside powers already engaged in the broader standoff over the Strait of Hormuz.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

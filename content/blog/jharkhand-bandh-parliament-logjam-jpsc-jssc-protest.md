@@ -30,4 +30,4 @@ Beyond the immediate question of examination reforms, the standoff has become a 
 
 For now, essential services have been kept outside the bandh's scope, and there has been no independent confirmation of the exact number of injuries on either side. Authorities in Ranchi are expected to face continued pressure to address the aspirants' core demands as the protest, now well into its third week, shows no signs of a swift resolution.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -25,4 +25,4 @@ Sentiment was not helped by weak global cues. US equities fell for a fourth stra
 
 Beyond the immediate trading session, attention in Delhi is also turning to the 18th BRICS Summit, which India is hosting on September 12-13 as this year's chair. While not a market-moving event in the traditional sense, the gathering underscores a busy few days for policy and diplomatic headlines that could feed into broader market sentiment alongside the ongoing crude oil and central-bank narratives.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

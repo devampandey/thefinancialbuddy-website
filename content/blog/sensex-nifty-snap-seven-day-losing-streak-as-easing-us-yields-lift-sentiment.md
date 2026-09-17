@@ -32,4 +32,4 @@ Elsewhere in commodities, gold futures pared some of their recent gains after to
 
 With Thursday's gap-up open snapping the losing run, investors will be watching whether the rebound can hold through the session and extend into Friday, or whether the underlying pressures — from crude oil prices to global rate expectations — reassert themselves once the initial relief rally fades.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

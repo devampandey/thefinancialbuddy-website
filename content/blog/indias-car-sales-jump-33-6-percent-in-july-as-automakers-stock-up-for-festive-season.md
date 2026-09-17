@@ -22,4 +22,4 @@ The more structurally interesting number may be on the electric vehicle side. Re
 
 The real test for July's dispatch numbers comes in the following months, when retail sales data will show whether dealers can actually clear the inventory automakers pushed onto their lots. A festive season that undershoots expectations would leave dealers holding excess stock, which typically translates into discounting pressure and softer dispatch numbers in the following quarter. For now, though, the combination of a 33.6 percent dispatch jump, a stronger market leader, and back-to-back months of EV growth points to an industry that is entering the festive stretch from a position of relative strength.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

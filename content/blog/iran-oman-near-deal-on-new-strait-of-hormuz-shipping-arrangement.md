@@ -26,4 +26,4 @@ The Strait of Hormuz is one of the busiest and most strategically sensitive oil 
 
 The coming days will likely determine whether Iran and Oman can bridge the remaining gap on fees and finalise the joint statement both sides say is nearly ready. Equally important will be how Washington and international shipping interests respond once the terms are made public, since their acceptance—or rejection—of the arrangement will shape whether it meaningfully reduces uncertainty in the region or becomes another unresolved flashpoint. Given how closely oil markets track developments in the strait, any formal announcement is likely to move energy prices in the short term.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

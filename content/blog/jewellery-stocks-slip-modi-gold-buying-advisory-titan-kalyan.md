@@ -28,4 +28,4 @@ Gold and jewellery remain a meaningful line item in India's import bill, and rep
 
 Investors in the sector will now watch upcoming festive and wedding-season demand — traditionally the strongest period for gold and jewellery sales in India — to gauge whether the Prime Minister's renewed appeal translates into any meaningful dent in consumption, or whether the sector's underlying demand drivers prove more resilient than the day's stock price moves suggest.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -26,4 +26,4 @@ Overseas markets provided a supportive backdrop heading into the new week. Wall 
 
 Beyond the RBI decision, market participants are also keeping an eye on incoming PMI data, which will offer an early read on manufacturing and services activity for July. Any surprises there, positive or negative, could add volatility around the same window as the rate announcement. With the policy verdict, growth data, and global cues all converging within days of each other, this week is shaping up to be a genuine test of whether the Nifty's recent resilience can translate into a sustained breakout, or whether markets settle into another round of range-bound trade while they digest the RBI's message.
 
-Disclaimer: This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+Disclaimer: This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

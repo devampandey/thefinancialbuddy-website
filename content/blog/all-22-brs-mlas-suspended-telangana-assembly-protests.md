@@ -26,4 +26,4 @@ The suspension marks one of the most significant confrontations between the ruli
 
 For the Congress government, managing the optics of suspending an entire opposition bloc — while simultaneously pressing its own charges about the Siddipet incident — will test its ability to control the narrative around law and order and minority relations in the state as both parties look ahead to the next round of political contests in Telangana.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

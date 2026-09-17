@@ -26,4 +26,4 @@ Since taking over the Pentagon, Hegseth has pursued a series of contested change
 
 The criticism lands as the Pentagon faces reports of strained munitions stockpiles after six months of intermittent conflict with Iran, now in its most intense phase since fighting resumed this past weekend following a monthlong pause. Public opinion surveys cited by national outlets show a majority of Americans disapprove of the administration's handling of the war, and Trump's own approval ratings have slipped since the renewed hostilities began. With the Pentagon's leadership and strategy now facing scrutiny from within Trump's own party, the coming weeks are likely to test whether the criticism translates into any change in personnel or approach.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

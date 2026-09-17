@@ -20,4 +20,4 @@ Neither side has offered independent verification of its territorial claims, and
 
 For now, the practical situation on the water remains largely unchanged: shipping volumes stay depressed, insurers continue to price in elevated risk premiums for vessels transiting the strait, and neither military has signaled a shift in posture. Whether Thursday's exchange marks an escalation or simply another round of rhetorical positioning is likely to become clearer only if either side backs its words with a change in naval deployment or shipping policy in the days ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -26,4 +26,4 @@ The push for CBDC interoperability builds on payment integration India has alrea
 
 Economists note that greater local-currency and CBDC-based settlement could offer meaningful benefits for import-dependent economies like India's. Settling routine trade in local currencies can help conserve scarce dollar reserves for strategic imports, while offering a buffer against volatile global capital flows, according to analysts tracking the region. India already has its own digital rupee in pilot testing, alongside parallel CBDC experiments under way in China and Russia.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

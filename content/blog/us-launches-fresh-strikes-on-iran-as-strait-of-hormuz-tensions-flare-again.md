@@ -30,4 +30,4 @@ Diplomats from the region have continued to signal openness to returning to the 
 
 For markets and governments well outside the Middle East, the immediate concern is energy security. A prolonged closure or disruption of Hormuz traffic would ripple through fuel prices, shipping insurance costs and inflation expectations worldwide, complicating central banks' efforts to manage interest rates. Governments dependent on Gulf oil imports are likely to watch the coming days closely for signs of whether this marks a contained exchange or the start of a broader and more prolonged confrontation.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

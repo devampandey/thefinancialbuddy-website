@@ -24,4 +24,4 @@ Successive Israeli governments have floated E1 development since the early 2000s
 
 The tender lands amid an already volatile period in the region, with Gaza ceasefire arrangements still fragile and separate tensions simmering over Iran's nuclear programme and the Strait of Hormuz. Diplomats say the E1 decision complicates parallel efforts by US and regional mediators to stabilise the broader Middle East picture, since it hands opponents of normalisation talks a concrete grievance to point to. Whether the tender translates into actual construction will depend partly on legal challenges and partly on whether international pressure, including any new sanctions from European governments, is enough to slow the process the way it has in the past.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

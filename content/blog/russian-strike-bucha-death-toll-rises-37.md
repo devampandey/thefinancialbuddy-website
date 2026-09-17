@@ -30,4 +30,4 @@ The scale of the attack drew swift reaction from Western capitals. Finland's gov
 
 The attack comes as the war grinds on with no resolution in sight, more than four and a half years after Russia's full-scale invasion began. Ukrainian officials have repeatedly warned that Russian strikes on civilian and residential areas have escalated in recent months even as diplomatic efforts to end the conflict continue on and off in the background.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

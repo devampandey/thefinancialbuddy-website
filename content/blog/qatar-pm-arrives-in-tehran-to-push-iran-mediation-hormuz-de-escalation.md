@@ -24,4 +24,4 @@ The Tehran visit comes against a backdrop of continued mixed signals from Washin
 
 Analysts tracking the mediation effort note that Qatar's involvement does not guarantee a breakthrough, but it does keep a communication channel open at a time when direct US-Iran contact remains limited. The outcome of Sheikh Mohammed's meetings, and whether Tehran offers any concrete gestures on Hormuz access or nuclear-related demands, will likely shape whether other regional and global powers step up parallel diplomatic efforts in the coming days. For now, markets and governments alike are treating the visit as a signal that the door to de-escalation, however narrow, remains open.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

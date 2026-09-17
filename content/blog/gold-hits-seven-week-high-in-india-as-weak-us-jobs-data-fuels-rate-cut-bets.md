@@ -26,4 +26,4 @@ Beyond the immediate jobs-data trigger, analysts point to a cluster of factors r
 
 For Indian buyers, the timing is a mixed bag. Elevated prices are a boon for existing holders and for exporters of jewellery who benefit from currency and pricing dynamics, but they raise the cost of purchases ahead of the festive and wedding season later in the year, when domestic demand for gold jewellery typically picks up. Jewellers and bullion dealers will be watching closely to see whether the current rally holds into next week or gives way to profit-taking once the initial reaction to the US jobs data fades.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

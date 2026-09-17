@@ -26,4 +26,4 @@ MRF's results landed on one of the busiest days of the ongoing earnings season, 
 
 Analysts tracking the sector have flagged raw material costs, particularly natural rubber and crude-derivative inputs, as a key swing factor for tyre makers' margins through the rest of the fiscal year, alongside demand trends tied to festive-season vehicle sales expected later in 2026. With revenue growth holding up even as profit dipped marginally, MRF's quarter reflects a broader pattern seen across the auto-ancillary space this earnings season: resilient demand being partly offset by a still-elevated cost environment.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

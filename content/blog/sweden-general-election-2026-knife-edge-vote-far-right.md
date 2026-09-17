@@ -29,4 +29,4 @@ Exit polls are expected shortly after voting closes, though Swedish election aut
 
 The vote is being closely watched internationally, including by investors tracking the euro-area's political stability and by governments across the Nordic region assessing what a change in Stockholm could mean for regional defence and energy cooperation.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

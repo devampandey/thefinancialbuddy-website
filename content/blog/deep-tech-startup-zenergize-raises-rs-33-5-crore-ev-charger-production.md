@@ -28,4 +28,4 @@ The company has already reached an annual revenue run rate of around Rs 30 crore
 
 India's electric vehicle ecosystem has faced persistent bottlenecks in domestic manufacturing of high-performance power electronics, with much of the underlying semiconductor and component technology historically imported. Homegrown SiC-based charging technology, if it can be manufactured reliably at scale, could help reduce that import dependence while supporting the government's broader push for local manufacturing under initiatives aimed at strengthening India's clean-energy and EV supply chains. As the EV charging infrastructure market continues to expand alongside rising electric vehicle adoption across India, deep-tech manufacturers like Zenergize are likely to remain an area of continued investor interest.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -27,4 +27,4 @@ Fridman's Alfa-Group has previously faced scrutiny over reports that a subsidiar
 
 With the extended deadline now set for September 22, EU diplomats face a tight window to resolve the dispute without triggering a lapse in the sanctions regime, which would require unanimous consent to reinstate. The episode highlights how internal EU politics, and in this case an apparently unrelated prisoner-release negotiation, can complicate the bloc's unified stance on Russia even as the war in Ukraine continues into its fifth year. Brussels has not indicated whether a compromise excluding some individuals while retaining others is under consideration.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

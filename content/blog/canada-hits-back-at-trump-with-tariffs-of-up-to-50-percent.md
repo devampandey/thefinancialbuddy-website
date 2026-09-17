@@ -26,4 +26,4 @@ The United States remains Canada's largest trading partner by a wide margin, abs
 
 Public opinion in Canada appears to back Carney's decision to walk away from a deal seen as unfavorable, even as some Canadians voice concern about the broader economic fallout. With both countries still needing to negotiate a renewal of their broader continental trade framework, analysts say pressure will build on both sides in the coming weeks to find a way to de-escalate before the new tariffs take hold.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

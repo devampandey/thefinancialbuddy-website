@@ -26,4 +26,4 @@ India enter the final as seven-time champions and overwhelming favourites, with 
 
 India's opponent in the final, to be decided by the second semifinal, will have the unenviable task of trying to end a run that has now stretched to ten consecutive final appearances, a streak that stands as one of the more remarkable records in the history of women's cricket in Asia.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

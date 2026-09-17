@@ -23,4 +23,4 @@ The comments land at a moment when questions about how fast to push AI adoption 
 
 For telecom operators such as Reliance Jio, Bharti Airtel and Vodafone Idea, all of whom have been investing in AI-driven network management to cut costs and improve service quality, Lahoti's comments signal that future regulatory expectations are likely to include documentation and override requirements rather than a free hand to automate. That could mean additional compliance overhead in the near term, but industry watchers argue it may also reduce the risk of costly network failures or consumer complaints stemming from opaque automated decisions, an outcome that ultimately protects both operators and subscribers as India's networks lean further into AI-driven management over the coming years.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

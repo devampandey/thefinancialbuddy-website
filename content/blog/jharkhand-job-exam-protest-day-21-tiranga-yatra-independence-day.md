@@ -28,4 +28,4 @@ Former chief minister Raghubar Das has threatened to begin his own hunger strike
 
 With Independence Day falling on Saturday and the protest movement showing no signs of losing steam three weeks in, the standoff has become a significant political flashpoint in Jharkhand, testing both the state government's handling of youth unemployment grievances and the opposition's ability to convert the unrest into broader political capital ahead of future elections.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

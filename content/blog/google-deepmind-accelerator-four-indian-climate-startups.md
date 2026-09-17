@@ -27,4 +27,4 @@ Alongside the accelerator cohort, Google used the announcement to detail four ad
 
 The selections add to a fast-growing list of India-based climate-tech ventures drawing global corporate backing, at a time when the country's chip and deep-tech startup ecosystem more broadly has been raising record sums, according to recent industry data. For India's climate-tech founders, direct access to Google's AI infrastructure and mentorship network offers a meaningful leg up in a segment where compute costs and technical expertise remain significant barriers to scaling agriculture- and carbon-focused AI products beyond pilot projects.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

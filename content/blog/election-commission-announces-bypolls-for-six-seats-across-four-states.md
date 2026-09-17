@@ -28,4 +28,4 @@ For the Tamil Nadu and Puducherry seats, the contests will offer local parties a
 
 The Commission's swift scheduling, coming through in a single announcement covering seats across such geographically distant states, also reflects the routine but steady administrative rhythm of India's electoral machinery, which regularly manages overlapping bypoll cycles across the country even outside of general election years.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

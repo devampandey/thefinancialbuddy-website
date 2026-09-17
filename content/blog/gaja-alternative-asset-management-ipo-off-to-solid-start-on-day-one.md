@@ -24,4 +24,4 @@ The IPO lands in a market where investor appetite for new listings has been mixe
 
 With bidding open through Friday, the key swing factor for the issue will be institutional demand, which typically shows up more decisively on the final day of subscription. Market watchers will be tracking whether the qualified institutional buyer book fills up meaningfully as the offer closes, which would give a clearer signal of how the stock is likely to perform on listing.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

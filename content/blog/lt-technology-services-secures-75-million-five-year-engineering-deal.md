@@ -28,4 +28,4 @@ India's engineering services and R&D outsourcing sector has continued to see ste
 
 LTTS has not disclosed specific milestones or a phased rollout timeline for the engagement, and the identity of the "global technology major" remains confidential per the agreement. Investors and analysts will likely watch the company's upcoming quarterly commentary for any further detail on deal execution, margin implications and how the engagement contributes to the company's overall order book and revenue guidance for the current fiscal year.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

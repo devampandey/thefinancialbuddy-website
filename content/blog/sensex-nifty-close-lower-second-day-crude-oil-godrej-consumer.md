@@ -30,4 +30,4 @@ Buying interest in public-sector bank shares helped cap the market's overall dec
 
 Analysts flagged 24,400 as a key level to watch; a sustained break below that could open the door to a slide toward 24,180, while a decisive move back above 24,500 may help stabilise sentiment. Investor attention now turns to the US inflation report for July, due for release shortly, which is expected to shape expectations around the US Federal Reserve's next move on interest rates and could set the tone for global markets, including India's, in the sessions ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

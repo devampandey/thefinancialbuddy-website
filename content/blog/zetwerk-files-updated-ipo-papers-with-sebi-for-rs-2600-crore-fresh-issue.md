@@ -28,4 +28,4 @@ Zetwerk operates through two core segments: its core Manufacturing Business, whi
 
 Zetwerk's move toward a public listing is being watched closely as a bellwether for India's broader "manufacturing-as-a-service" and B2B marketplace sector, an area that has drawn heavy venture capital interest over the past several years but has seen relatively few companies reach the public markets. A successful listing at anywhere close to the reported $4 billion target valuation would mark one of the more significant technology-adjacent manufacturing IPOs on Indian exchanges in recent years, and could pave the way for other well-funded B2B platforms to follow a similar path. Exact price band, issue dates and listing timeline are expected to be finalised after Sebi's review of the updated draft papers.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

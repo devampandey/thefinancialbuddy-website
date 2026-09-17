@@ -28,4 +28,4 @@ NPCI also disclosed that biometric authentication methods on UPI, including face
 
 Taken together, the announcements reflect NPCI's push to keep evolving UPI, already the world's largest retail fast-payment system by transaction volume, as both a consumer payments tool and a broader financial-services platform.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

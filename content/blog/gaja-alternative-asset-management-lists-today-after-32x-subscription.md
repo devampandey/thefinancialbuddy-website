@@ -24,4 +24,4 @@ Founded in 2004, Gaja Alternative Asset Management operates in the private equit
 
 Gaja's debut adds to what has been an active year for India's primary market, with a steady stream of new listings spanning sectors from industrials to consumer businesses to financial services. A heavily oversubscribed, broad-based issue such as this one is typically viewed as a positive signal for the broader IPO pipeline, particularly for other asset management and financial services firms weighing a public listing in the coming months. At the same time, market watchers will be tracking whether Gaja's post-listing performance holds up in the sessions following its debut, since early-day trading gains do not always translate into sustained outperformance once the initial burst of listing-day demand fades.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

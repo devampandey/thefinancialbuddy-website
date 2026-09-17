@@ -27,4 +27,4 @@ For Kyiv residents, the strikes are part of a now-familiar routine of overnight 
 
 Neither Russian nor Belarusian authorities had issued an official statement on the Lithuanian drone incident at the time of publication. The Kremlin has previously described such incursions as accidental, while Kyiv and its allies argue they reflect a wider Russian tactic of testing NATO's air defences.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

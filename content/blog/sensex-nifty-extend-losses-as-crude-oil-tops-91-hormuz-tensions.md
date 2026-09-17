@@ -26,4 +26,4 @@ Heavyweight names including Power Grid and Bajaj Finance were among the notable 
 
 Market participants said the near-term direction for Indian equities will likely continue to hinge on how the Strait of Hormuz standoff evolves, along with any fresh developments in US-Iran relations and the broader Gulf security situation. A sustained move in crude oil beyond current levels could further pressure oil-sensitive sectors and add to inflation concerns just as the Reserve Bank of India continues to monitor price stability. Investors are also watching global bond markets, where yields have climbed to multi-year highs, for signs of how much further risk appetite could deteriorate in the sessions ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

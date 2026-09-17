@@ -26,4 +26,4 @@ Reactions from Wall Street analysts were mixed. Some noted that Chakravarthy's e
 
 Chakravarthy's elevation adds to a growing roster of Indian-origin executives leading major global technology companies, a trend that has drawn continued attention in India given the outsized visibility of chief executives of Indian origin at firms including Google, Microsoft and IBM. Adobe separately has been expanding its India-linked dealmaking, having recently acquired Indian AI automation startup Rilo to bolster its push into agentic software tools — a strategic direction Chakravarthy is now expected to help steer as CEO.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

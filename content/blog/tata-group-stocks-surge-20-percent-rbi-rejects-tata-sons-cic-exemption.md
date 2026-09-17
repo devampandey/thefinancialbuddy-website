@@ -23,4 +23,4 @@ The sharp rally in Tata group stocks reflects investor optimism that a formal Ta
 
 The RBI's stance also comes at a sensitive time for the Tata Group, which has been navigating a reported rift within its leadership over succession and governance matters at Tata Sons. Whether Tuesday's rally holds through the trading session, or fades once the initial optimism is priced in, will likely depend on how quickly the group signals its next steps toward compliance with the RBI's listing mandate.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

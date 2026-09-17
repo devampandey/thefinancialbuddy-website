@@ -26,4 +26,4 @@ Despite its e-commerce roots, Nykaa continues to build out its offline footprint
 
 For a stock that has swung between investor enthusiasm and skepticism since its listing, a quarter combining tripled profit, expanding margins, and GMV growth across both beauty and fashion gives bulls a fresh data point. Whether the market rewards the results will likely hinge on how sustainable analysts judge the margin gains to be, particularly as the quick commerce expansion adds new costs even as it opens new revenue channels. The coming quarters, as Nykaa Now scales toward its 25-city target, should offer a clearer read on whether profitability and rapid expansion can continue moving together.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

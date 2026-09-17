@@ -28,4 +28,4 @@ The sentencing arrived on the same day that Russia's Supreme Court rejected a se
 
 Shlosberg's case is one of a growing number of prosecutions targeting Russians who have publicly criticized the invasion of Ukraine since 2022. Rights groups have documented a steady rise in convictions under the country's discrediting and fake-news statutes, with sentences lengthening over time as authorities move to suppress dissent ahead of major political events. His supporters have vowed to continue highlighting his case as an example of the shrinking space for political opposition inside Russia.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

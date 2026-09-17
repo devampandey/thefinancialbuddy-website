@@ -25,4 +25,4 @@ For New Delhi, securing full consensus mattered as much as the content itself. G
 
 The declaration's adoption came on a day already dominated by summit diplomacy in the capital, with Chinese President Xi Jinping arriving for his first visit to India in nearly seven years and Russian President Vladimir Putin using the sidelines to warn European governments against deploying troops to Ukraine. Commerce Minister Piyush Goyal separately told the BRICS Business Forum that the bloc's combined exports have surged to nearly six trillion dollars, now accounting for close to a quarter of global exports, underlining the economic weight member states hope the grouping can eventually translate into more unified positions on trade and technology as well as geopolitics.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -28,4 +28,4 @@ De Wever's visit comes as India continues to negotiate a broader free trade agre
 
 Neither side released detailed timelines for implementing the MoUs, and the business and investment forums announced on Thursday will need to be formally constituted before trade figures are likely to move. De Wever's visit continues through the rest of the week, with his delegation expected to hold additional meetings with Indian industry representatives before departing. For now, the summit's significance lies less in any single deliverable and more in signalling that both governments see enough value in the relationship to invest diplomatic capital in rebuilding a channel that had gone quiet for twenty years.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

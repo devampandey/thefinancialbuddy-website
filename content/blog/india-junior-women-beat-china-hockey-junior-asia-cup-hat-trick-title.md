@@ -25,4 +25,4 @@ With the win, India's junior women have now lifted the AHF Junior Asia Cup in th
 
 Hockey India moved quickly to recognise the achievement, announcing cash incentives for the title-winning squad: Rs 3 lakh for each player and Rs 1.5 lakh for every member of the support staff. Beyond the financial reward, the more significant prize is the confirmed slot at the FIH Junior World Cup, where India will get a chance to test itself against the best junior sides globally rather than only regional rivals. For Indian hockey more broadly, which has invested heavily in age-group programmes in recent years, a third successive Asia Cup crown offers fresh evidence that the results are beginning to show at the top of the continental ladder, even as the senior women's team continues its own separate campaign at the Asia Cup in the Gulf.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

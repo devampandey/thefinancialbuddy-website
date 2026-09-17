@@ -30,4 +30,4 @@ Market participants said the next moves will likely hinge on incoming US economi
 
 For now, though, momentum remains firmly with the bulls heading into the weekend, with both metals closing out the week at their highest levels on record in the Indian market.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

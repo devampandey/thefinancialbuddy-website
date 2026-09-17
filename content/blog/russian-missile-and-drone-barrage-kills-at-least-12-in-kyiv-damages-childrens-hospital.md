@@ -34,4 +34,4 @@ Russia's defense ministry, for its part, said it had carried out a "massive stri
 
 The strike came days after Ukraine launched one of its own largest drone attacks of the war on Russian territory, with Moscow's state media describing it as the biggest since the start of the year. The exchange of large-scale strikes reflects an intensifying pattern in the conflict, with both sides stepping up long-range attacks even as diplomatic efforts to end the war remain stalled.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

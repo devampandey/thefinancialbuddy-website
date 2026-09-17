@@ -24,4 +24,4 @@ Colombia's newly inaugurated president, who took office only days ago, said he w
 
 The quake lands the region back in the headlines just weeks after a pair of powerful earthquakes, measuring 7.2 and 7.5, struck neighbouring Venezuela in late June, killing more than 6,000 people and destroying hundreds of buildings in one of the deadliest seismic events to hit South America in recent years. That earlier disaster has left regional disaster-response agencies on heightened alert, and officials in Bogota are likely to face pressure to move quickly on relief and structural assessments given how fresh the memory of Venezuela's death toll remains.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

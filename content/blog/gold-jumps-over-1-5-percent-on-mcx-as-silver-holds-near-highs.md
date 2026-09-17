@@ -26,4 +26,4 @@ For Indian households, many of whom hold gold both as jewellery and as a savings
 
 Market participants said the near-term path for gold and silver will likely continue to hinge on how bond yields, crude oil prices and the Hormuz Strait situation evolve in the coming days, alongside any fresh signals from the US Federal Reserve on the trajectory of interest rates.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

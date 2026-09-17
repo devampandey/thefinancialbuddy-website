@@ -22,4 +22,4 @@ With subscription now closed, the company's share allotment is expected to be fi
 
 Market participants will be watching the listing closely given the scale of oversubscription, though analysts have cautioned that heavy institutional demand for anchor and QIB allocations does not always translate into outsized listing-day pops, particularly in cases where grey market premiums have already priced in a substantial part of the expected gain. The coming days will also bring clarity on the final allotment ratios across retail, non-institutional and QIB categories, details that are typically closely tracked by investors who did not receive an allocation in the primary issue and are weighing whether to buy in on listing day instead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

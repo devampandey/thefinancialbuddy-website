@@ -24,4 +24,4 @@ Among individual names, Titan, Tata Steel, Asian Paints, Mahindra & Mahindra, HC
 
 Technical analysts flagged the 24,600-24,700 band as the immediate resistance zone for the Nifty, arguing that a decisive move above that level could open the door to a push toward 24,800. On the downside, the 24,500-24,450 region was described as the crucial support to watch, with a break below that zone seen as increasing the risk of a deeper pullback toward 24,300-24,400. With the tail end of the Q1 FY27 earnings season still to play out this week, analysts expect stock-specific moves to continue driving the market even as investors keep one eye on developments in West Asia and their knock-on effect on oil prices.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

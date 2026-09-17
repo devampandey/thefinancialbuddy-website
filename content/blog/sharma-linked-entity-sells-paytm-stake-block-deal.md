@@ -18,4 +18,4 @@ Antfin, an affiliate of Ant Group, has been steadily reducing its exposure to Pa
 
 For investors, the episode is a reminder that founder- and promoter-linked entities in listed companies can create meaningful single-day price swings even when day-to-day business operations are unaffected. With Paytm's core payments and financial services business continuing on its own trajectory, attention now shifts to how the stock consolidates in the sessions following this large ownership adjustment.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -30,4 +30,4 @@ Company leadership struck an optimistic tone about the year ahead, pointing to p
 
 Milky Mist's post-listing performance offers a data point for investors evaluating recently listed FMCG and consumer-facing companies, a segment that has drawn heavy IPO interest in India over the past year. A near-tenfold jump in quarterly profit, paired with broad-based category growth, suggests the company's expansion strategy is translating into tangible earnings gains, though sustaining this pace of growth through the rest of FY27 will be the key test for the stock's valuation going forward.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -28,4 +28,4 @@ Shiprocket's listing came on a day that also saw Behari Lal Engineering, an inte
 
 A 35% listing-day gain places Shiprocket among the stronger debuts seen on Indian exchanges this year, and will likely be closely watched by investors weighing participation in the pipeline of upcoming public offerings from other consumer internet and logistics companies. Analysts note that while strong listing-day pops can reflect genuine investor enthusiasm for a company's growth prospects, they can also be influenced by broader liquidity conditions and sentiment in the primary market at the time of listing, meaning sustained post-listing performance will be the more meaningful test of the stock going forward.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

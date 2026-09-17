@@ -26,4 +26,4 @@ Attacks on tankers and warships in the region carry consequences well beyond the
 
 With Iran signaling that its response could intensify and Washington showing no indication of scaling back its posture in the Gulf, the coming days are likely to determine whether the confrontation stays limited to naval skirmishes or draws in wider regional actors. Diplomatic channels, including a separate US effort involving envoys traveling between Moscow and Kyiv on an unrelated peace initiative, remain active elsewhere, but there is no indication yet of a parallel track opening up between Washington and Tehran.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

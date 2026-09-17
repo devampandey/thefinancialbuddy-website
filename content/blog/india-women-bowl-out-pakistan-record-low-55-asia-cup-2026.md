@@ -26,4 +26,4 @@ With qualification for the knockout stage already secured, India will now turn t
 
 For Pakistan, the tournament is far from over, but the manner of this defeat means the side will need a swift turnaround in form and confidence to salvage momentum from the group stage. The match adds another chapter to a rivalry that continues to draw outsized attention whenever the two neighbours meet on the cricket field, regardless of the format or the tournament stakes.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

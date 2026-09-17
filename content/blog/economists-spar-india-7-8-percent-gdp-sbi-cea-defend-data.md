@@ -24,4 +24,4 @@ Separately, former Chief Economic Adviser Krishnamurthy V. Subramanian weighed i
 
 The exchange matters beyond academic economics circles. GDP prints feed directly into how the Reserve Bank of India calibrates interest rate policy, how rating agencies assess India's growth trajectory, and how foreign investors size up the credibility of official statistics relative to peer emerging markets. A sustained credibility gap around headline numbers, even if the underlying technical defence is sound, can complicate that broader signalling function. For now, both SBI and the government's own economists appear to be closing ranks around the 7.8 percent figure, though the debate over how India's statistical revisions are communicated to the public is unlikely to be fully settled by Thursday's exchange of statements.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

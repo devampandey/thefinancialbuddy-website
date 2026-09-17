@@ -32,4 +32,4 @@ South Korean President Lee Jae Myung's office had earlier expressed hope that wa
 
 Trump and Kim held three rounds of talks between 2018 and 2019, but that diplomatic effort ultimately stalled over disagreements on sanctions relief and denuclearization terms. Whether this latest gesture from Washington leads to any renewed contact between the two leaders remains to be seen, with North Korea giving no public indication so far that it intends to respond in kind.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

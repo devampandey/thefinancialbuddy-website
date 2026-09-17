@@ -30,4 +30,4 @@ Political science textbooks for Classes 11 and 12 shape how Indian students enco
 
 The row over the political science panel follows earlier controversy this year involving a separate NCERT curriculum panel that was reconstituted after the Supreme Court raised concerns about content in a Class 8 textbook, underscoring how curriculum development has become a recurring flashpoint between the government and its critics. With the reconstituted team now formally notified, the debate over its composition is likely to continue as the panel begins its work on the new textbooks.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

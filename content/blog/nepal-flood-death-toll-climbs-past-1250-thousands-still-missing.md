@@ -30,4 +30,4 @@ The disaster has drawn attention well beyond Nepal's borders, with international
 
 Meteorological officials have also flagged a forecast for a "very strong" El Nino pattern this year, raising concerns about the potential for further extreme weather events in South Asia in the months ahead, even as the region works through the aftermath of this disaster.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

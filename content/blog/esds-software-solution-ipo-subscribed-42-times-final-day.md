@@ -30,4 +30,4 @@ ESDS operates in the cloud and managed hosting space, a segment that has drawn s
 
 Market participants will now watch the listing-day performance closely, as heavily oversubscribed IPOs in India's current market environment have shown mixed outcomes — some translating grey market enthusiasm into strong listing-day pops, while others have seen more muted debuts once broader market conditions and profit-booking come into play. Investors who did not receive allotment will be watching the September 4 listing to gauge whether the subscription frenzy holds up once the stock begins trading freely.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

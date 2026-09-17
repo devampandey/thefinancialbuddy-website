@@ -29,4 +29,4 @@ Solar Industries has been one of the standout performers on Indian bourses this 
 
 If completed as planned, the deal would transform Solar Industries from a domestically anchored explosives maker with a modest export footprint into a diversified, multinational chemicals and defence group spanning mining, agriculture and industrial explosives across three continents. Execution risk remains real given the scale of integrating a workforce of more than 3,500 employees across two dozen countries, alongside currency exposure to the South African rand, but the strategic logic of securing raw material supply while diversifying revenue has been well received by early market commentary.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

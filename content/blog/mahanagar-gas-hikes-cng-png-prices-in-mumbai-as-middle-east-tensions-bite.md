@@ -28,4 +28,4 @@ MGL's move follows a similar hike from Indraprastha Gas Limited (IGL), which sup
 
 City gas distribution companies operate on relatively thin margins and have limited ability to absorb sustained increases in input costs without adjusting retail prices. For commuters and commercial vehicle operators who depend on CNG as a cheaper alternative to petrol and diesel, repeated price revisions erode some of that cost advantage. Analysts tracking the sector will be watching whether further escalation in the Middle East pushes RLNG prices higher still, which could prompt additional rounds of price increases from city gas players across India in the coming weeks.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

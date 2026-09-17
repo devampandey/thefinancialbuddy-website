@@ -26,4 +26,4 @@ The timing is notable. Indian corporates and banks have increasingly used GIFT C
 
 For ICICI Bank, the successful raise comes against a backdrop of a resilient, if not spectacular, quarter for Indian private banks, many of which have been navigating margin pressure even as loan growth has held up reasonably well. Access to competitively priced dollar funding gives the bank additional room to support its international operations and trade-finance business without leaning further on domestic deposit costs.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

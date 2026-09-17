@@ -26,4 +26,4 @@ Yemen's internationally recognised government, headquartered in Aden and backed 
 
 For now, the immediate humanitarian toll is mounting, with aid groups warning that displaced families from Mocha and surrounding areas require urgent shelter and support. Whether the current truce framework can be salvaged, or whether Yemen is sliding back into a fuller-scale civil conflict, is likely to depend heavily on how far the Houthis push their advantage in the coming days.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

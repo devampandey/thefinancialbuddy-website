@@ -24,4 +24,4 @@ Shares of the company reportedly moved higher following the results, reflecting 
 
 MobiKwik's results arrive amid a wider Q1 FY27 earnings season in which several Indian fintech and digital-first companies are being closely watched for signs of a durable path to profitability, following years of investor scrutiny over cash burn in the sector. A third consecutive profitable quarter, while still modest in absolute terms, positions MobiKwik as one of the sector's steadier performers this earnings season, even as questions remain about the scalability of its lending-led growth strategy.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

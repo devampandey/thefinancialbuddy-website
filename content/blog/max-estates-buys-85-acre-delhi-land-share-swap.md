@@ -28,4 +28,4 @@ The deal adds to what has already been a strong pipeline for Max Estates, which 
 
 The transaction lands at a time when large, contiguous land assemblies within the Delhi-NCR region have become increasingly scarce, pushing developers toward land-pooling arrangements and non-cash structures such as share swaps to expand their footprint without straining balance sheets. Analysts tracking the real estate sector have noted that such structures are becoming more common among listed developers looking to grow their land banks while preserving cash for construction and working capital needs.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -28,4 +28,4 @@ Pandey framed the finfluencer crackdown as part of a wider theme running through
 
 Looking ahead, SEBI said it intends to keep simplifying compliance requirements while leaning further into technology, including a planned pilot on tokenising corporate bonds using distributed ledger technology and a broader effort to prepare its systems for quantum-era cybersecurity risks. For now, though, the AI-powered crackdown on finfluencers is likely to be the most visible change for the millions of retail investors who get their market advice from a phone screen rather than a registered advisor.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

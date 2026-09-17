@@ -24,4 +24,4 @@ The IPO forms part of a broader wave of primary market activity in India this ye
 
 With the issue closing later this week, market participants will be watching closely to see whether qualified institutional buyer demand picks up meaningfully on the final day, as has been the pattern in several recent Indian IPOs where institutional bids are concentrated toward the close of the bidding window. A strong finish across all investor categories would set the stage for a well-supported listing, while any softness in institutional demand could temper expectations for listing-day gains. Allotment and listing timelines are expected to follow the standard schedule once the issue closes, with the stock likely to make its market debut within the following week.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

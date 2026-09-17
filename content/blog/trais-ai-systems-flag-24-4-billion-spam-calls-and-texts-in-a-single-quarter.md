@@ -24,4 +24,4 @@ Spam and fraud calls have been a persistent irritant for Indian telecom users, a
 
 For now, the data offers one of the clearer pictures yet of how much unwanted communication is moving through India's networks every quarter, and how much of it is being intercepted before it reaches a ringing phone. With over three million downloads of the DND app and a rising share of complaints now coming through it, TRAI appears to be betting that giving consumers a direct, low-friction reporting tool is as important as the AI filtering happening upstream.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -24,4 +24,4 @@ The S1Z will be offered in four colour options, including white, anthracite, a s
 
 The launch comes as competition intensifies in India's electric two-wheeler market, with multiple manufacturers racing to offer longer range and lower prices to accelerate adoption beyond early adopters. For Ola Electric specifically, successfully scaling indigenous battery cell production into a high-volume, price-sensitive model will be an important test of whether its in-house manufacturing investments can translate into a durable cost and supply-chain advantage over rivals that continue to rely on imported cells. If the Bharat Cell platform performs reliably at scale, it could also strengthen the broader case for India-based battery manufacturing as a viable alternative to imports across the electric vehicle industry more broadly.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

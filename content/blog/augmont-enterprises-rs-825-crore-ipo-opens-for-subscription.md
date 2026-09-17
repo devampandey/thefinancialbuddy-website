@@ -24,4 +24,4 @@ Ahead of the formal opening, market chatter around the issue had turned positive
 
 Augmont's public listing arrives amid a steady stream of mainboard and SME IPO activity in the Indian primary market this year, with investors continuing to show healthy appetite for well-positioned issuers even as secondary market indices have seen bouts of volatility tied to crude oil prices and global interest rate expectations. The fresh issue proceeds are expected to be directed toward strengthening the company's working capital base and general corporate purposes, though investors will be watching the detailed prospectus disclosures and subsequent subscription data over the coming days for a clearer read on institutional and retail demand for the offering.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

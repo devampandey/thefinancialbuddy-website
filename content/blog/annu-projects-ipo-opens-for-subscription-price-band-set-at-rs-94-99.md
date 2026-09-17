@@ -22,4 +22,4 @@ Founded in 2003, Annu Projects is an EPC player focused on building and maintain
 
 The company has shown steady growth through its recent financial years. Revenue from operations climbed from Rs 153.98 crore in FY24 to Rs 180.06 crore in FY25 and further to Rs 241.25 crore in FY26. Profitability has scaled alongside that growth, with EBITDA rising from Rs 28.50 crore to Rs 50.19 crore and profit after tax nearly doubling from Rs 17.39 crore to Rs 33.03 crore over the same period. The company intends to use the fresh issue proceeds primarily to fund capital expenditure on machinery and equipment, meet working capital needs, and for general corporate purposes, positioning it to scale further into segments like railway signalling where it has only recently won its first project.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

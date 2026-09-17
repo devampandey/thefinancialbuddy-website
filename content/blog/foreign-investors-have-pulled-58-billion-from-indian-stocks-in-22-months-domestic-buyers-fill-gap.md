@@ -30,4 +30,4 @@ The rupee has borne some of the strain from this capital rotation. The currency 
 
 For now, the domestic bid has kept headline indices resilient despite the scale of foreign selling, but market participants note that a reversal in FII sentiment, should US rates ease or risk appetite for emerging markets return, could still mark the next major inflection point for Indian equities. Until then, the ownership shift toward domestic capital looks likely to continue defining how Indian markets absorb global shocks.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -28,4 +28,4 @@ Inflation trends will remain the central input for the committee's next review. 
 
 For borrowers, the immediate impact is continuity: lending and deposit rates tied to the repo benchmark are unlikely to move in the near term. For businesses monitoring the cost of capital, the unchanged stance offers a degree of predictability, though the RBI's explicit reference to geopolitical risk is a reminder that the calculus could shift quickly if global conditions deteriorate further. Markets will now turn attention to the RBI's forward guidance and commentary on growth and inflation projections for cues on the likely direction of the next move.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

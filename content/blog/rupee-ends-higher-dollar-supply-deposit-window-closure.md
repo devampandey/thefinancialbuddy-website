@@ -24,4 +24,4 @@ Even as the rupee gained on the day, foreign institutional investors continued t
 
 A stronger rupee, even a modest one, offers some relief to importers and helps contain imported inflation at a time when Indian bond yields have already been under upward pressure following hawkish signals from the RBI's own policy committee about the possibility of future rate hikes. For an economy heavily dependent on energy imports, the interplay between crude oil prices, dollar liquidity conditions and global central bank signals will continue to be the key variables determining whether the rupee can sustain this week's modest gains or come under renewed pressure once the current dollar deposit window closes on Monday.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

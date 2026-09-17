@@ -24,4 +24,4 @@ The market's muted reaction came despite data released a day earlier showing Ind
 
 Technical analysts flagged the 23,950 level on the Nifty as a key support zone; a decisive break below that could open the door to a further slide toward 23,800, while a recovery above the 24,170–24,200 band would be needed to meaningfully improve sentiment. With crude prices, the trajectory of the Iran conflict, and signals from the US Federal Reserve all in play simultaneously, traders expect volatility to persist in the sessions ahead, even as India's underlying macro fundamentals remain comparatively strong.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

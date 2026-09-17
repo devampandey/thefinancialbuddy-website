@@ -22,4 +22,4 @@ Harald ascended to the throne in 1991 following the death of his father, Olav V,
 
 With Haakon now stepping into the role of head of state, attention turns to how the incoming king will balance the ceremonial demands of the monarchy with Norway's expanding diplomatic footprint, including its position as one of Kyiv's most significant European backers.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -24,4 +24,4 @@ A double-digit listing premium on an issue of this size carries weight beyond th
 
 The result will be closely watched by other large issuers and bankers currently preparing offerings in India's active IPO pipeline, since a strong debut from a marquee healthcare listing can help sustain investor confidence in upcoming large-ticket issues. Whether Manipal Health can hold or extend its listing-day gains through the rest of the week will be the next signal worth tracking, particularly given how quickly listing-day pops in large offerings have faded in some recent cases once initial trading enthusiasm settles.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

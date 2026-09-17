@@ -26,4 +26,4 @@ Sri Lanka's attack found little success on a placid Galle surface. Jayasuriya, w
 
 With India already well placed and the surface at Galle traditionally offering more turn as a Test wears on, any time lost to rain works broadly in the batting side's favour, allowing the pitch to deteriorate further before Sri Lanka gets a chance to bowl on it. The match is the first of a two-Test series and forms part of the ongoing World Test Championship cycle, giving both sides an early opportunity to pick up points. It also marks an early assignment for Gill in his new role as India's full-time red-ball captain. Should the weather clear, the priority for India will be to bat on and push their total well past 300, while Sri Lanka will be hoping for early breakthroughs to keep the match competitive.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

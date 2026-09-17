@@ -26,4 +26,4 @@ The Milky Mist listing arrives during an active stretch for India's primary mark
 
 Investors and analysts will now watch how the stock performs in the sessions following listing, as early listing-day gains do not always hold once the initial allotment-driven buying subsides and the stock begins trading on its underlying fundamentals.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

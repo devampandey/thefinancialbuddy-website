@@ -26,4 +26,4 @@ Saudi Arabia's energy infrastructure has repeatedly come under scrutiny in recen
 
 Saudi authorities had not issued a detailed public statement addressing the Jubail explosion specifically as of the time of this report, and further confirmation of the facts is expected as investigations, if any, are disclosed by the kingdom's energy and security agencies.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

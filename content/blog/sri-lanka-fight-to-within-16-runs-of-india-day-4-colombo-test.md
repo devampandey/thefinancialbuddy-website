@@ -24,4 +24,4 @@ The result of this match carries series-defining weight. India go into the Colom
 
 With Sri Lanka still 16 runs adrift and four second-innings wickets remaining, the final day promises a compelling contest between India's bowling attack, likely to lean heavily on spin as the pitch wears, and a Sri Lankan middle and lower order desperate to either wipe out the deficit and build a lead, or bat out time to salvage a draw. India's team management will be weighing up field placements and bowling changes carefully in the morning session, aware that early wickets could open up a clear path to a series-clinching victory well before the scheduled close of play.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

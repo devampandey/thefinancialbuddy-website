@@ -24,4 +24,4 @@ A sharp swing from roughly 2x subscription on day one to well over 14x on day tw
 
 As with any IPO, investors are typically advised to weigh subscription enthusiasm alongside the company's underlying fundamentals, sector outlook, and valuation before making allotment or listing-day decisions, rather than relying on subscription numbers alone.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

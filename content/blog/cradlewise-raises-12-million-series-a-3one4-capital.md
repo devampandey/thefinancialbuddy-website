@@ -28,4 +28,4 @@ Cradlewise's raise adds to a steady stream of funding activity in India's consum
 
 For a startup ecosystem that has seen mixed signals this year, with some funding rounds slowing and select D2C brands scaling back, Cradlewise's ability to close a Series A round and articulate a multi-year product roadmap signals continued confidence from investors in founders building at the intersection of hardware, AI and parenting.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

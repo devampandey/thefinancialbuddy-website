@@ -26,4 +26,4 @@ The flexibility comes with trade-offs. A REIT or InvIT that owns only a minority
 
 The government has already positioned REITs and InvITs as key vehicles for broader asset monetisation in the economy, with official estimates suggesting these instruments have helped unlock more than ₹1.5 trillion in capital to date. If Sebi's proposal is finalised, it could open a meaningful new financing channel for developers navigating a capital-intensive sector, while testing how well governance safeguards hold up once minority institutional capital becomes more common in projects that are still being built.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

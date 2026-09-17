@@ -26,4 +26,4 @@ With subscription now closed, the next milestones for Milky Mist will be the fin
 
 Whether the strong final-day numbers translate into a robust listing-day pop will depend on broader market conditions in the run-up to listing, as well as how the stock is priced relative to demand across the anchor and institutional books. For now, the closing subscription figures suggest healthy overall interest in an issue that started more modestly over its first two days of bidding.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

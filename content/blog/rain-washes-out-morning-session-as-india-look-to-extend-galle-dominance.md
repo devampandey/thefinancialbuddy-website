@@ -24,4 +24,4 @@ Beyond the scoreline, the match holds historical significance on both sides. For
 
 Once conditions allow, the second new ball will be due within a handful of overs, handing Sri Lanka a fresh chance to disrupt India's control. Until then, both sets of support staff, and supporters, are left watching the skies over Galle, with the tourists eyeing a total large enough to put the hosts under serious pressure once the ball finally starts moving again in this rain-hit contest.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

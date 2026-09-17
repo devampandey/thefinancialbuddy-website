@@ -26,4 +26,4 @@ Taken together, the two reports paint a picture of an economy that is decelerati
 
 Retailers and consumer-facing companies are likely to watch the coming weeks closely for confirmation of whether July's pullback was a one-off adjustment following the tax-refund-driven spending earlier in the year, or the start of a more sustained slowdown heading into the autumn shopping season. For now, the combination of weaker spending and falling confidence adds a note of caution to an otherwise mixed macroeconomic picture in the world's largest economy.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -30,4 +30,4 @@ While construction can proceed for now, the underlying legal question, whether a
 
 The case is the latest example of the current administration turning to the Supreme Court's emergency docket to secure quick wins on high-profile disputes, a pattern that has produced a mixed record for the White House once cases receive fuller judicial review.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

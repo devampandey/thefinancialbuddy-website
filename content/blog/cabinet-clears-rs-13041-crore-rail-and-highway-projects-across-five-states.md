@@ -26,4 +26,4 @@ For the five states involved, the practical impact will unfold gradually: projec
 
 Markets and logistics-linked sectors, including cement, steel and construction equipment makers, are likely to watch execution timelines on these projects closely, given the historical tendency for large multi-state infrastructure packages to take longer to translate into on-ground construction activity than initial announcements suggest.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -24,4 +24,4 @@ HDFC Bank shares have fallen roughly 28 percent so far this year, a far steeper 
 
 Kumar is said to favour bringing in an outside candidate rather than promoting from within, though any successor will need Reserve Bank of India approval, a process that can take time given the scale of the institution — HDFC Bank carries a market value of roughly $115 billion. One option under discussion is a short-term internal appointment to bridge the gap while a longer-term leader is identified, with deputy managing director Kaizad Bharucha seen by some analysts as a likely interim candidate. For a bank that built its reputation on decades of orderly succession under its legendary former chief Aditya Puri, the coming months will test how well that culture holds up under new leadership pressure.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

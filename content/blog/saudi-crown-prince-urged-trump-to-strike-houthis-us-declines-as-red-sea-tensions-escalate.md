@@ -26,4 +26,4 @@ Adm. Brad Cooper, the head of US Central Command, travelled to Saudi Arabia on T
 
 The episode illustrates the delicate balancing act facing the US as multiple regional flashpoints demand attention simultaneously. For Saudi Arabia, the request for American strikes marks a striking departure from its posture in prior months and reflects growing alarm over the pace of Houthi gains. For the United States, the response reflects a preference for calibrated, indirect support over direct military engagement, at least for now, even as global oil markets react to the mounting instability along one of the world's most consequential trade routes.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

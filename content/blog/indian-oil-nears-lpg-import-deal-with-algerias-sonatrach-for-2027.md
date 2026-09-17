@@ -28,4 +28,4 @@ For Indian consumers, the immediate impact of these negotiations is limited, sin
 
 Neither IOC nor Sonatrach has issued an official confirmation of the deal's terms, and the agreement is still described as being in the final stages of negotiation rather than signed.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

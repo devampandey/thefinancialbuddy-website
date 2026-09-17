@@ -28,4 +28,4 @@ Grossi used the occasion to voice broader concern about global nuclear stability
 
 The Security Council referral now puts Iran's nuclear programme squarely before the UN's most powerful body at a moment when the broader US-Iran conflict, and its knock-on effects across Gulf shipping and regional security, show no signs of abating. How Tehran responds to the referral, and whether it grants IAEA inspectors renewed access to Pickaxe Mountain, is likely to shape the diplomatic and military trajectory of the standoff in the weeks ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -28,4 +28,4 @@ Notable early backers include investor Akash Bhanshali, through Volrado Venture 
 
 The company's revenue rose 13.9 per cent year-on-year to Rs 557.8 crore in the financial year ended March 2026, recovering from a 2.9 per cent decline the previous year. However, losses have widened alongside the growth, with the company posting a net loss of Rs 285.3 crore in FY26, up from Rs 188.3 crore a year earlier, reflecting continued investment in its retail footprint and customer acquisition even as the luxury fashion segment remains a competitive and capital-intensive category in India's e-commerce landscape.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

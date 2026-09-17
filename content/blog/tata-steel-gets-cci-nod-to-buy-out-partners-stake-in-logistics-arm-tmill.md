@@ -26,4 +26,4 @@ With CCI approval now in hand, the transaction is expected to move toward comple
 
 For investors tracking Tata Steel, the transaction is unlikely to be financially material on its own given the relatively modest deal size, but it fits into a longer-term pattern of the company tightening control over the logistics backbone that supports its steelmaking business, at a time when input-cost and freight efficiency remain a competitive differentiator across India's steel sector.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

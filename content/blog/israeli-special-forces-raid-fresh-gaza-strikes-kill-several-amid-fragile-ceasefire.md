@@ -28,4 +28,4 @@ For India and other energy-importing economies, continued volatility in the Midd
 
 No official Israeli government statement beyond the military's operational account had been issued at the time of writing, and Hamas had not released a formal response to Tuesday's incidents.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

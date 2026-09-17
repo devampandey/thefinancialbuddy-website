@@ -28,4 +28,4 @@ The BCI said it had received information from "reliable sources" suggesting that
 
 The episode has renewed debate over the extent of the Bar Council's regulatory authority over law schools and their students, and whether collective punishment is an appropriate response to campus protest activity, even one involving objections to a sitting Chief Justice. For now, NALSAR's 2026 graduates can proceed with their enrolment as advocates without further impediment, though the broader inquiry into the incident remains open.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

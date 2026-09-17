@@ -24,4 +24,4 @@ The announcement lands awkwardly alongside recent efforts by JLR to showcase new
 
 For parent company Tata Motors, JLR remains one of its most significant international assets, and the scale of the layoffs will be watched closely by investors assessing the health of the luxury unit heading into the rest of the fiscal year. For the UK, the cuts are a reminder of how exposed its automotive sector remains to global trade friction and shifting competitive dynamics, particularly as European carmakers broadly grapple with slowing demand and pressure from Chinese manufacturers expanding aggressively into international markets. Unions and local officials in the regions where JLR has major plants are expected to seek assurances on the pace and location of the cuts as the voluntary programme unfolds over the coming months.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

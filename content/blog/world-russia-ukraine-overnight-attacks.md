@@ -30,4 +30,4 @@ The renewed exchange of strikes underscores how far the two sides remain from a 
 
 For now, front lines in eastern and southern Ukraine remain largely static, even as both militaries escalate long-range strikes deep inside each other's territory. Whether the reported plans for talks in Moscow and Kyiv translate into a genuine breakthrough is likely to become clearer in the days ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

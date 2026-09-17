@@ -26,4 +26,4 @@ The original three-year practice mandate had been introduced partly in response 
 
 With the transitional window running until March 2027, state public service commissions are expected to begin notifying updated eligibility criteria for civil judge recruitment examinations in the coming months. Legal education bodies and judicial academies will also need to finalize the structure of the one-year training and clerkship programs that will now serve as an alternative pathway into the judiciary. The ruling is likely to be closely watched by law schools and civil judge aspirants nationwide, many of whom had paused or restructured their preparation plans while the review petitions were pending before the Court.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

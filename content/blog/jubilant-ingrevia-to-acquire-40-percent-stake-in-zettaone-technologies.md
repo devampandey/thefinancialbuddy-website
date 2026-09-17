@@ -28,4 +28,4 @@ The announcement featured prominently in Wednesday's stocks-to-watch lists along
 
 The transaction remains subject to the completion of definitive documentation and customary regulatory and closing conditions following the binding term sheet. Jubilant Ingrevia has not disclosed a specific timeline for closing, though such strategic minority-stake deals in India typically complete within one to two quarters once term sheets are finalized. Investors will be watching subsequent regulatory filings for further financial and operational details on Zettaone, including its revenue base and growth trajectory, as the deal progresses toward completion.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

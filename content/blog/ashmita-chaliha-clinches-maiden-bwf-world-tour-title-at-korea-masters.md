@@ -24,4 +24,4 @@ Chaliha's title arrived on a tournament that also produced a maiden World Tour c
 
 For Chaliha specifically, the win is likely to lift her positioning heading into the busier part of the international badminton calendar, giving her a maiden title to build on as she looks to establish herself more consistently among the sport's higher-ranked players. Indian badminton followers will now be watching to see whether the win translates into a deeper run at the next major event on the circuit, with the broader Indian contingent — including established names like Sindhu and Tanvi Sharma — continuing to compete across the World Tour through the rest of the season.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

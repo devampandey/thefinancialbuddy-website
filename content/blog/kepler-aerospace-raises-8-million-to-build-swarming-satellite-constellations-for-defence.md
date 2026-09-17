@@ -26,4 +26,4 @@ Blue Ashva Capital's founder framed the investment as a bet on capability with n
 
 Kepler's raise lands amid a wider run of activity in India's deep-tech and space-tech startup ecosystem, with founders across battery technology, satellite manufacturing and AI infrastructure closing rounds in recent weeks. Industry observers say investors are increasingly favouring companies that combine demonstrable technical differentiation with early revenue or government contract validation, rather than backing purely pre-revenue research bets. For Kepler, the challenge now shifts from fundraising to execution: successfully deploying its first swarming satellites will be the clearest test yet of whether its autonomous-coordination approach can work at orbital scale.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

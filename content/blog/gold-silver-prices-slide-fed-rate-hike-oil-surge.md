@@ -27,4 +27,4 @@ For Indian households, a one-day fall of this size can translate into a marginal
 
 Readers tracking daily movements can check the latest [gold rate today](/tools/gold-rate) and [silver rate](/tools/silver-rate) on The Financial Buddy for city-wise updates.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

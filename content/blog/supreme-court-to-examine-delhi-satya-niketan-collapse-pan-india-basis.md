@@ -28,4 +28,4 @@ Ahead of Tuesday's hearing, the amicus curiae assisting the court had sought a t
 
 For a court already seized of unauthorised construction as a systemic, nationwide problem, the Satya Niketan collapse offers a concrete, high-casualty case study that could accelerate directions on audits, accountability for local building authorities, and enforcement against illegal residential-to-commercial conversions. Given the significant population of students and young professionals living in similarly dense, informally regulated housing clusters in cities across India, any directions that emerge from Thursday's hearing could carry consequences well beyond Delhi.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

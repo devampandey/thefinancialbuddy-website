@@ -28,4 +28,4 @@ Shipping data cited by market participants shows traffic through the strait rema
 
 Independent verification of the US military's claim remains difficult given the classified nature of much of the mine-clearing operation, and the dispute between Washington and Tehran over the strait's actual status is likely to continue shaping oil markets and diplomatic negotiations in the days ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

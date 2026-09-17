@@ -28,4 +28,4 @@ The launches come in the middle of an unusually busy primary market week, with L
 
 Analysts tracking the two new issues noted that investor appetite would likely hinge on sector-specific factors: Dhoot Transmission's fortunes are closely tied to two-wheeler sales momentum heading into the festive season, while Molbio Diagnostics' outlook depends on continued demand for affordable, decentralised diagnostic testing across India and export markets. As with any IPO, prospective investors have been advised to weigh valuations, sectoral growth prospects and use-of-proceeds details in the respective offer documents before applying, rather than relying solely on grey market cues.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

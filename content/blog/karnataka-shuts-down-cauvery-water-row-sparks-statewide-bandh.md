@@ -20,4 +20,4 @@ For businesses operating in Karnataka, particularly in Bengaluru's technology an
 
 The broader Cauvery dispute, which has periodically gone before the Supreme Court and specialised tribunals over the years, shows no sign of a durable resolution. With the current CWMA order running through the end of August, further friction between the two states remains possible in the near term.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

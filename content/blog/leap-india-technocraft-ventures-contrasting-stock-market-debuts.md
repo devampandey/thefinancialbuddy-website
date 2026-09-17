@@ -26,4 +26,4 @@ The two debuts, arriving on the same day, offered a snapshot of how selective in
 
 The listings add to what has been an active week for India's primary markets, with several other issues, including Milky Mist Dairy Food and Shiprocket, moving through various stages of subscription and allotment around the same period. Market participants said the coming weeks would test whether the recent run of strong listing-day pops can be sustained as more companies queue up to tap the market before the festive season.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

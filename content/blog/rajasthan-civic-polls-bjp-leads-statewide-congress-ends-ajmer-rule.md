@@ -25,4 +25,4 @@ Bharatpur produced an even sharper break from the two main parties, with indepen
 
 Urban local body elections rarely reshape national politics on their own, but they are closely watched as a temperature check on state governments between assembly elections, and as training grounds for local leadership. A result like Ajmer's, where a party in power for over three and a half decades lost control of the civic body, will likely draw scrutiny within the BJP's state unit even as the party posts a broadly comfortable statewide performance. For the Congress, Ajmer offers a rare bright spot to build on ahead of future contests, while the strong independent showing in Bharatpur points to continued anti-incumbency sentiment that neither national party has fully captured.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

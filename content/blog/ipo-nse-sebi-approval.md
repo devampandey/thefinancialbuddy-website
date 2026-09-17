@@ -26,4 +26,4 @@ Following SEBI's clearance, attention now shifts to the pricing and timeline of 
 
 The scale and profile of the IPO mean it is likely to draw significant interest from both institutional and retail investors, given NSE's position as the dominant exchange for equity and derivatives trading in India. Anticipation around the listing has already been visible in related counters, with shares of companies holding stakes in NSE seeing heightened trading activity in recent sessions.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -22,4 +22,4 @@ The overnight strikes came just hours after the US Senate passed a sweeping new 
 
 The Brovary attack is the latest in a string of major strikes on the Kyiv region; a similar bombardment just 48 hours earlier killed 17 people and injured nearly 30 after Russia launched dozens of ballistic and hypersonic missiles that went entirely unintercepted. Ukraine's defence ministry has said the country managed to intercept only a fraction of the roughly 195 ballistic missiles Russia fired in July. Ukrainian officials have also continued to strike targets deep inside Russian territory, including oil refineries and logistics sites, as both sides press attacks even as diplomatic pressure over sanctions and Western military support intensifies.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -31,4 +31,4 @@ The episode also intersected with a separate dispute over Ukrainian strikes on R
 
 For Poland and its NATO allies, the immediate priority remains reassurance along the frontier: more border patrols, closer coordination with Kyiv's rail and security services, and consultations with alliance partners on a joint response should the drone incursions continue or worsen.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

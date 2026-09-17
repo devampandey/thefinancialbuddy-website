@@ -32,4 +32,4 @@ The Chicago stop follows engagements earlier in the week in Toronto, where Sitha
 
 The renewed courtship of American capital comes as global companies reassess supply chains amid geopolitical tension in West Asia and continued volatility in global trade policy, a backdrop Sitharaman explicitly acknowledged in framing India's pitch as a hedge against exactly that kind of uncertainty.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

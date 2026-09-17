@@ -24,4 +24,4 @@ The rupee reflected that pressure directly, weakening past the 95-to-the-dollar 
 
 Market participants said the near-term direction will likely hinge on how the US-Iran conflict evolves in the coming days, particularly whether shipping lanes through the Strait of Hormuz face further disruption. A sustained move toward $120 a barrel, a level some global banks have flagged as plausible if attacks on tankers continue, would likely deepen pressure on both the rupee and equity valuations, especially for oil marketing companies and other import-dependent sectors. For now, analysts are advising a cautious, stock-specific approach rather than broad directional bets until there is more clarity on the geopolitical situation.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

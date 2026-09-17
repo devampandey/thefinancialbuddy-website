@@ -28,4 +28,4 @@ India's prime minister spoke with Nepal's leadership on Wednesday to convey cond
 
 The Rasuwa flood adds to a difficult monsoon season for Nepal's Himalayan region, which has faced repeated flash floods and landslides in recent years linked to glacial melt and unstable terrain along its northern border.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

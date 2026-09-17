@@ -26,4 +26,4 @@ Airline sales timed around Independence Day have become something of an annual f
 
 For price-conscious travellers planning trips over the coming months, the combination of fare discounts, ancillary savings and loyalty bonuses gives multiple ways to reduce the overall cost of a trip — though, as with any promotional fare sale, availability on popular routes and peak travel dates is likely to be limited, and travellers looking to lock in the best deals may want to act within the four-day booking window before the offer closes on August 16.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -25,4 +25,4 @@ The expansion lands at a moment when sellers on Amazon's platform are simultaneo
 
 For consumers, the net effect of a larger delivery network should be faster shipping and fewer stockouts during India's biggest shopping season, even as the seller-side economics behind those deliveries continue to shift.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

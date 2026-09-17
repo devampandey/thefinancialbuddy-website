@@ -23,4 +23,4 @@ Several global cues appear to have capped the rally as the session progressed. B
 
 Tuesday's session is a useful illustration of why chasing an index's opening move, however strong, can be risky without checking what is driving it. A rally built narrowly on one sector's reaction to a single piece of global news, in this case AI policy commentary rather than an India-specific catalyst, proved less durable once broader headwinds such as crude prices and bond yields reasserted themselves. For retail investors, the swing is a reminder that intraday strength is not the same as a trend, and that positioning decisions are usually better anchored to fundamentals and time horizon than to a green opening print.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

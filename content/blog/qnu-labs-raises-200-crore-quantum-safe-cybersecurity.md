@@ -24,4 +24,4 @@ Gaja Capital co-founder Gopal Jain described quantum-safe security as becoming "
 
 Executives and investors alike framed the round as part of a broader argument for India to develop homegrown, globally competitive quantum technology rather than depend on foreign providers for critical security infrastructure. Roughly 80 percent of the new round came from investors participating in QNu Labs for the first time, according to the company, a signal it says reflects growing international confidence in India's quantum-safe capabilities as the sector moves from research labs toward real-world, revenue-generating deployment.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -26,4 +26,4 @@ The diplomatic clash lands against the backdrop of a broader unraveling of Trump
 
 For now, the practical impact of Britain's protest is limited to diplomatic signaling — summoning an envoy carries symbolic weight but no immediate legal or economic consequence. Investors and companies with exposure to the region will likely watch closely over the coming weeks to see whether the UK follows through with the sanctions package Miliband referenced, since targeted measures against individuals or entities tied to settlement construction could have ripple effects for firms operating in or financing projects in the West Bank.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

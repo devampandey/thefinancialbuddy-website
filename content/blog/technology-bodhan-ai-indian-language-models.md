@@ -28,4 +28,4 @@ Officials involved in the project said data privacy and responsible deployment p
 
 For an education system serving hundreds of millions of students across dramatically varied linguistic contexts, tools capable of operating fluently across Indian languages could meaningfully widen access to AI-assisted learning, particularly for students and teachers who are more comfortable working outside English.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

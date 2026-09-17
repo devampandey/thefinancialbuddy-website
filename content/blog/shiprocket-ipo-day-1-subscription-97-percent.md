@@ -18,4 +18,4 @@ Brokerage opinion on the issue has been split. Some analysts have flagged Shipro
 
 The company plans to use the IPO proceeds primarily to fund technology and product development, expand its logistics network, and for general corporate purposes, along with a partial offer-for-sale component that will let existing shareholders pare down their stakes. With two more days of bidding left before the issue closes, market participants will be watching closely to see whether institutional demand picks up in the final session, as it often does for issues that draw strong early retail interest.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

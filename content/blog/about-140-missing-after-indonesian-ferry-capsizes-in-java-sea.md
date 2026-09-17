@@ -27,4 +27,4 @@ Sunday's disaster is the latest in a string of maritime accidents to hit Indones
 
 The Virgo Transport 8 disaster also comes just days after a separate ferry tragedy in the Philippines, where a fire aboard a passenger vessel killed at least 76 people, adding to a difficult few weeks for maritime safety across Southeast Asia. Indonesian authorities have not yet indicated when the search operation is expected to conclude, and the death toll is likely to rise as recovery efforts continue in the challenging conditions off Borneo's coast.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.
