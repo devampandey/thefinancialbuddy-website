@@ -2,9 +2,9 @@
 title: "Oil Hit $100 Again. The Real Story Is the Strait of Hormuz"
 category: "Insights"
 description: "Brent's climb back above $100 a barrel looks like breaking news, but it is the latest chapter of a seven-month oil shock, not a fresh one."
-shortSummary: "Brent topping $100 isn't new news. Since the US-Israel war on Iran began in February, Hormuz tanker traffic has fallen 95 percent and Gulf exports nearly halved. Goldman Sachs sees a fork ahead: $120 oil if that holds, roughly $85 if it eases. Trump's below-$2-gallon promise remains far from reality, and India is already feeling it through the rupee and a three-day Sensex slide."
 author: "The Financial Buddy Team"
 submittedAt: "2026-09-18"
+shortSummary: "Brent topping $100 isn't new news. Since the US-Israel war on Iran began in February, Hormuz tanker traffic has fallen 95 percent and Gulf exports nearly halved. Goldman Sachs sees a fork ahead: $120 oil if that holds, roughly $85 if it eases. Trump's below-$2-gallon promise remains far from reality, and India is already feeling it through the rupee and a three-day Sensex slide."
 ---
 
 Every time Brent crude pushes back above $100 a barrel, it gets covered like breaking news — a sudden shock, a spike, a scramble. It happened again this month: Sensex and Nifty fell for three straight sessions, IT stocks led the losses, and financial television treated it as the story of the week. I think that framing is wrong, and it's been wrong for months now.
@@ -36,5 +36,3 @@ India imports close to 88 percent of the crude oil it consumes, which is exactly
 Forget whether Brent touches $100 or $108 on a given day — it's already done both this year, and it'll probably do both again. The number that will tell you where this goes is Hormuz tanker traffic: whether it climbs back toward its pre-war norm, or stays pinned near the trickle it's been reduced to. A real recovery in Gulf shipping moves this toward Goldman's $85 case and takes some pressure off the rupee and Indian inflation. A standoff that drags on, especially if it spreads to more Saudi or Emirati infrastructure, points toward $120 and a longer stretch of expensive oil working its way through Indian households, importers, and the RBI's calculations.
 
 Seven months in, that's the question I keep coming back to. Not whether oil is high — it obviously is — but how much longer the world's busiest oil chokepoint stays this empty.
-
-This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.
