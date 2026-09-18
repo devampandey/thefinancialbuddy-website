@@ -2,10 +2,14 @@
 """
 Market Pulse PDF generator — The Financial Buddy.
 
-Renders the monthly "Market Pulse" digest PDF (cover, section pages with
-sparkline+badge metric cards, gainers/losers tables, an events calendar,
-and a quote page) from a single JSON data file, in the site's navy/gold
-brand palette (see tailwind.config.js: navy #1457A4, gold #8C6D1D).
+Renders the monthly "Market Pulse" digest PDF (cover, an Executive
+Summary, section pages with sparkline+badge metric cards, gainers/losers
+tables, a Sector & Theme Deep-Dive, an Outlook & Risks page, an events
+calendar, and a quote page) from a single JSON data file, in the site's
+navy/gold brand palette (see tailwind.config.js: navy #1457A4, gold
+#8C6D1D). The report is designed to read like a proper analyst/consulting
+note rather than a chart deck — every section pairs its charts with actual
+connected analysis, not one-line captions.
 
 Usage:
     python3 generate_pdf.py --data data.json --out MarketPulse_Aug2026.pdf
@@ -15,6 +19,13 @@ section below reads from a top-level key of the same name. Only the
 `quotes` section requires real, attributed statements (see field notes
 in sample_data.json); every numeric series should be sourced from real
 research, not invented.
+
+The page order and the table of contents are both computed from the
+SECTIONS list below, not from the input JSON — earlier revisions asked
+the data file for "contents" and "section_pages" and a mismatch between
+those hand-authored page numbers and the actual rendered layout was a
+recurring source of bugs. Don't add a "contents"/"section_pages" key to
+the data file; it's ignored if present.
 
 Requires: reportlab, matplotlib, numpy (pip install --break-system-packages
 reportlab matplotlib numpy).
@@ -191,7 +202,32 @@ def build(data, out_path, workdir):
         STATE["section"] = name; STATE["letter"] = name[0]
         STATE["color"] = SECTION_COLOR[key]; STATE["num_color"] = BADGE_TINT[key]
 
-    section_pages = data["section_pages"]  # {page_no(str): [name, key]}
+    # Canonical page order. Page 1 is the cover (drawn straight on the
+    # canvas in draw_cover(), not a flowable) and page 2 is the contents
+    # page itself; every named section below gets exactly one physical
+    # page, in this order, each ending in its own PageBreak() in the
+    # story below — so the page numbers here are just this list's index,
+    # not something that has to be kept in sync by hand elsewhere.
+    SECTIONS = [
+        ("Executive Summary", "blue"),
+        ("Global Markets", "blue"),
+        ("Currency", "blue"),
+        ("Commodities", "blue"),
+        ("Indian Indices", "gold"),
+        ("Equities & Flows", "gold"),
+        ("Sector Deep-Dive", "gold"),
+        ("Outlook & Risks", "orange"),
+        ("Events Archive", "orange"),
+        ("Opinion Poll", "orange"),
+    ]
+    FIRST_SECTION_PAGE = 3  # 1 = cover, 2 = contents
+    section_pages = {"2": ["Contents", "blue"]}
+    for i, (name, key) in enumerate(SECTIONS):
+        section_pages[str(i + FIRST_SECTION_PAGE)] = [name, key]
+    contents_list = [
+        {"n": i + 1, "topic": name, "page": i + FIRST_SECTION_PAGE, "color": key}
+        for i, (name, key) in enumerate(SECTIONS)
+    ]
 
     def _wrap_by_width(c, text, font, size, max_width):
         # Word-wraps text to fit max_width at the given font/size, using
@@ -306,6 +342,57 @@ def build(data, out_path, workdir):
             ("LEFTPADDING",(0,0),(-1,-1),4), ("RIGHTPADDING",(0,0),(-1,-1),4)]))
         return dashed_box(inner)
 
+    def text_box(headline, body_text):
+        # Same dashed-border treatment as story_box, but for analysis that
+        # doesn't have (and doesn't need) an illustration next to it —
+        # used for the Outlook & Risks upside/downside pair.
+        inner = Table([[Paragraph(headline, s_story_head)], [Paragraph(body_text, s_body)]],
+            colWidths=[3.0*inch])
+        inner.setStyle(TableStyle([("LEFTPADDING",(0,0),(-1,-1),2), ("RIGHTPADDING",(0,0),(-1,-1),2)]))
+        t = Table([[inner]], colWidths=[3.1*inch])
+        t.setStyle(TableStyle([("BOX",(0,0),(-1,-1), 1.1, colors.HexColor("#B9BEC6")),
+            ("TOPPADDING",(0,0),(-1,-1),10), ("BOTTOMPADDING",(0,0),(-1,-1),10),
+            ("LEFTPADDING",(0,0),(-1,-1),10), ("RIGHTPADDING",(0,0),(-1,-1),10)]))
+        return t
+
+    # NOTE: any text drawn through reportlab's Paragraph/canvas (this
+    # whole build() function) uses the base-14 Helvetica font, which has
+    # no ₹ glyph and silently renders it as a black box. Rupee amounts
+    # anywhere in the JSON that reach reportlab text (executive_summary
+    # highlights, outlook, sector_deep_dive, events, etc.) must be written
+    # as "Rs 1,234 Cr" rather than "₹1,234 Cr". The one place ₹ is safe is
+    # inside a matplotlib chart (sparkline_card/bar_returns/
+    # grouped_flow_bars titles) — matplotlib is configured to use DejaVu
+    # Sans (see plt.rcParams above), which does have the glyph.
+    def highlight_card(value, label, tint):
+        s_val = ParagraphStyle("hval", fontName="Helvetica-Bold", fontSize=15.5, textColor=C_INK,
+            alignment=TA_LEFT, leading=18)
+        s_lab = ParagraphStyle("hlab", fontName="Helvetica", fontSize=8.6, textColor=C_MUTED,
+            alignment=TA_LEFT, leading=11)
+        bar = Table([[""]], colWidths=[1.44*inch], rowHeights=[0.06*inch])
+        bar.setStyle(TableStyle([("BACKGROUND",(0,0),(-1,-1), tint)]))
+        inner = Table([[bar], [Paragraph(value, s_val)], [Paragraph(label, s_lab)]],
+            colWidths=[1.44*inch])
+        inner.setStyle(TableStyle([("TOPPADDING",(0,0),(0,0),0), ("BOTTOMPADDING",(0,0),(0,0),8),
+            ("TOPPADDING",(0,1),(0,1),6), ("BOTTOMPADDING",(0,1),(0,1),2),
+            ("LEFTPADDING",(0,0),(-1,-1),10), ("RIGHTPADDING",(0,0),(-1,-1),8),
+            ("BOTTOMPADDING",(0,2),(0,2),10)]))
+        box = Table([[inner]], colWidths=[1.54*inch])
+        box.setStyle(TableStyle([("BOX",(0,0),(-1,-1), 0.9, C_RULE)]))
+        return box
+
+    def highlight_strip(items):
+        # items: list of {"label", "value"} — rendered as 4 stat cards in
+        # a row, alternating the section tints so the strip doesn't read
+        # as flatly monochrome.
+        tints = [C_NAVY_LIGHT, C_GOLD_LIGHT, C_ORANGE, C_NAVY_LIGHT]
+        cards = [highlight_card(it["value"], it["label"], tints[i % len(tints)])
+                 for i, it in enumerate(items)]
+        t = Table([cards], colWidths=[1.6*inch]*len(cards))
+        t.setStyle(TableStyle([("VALIGN",(0,0),(-1,-1),"TOP"), ("LEFTPADDING",(0,0),(-1,-1),3),
+            ("RIGHTPADDING",(0,0),(-1,-1),3)]))
+        return t
+
     def metric_card(img_path, w=3.05*inch, h=1.72*inch):
         return Image(img_path, width=w, height=h)
 
@@ -362,7 +449,7 @@ def build(data, out_path, workdir):
     # ---- contents ----
     story.append(Spacer(1, 22))
     toc_data = []
-    for item in data["contents"]:
+    for item in contents_list:
         tag = Table([[""]], colWidths=[0.18*inch], rowHeights=[0.32*inch])
         tag.setStyle(TableStyle([("BACKGROUND",(0,0),(-1,-1), SECTION_COLOR[item["color"]])]))
         toc_data.append([tag, Paragraph(f"{item['n']}&nbsp;&nbsp;&nbsp;{item['topic']}", s_toc_topic),
@@ -371,6 +458,16 @@ def build(data, out_path, workdir):
     toc_table.setStyle(TableStyle([("VALIGN",(0,0),(-1,-1),"MIDDLE"),
         ("BOTTOMPADDING",(0,0),(-1,-1),14), ("TOPPADDING",(0,0),(-1,-1),2)]))
     story.append(toc_table)
+    story.append(PageBreak())
+
+    # ---- executive summary ----
+    exec_summary = data["executive_summary"]
+    story.append(Spacer(1, 18))
+    story.append(highlight_strip(exec_summary["highlights"]))
+    story.append(Spacer(1, 18))
+    for para in exec_summary["paragraphs"]:
+        story.append(Paragraph(para, s_body))
+        story.append(Spacer(1, 5))
     story.append(PageBreak())
 
     # ---- global markets ----
@@ -456,6 +553,33 @@ def build(data, out_path, workdir):
     vix_fn = os.path.join(assets, "card_vix.png")
     sparkline_card(vix_fn, data["vix"]["title"], data["vix"]["points"], figsize=(7.3, 2.9), month_label=month_label)
     story.append(Image(vix_fn, width=6.3*inch, height=2.55*inch))
+    story.append(PageBreak())
+
+    # ---- sector & theme deep-dive ----
+    deep_dive = data["sector_deep_dive"]
+    story.append(Spacer(1, 18))
+    story.append(Paragraph(deep_dive["intro"], s_body))
+    story.append(Spacer(1, 10))
+    for theme in deep_dive["themes"]:
+        story.append(Paragraph(theme["title"], s_story_head))
+        story.append(Paragraph(theme["body"], s_body))
+        story.append(Spacer(1, 10))
+    story.append(PageBreak())
+
+    # ---- outlook & risks ----
+    outlook = data["outlook"]
+    story.append(Spacer(1, 18))
+    story.append(Paragraph("Base Case", s_story_head))
+    story.append(Paragraph(outlook["base_case"], s_body))
+    story.append(Spacer(1, 12))
+    story.append(two_up(
+        text_box("Upside Risk", outlook["upside_risk"]),
+        text_box("Downside Risk", outlook["downside_risk"]),
+    ))
+    story.append(Spacer(1, 16))
+    story.append(Paragraph("What We're Watching Next Month", s_h2))
+    for item in outlook["watch_items"]:
+        story.append(Paragraph(f"&bull;&nbsp;&nbsp;{item}", s_body))
     story.append(PageBreak())
 
     # ---- events archive ----

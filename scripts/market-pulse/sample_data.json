@@ -4,28 +4,23 @@
   "month_label": "August 2026",
   "month_short": "Aug",
   "issue_number": "01",
-  "contents": [
-    {"n": 1, "topic": "Global Markets", "page": 3, "color": "blue"},
-    {"n": 2, "topic": "Currency", "page": 4, "color": "blue"},
-    {"n": 3, "topic": "Commodities", "page": 5, "color": "blue"},
-    {"n": 4, "topic": "Indian Indices", "page": 6, "color": "gold"},
-    {"n": 5, "topic": "Equities & Flows", "page": 7, "color": "gold"},
-    {"n": 6, "topic": "Events Archive", "page": 8, "color": "orange"},
-    {"n": 7, "topic": "Opinion Poll", "page": 9, "color": "orange"}
-  ],
-  "section_pages": {
-    "2": ["Contents", "blue"],
-    "3": ["Global Markets", "blue"],
-    "4": ["Currency", "blue"],
-    "5": ["Commodities", "blue"],
-    "6": ["Indian Indices", "gold"],
-    "7": ["Equities & Flows", "gold"],
-    "8": ["Events Archive", "orange"],
-    "9": ["Opinion Poll", "orange"]
+  "executive_summary": {
+    "highlights": [
+      {"label": "Best Performer", "value": "Silver +6.1%"},
+      {"label": "Worst Performer", "value": "USD/INR -1.1%"},
+      {"label": "Net FII Flow", "value": "+Rs 5,100 Cr"},
+      {"label": "India VIX", "value": "9.7 (-21%)"}
+    ],
+    "paragraphs": [
+      "August was, in one sentence, the month the Fed stopped talking about cutting rates and started actually pricing it in — and almost every other move this month, from a softer dollar to a rupee that held its ground to a fresh leg higher in gold, traces back to that single repricing rather than to anything idiosyncratic happening in India.",
+      "Precious metals were the month's clearest expression of that theme. Gold and silver both broke to fresh highs as real yields fell, with silver's 6.1 percent gain outrunning gold's 4.8 percent in the kind of risk-on catch-up move that typically shows up once a rate-cut cycle looks credible rather than merely possible.",
+      "Indian equities largely rode along rather than led. Nifty and Sensex both finished higher, but almost the entire gain arrived in the final week, once easing global yields pulled foreign flows back into risk assets that had been net sellers for most of the month — a reminder that the domestic growth story, while intact, was not this month's swing factor.",
+      "The one place August didn't behave like a clean rate-cut month was volatility: India VIX fell to its lowest level of the year even as global cross-asset moves were unusually large, suggesting domestic positioning stayed calm through a month that, on the numbers, was anything but quiet elsewhere."
+    ]
   },
   "throughline": {
     "headline": "The Throughline",
-    "body": "Every month, one story tends to explain most of what happened everywhere else. This month, that story was the Fed's decisive turn toward rate cuts — and almost everything below, from currencies to commodities to Indian flows, traces back to it."
+    "body": "Every month, one story tends to explain most of what happened everywhere else. This month, that story was the Fed's decisive turn toward rate cuts. Futures markets moved from pricing a coin-flip September move to treating it as close to certain, and that single shift in expectations did more to move currencies, commodities and Indian flows than any single piece of domestic news — which is why almost every section below traces back to it in one way or another."
   },
   "global_indices": [
     {"key": "spx", "title": "S&P 500 (in USD)", "points": [{"d":1,"v":6480},{"d":8,"v":6510},{"d":15,"v":6560},{"d":22,"v":6600},{"d":31,"v":6690}]},
@@ -34,7 +29,7 @@
     {"key": "usdinr", "title": "USD/INR Currency Pair", "points": [{"d":1,"v":86.9},{"d":8,"v":86.7},{"d":15,"v":86.6},{"d":22,"v":86.5},{"d":31,"v":86.4}]}
   ],
   "currency": {
-    "commentary": "The dollar index slid through the month as rate-cut expectations got pulled forward, and the rupee firmed modestly against it despite India's own steady policy stance.",
+    "commentary": "The dollar index slid through the month as rate-cut expectations got pulled forward, and the rupee firmed modestly against it despite India's own steady policy stance. The move wasn't smooth — the DXY's decline came mostly in two distinct legs, around the first week's soft jobs data and again after the mid-month inflation print — but the direction held throughout. For the rupee, a weaker dollar was a genuine tailwind even as India ran a wider trade deficit on costlier energy imports, underscoring that the currency's fate this month was set more in Washington than in Mumbai.",
     "series": [
       {"key": "dxy2", "title": "US Dollar Index (DXY)", "points": [{"d":1,"v":100.8},{"d":8,"v":100.4},{"d":15,"v":100.1},{"d":22,"v":99.8},{"d":31,"v":99.5}]},
       {"key": "usdinr2", "title": "USD/INR Currency Pair", "points": [{"d":1,"v":86.9},{"d":8,"v":86.7},{"d":15,"v":86.6},{"d":22,"v":86.5},{"d":31,"v":86.4}]}
@@ -42,10 +37,10 @@
   },
   "forex_story": {
     "headline": "India's Forex Reserve",
-    "body": "Reserves rebuilt through most of the month before a late reversal, as the RBI sold dollars to defend the rupee against a stronger crude bill and steady foreign selling in equities."
+    "body": "Reserves rebuilt through most of the month before a late reversal, as the RBI sold dollars to defend the rupee against a stronger crude bill and steady foreign selling in equities. The pattern is a familiar one: the central bank lets reserves build when the currency is comfortable, then draws them down defensively once external pressure picks up, and August's late-month dip was a small, contained version of that playbook rather than a signal of stress."
   },
   "commodities": {
-    "commentary": "Gold pushed to new highs as real yields fell. Silver followed with even sharper percentage gains, as it typically does in risk-on, rate-cut environments.",
+    "commentary": "Gold pushed to new highs as real yields fell, extending a rally that has now run for several consecutive months on the same basic logic: every basis point the Fed is expected to cut lowers the opportunity cost of holding a non-yielding asset. Silver followed with even sharper percentage gains, as it typically does in risk-on, rate-cut environments where industrial demand expectations and a weaker dollar reinforce each other. The gap between the two metals' gains this month is itself informative — a silver rally that outpaces gold by more than a point tends to mark the more speculative, momentum-driven phase of a precious-metals cycle rather than its start.",
     "series": [
       {"key": "gold", "title": "Gold Futures Price (in $)", "points": [{"d":1,"v":4150},{"d":8,"v":4190},{"d":15,"v":4230},{"d":22,"v":4260},{"d":31,"v":4350}]},
       {"key": "silver", "title": "Silver Futures Price (in $)", "points": [{"d":1,"v":47.5},{"d":8,"v":48.5},{"d":15,"v":49.8},{"d":22,"v":50.2},{"d":31,"v":50.4}]}
@@ -56,7 +51,7 @@
     {"label": "S&P 500", "pct": 1.7}, {"label": "USD/INR", "pct": -1.1}, {"label": "Brent Crude", "pct": -0.4}
   ],
   "indian_indices": {
-    "commentary": "Nifty and Sensex both extended gains through the month, though almost the entire move came in the final week as easing global yields drew foreign flows back into risk assets.",
+    "commentary": "Nifty and Sensex both extended gains through the month, though almost the entire move came in the final week as easing global yields drew foreign flows back into risk assets. NIFTY IT was the standout, up sharply as a weaker dollar outlook and resilient earnings commentary combined to pull the sector out of a multi-month funk, while NIFTY Bank's gain was more measured, reflecting a market still working through what a softer global rate backdrop means for net interest margins at home.",
     "series": [
       {"key": "nifty", "title": "NIFTY 50", "points": [{"d":1,"v":25100},{"d":8,"v":25050},{"d":15,"v":25200},{"d":22,"v":25300},{"d":31,"v":25400}]},
       {"key": "sensex", "title": "SENSEX", "points": [{"d":1,"v":82200},{"d":8,"v":82000},{"d":15,"v":82600},{"d":22,"v":83000},{"d":31,"v":83100}]},
@@ -78,11 +73,24 @@
     "weeks": ["Wk 1", "Wk 2", "Wk 3", "Wk 4"],
     "fii": [-1200, 800, 2100, 3400],
     "dii": [1800, 1600, 900, 1100],
-    "commentary": "FII flows turned net positive for the first month in a while, tracking dollar weakness and the broader EM risk-on mood. DIIs stayed steady buyers throughout."
+    "commentary": "FII flows turned net positive for the first month in a while, tracking dollar weakness and the broader EM risk-on mood, but the turn was gradual rather than immediate — foreign investors were still net sellers in week one before flows accelerated into the month-end rally. DIIs stayed steady buyers throughout, providing the underlying support that kept indices from drawing down further during the weeks foreign flows were still negative."
   },
   "vix": {
     "title": "India VIX",
     "points": [{"d":1,"v":12.3},{"d":8,"v":11.6},{"d":15,"v":10.9},{"d":22,"v":10.2},{"d":31,"v":9.7}]
+  },
+  "sector_deep_dive": {
+    "intro": "Two sectoral stories did most of the work behind this month's headline index numbers, and neither is fully explained by the Fed narrative on its own.",
+    "themes": [
+      {
+        "title": "IT's Rebound Was a Dollar Story First, an Earnings Story Second",
+        "body": "NIFTY IT's rally looks like a fundamentals story — Q1 commentary from the top four IT names was genuinely better than the market expected on deal pipelines — but the timing lines up too neatly with the dollar's slide to be coincidental. A weaker dollar mechanically improves the rupee value of IT firms' dollar-denominated revenue even before any change in underlying demand, and that mechanical tailwind likely did as much work as the earnings beats themselves. Worth watching next month: whether the rally holds if the dollar stabilizes, which would be the cleaner test of whether the demand recovery is real."
+      },
+      {
+        "title": "Banking Lagged Because the Margin Math Got Harder, Not Because Demand Did",
+        "body": "NIFTY Bank's more muted gain reflects a genuine tension rather than simple risk-off caution: a global pivot toward rate cuts raises the odds the RBI eventually follows, and lower rates compress net interest margins for lenders even as they should, in theory, support credit growth. The market spent August pricing in the margin pressure more than the growth upside, which is why bank stocks underperformed a broader market that was otherwise having a strong month."
+      }
+    ]
   },
   "events": {
     "month": 8, "year": 2026,
@@ -97,10 +105,21 @@
       {"day": 28, "headline": "US Core PCE Softens", "desc": "The Fed's preferred inflation gauge cooled for a second month."}
     ]
   },
+  "outlook": {
+    "base_case": "The most likely path through next month is a continuation of August's pattern: a Fed that follows through on a September cut, a dollar that stays soft rather than reversing sharply, and Indian equities that keep taking their cues from global flows more than domestic catalysts. Under this path, gold and silver likely consolidate near current levels rather than extending at August's pace, since much of the rate-cut repricing is now already in the price.",
+    "upside_risk": "A faster or larger-than-expected Fed cut, paired with continued disinflation in the US, could pull foreign flows into Indian equities more aggressively than DIIs alone have managed this year, pushing Nifty and Sensex through levels that have capped rallies for most of 2026.",
+    "downside_risk": "A hotter-than-expected US inflation print between now and the Fed's meeting would force a rapid unwind of rate-cut bets, likely reversing the dollar's slide, pressuring the rupee, and taking back some of gold and silver's recent gains in a fast, correlated move across asset classes.",
+    "watch_items": [
+      "The Fed's September rate decision and, more importantly, its updated dot plot for the rest of 2026",
+      "Whether NIFTY IT's rally survives a stabilizing dollar, which would separate the earnings story from the currency tailwind",
+      "RBI commentary on whether it sees room to follow the Fed lower without reopening pressure on the rupee",
+      "Whether FII flows, only just turned positive, can sustain three consecutive positive weeks for the first time this year"
+    ]
+  },
   "quotes": [
     {"text": "Real, short (under 25 words), attributed quote from a named public official or analyst made this month — sourced from real news coverage.", "attribution": "— NAME, TITLE"},
     {"text": "A second real, attributed quote on markets or policy from this month.", "attribution": "— NAME, TITLE"},
     {"text": "A third real, attributed quote from this month.", "attribution": "— NAME, TITLE"}
   ],
-  "closing_disclaimer": "This is an original editorial summary and analysis; it does not reproduce content from any single source. Quotes on this page are real, attributed public statements sourced from that month's news coverage."
+  "closing_disclaimer": "This is an original summary based on public reporting. See our editorial policy for how we source, write, and correct our stories. Quotes on this page are real, attributed public statements sourced from that month's news coverage."
 }
