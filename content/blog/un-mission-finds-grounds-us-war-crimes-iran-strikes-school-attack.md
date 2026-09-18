@@ -21,4 +21,4 @@ The same report was sharply critical of Iran's own conduct, saying state securit
 
 The report is not legally binding, but it adds to a growing body of documented evidence that could eventually feed into international judicial proceedings. It is based on interviews with 73 people, satellite imagery, video material and outside expert input, though investigators said an internet shutdown inside Iran and a lack of cooperation from both Washington and Tehran limited their work; requests for information sent to Iran's government and, separately, to US officials in June went largely unanswered. The mission's full findings are due to be presented to the UN Human Rights Council in Geneva, where the 47 member states will weigh possible next steps, including any push for accountability for both governments named in the report.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

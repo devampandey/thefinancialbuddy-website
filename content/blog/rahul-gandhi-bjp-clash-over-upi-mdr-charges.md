@@ -33,4 +33,4 @@ UPI processes billions of transactions a month across India, and any perceived c
 
 With state elections and broader economic debates already dominating the political conversation, the UPI charge dispute is likely to remain a talking point in the coming days, particularly if trade associations continue pushing back publicly on the new fee structure.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

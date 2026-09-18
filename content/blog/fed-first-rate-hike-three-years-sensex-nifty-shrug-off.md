@@ -27,4 +27,4 @@ Individual stock stories stood out against the muted index-level moves. Krsnaa D
 
 The muted reaction in India suggests investors are, for now, treating the Fed's move as a well-telegraphed and largely priced-in event rather than a fresh shock, especially with falling crude oil prices offering an offsetting tailwind for a net oil-importing economy like India. Still, with the Fed flagging the possibility of a further hike before year-end and US yields already testing multi-year highs, sustained dollar strength could test the resilience Indian markets have shown so far, particularly for rate-sensitive sectors and foreign portfolio flows in the weeks ahead.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -29,4 +29,4 @@ Investors moved quickly on the back of the inauguration and the steady drumbeat 
 
 SEMICON India has grown considerably since its first edition, and this year's scale, with exhibitors spanning the full value chain from equipment makers to chip designers, is being read by industry watchers as a signal that India's pitch to global semiconductor players is starting to move past the incentive-announcement stage. Whether the fresh investment commitments unveiled this week translate into a meaningfully larger share of global chip manufacturing for India will depend on execution over the next several years, including progress on skilled workforce development and reliable power and water infrastructure for fabrication plants, both of which remain works in progress even as political attention on the sector intensifies.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

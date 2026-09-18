@@ -25,4 +25,4 @@ The timing is significant. Assembly bypolls are scheduled for October 6 in two W
 
 The dispute has been closely watched in Delhi and Kolkata alike, given the Trinamool Congress's significance as one of India's most prominent regional parties and its role in opposition politics at the national level. Neither faction has yet publicly detailed which alternative names or symbols it intends to propose to the Commission ahead of Friday's deadline, and legal challenges to the interim order are considered likely given the scale of what is at stake for both sides.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

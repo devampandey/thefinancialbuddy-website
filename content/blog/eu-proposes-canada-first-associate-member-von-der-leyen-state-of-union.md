@@ -27,4 +27,4 @@ The associate membership proposal will need to be worked out in detail through n
 
 The proposal is likely to be read in India and other major economies as a signal that middle powers are increasingly hedging against dependence on any single trading partner, a dynamic that has also shaped New Delhi's own push for trade diversification through agreements with partners such as the European Free Trade Association and, most recently, New Zealand.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

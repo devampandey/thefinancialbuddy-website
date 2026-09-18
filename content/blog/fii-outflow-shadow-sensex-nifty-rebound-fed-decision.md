@@ -31,4 +31,4 @@ Rising crude oil prices, a weaker rupee, elevated bond yields and renewed inflat
 
 For investors tracking the rupee's slide alongside these equity moves, the [gold rate today](/tools/gold-rate) remains a useful cross-check on how domestic sentiment is pricing broader currency and inflation risk.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

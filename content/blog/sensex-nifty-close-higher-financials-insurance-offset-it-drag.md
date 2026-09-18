@@ -29,4 +29,4 @@ Wednesday's close caps a volatile week for Dalal Street, with the market swingin
 
 With the central bank decision now the dominant catalyst, market participants will be watching whether financials can continue to lead in the absence of a durable turnaround in IT sentiment, or whether Wednesday's gains prove to be another brief pause in a choppier September for Indian equities.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

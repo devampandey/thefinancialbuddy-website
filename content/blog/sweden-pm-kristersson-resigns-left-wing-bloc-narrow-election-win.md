@@ -27,4 +27,4 @@ One of the more notable undercurrents of the election was a setback for the anti
 
 The change in government, if it materialises as expected, would mark Sweden's return to left-leaning rule after four years under a coalition that depended on far-right support, a model that had itself been closely watched across Europe as a test case for mainstream conservative parties working with nationalist movements.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

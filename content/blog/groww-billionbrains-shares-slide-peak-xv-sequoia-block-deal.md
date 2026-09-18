@@ -23,4 +23,4 @@ Despite the share price weakness, brokerage Jefferies maintained its bullish sta
 
 For retail shareholders, the episode is a reminder that large pre-IPO investors retain substantial holdings in many of India's recently listed new-age companies, and that periodic block deals -- rather than gradual selling in the open market -- remain the preferred route for such investors to exit sizeable positions without unduly disrupting the stock price.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

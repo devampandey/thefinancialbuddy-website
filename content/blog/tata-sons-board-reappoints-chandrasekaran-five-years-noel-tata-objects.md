@@ -21,4 +21,4 @@ Alongside the leadership decision, the board also approved proceeding with a pub
 
 Shares of several Tata Group companies gained on Thursday following news of Chandrasekaran's reappointment and the listing decision, even as the wider market closed mixed. The dispute now moves into uncertain legal territory, with Tata Trusts' claim that the reappointment resolution is void likely to be tested either in future board deliberations or potentially before a court, given the scale of the stakes involved for one of India's largest and most closely watched conglomerates. Investors and employees across the group will be watching closely to see whether the disagreement between the Trusts and the operating board escalates further or is resolved through negotiation in the coming weeks.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

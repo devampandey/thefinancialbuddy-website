@@ -25,4 +25,4 @@ The funding round lands at a moment when India is pushing hard to build out its 
 
 VerifAIX was one of several Indian companies to close funding rounds on Wednesday, alongside smaller raises in sectors ranging from aesthetic-surgery technology to fashion discovery, as investors including Bluehill VC, Zeropearl VC and AJVC continued to back early-stage bets across India's technology landscape.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

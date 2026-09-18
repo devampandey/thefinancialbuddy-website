@@ -23,4 +23,4 @@ The timing is notable given IndiGo's dominant position in Indian skies, with its
 
 For now, the airline has not indicated whether further ancillary fee revisions are planned, leaving travellers to factor in the higher charges when budgeting for upcoming domestic and international trips.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

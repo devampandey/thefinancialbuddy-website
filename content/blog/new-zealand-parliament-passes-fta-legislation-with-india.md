@@ -35,4 +35,4 @@ With New Zealand's Parliament having cleared the legislation, the agreement now 
 
 If the timeline holds, the India-New Zealand FTA would become one of the more significant trade agreements either country has concluded in recent years, and a test case for how middle-power economies can strike deals with India even as larger negotiations, including India's talks with other major blocs, continue at a slower pace.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

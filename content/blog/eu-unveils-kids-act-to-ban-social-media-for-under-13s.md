@@ -31,4 +31,4 @@ Von der Leyen framed the effort as a question of sovereignty over children's dig
 
 For Indian readers, the proposal is being watched closely as a possible template, given India's own ongoing debates over children's data protection and screen-time regulation under its evolving digital rules.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -25,4 +25,4 @@ Hero Motors' listing comes amid a wave of primary-market activity in India this 
 
 Analysts tracking the auto-ancillary space will be watching how institutional demand for Hero Motors builds over the remaining two days of bidding, particularly given the relatively soft QIB numbers on day one compared with the strong retail response.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

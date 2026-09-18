@@ -27,4 +27,4 @@ Tata Sons sits at the apex of a sprawling conglomerate spanning steel, automobil
 
 Thursday's meeting is unlikely to produce a final resolution on either the listing question or the succession timeline, given how entangled the two issues have become with the Trusts' internal governance troubles. But it marks a significant moment in a process that will determine both who runs Tata Sons in the coming years and how the group's ownership structure evolves under regulatory pressure.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

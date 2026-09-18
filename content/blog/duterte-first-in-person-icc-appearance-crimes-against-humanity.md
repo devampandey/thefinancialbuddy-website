@@ -29,4 +29,4 @@ The case has divided opinion both within the Philippines and internationally. Du
 
 For the ICC itself, successfully prosecuting a former head of state from a country that withdrew from the court's founding treaty during Duterte's own presidency would represent a significant test of the institution's reach and credibility in a region where its jurisdiction has often been contested.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

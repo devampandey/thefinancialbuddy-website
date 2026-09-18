@@ -23,4 +23,4 @@ Thursday's result extended a dominant series for the hosts. India had already wr
 
 With the series now finished 3-0, Sharma's form at the top of the order will be viewed as one of the standout individual storylines of India's white-ball cricket this year, adding further weight to selection conversations ahead of the team's busier international calendar later in the year. The Afghanistan tour now moves on from Delhi, with focus shifting to India's next assignments on the international calendar.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

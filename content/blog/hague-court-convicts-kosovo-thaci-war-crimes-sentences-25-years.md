@@ -25,4 +25,4 @@ The Kosovo Specialist Chambers was established with EU backing specifically to p
 
 The ruling also carries weight for the wider Balkans, a region where EU accession talks, ethnic tensions and unresolved wartime grievances continue to intersect. Analysts will be watching how the verdict affects Kosovo's own domestic politics, given Thaci's stature as a former head of state, as well as how it shapes Pristina's relations with Brussels at a time when several Balkan states are pushing for faster progress on EU membership.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

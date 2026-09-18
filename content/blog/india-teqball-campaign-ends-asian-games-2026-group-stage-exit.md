@@ -23,4 +23,4 @@ With the teqball campaign over almost as soon as it started, attention now shift
 
 The teqball result is a reminder of the unevenness that often marks the early days of a large multi-sport Games, where contingents fielding athletes in newer or smaller disciplines can face early exits even with strong individual pedigree, while medal hopes in more established Indian strongholds such as athletics, shooting, wrestling and badminton are still to come later in the schedule. India's overall campaign at Aichi-Nagoya will be judged less on days like Thursday and more on performances across the fuller spread of events still to unfold over the coming fortnight, but the early elimination nonetheless means one less shot at a medal from a discipline where India had, until Thursday, an existing world-stage podium finish to build on.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

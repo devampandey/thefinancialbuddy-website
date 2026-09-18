@@ -21,4 +21,4 @@ Senior advocate Neeraj Kishan Kaul, representing the Shinde faction, defended th
 
 The Shiv Sena split in 2022 after Eknath Shinde led a large group of legislators away from Uddhav Thackeray's leadership. The Shinde faction subsequently petitioned the Election Commission, which ruled in February 2023 that it represented the real Shiv Sena based on the backing of 40 of the party's MLAs against 15 for the Thackeray camp, and 13 of 18 Lok Sabha MPs, and accordingly awarded it the bow-and-arrow symbol. The Uddhav faction has contested that finding ever since. With Thursday's hearing, the court continued working through the competing arguments, though it did not indicate when it expects to rule on the underlying dispute.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

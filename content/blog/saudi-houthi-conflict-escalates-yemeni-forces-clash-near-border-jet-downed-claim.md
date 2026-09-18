@@ -29,4 +29,4 @@ The renewed fighting has drawn in the kingdom directly after the Houthis declare
 
 The United Nations says the renewed conflict has displaced more than 100,000 people, adding new humanitarian strain to a war that had shown signs of easing in recent years. With both sides trading escalating claims and Red Sea shipping increasingly at risk, the coming days are likely to determine whether the fighting spreads further or de-escalates.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

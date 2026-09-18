@@ -23,4 +23,4 @@ Separately, the government pushed back on suggestions that the MDR framework was
 
 The clarification lands amid political pushback, with Congress leaders raising questions both about the substance of the MDR policy and the process through which it was announced. With the October 15 rollout date now just weeks away, the government's public messaging in the coming days is likely to focus heavily on reassuring both merchants, who will bear the direct cost of the MDR, and ordinary UPI users, who officials insist will not see any separate tax appear on their payment screens.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

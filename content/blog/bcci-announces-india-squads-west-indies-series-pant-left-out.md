@@ -29,4 +29,4 @@ Alongside the West Indies squads, the BCCI updated its squad for the men's crick
 
 Taken together, Wednesday's announcements offer an early read on how the selection committee is balancing India's packed white-ball calendar in the coming weeks, with the West Indies series, the Asian Games campaign and the ongoing Irani Cup all drawing from an overlapping pool of contracted players. The continued exclusion of a player of Pant's profile from white-ball plans, even as newer names like Dhir and Nabi break through, suggests the selectors are prepared to back current form and role-specific fits over reputation alone as India builds toward its next limited-overs assignments.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

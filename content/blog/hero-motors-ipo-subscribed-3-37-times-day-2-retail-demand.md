@@ -23,4 +23,4 @@ Hero Motors describes itself as an India-based automotive technology company tha
 
 Brokerages including Anand Rathi, BP Wealth and Ventura Securities have all recommended subscribing to the issue, though they flagged that valuations are far from cheap. At the top end of the price band, Anand Rathi pegged the stock at a price-to-earnings multiple of 92.6 times FY26 earnings, while BP Wealth calculated a comparatively lower 73.7 times based on diluted earnings per share of Rs 1.1. BP Wealth pointed to the company's expanding e-mobility portfolio, established relationships with global OEMs and continued investment in manufacturing capability as reasons for its positive view, even as it acknowledged the rich pricing baked into the offer.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

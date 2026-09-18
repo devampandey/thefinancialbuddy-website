@@ -25,4 +25,4 @@ Despite the anchor book for the issue having drawn what was described as unexpec
 
 NSE's dominant position in India's equity and derivatives trading makes its listing a bellwether event for the exchange-operator space, drawing natural comparisons with the strong post-listing performance of rival BSE in recent years. Beyond the exchange itself, the listing is being watched as a signal of Sebi's confidence in NSE's corporate governance overhaul since the co-location episode, and as a marker of how much appetite domestic and foreign investors retain for large offer-for-sale issues at a time when global rate uncertainty, highlighted by the US Federal Reserve's rate hike this week, has made investors more selective.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

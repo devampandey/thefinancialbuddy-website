@@ -31,4 +31,4 @@ The layoffs also fit into a wider pattern of technology job cuts accelerating ac
 
 For India's technology labour market, the Adidas cuts underline how global consumer and retail brands are treating their India-based engineering centres as a lever for cost realignment rather than pure growth, even as they publicly emphasise India's long-term strategic importance. With several large multinational tech hubs based in the Delhi-NCR region undergoing similar restructuring this year, affected employees are likely to find a crowded local job market as they search for their next roles.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

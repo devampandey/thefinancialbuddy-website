@@ -27,4 +27,4 @@ Wednesday's roundtable also carries symbolic weight: Modi is scheduled to formal
 
 For the global chipmakers in attendance, the calculus is somewhat different. Companies like Micron, AMD, Intel and ASML have all made varying degrees of commitment to India in recent years, ranging from assembly and testing facilities to R&D centres, and sessions like Wednesday's roundtable function as a venue for both reinforcing existing investments and signalling openness to further expansion, particularly as global supply chains continue to diversify away from concentrated manufacturing hubs. Whether Wednesday's discussions translate into fresh investment announcements is likely to become clearer once SEMICON India 2026 itself gets underway on Thursday.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

@@ -29,4 +29,4 @@ For a listing as closely scrutinized as NSE's own, given that the exchange is ef
 
 Retail investors will get their first opportunity to participate when the issue opens Thursday, with allotment and listing timelines to follow in the days after the subscription window closes.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

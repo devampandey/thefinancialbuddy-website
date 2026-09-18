@@ -27,4 +27,4 @@ India's Ministry of External Affairs offered a measured first reaction, reaffirm
 
 India has significantly increased its purchases of discounted Russian crude since 2022, a shift that has drawn periodic criticism from Washington but has also helped New Delhi manage its energy import bill. Because the tariff power in this bill is discretionary rather than mandatory, the immediate market impact may hinge less on the bill's passage and more on whether and when Trump decides to act on it. Even so, the legislation adds a fresh layer of uncertainty to India-US trade relations at a time when both sides have been working through other tariff disputes, and it puts New Delhi's energy diplomacy squarely back in the spotlight just as it prepares to navigate Xi Jinping's upcoming Washington visit from the sidelines.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

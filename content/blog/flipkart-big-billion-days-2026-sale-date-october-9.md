@@ -33,4 +33,4 @@ The announcement comes as India's broader retail and e-commerce sector continues
 
 With just over three weeks until the sale begins, both Flipkart and its sellers are expected to ramp up inventory build-up and promotional activity in the coming days, while rival platforms are likely to announce their own competing festive sale dates shortly.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.

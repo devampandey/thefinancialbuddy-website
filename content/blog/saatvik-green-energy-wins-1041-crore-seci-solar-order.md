@@ -27,4 +27,4 @@ India's solar manufacturing sector has been in expansion mode for several years 
 
 For investors tracking the renewable energy manufacturing space, single-order stock reactions like Wednesday's jump in Saatvik Green Energy shares have become a fairly regular occurrence this year, reflecting both the pace of new tender awards from agencies like SECI and the market's continued appetite for domestic solar-equipment plays as the sector scales up ahead of India's longer-term clean energy capacity goals. Whether the company can convert this pipeline into sustained earnings growth, rather than one-off order-driven rallies, will likely be the more important question for investors over the coming quarters as execution on contracts like this one gets underway.
 
-This article is an original editorial summary based on publicly reported information. It has been independently written for publication and does not reproduce content from any single source.
+This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.
