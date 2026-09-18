@@ -10,6 +10,6 @@ author: "The Financial Buddy Team"
 
 August 2026 was a month of two markets: a revived "debasement trade" sent gold and silver soaring for three weeks, until Fed Chair Kevin Warsh's hawkish Jackson Hole turn and a Strait of Hormuz oil shock reversed course and dragged Nifty and Sensex to their first monthly loss in three months.
 
-**Download the full issue above** for the complete breakdown — global markets, currency, commodities, Indian indices, institutional flows, and the month's key events — with charts and data tables.
+**Download the full issue above** for the complete breakdown — an executive summary, global markets, currency, commodities, Indian indices, institutional flows, a sector-by-sector deep dive, and an outlook for September — with charts and data tables throughout.
 
 This is an original summary based on public reporting. See our [editorial policy](/editorial-policy) for how we source, write, and correct our stories.
