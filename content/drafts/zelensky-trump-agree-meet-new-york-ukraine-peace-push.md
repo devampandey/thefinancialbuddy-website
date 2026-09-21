@@ -2,9 +2,9 @@
 title: "Zelensky, Trump Agree to Meet in New York as Ukraine Peace Push Gains Momentum"
 category: "Politics"
 description: "Ukrainian President Volodymyr Zelensky says he and US President Donald Trump have agreed to meet in New York, calling it a moment that could change a lot for the peace process."
-shortSummary: "Volodymyr Zelensky says he and Donald Trump have agreed to meet in New York around the UN General Assembly to push the Ukraine peace process forward. Zelensky called it a moment of diplomatic momentum and thanked Trump for sending envoys Steve Witkoff and Jared Kushner to Kyiv. Talks are expected to cover security, energy and de-escalation."
 author: "The Financial Buddy Team"
 submittedAt: "2026-09-21"
+shortSummary: "Volodymyr Zelensky says he and Donald Trump have agreed to meet in New York around the UN General Assembly to push the Ukraine peace process forward. Zelensky called it a moment of diplomatic momentum and thanked Trump for sending envoys Steve Witkoff and Jared Kushner to Kyiv. Talks are expected to cover security, energy and de-escalation."
 ---
 
 Ukrainian President Volodymyr Zelensky said on September 21 that he had agreed to meet US President Donald Trump in New York, describing the planned encounter as one that "could change a lot" for efforts to end the war with Russia.
