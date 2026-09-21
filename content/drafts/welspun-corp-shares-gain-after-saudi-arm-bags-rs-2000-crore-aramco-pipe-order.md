@@ -2,9 +2,9 @@
 title: "Welspun Corp Shares Gain After Saudi Arm Bags Rs 2,000-Crore Aramco Pipe Order"
 category: "Business"
 description: "Welspun Corp's Saudi associate East Pipes Integrated Company has signed a SAR 771-million steel pipe contract with Saudi Aramco, lifting the stock over 1%."
-shortSummary: "Welspun Corp rose over 1% on Monday after its Saudi associate, East Pipes Integrated Company (EPIC), signed a Rs 2,000-crore steel pipe supply contract with Saudi Aramco. The six-month order will reflect in Welspun's books from Q4 FY27. Separately, Welspun's UAE arm approved a new subsidiary in Jordan to expand its pipe manufacturing footprint."
 author: "The Financial Buddy Team"
 submittedAt: "2026-09-21"
+shortSummary: "Welspun Corp rose over 1% on Monday after its Saudi associate, East Pipes Integrated Company (EPIC), signed a Rs 2,000-crore steel pipe supply contract with Saudi Aramco. The six-month order will reflect in Welspun's books from Q4 FY27. Separately, Welspun's UAE arm approved a new subsidiary in Jordan to expand its pipe manufacturing footprint."
 ---
 
 Shares of Welspun Corp advanced on Monday after the company's Saudi Arabian associate secured a major steel pipe supply contract with energy giant Saudi Aramco, underscoring the Indian pipe-maker's growing footprint in the Gulf's oil and gas infrastructure market.
