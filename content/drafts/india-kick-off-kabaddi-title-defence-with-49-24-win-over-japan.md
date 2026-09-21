@@ -2,9 +2,9 @@
 title: "India Kick Off Kabaddi Title Defence With Emphatic 49-24 Win Over Hosts Japan"
 category: "Sports"
 description: "India's men's kabaddi team began their Asian Games title defence with a dominant 49-24 win over hosts Japan in their Group A opener in Aichi-Nagoya."
-shortSummary: "India's defending champion men's kabaddi team crushed hosts Japan 49-24 in their Asian Games 2026 opener, building a 31-9 half-time lead behind raiders Ayan Lohchab and Devank Dalal. India finished with 36 touch points, eight all-outs and two super tackles. They next face South Korea on Tuesday, while the women's team opens against Bangladesh."
 author: "The Financial Buddy Team"
 submittedAt: "2026-09-21"
+shortSummary: "India's defending champion men's kabaddi team crushed hosts Japan 49-24 in their Asian Games 2026 opener, building a 31-9 half-time lead behind raiders Ayan Lohchab and Devank Dalal. India finished with 36 touch points, eight all-outs and two super tackles. They next face South Korea on Tuesday, while the women's team opens against Bangladesh."
 ---
 
 India's men's kabaddi team opened their Asian Games 2026 title defence in emphatic fashion on Monday, thrashing hosts Japan 49-24 in their Group A opener at the Tokai Citizens Gymnasium in Tokai City, a result that sent an early statement to the rest of the field in the sport India has dominated for the best part of two decades.
