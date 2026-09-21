@@ -2,9 +2,9 @@
 title: "Powerful Explosions Rock Syrian Army Depot Near Aleppo, Injuring at Least Four"
 category: "World"
 description: "A series of explosions hit a Syrian army munitions site south of Aleppo early Monday, injuring at least four people and shutting down nearby roads."
-shortSummary: "Powerful explosions struck a Syrian army depot near al-Eis, south of Aleppo, early Monday, injuring at least four people, state media reported. Continuing blasts kept rescuers away and shut the Aleppo-Damascus motorway. It is the third such depot explosion in Syria in 11 days, fuelling suspicion of Israeli strikes on seized ammunition stores."
 author: "The Financial Buddy Team"
 submittedAt: "2026-09-21"
+shortSummary: "Powerful explosions struck a Syrian army depot near al-Eis, south of Aleppo, early Monday, injuring at least four people, state media reported. Continuing blasts kept rescuers away and shut the Aleppo-Damascus motorway. It is the third such depot explosion in Syria in 11 days, fuelling suspicion of Israeli strikes on seized ammunition stores."
 ---
 
 A series of powerful explosions tore through a Syrian army munitions site south of Aleppo in the early hours of Monday, injuring at least four people and forcing authorities to shut down roads leading to the area, according to state media reports.
