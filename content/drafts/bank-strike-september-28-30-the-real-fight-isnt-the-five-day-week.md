@@ -2,9 +2,9 @@
 title: "India's Banks Shut for Three Days Starting Sept 28. The Real Fight Isn't the Five-Day Week"
 category: "Insights"
 description: "A three-day nationwide bank strike from Sept 28-30 is being sold as a fight over Saturdays off. I think the more consequential dispute is buried in the other demand: how bank employees get paid."
-shortSummary: "Bank unions strike Sept 28-30, timed to hit the Sept 30 half-year book closing. The headline demand is a five-day work week, promised in 2024 and still unmet. But I think the sharper fight is over the PLI scheme, which pays only senior officers individually instead of everyone collectively. That shift, not the Saturday, is what changes banking as a profession."
 author: "The Financial Buddy Team"
 submittedAt: "2026-09-24"
+shortSummary: "Bank unions strike Sept 28-30, timed to hit the Sept 30 half-year book closing. The headline demand is a five-day work week, promised in 2024 and still unmet. But I think the sharper fight is over the PLI scheme, which pays only senior officers individually instead of everyone collectively. That shift, not the Saturday, is what changes banking as a profession."
 ---
 
 Bank branches across India go quiet for three days starting Monday, September 28, and most coverage of it is framing this as a fight over a long weekend. Nine unions under the United Forum of Bank Unions, representing close to 90% of the workforce across public sector banks, regional rural banks, and some older private banks, are striking for a five-day work week. That demand is real and it is old — banks have run on alternate Saturdays off since 2015, and full weekends were actually agreed in principle in the March 2024 wage settlement. It just never got implemented. I don't think that's the interesting part of this story, though. The interesting part is the second demand riding alongside it, which barely makes the headlines: a fight over the Performance-Linked Incentive scheme, and what it says about how bank employees will get paid from here on.
