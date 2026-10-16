@@ -2,9 +2,9 @@
 title: "Quit India Was Crushed Within Months. What It Changed Was the Cost of Ruling India"
 category: "Insights"
 description: "The 1942 Quit India Movement lost its leaders by dawn and was suppressed by year-end. Our reading of what it won, who stayed out, and why the debate still matters."
-shortSummary: "Gandhi and the entire Congress leadership were jailed within hours of the 1942 Quit India resolution, yet protests, strikes and sabotage spread for months. Britain suppressed it, but our analysis is that it ended the idea that India could be governed by consent. Freedom came in 1947, driven by postwar pressures that Quit India helped create."
 author: "The Financial Buddy Team"
 submittedAt: "2026-10-17"
+shortSummary: "Gandhi and the entire Congress leadership were jailed within hours of the 1942 Quit India resolution, yet protests, strikes and sabotage spread for months. Britain suppressed it, but our analysis is that it ended the idea that India could be governed by consent. Freedom came in 1947, driven by postwar pressures that Quit India helped create."
 ---
 
 On the evening of 8 August 1942, the All India Congress Committee passed the Quit India resolution at Gowalia Tank Maidan in Bombay. Gandhi told the crowd the choice was now "do or die". Before sunrise on 9 August he was under arrest, along with Nehru, Patel, Azad and the rest of the Working Committee. Congress was banned, its offices were sealed, and newspapers were barred from printing his speech.
