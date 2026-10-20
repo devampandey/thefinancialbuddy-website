@@ -2,7 +2,7 @@
 title: "Qatar-Pakistan Plan Offers Iran Interest on $6 Billion Frozen Funds for Secret Nuclear Inspections; Oil Slides"
 category: "World"
 description: "A reported Qatar-Pakistan compromise would trade interest on frozen Iranian funds for quiet IAEA visits, pulling WTI crude back below $100."
-shortSummary: "Qatar and Pakistan have reportedly floated a compromise giving Iran the interest earned on $6 billion frozen in Qatari banks in return for unannounced IAEA visits to its nuclear sites. WTI crude slid from above $100 to near $96 on the report, but Tehran says its demands are unchanged and a diplomat close to the talks denied a deal is near."
+shortSummary: "Qatar and Pakistan have reportedly floated a compromise giving Iran the interest earned on $6 billion frozen in Qatari banks in return for unannounced IAEA visits to its nuclear sites. WTI crude slid from above $100 to near $96, but Tehran says its demands are unchanged and a diplomat in the talks denied a deal is near."
 author: "The Financial Buddy Team"
 submittedAt: "2026-10-20"
 ---
