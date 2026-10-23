@@ -28,6 +28,7 @@ const staticRoutes = [
   { path: "/about", priority: 0.3, changeFrequency: "yearly" },
   { path: "/contact", priority: 0.3, changeFrequency: "yearly" },
   { path: "/privacy", priority: 0.2, changeFrequency: "yearly" },
+  { path: "/terms", priority: 0.2, changeFrequency: "yearly" },
 ];
 
 export default function sitemap() {
