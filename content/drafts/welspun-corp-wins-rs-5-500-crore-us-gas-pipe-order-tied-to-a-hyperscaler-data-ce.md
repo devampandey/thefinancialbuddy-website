@@ -2,7 +2,7 @@
 title: "Welspun Corp Wins Rs 5,500 Crore US Gas Pipe Order Tied to a Hyperscaler Data Centre, Order Book Hits Record $5.25 Billion"
 category: "Business"
 description: "Welspun Corp's US arm will supply coated line pipes for a Permian gas pipeline feeding an AI data centre, lifting its order book to a record $5.25 billion."
-shortSummary: "Welspun Corp's US arm has won a Rs 5,500 crore order to supply coated line pipes for a Permian Basin gas pipeline that will feed a data centre run by a top hyperscaler. The deal lifts its global order book to a record $5.25 billion, though execution is due only in FY29 and the stock fell 3% in a weak market."
+shortSummary: "Welspun Corp's US arm has won a Rs 5,500 crore order to supply coated line pipes for a Permian Basin gas pipeline feeding a top hyperscaler's data centre. The deal lifts its global order book to a record $5.25 billion, though execution is due only in FY29 and the stock fell 3% in a weak market."
 author: "The Financial Buddy Team"
 submittedAt: "2026-10-23"
 ---
