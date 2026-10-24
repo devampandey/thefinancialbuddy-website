@@ -2,7 +2,7 @@
 title: "Mumbai Indians Hand Kieron Pollard the Head Coach Job a Week After Jayawardene's Exit"
 category: "Sports"
 description: "Mumbai Indians have promoted batting coach Kieron Pollard to head coach for IPL 2027, a week after Mahela Jayawardene left following a ninth-place finish."
-shortSummary: "Mumbai Indians have named Kieron Pollard head coach for IPL 2027, promoting him from batting coach a week after Mahela Jayawardene stepped down. The five-time champions finished ninth in 2026 with four wins from 14 games. Pollard, with MI since 2010, played 189 IPL matches for the franchise and now has to rebuild a side that has missed the playoffs twice in three seasons."
+shortSummary: "Mumbai Indians have named Kieron Pollard head coach for IPL 2027, promoting him from batting coach a week after Mahela Jayawardene stepped down. The five-time champions finished ninth in 2026 with four wins from 14 games. Pollard, with MI since 2010, must now rebuild a side that missed the playoffs twice in three seasons."
 author: "The Financial Buddy Team"
 submittedAt: "2026-10-24"
 ---
