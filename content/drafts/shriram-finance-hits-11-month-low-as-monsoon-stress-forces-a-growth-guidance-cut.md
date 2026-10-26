@@ -2,7 +2,7 @@
 title: "Shriram Finance Hits 11-Month Low as Monsoon Stress Forces a Growth Guidance Cut"
 category: "Markets"
 description: "Shriram Finance fell as much as 6.3% to Rs 810.20 after trimming FY27 AUM growth guidance to 15-17% and flagging higher credit costs from drought-hit regions."
-shortSummary: "Shriram Finance slid as much as 6.3% to Rs 810.20 on Monday, an 11-month low, despite a 59% Q2 profit jump. The trigger was guidance: it cut FY27 AUM growth guidance to 15-17% from 18% and warned credit costs could run 30-40 bps higher for a quarter or two as poor rains hit rural borrowers. Brokerages cut targets but kept Buy calls."
+shortSummary: "Shriram Finance slid as much as 6.3% to Rs 810.20 on Monday, an 11-month low, despite a 59% jump in Q2 profit. The lender cut its FY27 AUM growth guidance to 15-17% from 18% and warned that poor rains could lift credit costs for a quarter or two. Brokerages cut targets but kept Buy calls."
 author: "The Financial Buddy Team"
 submittedAt: "2026-10-26"
 ---
