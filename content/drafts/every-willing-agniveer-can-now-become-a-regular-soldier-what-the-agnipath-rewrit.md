@@ -2,9 +2,9 @@
 title: "Every Willing Agniveer Can Now Become a Regular Soldier: What the Agnipath Rewrite Costs and Fixes"
 category: "Politics"
 description: "Defence officials say all fit, willing Agniveers will join the regular cadre after six years, with higher pay and a bigger Seva Nidhi in the extension."
-shortSummary: "Defence officials said on Thursday that every willing, fit and disciplined Agniveer will be absorbed as a regular soldier after six years, with no cap. A two-year extension brings monthly pay of Rs 43,500 and Rs 47,500 and a larger Seva Nidhi. It fixes the scheme's biggest weakness but revives pension costs it was meant to cut."
 author: "The Financial Buddy Team"
 submittedAt: "2026-11-05"
+shortSummary: "Defence officials said on Thursday that every willing, fit and disciplined Agniveer will be absorbed as a regular soldier after six years, with no cap. A two-year extension brings monthly pay of Rs 43,500 and Rs 47,500 and a larger Seva Nidhi. It fixes the scheme's biggest weakness but revives pension costs it was meant to cut."
 ---
 
 The government has quietly turned India's four-year military recruitment model into something much closer to a six-year probation. On Thursday, November 5, defence officials said that every serving Agniveer who is willing to continue, physically fit and disciplined will be absorbed into the regular cadre after six years of service, with no numerical limit. The clarification came a day after the Chief of Defence Staff, Gen N S Raja Subramani, announced a two-year extension approved by the Union Cabinet chaired by Prime Minister Narendra Modi, just over three weeks before about 18,300 Agniveers from the first batch were due to leave the forces.
